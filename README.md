@@ -50,5 +50,5 @@ The objective of this project is to perform EDA, clean raw transaction and catal
 ### Step 6: Visualization
 * Plotted histograms, count-plots, outlier boxplots, and scatterplots.
 
-### Step 7: Key Findings & Business Insights
+### Step 7: Insights
 * Summarized high-level insights and detailed target actions for marketing, pricing, and inventory management.
