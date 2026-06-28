@@ -38,9 +38,7 @@ Steps: 1. Debit ₹1000 from A. 2. Credit ₹1000 to B.
 -- Q27: Write a SQL transaction to perform order insertion, item additions, and stock updates atomically
 -- NOTE: We provide two approaches below.
 
--- ============================================================================
 -- APPROACH 1: Standard SQL Transaction Block
--- ============================================================================
 
 -- Cleanup previous run to allow re-runs
 DELETE FROM order_items WHERE order_id = 1011;
@@ -67,9 +65,8 @@ UPDATE products SET stock_qty = stock_qty - 1 WHERE product_id = 202;
 
 COMMIT;
 
--- ============================================================================
 -- APPROACH 2: Stored Procedure with Automatic Exception Handling and Rollback
--- ============================================================================
+
 -- Wraps the transaction in a procedure to automatically trigger a rollback on runtime error.
 
 DROP PROCEDURE IF EXISTS PlaceOrder1011;
