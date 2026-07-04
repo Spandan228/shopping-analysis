@@ -1,0 +1,419 @@
+--- Q1: Orders Above Average Sales (Subquery) ---
+SELECT order_id, sales
+FROM orders
+WHERE sales > (SELECT AVG(sales) FROM orders)
+ORDER BY sales DESC;
+
+Results:
+order_id | sales
+----------------
+CA-2014-145317 | 22638.48
+CA-2016-118689 | 17499.95
+CA-2017-140151 | 13999.96
+CA-2017-127180 | 11199.968
+CA-2017-166709 | 10499.97
+CA-2016-117121 | 9892.74
+CA-2014-116904 | 9449.95
+US-2016-107440 | 9099.93
+CA-2016-158841 | 8749.95
+CA-2016-143714 | 8399.976
+CA-2014-143917 | 8187.65
+CA-2014-139892 | 8159.952
+US-2017-168116 | 7999.98
+CA-2014-145541 | 6999.96
+CA-2015-145352 | 6354.95
+... (2345 more rows)
+
+==================================================
+
+--- Q2: Highest Sales Order (Line-Item) per Customer (Subquery) ---
+SELECT o.customer_id, c.customer_name, o.order_id, o.sales
+FROM orders o
+JOIN customers c ON o.customer_id = c.customer_id
+WHERE o.sales = (
+    SELECT MAX(sales)
+    FROM orders sub
+    WHERE sub.customer_id = o.customer_id
+)
+ORDER BY o.sales DESC;
+
+Results:
+customer_id | customer_name | order_id | sales
+----------------------------------------------
+SM-20320 | Sean Miller | CA-2014-145317 | 22638.48
+TC-20980 | Tamara Chand | CA-2016-118689 | 17499.95
+RB-19360 | Raymond Buch | CA-2017-140151 | 13999.96
+TA-21385 | Tom Ashbrook | CA-2017-127180 | 11199.968
+HL-15040 | Hunter Lopez | CA-2017-166709 | 10499.97
+AB-10105 | Adrian Barton | CA-2016-117121 | 9892.74
+SC-20095 | Sanjit Chand | CA-2014-116904 | 9449.95
+BS-11365 | Bill Shonely | US-2016-107440 | 9099.93
+SE-20110 | Sanjit Engle | CA-2016-158841 | 8749.95
+CC-12370 | Christopher Conant | CA-2016-143714 | 8399.976
+KL-16645 | Ken Lonsdale | CA-2014-143917 | 8187.65
+BM-11140 | Becky Martin | CA-2014-139892 | 8159.952
+GT-14635 | Grant Thornton | US-2017-168116 | 7999.98
+TB-21400 | Tom Boeckenhauer | CA-2014-145541 | 6999.96
+CM-12385 | Christopher Martinez | CA-2015-145352 | 6354.95
+... (780 more rows)
+
+==================================================
+
+--- Q3: Total Sales per Customer (CTE) ---
+WITH customer_sales AS (
+    SELECT customer_id, SUM(sales) AS total_sales
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT c.customer_name, ROUND(cs.total_sales, 2) AS total_sales
+FROM customer_sales cs
+JOIN customers c ON cs.customer_id = c.customer_id
+ORDER BY total_sales DESC;
+
+Results:
+customer_name | total_sales
+---------------------------
+Sean Miller | 25043.05
+Tamara Chand | 19052.22
+Raymond Buch | 15117.34
+Tom Ashbrook | 14595.62
+Adrian Barton | 14473.57
+Ken Lonsdale | 14175.23
+Sanjit Chand | 14142.33
+Hunter Lopez | 12873.3
+Sanjit Engle | 12209.44
+Christopher Conant | 12129.07
+Todd Sumrall | 11891.75
+Greg Tran | 11820.12
+Becky Martin | 11789.63
+Seth Vernon | 11470.95
+Caroline Jumper | 11164.97
+... (778 more rows)
+
+==================================================
+
+--- Q4: Customers with Above-Average Total Sales (CTE + Subquery) ---
+WITH customer_sales AS (
+    SELECT customer_id, SUM(sales) AS total_sales
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT c.customer_name, ROUND(cs.total_sales, 2) AS total_sales
+FROM customer_sales cs
+JOIN customers c ON cs.customer_id = c.customer_id
+WHERE cs.total_sales > (
+    SELECT AVG(total_sales)
+    FROM customer_sales
+)
+ORDER BY total_sales DESC;
+
+Results:
+customer_name | total_sales
+---------------------------
+Sean Miller | 25043.05
+Tamara Chand | 19052.22
+Raymond Buch | 15117.34
+Tom Ashbrook | 14595.62
+Adrian Barton | 14473.57
+Ken Lonsdale | 14175.23
+Sanjit Chand | 14142.33
+Hunter Lopez | 12873.3
+Sanjit Engle | 12209.44
+Christopher Conant | 12129.07
+Todd Sumrall | 11891.75
+Greg Tran | 11820.12
+Becky Martin | 11789.63
+Seth Vernon | 11470.95
+Caroline Jumper | 11164.97
+... (279 more rows)
+
+==================================================
+
+--- Q5: Customer Sales Ranking (Window Function) ---
+WITH customer_sales AS (
+    SELECT customer_id, SUM(sales) AS total_sales
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT c.customer_name, ROUND(cs.total_sales, 2) AS total_sales,
+       RANK() OVER (ORDER BY cs.total_sales DESC) AS sales_rank,
+       DENSE_RANK() OVER (ORDER BY cs.total_sales DESC) AS sales_dense_rank
+FROM customer_sales cs
+JOIN customers c ON cs.customer_id = c.customer_id;
+
+Results:
+customer_name | total_sales | sales_rank | sales_dense_rank
+-----------------------------------------------------------
+Sean Miller | 25043.05 | 1 | 1
+Tamara Chand | 19052.22 | 2 | 2
+Raymond Buch | 15117.34 | 3 | 3
+Tom Ashbrook | 14595.62 | 4 | 4
+Adrian Barton | 14473.57 | 5 | 5
+Ken Lonsdale | 14175.23 | 6 | 6
+Sanjit Chand | 14142.33 | 7 | 7
+Hunter Lopez | 12873.3 | 8 | 8
+Sanjit Engle | 12209.44 | 9 | 9
+Christopher Conant | 12129.07 | 10 | 10
+Todd Sumrall | 11891.75 | 11 | 11
+Greg Tran | 11820.12 | 12 | 12
+Becky Martin | 11789.63 | 13 | 13
+Seth Vernon | 11470.95 | 14 | 14
+Caroline Jumper | 11164.97 | 15 | 15
+... (778 more rows)
+
+==================================================
+
+--- Q6: Row Numbers for Customer Orders (Window Function + PARTITION BY) ---
+SELECT c.customer_name, o.order_id, o.order_date, ROUND(o.sales, 2) AS sales,
+       ROW_NUMBER() OVER (PARTITION BY o.customer_id ORDER BY o.order_date DESC, o.row_id) AS order_seq
+FROM orders o
+JOIN customers c ON o.customer_id = c.customer_id;
+
+Results:
+customer_name | order_id | order_date | sales | order_seq
+---------------------------------------------------------
+Alex Avila | CA-2017-147039 | 2017-06-29 | 362.94 | 1
+Alex Avila | CA-2017-147039 | 2017-06-29 | 11.54 | 2
+Alex Avila | CA-2016-103982 | 2016-03-03 | 3930.07 | 3
+Alex Avila | CA-2016-103982 | 2016-03-03 | 2.3 | 4
+Alex Avila | CA-2016-103982 | 2016-03-03 | 431.98 | 5
+Alex Avila | CA-2016-103982 | 2016-03-03 | 41.72 | 6
+Alex Avila | CA-2015-121391 | 2015-10-04 | 26.96 | 7
+Alex Avila | CA-2014-138100 | 2014-09-15 | 14.94 | 8
+Alex Avila | CA-2014-138100 | 2014-09-15 | 14.56 | 9
+Alex Avila | CA-2014-128055 | 2014-03-31 | 673.57 | 10
+Alex Avila | CA-2014-128055 | 2014-03-31 | 52.98 | 11
+Allen Armold | CA-2017-100230 | 2017-12-11 | 14.95 | 1
+Allen Armold | CA-2017-100230 | 2017-12-11 | 17.94 | 2
+Allen Armold | CA-2017-100230 | 2017-12-11 | 116.98 | 3
+Allen Armold | US-2017-169488 | 2017-09-07 | 16.9 | 4
+... (9979 more rows)
+
+==================================================
+
+--- Q7: Top 3 Customers (Window Function) ---
+WITH customer_ranks AS (
+    SELECT customer_id, SUM(sales) AS total_sales,
+           RANK() OVER (ORDER BY SUM(sales) DESC) AS rnk
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT c.customer_name, ROUND(cr.total_sales, 2) AS total_sales, cr.rnk
+FROM customer_ranks cr
+JOIN customers c ON cr.customer_id = c.customer_id
+WHERE cr.rnk <= 3;
+
+Results:
+customer_name | total_sales | rnk
+---------------------------------
+Sean Miller | 25043.05 | 1
+Tamara Chand | 19052.22 | 2
+Raymond Buch | 15117.34 | 3
+
+==================================================
+
+--- Step 3: Final Combined Customer Ranking Query ---
+WITH customer_sales AS (
+    SELECT customer_id, SUM(sales) AS total_sales
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT c.customer_name, ROUND(cs.total_sales, 2) AS total_sales,
+       RANK() OVER (ORDER BY cs.total_sales DESC) AS sales_rank,
+       DENSE_RANK() OVER (ORDER BY cs.total_sales DESC) AS sales_dense_rank
+FROM customer_sales cs
+JOIN customers c ON cs.customer_id = c.customer_id;
+
+Results:
+customer_name | total_sales | sales_rank | sales_dense_rank
+-----------------------------------------------------------
+Sean Miller | 25043.05 | 1 | 1
+Tamara Chand | 19052.22 | 2 | 2
+Raymond Buch | 15117.34 | 3 | 3
+Tom Ashbrook | 14595.62 | 4 | 4
+Adrian Barton | 14473.57 | 5 | 5
+Ken Lonsdale | 14175.23 | 6 | 6
+Sanjit Chand | 14142.33 | 7 | 7
+Hunter Lopez | 12873.3 | 8 | 8
+Sanjit Engle | 12209.44 | 9 | 9
+Christopher Conant | 12129.07 | 10 | 10
+Todd Sumrall | 11891.75 | 11 | 11
+Greg Tran | 11820.12 | 12 | 12
+Becky Martin | 11789.63 | 13 | 13
+Seth Vernon | 11470.95 | 14 | 14
+Caroline Jumper | 11164.97 | 15 | 15
+... (778 more rows)
+
+==================================================
+
+--- Mini-Project 1: Top 5 Customers ---
+WITH customer_sales AS (
+    SELECT customer_id, SUM(sales) AS total_sales
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT c.customer_name, ROUND(cs.total_sales, 2) AS total_sales
+FROM customer_sales cs
+JOIN customers c ON cs.customer_id = c.customer_id
+ORDER BY total_sales DESC
+LIMIT 5;
+
+Results:
+customer_name | total_sales
+---------------------------
+Sean Miller | 25043.05
+Tamara Chand | 19052.22
+Raymond Buch | 15117.34
+Tom Ashbrook | 14595.62
+Adrian Barton | 14473.57
+
+==================================================
+
+--- Mini-Project 2: Bottom 5 Customers ---
+WITH customer_sales AS (
+    SELECT customer_id, SUM(sales) AS total_sales
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT c.customer_name, ROUND(cs.total_sales, 2) AS total_sales
+FROM customer_sales cs
+JOIN customers c ON cs.customer_id = c.customer_id
+ORDER BY total_sales ASC
+LIMIT 5;
+
+Results:
+customer_name | total_sales
+---------------------------
+Thais Sissman | 4.83
+Lela Donovan | 5.3
+Carl Jackson | 16.52
+Mitch Gastineau | 16.74
+Roy Skaria | 22.33
+
+==================================================
+
+--- Mini-Project 3: Customers with Exactly One Order ---
+SELECT c.customer_name, COUNT(DISTINCT o.order_id) AS total_orders
+FROM orders o
+JOIN customers c ON o.customer_id = c.customer_id
+GROUP BY o.customer_id, c.customer_name
+HAVING COUNT(DISTINCT o.order_id) = 1
+ORDER BY customer_name;
+
+Results:
+customer_name | total_orders
+----------------------------
+Anemone Ratner | 1
+Anthony O'Donnell | 1
+Carl Jackson | 1
+Jenna Caffey | 1
+Jocasta Rupert | 1
+Lela Donovan | 1
+Mitch Gastineau | 1
+Patricia Hirasaki | 1
+Ricardo Emerson | 1
+Roland Murray | 1
+Susan MacKendrick | 1
+Theresa Coyne | 1
+
+==================================================
+
+--- Mini-Project 4: Customers with Above-Average Sales ---
+WITH customer_sales AS (
+    SELECT customer_id, SUM(sales) AS total_sales
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT c.customer_name, ROUND(cs.total_sales, 2) AS total_sales
+FROM customer_sales cs
+JOIN customers c ON cs.customer_id = c.customer_id
+WHERE cs.total_sales > (
+    SELECT AVG(total_sales)
+    FROM customer_sales
+)
+ORDER BY total_sales DESC;
+
+Results:
+customer_name | total_sales
+---------------------------
+Sean Miller | 25043.05
+Tamara Chand | 19052.22
+Raymond Buch | 15117.34
+Tom Ashbrook | 14595.62
+Adrian Barton | 14473.57
+Ken Lonsdale | 14175.23
+Sanjit Chand | 14142.33
+Hunter Lopez | 12873.3
+Sanjit Engle | 12209.44
+Christopher Conant | 12129.07
+Todd Sumrall | 11891.75
+Greg Tran | 11820.12
+Becky Martin | 11789.63
+Seth Vernon | 11470.95
+Caroline Jumper | 11164.97
+... (279 more rows)
+
+==================================================
+
+--- Mini-Project 5A: Highest Line Item Value per Customer ---
+SELECT c.customer_name, ROUND(MAX(o.sales), 2) AS max_line_item_value
+FROM orders o
+JOIN customers c ON o.customer_id = c.customer_id
+GROUP BY o.customer_id, c.customer_name
+ORDER BY max_line_item_value DESC;
+
+Results:
+customer_name | max_line_item_value
+-----------------------------------
+Sean Miller | 22638.48
+Tamara Chand | 17499.95
+Raymond Buch | 13999.96
+Tom Ashbrook | 11199.97
+Hunter Lopez | 10499.97
+Adrian Barton | 9892.74
+Sanjit Chand | 9449.95
+Bill Shonely | 9099.93
+Sanjit Engle | 8749.95
+Christopher Conant | 8399.98
+Ken Lonsdale | 8187.65
+Becky Martin | 8159.95
+Grant Thornton | 7999.98
+Tom Boeckenhauer | 6999.96
+Christopher Martinez | 6354.95
+... (778 more rows)
+
+==================================================
+
+--- Mini-Project 5B: Highest Aggregate Order Value per Customer ---
+WITH order_totals AS (
+    SELECT customer_id, order_id, SUM(sales) AS total_order_sales
+    FROM orders
+    GROUP BY customer_id, order_id
+)
+SELECT c.customer_name, ROUND(MAX(ot.total_order_sales), 2) AS max_order_value
+FROM order_totals ot
+JOIN customers c ON ot.customer_id = c.customer_id
+GROUP BY ot.customer_id, c.customer_name
+ORDER BY max_order_value DESC;
+
+Results:
+customer_name | max_order_value
+-------------------------------
+Sean Miller | 23661.23
+Tamara Chand | 18336.74
+Raymond Buch | 14052.48
+Tom Ashbrook | 13716.46
+Becky Martin | 10539.9
+Hunter Lopez | 10499.97
+Sanjit Chand | 9900.19
+Adrian Barton | 9892.74
+Bill Shonely | 9135.19
+Sanjit Engle | 8805.04
+Christopher Conant | 8539.02
+Ken Lonsdale | 8319.29
+Grant Thornton | 8167.42
+Peter Fuller | 7678.23
+Seth Vernon | 7359.92
+... (778 more rows)
+
+==================================================
