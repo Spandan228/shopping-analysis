@@ -1,0 +1,11 @@
+{
+    "name": "AzureBlobStorageLS",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "type": "AzureBlobStorage",
+        "typeProperties": {
+            "serviceEndpoint": "https://stsuperstorecb126011.blob.core.windows.net/"
+        },
+        "description": "Linked service to Azure Blob Storage using Managed Identity"
+    }
+}

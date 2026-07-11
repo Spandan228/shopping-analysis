@@ -1,0 +1,24 @@
+{
+    "name": "DestinationBlobDataset",
+    "type": "Microsoft.DataFactory/factories/datasets",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AzureBlobStorageLS",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobStorageLocation",
+                "fileName": "Processed-Superstore.csv",
+                "container": "processed-data"
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    }
+}
