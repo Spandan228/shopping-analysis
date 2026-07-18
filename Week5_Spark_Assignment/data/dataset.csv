@@ -1,0 +1,1511 @@
+user_id,username,email,age,subscription,region,city,product_category,sale_amount,price,store_id,transaction_date,raw_timestamp,status
+1081,user_1081,user_1081@example.com,30,Basic,East,New York,Clothing,370.87,429.05,101,2026-06-30,30/06/2026 12:00 AM,Pending
+1029,user_1029,,27,Free,East,New York,Clothing,230.11,264.1,102,2026-06-26,2026-06-26 00:00:00,Pending
+1097,user_1097,user_1097@example.com,21,Standard,East,New York,Home & Kitchen,305.83,333.93,101,2026-06-19,2026-06-19 00:00:00,Cancelled
+1073,user_1073,user_1073@example.com,57,Basic,East,New York,Home & Kitchen,492.76,565.0,104,2026-07-10,2026-07-10 00:00:00,Pending
+1047,user_1047,user_1047@example.com,59,Premium,East,New York,Sports,321.14,288.36,104,2026-07-06,2026-07-06 00:00:00,Pending
+1087,user_1087,user_1087@example.com,18,Basic,East,New York,Electronics,404.47,334.28,103,2026-07-12,2026-07-12 00:00:00,
+1018,user_1018,user_1018@example.com,50,Standard,East,New York,Sports,219.93,207.79,102,2026-07-02,2026-07-02 00:00:00,Active
+1019,user_1019,user_1019@example.com,42,Premium,East,New York,Books,196.99,199.28,101,2026-06-27,2026-06-27 00:00:00,Cancelled
+1098,user_1098,user_1098@example.com,42,Basic,East,New York,Books,11.59,12.61,102,2026-07-02,2026-07-02 00:00:00,Cancelled
+1081,user_1081,user_1081@example.com,38,Basic,East,New York,Sports,477.21,557.09,103,2026-07-03,,Cancelled
+1039,user_1039,user_1039@example.com,51,Premium,East,New York,Electronics,368.63,439.11,102,2026-07-14,2026-07-14 00:00:00,Pending
+1033,user_1033,user_1033@example.com,28,Basic,East,New York,Home & Kitchen,205.51,195.1,104,2026-07-15,15/07/2026 12:00 AM,Active
+1075,user_1075,user_1075@example.com,15,Premium,East,New York,Electronics,122.18,139.76,101,2026-07-02,2026-07-02 00:00:00,Pending
+1069,user_1069,user_1069@example.com,51,Free,East,New York,Clothing,394.46,345.61,101,2026-06-27,2026-06-27 00:00:00,
+1093,user_1093,user_1093@example.com,56,Premium,East,New York,Electronics,207.28,237.27,102,2026-07-12,2026-07-12 00:00:00,
+1023,user_1023,user_1023@example.com,19,Free,East,New York,Sports,57.98,58.92,101,2026-07-16,2026-07-16 00:00:00,Pending
+1052,user_1052,user_1052@example.com,40,Premium,East,New York,Clothing,195.7,177.32,104,2026-07-09,2026-07-09 00:00:00,
+1019,user_1019,user_1019@example.com,18,Premium,East,New York,Home & Kitchen,38.01,38.05,102,2026-07-17,17/07/2026 12:00 AM,Pending
+1008,user_1008,user_1008@example.com,30,Free,East,New York,Electronics,471.38,486.26,101,2026-06-29,2026-06-29 00:00:00,Cancelled
+1033,user_1033,user_1033@example.com,30,Standard,East,New York,Books,74.13,72.86,101,2026-07-18,2026-07-18 00:00:00,Active
+1009,user_1009,user_1009@example.com,23,Standard,East,New York,Electronics,440.84,380.49,103,2026-06-29,2026-06-29 00:00:00,Active
+1085,user_1085,user_1085@example.com,57,Premium,East,New York,Clothing,139.59,153.13,102,2026-07-10,2026-07-10 00:00:00,Cancelled
+1026,user_1026,user_1026@example.com,47,Free,East,New York,Home & Kitchen,453.61,379.64,104,2026-06-22,22/06/2026 12:00 AM,Pending
+1081,user_1081,user_1081@example.com,43,Free,East,New York,Sports,14.74,,102,2026-07-01,,Cancelled
+1074,user_1074,user_1074@example.com,17,Standard,East,New York,Home & Kitchen,450.5,515.5,103,2026-07-12,2026-07-12 00:00:00,Cancelled
+1099,user_1099,user_1099@example.com,54,Basic,East,New York,Clothing,433.66,487.57,104,2026-07-18,2026-07-18 00:00:00,
+1085,user_1085,user_1085@example.com,32,Basic,East,New York,Electronics,197.45,,104,2026-07-11,2026-07-11 00:00:00,Cancelled
+1039,user_1039,user_1039@example.com,29,Premium,East,New York,Clothing,205.25,169.9,103,2026-07-07,2026-07-07 00:00:00,Cancelled
+1003,user_1003,user_1003@example.com,26,Standard,East,New York,Electronics,63.12,68.89,103,2026-07-05,2026-07-05 00:00:00,
+1073,user_1073,,42,Premium,East,New York,Sports,463.53,504.21,102,2026-07-07,2026-07-07 00:00:00,Cancelled
+1079,user_1079,user_1079@example.com,34,Standard,East,New York,Books,169.83,173.53,102,2026-07-05,2026-07-05 00:00:00,Pending
+1078,user_1078,user_1078@example.com,15,Standard,East,New York,Home & Kitchen,112.99,117.81,103,2026-07-04,2026-07-04 00:00:00,
+1094,user_1094,user_1094@example.com,47,Standard,East,New York,Electronics,411.03,439.44,102,2026-06-23,23/06/2026 12:00 AM,Pending
+1060,user_1060,user_1060@example.com,44,Free,East,New York,Sports,105.27,105.03,102,2026-07-14,14/07/2026 12:00 AM,Active
+1099,user_1099,user_1099@example.com,59,Free,East,New York,Electronics,283.13,240.25,102,2026-06-23,2026-06-23 00:00:00,Cancelled
+1096,user_1096,user_1096@example.com,47,Free,East,New York,Sports,228.5,261.54,104,2026-07-10,2026-07-10 00:00:00,Cancelled
+1098,user_1098,user_1098@example.com,30,Standard,East,New York,Books,47.97,43.59,103,2026-06-20,2026-06-20 00:00:00,Pending
+1049,user_1049,user_1049@example.com,19,Free,East,New York,Books,172.13,141.99,104,2026-07-06,2026-07-06 00:00:00,Active
+1097,user_1097,user_1097@example.com,37,Standard,East,New York,Books,428.19,414.32,102,2026-07-03,2026-07-03 00:00:00,Active
+1049,user_1049,user_1049@example.com,40,Basic,East,New York,Books,460.58,466.87,104,2026-06-30,30/06/2026 12:00 AM,
+1017,user_1017,user_1017@example.com,31,Free,East,New York,Home & Kitchen,113.71,125.59,104,2026-07-10,2026-07-10 00:00:00,Cancelled
+1010,user_1010,user_1010@example.com,18,Standard,East,New York,Clothing,328.57,348.51,101,2026-06-18,2026-06-18 00:00:00,Pending
+1030,user_1030,user_1030@example.com,51,Basic,East,New York,Books,352.74,305.87,101,2026-06-24,2026-06-24 00:00:00,Active
+1074,,user_1074@example.com,58,Free,East,New York,Books,471.32,488.68,102,2026-07-15,2026-07-15 00:00:00,Active
+1072,user_1072,user_1072@example.com,42,Standard,East,New York,Electronics,257.92,293.99,104,2026-07-15,2026-07-15 00:00:00,
+1090,user_1090,user_1090@example.com,48,Standard,East,New York,Sports,406.02,403.34,104,2026-06-22,2026-06-22 00:00:00,Pending
+1011,user_1011,user_1011@example.com,44,Free,East,New York,Home & Kitchen,24.06,21.0,102,2026-07-07,2026-07-07 00:00:00,Cancelled
+1071,,user_1071@example.com,20,Basic,East,New York,Books,249.4,268.42,104,2026-07-04,04/07/2026 12:00 AM,Pending
+1051,user_1051,user_1051@example.com,52,Standard,East,New York,Books,281.2,337.06,103,2026-07-07,2026-07-07 00:00:00,Cancelled
+1029,user_1029,user_1029@example.com,22,Basic,East,New York,Clothing,116.03,126.45,103,2026-07-15,2026-07-15 00:00:00,Cancelled
+1022,user_1022,user_1022@example.com,23,Standard,East,New York,Electronics,487.4,525.89,102,2026-06-28,2026-06-28 00:00:00,Active
+1073,user_1073,user_1073@example.com,36,Basic,East,New York,Electronics,133.71,113.07,101,2026-07-06,2026-07-06 00:00:00,Active
+1019,user_1019,user_1019@example.com,34,Premium,East,New York,Clothing,68.04,70.93,102,2026-06-24,2026-06-24 00:00:00,
+1038,user_1038,user_1038@example.com,34,Premium,East,New York,Sports,480.45,,102,2026-06-28,2026-06-28 00:00:00,Pending
+1030,user_1030,user_1030@example.com,15,Free,East,New York,Books,347.79,282.77,103,2026-06-26,2026-06-26 00:00:00,Active
+1087,user_1087,user_1087@example.com,55,Basic,East,New York,Books,66.24,56.94,103,2026-06-22,22/06/2026 12:00 AM,Cancelled
+1076,user_1076,user_1076@example.com,33,Free,East,New York,Electronics,239.66,230.31,103,2026-07-02,2026-07-02 00:00:00,Active
+1055,user_1055,user_1055@example.com,16,Premium,East,New York,Clothing,481.34,495.82,101,2026-06-24,2026-06-24 00:00:00,Active
+1097,user_1097,user_1097@example.com,56,Free,East,New York,Home & Kitchen,98.93,104.26,104,2026-07-16,2026-07-16 00:00:00,Cancelled
+1085,user_1085,user_1085@example.com,41,Free,East,New York,Home & Kitchen,334.67,369.54,101,2026-07-04,2026-07-04 00:00:00,Active
+1098,user_1098,user_1098@example.com,15,Free,East,New York,Books,36.56,38.35,104,2026-06-28,28/06/2026 12:00 AM,Cancelled
+1070,user_1070,user_1070@example.com,59,Free,East,New York,Electronics,24.15,27.04,102,2026-07-09,2026-07-09 00:00:00,Active
+1028,user_1028,user_1028@example.com,44,Premium,East,New York,Clothing,254.2,255.1,103,2026-07-05,2026-07-05 00:00:00,Pending
+1058,user_1058,user_1058@example.com,53,Basic,East,New York,Electronics,145.36,140.41,103,2026-06-22,,Cancelled
+1075,user_1075,user_1075@example.com,24,Free,East,New York,Sports,247.33,273.34,104,2026-07-04,2026-07-04 00:00:00,Pending
+1073,user_1073,user_1073@example.com,41,Premium,East,New York,Home & Kitchen,374.91,421.61,104,2026-06-27,2026-06-27 00:00:00,Pending
+1063,user_1063,user_1063@example.com,52,Standard,East,New York,Electronics,438.35,442.9,104,2026-07-18,2026-07-18 00:00:00,Pending
+1009,user_1009,user_1009@example.com,36,Free,East,New York,Electronics,427.36,488.79,104,2026-06-18,2026-06-18 00:00:00,
+1069,,user_1069@example.com,55,Standard,East,New York,Clothing,375.92,315.54,101,2026-07-04,2026-07-04 00:00:00,Active
+1005,user_1005,user_1005@example.com,37,Standard,East,New York,Books,81.33,83.47,102,2026-07-13,2026-07-13 00:00:00,
+1079,user_1079,user_1079@example.com,52,Basic,East,New York,Clothing,235.96,212.87,101,2026-06-20,2026-06-20 00:00:00,Pending
+1009,user_1009,user_1009@example.com,52,Standard,East,New York,Books,348.25,320.69,104,2026-06-21,2026-06-21 00:00:00,Cancelled
+1073,user_1073,user_1073@example.com,16,Free,East,New York,Home & Kitchen,13.97,15.53,101,2026-06-19,2026-06-19 00:00:00,Cancelled
+1099,user_1099,user_1099@example.com,37,Basic,East,New York,Clothing,314.24,342.01,102,2026-06-28,2026-06-28 00:00:00,Active
+1039,user_1039,,38,Basic,East,New York,Electronics,455.72,440.32,102,2026-07-14,2026-07-14 00:00:00,Cancelled
+1067,user_1067,user_1067@example.com,25,Standard,East,New York,Books,484.02,555.73,101,2026-07-04,2026-07-04 00:00:00,Pending
+1086,user_1086,user_1086@example.com,50,Standard,East,New York,Electronics,397.43,,101,2026-07-04,2026-07-04 00:00:00,Cancelled
+1074,user_1074,user_1074@example.com,38,Premium,East,New York,Clothing,241.02,283.75,103,2026-06-19,2026-06-19 00:00:00,
+1089,user_1089,user_1089@example.com,23,Premium,East,New York,Electronics,159.14,133.5,102,2026-07-06,2026-07-06 00:00:00,
+1075,user_1075,user_1075@example.com,41,Premium,East,New York,Books,311.67,284.21,103,2026-07-12,2026-07-12 00:00:00,Cancelled
+1012,user_1012,user_1012@example.com,56,Standard,East,New York,Electronics,205.09,174.09,104,2026-07-16,2026-07-16 00:00:00,Active
+1006,user_1006,user_1006@example.com,23,Basic,East,New York,Electronics,416.61,431.01,102,2026-07-08,2026-07-08 00:00:00,Active
+1035,user_1035,user_1035@example.com,23,Standard,East,New York,Clothing,63.86,54.45,103,2026-06-23,2026-06-23 00:00:00,Active
+1022,user_1022,user_1022@example.com,41,Premium,East,New York,Electronics,243.36,244.65,101,2026-07-04,2026-07-04 00:00:00,Active
+1093,user_1093,user_1093@example.com,48,Standard,East,New York,Books,325.24,,104,2026-06-21,2026-06-21 00:00:00,
+1091,user_1091,user_1091@example.com,20,Standard,East,New York,Sports,82.68,86.79,103,2026-07-06,2026-07-06 00:00:00,
+1064,user_1064,user_1064@example.com,59,Premium,East,New York,Sports,363.21,356.17,102,2026-07-05,2026-07-05 00:00:00,
+1093,user_1093,user_1093@example.com,57,Standard,East,New York,Home & Kitchen,477.26,472.35,101,2026-06-22,2026-06-22 00:00:00,Cancelled
+1016,user_1016,user_1016@example.com,50,Standard,East,New York,Electronics,211.3,248.58,104,2026-06-21,21/06/2026 12:00 AM,Cancelled
+1076,user_1076,user_1076@example.com,47,Basic,East,New York,Clothing,331.8,279.8,103,2026-07-15,2026-07-15 00:00:00,
+1071,user_1071,user_1071@example.com,54,Premium,East,New York,Sports,465.25,421.97,102,2026-07-10,2026-07-10 00:00:00,Cancelled
+1044,,user_1044@example.com,51,Free,East,New York,Electronics,79.52,64.59,102,2026-07-06,2026-07-06 00:00:00,Cancelled
+1039,user_1039,user_1039@example.com,51,Premium,East,New York,Electronics,86.23,70.7,101,2026-07-10,2026-07-10 00:00:00,
+1053,user_1053,user_1053@example.com,22,Standard,East,New York,Books,64.34,66.74,103,2026-07-17,2026-07-17 00:00:00,Active
+1000,user_1000,user_1000@example.com,23,Standard,East,New York,Home & Kitchen,170.78,,104,2026-07-13,2026-07-13 00:00:00,Pending
+1064,user_1064,user_1064@example.com,37,Premium,East,New York,Books,432.26,,101,2026-07-04,2026-07-04 00:00:00,
+1073,user_1073,user_1073@example.com,33,Premium,East,New York,Books,20.22,22.66,104,2026-06-22,2026-06-22 00:00:00,
+1013,user_1013,user_1013@example.com,48,Premium,East,New York,Books,436.56,387.94,102,2026-07-16,2026-07-16 00:00:00,Pending
+1099,user_1099,user_1099@example.com,56,Basic,East,New York,Clothing,60.37,52.49,102,2026-06-24,24/06/2026 12:00 AM,
+1059,user_1059,user_1059@example.com,43,Standard,East,New York,Home & Kitchen,83.97,,104,2026-06-28,2026-06-28 00:00:00,Active
+1045,user_1045,user_1045@example.com,43,Premium,East,New York,Electronics,190.68,201.71,101,2026-06-29,2026-06-29 00:00:00,Active
+1057,user_1057,user_1057@example.com,27,Standard,East,New York,Sports,243.06,200.46,101,2026-06-23,2026-06-23 00:00:00,Active
+1064,user_1064,,60,Free,East,New York,Books,266.79,252.27,103,2026-07-06,2026-07-06 00:00:00,Active
+1080,user_1080,user_1080@example.com,21,Free,East,New York,Home & Kitchen,133.48,158.28,102,2026-07-08,2026-07-08 00:00:00,Cancelled
+1039,user_1039,user_1039@example.com,40,Basic,East,New York,Sports,357.33,,104,2026-06-28,2026-06-28 00:00:00,Active
+1082,user_1082,user_1082@example.com,16,Standard,East,New York,Home & Kitchen,98.33,115.94,104,2026-07-12,2026-07-12 00:00:00,Active
+1037,user_1037,user_1037@example.com,49,Premium,East,New York,Home & Kitchen,439.43,456.52,102,2026-07-13,2026-07-13 00:00:00,Pending
+1092,user_1092,user_1092@example.com,58,Basic,East,New York,Books,309.19,344.29,102,2026-07-01,2026-07-01 00:00:00,
+1024,user_1024,user_1024@example.com,43,Free,East,New York,Home & Kitchen,391.28,378.55,102,2026-06-22,2026-06-22 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,50,Premium,East,New York,Sports,427.07,472.02,103,2026-07-04,2026-07-04 00:00:00,
+1011,user_1011,user_1011@example.com,43,Standard,East,New York,Electronics,213.3,202.55,104,2026-07-16,16/07/2026 12:00 AM,Active
+1091,user_1091,user_1091@example.com,23,Premium,East,New York,Home & Kitchen,459.52,520.38,104,2026-07-04,2026-07-04 00:00:00,Active
+1032,user_1032,user_1032@example.com,53,Free,East,New York,Electronics,390.32,331.28,102,2026-07-05,2026-07-05 00:00:00,Active
+1014,user_1014,user_1014@example.com,49,Premium,East,New York,Sports,291.77,267.41,101,2026-06-29,2026-06-29 00:00:00,Pending
+1085,user_1085,user_1085@example.com,38,Premium,East,New York,Sports,276.6,277.44,101,2026-07-06,06/07/2026 12:00 AM,
+1047,user_1047,,19,Standard,East,New York,Clothing,369.14,409.23,103,2026-07-14,,Cancelled
+1082,user_1082,user_1082@example.com,44,Free,East,New York,Clothing,407.63,,104,2026-07-17,17/07/2026 12:00 AM,Pending
+1005,user_1005,user_1005@example.com,40,Free,East,New York,Home & Kitchen,27.94,25.55,101,2026-06-21,2026-06-21 00:00:00,Cancelled
+1055,user_1055,user_1055@example.com,39,Standard,East,New York,Clothing,253.14,296.1,103,2026-06-23,2026-06-23 00:00:00,
+1077,user_1077,user_1077@example.com,33,Standard,East,New York,Electronics,49.23,45.42,104,2026-07-13,2026-07-13 00:00:00,Active
+1093,user_1093,user_1093@example.com,42,Standard,East,New York,Electronics,46.77,44.21,102,2026-06-18,,
+1004,user_1004,user_1004@example.com,56,Standard,East,New York,Home & Kitchen,197.6,205.91,104,2026-06-18,2026-06-18 00:00:00,Active
+1073,user_1073,user_1073@example.com,35,Standard,East,New York,Clothing,480.65,,102,2026-07-03,2026-07-03 00:00:00,Active
+1033,user_1033,user_1033@example.com,28,Standard,East,New York,Books,108.09,89.67,102,2026-06-20,2026-06-20 00:00:00,Cancelled
+1085,user_1085,user_1085@example.com,49,Standard,East,New York,Home & Kitchen,427.17,500.19,102,2026-06-23,2026-06-23 00:00:00,Pending
+1017,user_1017,user_1017@example.com,38,Standard,East,New York,Books,403.79,421.87,101,2026-07-16,2026-07-16 00:00:00,
+1067,user_1067,user_1067@example.com,51,Premium,East,New York,Clothing,486.47,476.74,103,2026-07-14,2026-07-14 00:00:00,Pending
+1098,user_1098,user_1098@example.com,18,Premium,East,New York,Sports,84.98,78.95,102,2026-07-07,2026-07-07 00:00:00,Cancelled
+1010,user_1010,user_1010@example.com,50,Standard,East,New York,Clothing,316.26,264.83,102,2026-06-30,2026-06-30 00:00:00,Cancelled
+1072,,user_1072@example.com,20,Premium,East,New York,Sports,139.68,143.71,101,2026-07-03,2026-07-03 00:00:00,Cancelled
+1061,user_1061,user_1061@example.com,40,Standard,East,New York,Books,45.76,,104,2026-07-05,2026-07-05 00:00:00,Pending
+1040,user_1040,user_1040@example.com,37,Free,East,New York,Clothing,382.73,322.44,102,2026-07-04,2026-07-04 00:00:00,Pending
+1012,user_1012,user_1012@example.com,54,Free,East,New York,Clothing,481.72,542.12,103,2026-07-12,2026-07-12 00:00:00,
+1063,user_1063,user_1063@example.com,20,Free,East,New York,Sports,234.04,241.84,101,2026-07-17,2026-07-17 00:00:00,
+1036,user_1036,user_1036@example.com,42,Basic,East,New York,Home & Kitchen,366.48,346.83,104,2026-07-17,2026-07-17 00:00:00,Cancelled
+1009,user_1009,user_1009@example.com,50,Standard,East,New York,Sports,343.4,408.66,104,2026-07-07,2026-07-07 00:00:00,Cancelled
+1096,user_1096,user_1096@example.com,40,Premium,East,New York,Electronics,29.07,32.6,104,2026-07-14,2026-07-14 00:00:00,Cancelled
+1078,user_1078,user_1078@example.com,54,Standard,East,New York,Sports,174.82,177.08,103,2026-07-03,2026-07-03 00:00:00,Active
+1053,user_1053,user_1053@example.com,59,Premium,East,New York,Sports,242.55,270.0,102,2026-06-25,2026-06-25 00:00:00,
+1018,user_1018,user_1018@example.com,51,Premium,East,New York,Clothing,19.28,16.59,102,2026-07-05,2026-07-05 00:00:00,
+1094,user_1094,user_1094@example.com,48,Basic,East,New York,Sports,169.27,171.0,103,2026-06-18,2026-06-18 00:00:00,Cancelled
+1069,user_1069,user_1069@example.com,58,Standard,East,New York,Sports,247.25,225.39,103,2026-07-11,2026-07-11 00:00:00,Cancelled
+1090,user_1090,user_1090@example.com,35,Free,East,New York,Home & Kitchen,284.64,309.88,103,2026-07-15,2026-07-15 00:00:00,
+1044,user_1044,user_1044@example.com,33,Premium,East,New York,Home & Kitchen,478.1,,104,2026-06-28,2026-06-28 00:00:00,Pending
+1068,user_1068,user_1068@example.com,32,Basic,East,New York,Electronics,311.68,279.57,102,2026-06-28,2026-06-28 00:00:00,Cancelled
+1091,user_1091,user_1091@example.com,23,Premium,East,New York,Sports,489.18,519.1,104,2026-07-03,2026-07-03 00:00:00,Cancelled
+1041,user_1041,user_1041@example.com,20,Basic,East,New York,Sports,371.96,303.12,102,2026-07-05,2026-07-05 00:00:00,Active
+1050,user_1050,user_1050@example.com,33,Premium,East,New York,Electronics,156.21,182.98,103,2026-07-09,2026-07-09 00:00:00,
+1017,user_1017,user_1017@example.com,27,Premium,East,New York,Home & Kitchen,89.62,80.92,102,2026-07-18,2026-07-18 00:00:00,Pending
+1022,user_1022,user_1022@example.com,40,Free,East,New York,Sports,170.68,143.06,102,2026-07-03,2026-07-03 00:00:00,Cancelled
+1049,user_1049,user_1049@example.com,36,Standard,East,New York,Sports,364.21,,103,2026-06-26,2026-06-26 00:00:00,
+1039,user_1039,user_1039@example.com,60,Standard,East,New York,Electronics,322.97,305.86,102,2026-07-11,2026-07-11 00:00:00,
+1095,user_1095,user_1095@example.com,59,Free,East,New York,Sports,402.98,445.19,101,2026-07-02,2026-07-02 00:00:00,Active
+1072,user_1072,user_1072@example.com,47,Basic,East,New York,Sports,272.96,311.66,104,2026-07-15,2026-07-15 00:00:00,
+1011,user_1011,user_1011@example.com,18,Free,East,New York,Clothing,261.49,215.23,104,2026-06-27,2026-06-27 00:00:00,
+1032,user_1032,user_1032@example.com,52,Premium,East,New York,Electronics,217.61,221.19,101,2026-06-19,2026-06-19 00:00:00,
+1004,user_1004,user_1004@example.com,23,Free,East,New York,Home & Kitchen,496.5,569.91,104,2026-07-06,2026-07-06 00:00:00,Pending
+1083,user_1083,user_1083@example.com,49,Free,East,New York,Sports,72.4,82.1,101,2026-07-09,2026-07-09 00:00:00,
+1068,user_1068,user_1068@example.com,44,Standard,East,New York,Clothing,145.07,158.13,101,2026-07-17,2026-07-17 00:00:00,Active
+1030,user_1030,user_1030@example.com,17,Free,East,New York,Sports,339.29,304.65,101,2026-07-06,2026-07-06 00:00:00,Active
+1017,user_1017,user_1017@example.com,51,Standard,East,New York,Sports,302.98,281.25,103,2026-06-20,2026-06-20 00:00:00,Pending
+1052,user_1052,user_1052@example.com,52,Basic,East,New York,Books,282.37,,103,2026-06-18,2026-06-18 00:00:00,Cancelled
+1089,user_1089,user_1089@example.com,39,Basic,East,New York,Sports,242.02,222.73,102,2026-06-23,23/06/2026 12:00 AM,
+1053,user_1053,user_1053@example.com,30,Standard,East,New York,Clothing,171.83,,104,2026-06-21,2026-06-21 00:00:00,Pending
+1006,user_1006,user_1006@example.com,53,Premium,East,New York,Electronics,102.2,111.37,102,2026-07-03,2026-07-03 00:00:00,Cancelled
+1001,user_1001,user_1001@example.com,22,Free,East,New York,Clothing,350.86,336.35,102,2026-07-01,2026-07-01 00:00:00,
+1068,user_1068,user_1068@example.com,38,Free,East,New York,Books,58.32,57.61,103,2026-06-19,2026-06-19 00:00:00,Active
+1072,user_1072,user_1072@example.com,16,Standard,East,New York,Sports,468.03,452.6,102,2026-07-12,2026-07-12 00:00:00,Pending
+1063,user_1063,user_1063@example.com,36,Standard,East,New York,Books,483.59,481.77,102,2026-06-25,2026-06-25 00:00:00,
+1023,user_1023,user_1023@example.com,56,Premium,East,New York,Sports,26.57,31.3,101,2026-06-24,,Pending
+1080,user_1080,user_1080@example.com,15,Basic,East,New York,Sports,233.44,,104,2026-06-27,27/06/2026 12:00 AM,
+1001,,user_1001@example.com,49,Standard,East,New York,Electronics,256.09,248.98,102,2026-07-15,2026-07-15 00:00:00,Pending
+1024,user_1024,user_1024@example.com,37,Standard,East,New York,Books,48.72,47.92,102,2026-06-26,2026-06-26 00:00:00,Active
+1083,user_1083,user_1083@example.com,17,Premium,East,New York,Books,195.84,161.07,101,2026-06-26,2026-06-26 00:00:00,
+1082,user_1082,user_1082@example.com,21,Premium,East,New York,Clothing,113.59,131.2,104,2026-07-10,,Active
+1087,user_1087,user_1087@example.com,51,Premium,East,New York,Clothing,465.1,550.95,102,2026-06-24,2026-06-24 00:00:00,Active
+1038,user_1038,user_1038@example.com,39,Standard,East,New York,Books,380.25,454.55,101,2026-07-02,2026-07-02 00:00:00,Active
+1055,user_1055,user_1055@example.com,53,Free,East,New York,Home & Kitchen,24.52,29.35,104,2026-07-11,2026-07-11 00:00:00,
+1023,user_1023,user_1023@example.com,20,Standard,East,New York,Clothing,359.42,,102,2026-07-06,2026-07-06 00:00:00,
+1040,user_1040,user_1040@example.com,34,Free,East,New York,Home & Kitchen,383.06,319.82,104,2026-07-04,2026-07-04 00:00:00,Active
+1003,user_1003,user_1003@example.com,53,Standard,East,New York,Books,16.05,17.84,102,2026-06-30,2026-06-30 00:00:00,Pending
+1017,user_1017,user_1017@example.com,24,Premium,East,New York,Clothing,222.99,221.58,101,2026-07-07,2026-07-07 00:00:00,
+1076,user_1076,user_1076@example.com,23,Standard,East,New York,Electronics,474.92,497.75,103,2026-07-04,2026-07-04 00:00:00,Pending
+1038,user_1038,user_1038@example.com,27,Free,East,New York,Home & Kitchen,97.04,90.02,104,2026-06-18,2026-06-18 00:00:00,
+1035,user_1035,user_1035@example.com,22,Basic,East,New York,Sports,498.66,552.04,101,2026-06-18,2026-06-18 00:00:00,Pending
+1056,user_1056,user_1056@example.com,19,Free,East,New York,Books,78.2,70.46,102,2026-06-26,2026-06-26 00:00:00,
+1076,user_1076,user_1076@example.com,47,Free,East,New York,Sports,28.01,30.27,101,2026-07-15,2026-07-15 00:00:00,Cancelled
+1021,user_1021,,56,Free,East,New York,Home & Kitchen,483.2,388.6,103,2026-07-11,2026-07-11 00:00:00,Pending
+1057,user_1057,user_1057@example.com,58,Basic,East,New York,Home & Kitchen,498.87,458.05,101,2026-07-15,2026-07-15 00:00:00,Cancelled
+1039,user_1039,user_1039@example.com,48,Free,East,New York,Home & Kitchen,243.32,262.47,103,2026-07-16,2026-07-16 00:00:00,Active
+1002,user_1002,user_1002@example.com,58,Basic,East,New York,Clothing,262.84,245.07,104,2026-06-18,2026-06-18 00:00:00,Pending
+1023,user_1023,user_1023@example.com,16,Basic,East,New York,Books,300.18,324.76,102,2026-07-10,2026-07-10 00:00:00,Active
+1073,user_1073,user_1073@example.com,26,Standard,East,New York,Home & Kitchen,106.57,113.85,104,2026-07-02,2026-07-02 00:00:00,
+1078,user_1078,user_1078@example.com,37,Free,East,New York,Sports,94.54,105.91,101,2026-06-27,2026-06-27 00:00:00,Cancelled
+1014,user_1014,user_1014@example.com,47,Free,East,New York,Books,302.25,292.95,104,2026-06-28,2026-06-28 00:00:00,Pending
+1071,user_1071,user_1071@example.com,26,Standard,East,New York,Books,313.51,370.17,104,2026-07-14,2026-07-14 00:00:00,
+1052,user_1052,user_1052@example.com,43,Free,East,New York,Clothing,50.51,,102,2026-07-09,,Pending
+1068,user_1068,user_1068@example.com,51,Free,East,New York,Sports,260.29,236.12,103,2026-07-01,01/07/2026 12:00 AM,
+1069,user_1069,user_1069@example.com,56,Basic,East,New York,Home & Kitchen,438.66,,103,2026-07-07,07/07/2026 12:00 AM,Active
+1099,user_1099,user_1099@example.com,52,Standard,East,New York,Sports,320.06,273.87,102,2026-06-22,22/06/2026 12:00 AM,Cancelled
+1068,user_1068,user_1068@example.com,35,Standard,East,New York,Home & Kitchen,290.64,292.32,101,2026-07-14,2026-07-14 00:00:00,Active
+1035,user_1035,user_1035@example.com,23,Basic,East,New York,Clothing,358.58,396.08,104,2026-07-03,2026-07-03 00:00:00,
+1048,user_1048,user_1048@example.com,20,Free,East,New York,Sports,377.4,434.36,104,2026-06-18,2026-06-18 00:00:00,Active
+1093,user_1093,user_1093@example.com,59,Standard,East,New York,Electronics,399.88,474.76,102,2026-07-03,2026-07-03 00:00:00,Cancelled
+1070,user_1070,user_1070@example.com,46,Standard,East,New York,Electronics,32.51,36.89,101,2026-07-15,2026-07-15 00:00:00,
+1000,user_1000,user_1000@example.com,59,Basic,East,New York,Home & Kitchen,87.9,79.95,103,2026-07-10,2026-07-10 00:00:00,Pending
+1006,user_1006,user_1006@example.com,59,Basic,East,New York,Books,331.19,265.1,104,2026-07-16,2026-07-16 00:00:00,
+1001,,user_1001@example.com,22,Free,East,New York,Clothing,244.07,203.98,101,2026-07-15,2026-07-15 00:00:00,Pending
+1048,user_1048,user_1048@example.com,23,Basic,East,New York,Electronics,269.95,,102,2026-07-04,2026-07-04 00:00:00,Pending
+1052,user_1052,user_1052@example.com,28,Premium,East,New York,Electronics,78.61,85.84,103,2026-06-18,2026-06-18 00:00:00,Pending
+1035,user_1035,user_1035@example.com,53,Standard,East,New York,Electronics,425.47,391.71,102,2026-06-25,2026-06-25 00:00:00,Pending
+1063,user_1063,user_1063@example.com,55,Premium,East,New York,Sports,445.48,,103,2026-06-19,2026-06-19 00:00:00,
+1046,user_1046,user_1046@example.com,45,Premium,East,New York,Electronics,297.81,,102,2026-07-17,2026-07-17 00:00:00,
+1064,user_1064,user_1064@example.com,41,Free,East,New York,Books,50.39,52.73,103,2026-07-16,2026-07-16 00:00:00,Pending
+1019,user_1019,user_1019@example.com,55,Premium,East,New York,Home & Kitchen,352.35,401.18,101,2026-07-11,2026-07-11 00:00:00,
+1078,user_1078,user_1078@example.com,57,Basic,East,New York,Electronics,16.21,13.04,104,2026-06-18,2026-06-18 00:00:00,Cancelled
+1021,user_1021,user_1021@example.com,32,Premium,East,New York,Electronics,174.16,175.82,103,2026-06-26,2026-06-26 00:00:00,
+1058,user_1058,user_1058@example.com,51,Basic,East,New York,Home & Kitchen,87.08,100.81,101,2026-07-11,11/07/2026 12:00 AM,Active
+1031,,user_1031@example.com,24,Basic,East,New York,Electronics,280.9,307.94,104,2026-07-11,2026-07-11 00:00:00,Cancelled
+1034,user_1034,user_1034@example.com,22,Premium,East,New York,Clothing,119.36,97.68,104,2026-07-16,2026-07-16 00:00:00,Cancelled
+1041,user_1041,user_1041@example.com,38,Basic,East,New York,Home & Kitchen,286.27,300.32,104,2026-07-07,2026-07-07 00:00:00,Pending
+1093,user_1093,user_1093@example.com,30,Basic,East,New York,Electronics,466.87,,103,2026-06-28,2026-06-28 00:00:00,Cancelled
+1000,user_1000,user_1000@example.com,34,Premium,East,New York,Clothing,269.61,268.75,101,2026-07-14,14/07/2026 12:00 AM,Pending
+1066,user_1066,user_1066@example.com,44,Premium,East,New York,Sports,56.83,64.1,101,2026-06-30,2026-06-30 00:00:00,Pending
+1030,user_1030,user_1030@example.com,40,Standard,East,New York,Home & Kitchen,231.85,272.99,102,2026-06-24,2026-06-24 00:00:00,Active
+1021,user_1021,user_1021@example.com,22,Standard,East,New York,Clothing,231.44,264.07,101,2026-07-13,2026-07-13 00:00:00,Active
+1027,user_1027,user_1027@example.com,20,Basic,East,New York,Home & Kitchen,204.16,,103,2026-07-10,2026-07-10 00:00:00,
+1057,user_1057,user_1057@example.com,21,Free,East,New York,Electronics,403.91,325.06,102,2026-07-14,2026-07-14 00:00:00,Active
+1074,user_1074,user_1074@example.com,19,Premium,East,New York,Electronics,106.9,120.13,101,2026-06-20,2026-06-20 00:00:00,Active
+1005,user_1005,user_1005@example.com,51,Free,East,New York,Books,253.1,245.68,103,2026-07-12,2026-07-12 00:00:00,
+1019,,user_1019@example.com,30,Standard,East,New York,Books,211.88,174.67,103,2026-07-06,2026-07-06 00:00:00,Pending
+1080,user_1080,user_1080@example.com,16,Free,East,New York,Home & Kitchen,245.05,229.76,103,2026-07-06,06/07/2026 12:00 AM,Pending
+1003,user_1003,user_1003@example.com,18,Free,East,New York,Sports,185.14,165.35,102,2026-07-15,2026-07-15 00:00:00,Active
+1097,user_1097,user_1097@example.com,39,Standard,East,New York,Clothing,96.29,108.08,103,2026-06-19,2026-06-19 00:00:00,Cancelled
+1072,user_1072,user_1072@example.com,27,Free,East,New York,Sports,161.44,134.98,102,2026-06-29,2026-06-29 00:00:00,Active
+1042,user_1042,user_1042@example.com,23,Standard,East,New York,Clothing,460.2,427.73,101,2026-07-14,2026-07-14 00:00:00,Active
+1067,user_1067,user_1067@example.com,38,Free,East,New York,Sports,59.51,50.86,102,2026-06-25,2026-06-25 00:00:00,
+1083,user_1083,user_1083@example.com,50,Standard,East,New York,Clothing,336.11,319.76,103,2026-07-14,14/07/2026 12:00 AM,
+1098,user_1098,,53,Standard,East,New York,Sports,118.24,138.89,102,2026-07-08,2026-07-08 00:00:00,Cancelled
+1021,user_1021,user_1021@example.com,60,Standard,East,New York,Books,15.58,16.78,103,2026-07-10,2026-07-10 00:00:00,Active
+1049,user_1049,user_1049@example.com,25,Free,East,New York,Books,442.07,420.03,104,2026-06-23,2026-06-23 00:00:00,Pending
+1020,user_1020,user_1020@example.com,17,Standard,East,New York,Electronics,166.17,137.87,102,2026-06-20,2026-06-20 00:00:00,Active
+1043,user_1043,user_1043@example.com,45,Premium,East,New York,Books,471.8,545.35,102,2026-07-17,2026-07-17 00:00:00,Pending
+1052,user_1052,user_1052@example.com,49,Standard,East,New York,Home & Kitchen,155.73,,104,2026-06-30,2026-06-30 00:00:00,Active
+1046,,user_1046@example.com,57,Free,East,New York,Clothing,57.52,60.7,101,2026-07-03,2026-07-03 00:00:00,
+1060,user_1060,user_1060@example.com,20,Free,East,New York,Clothing,191.8,167.75,101,2026-07-10,2026-07-10 00:00:00,Cancelled
+1072,user_1072,user_1072@example.com,57,Premium,East,New York,Electronics,337.39,325.78,102,2026-07-01,2026-07-01 00:00:00,
+1068,user_1068,user_1068@example.com,51,Basic,East,New York,Books,156.44,178.59,101,2026-07-02,2026-07-02 00:00:00,Pending
+1015,user_1015,user_1015@example.com,25,Basic,East,New York,Clothing,71.83,85.86,104,2026-07-12,2026-07-12 00:00:00,Cancelled
+1040,user_1040,user_1040@example.com,19,Premium,East,New York,Books,282.62,322.94,104,2026-06-19,2026-06-19 00:00:00,
+1014,user_1014,user_1014@example.com,52,Premium,East,New York,Electronics,285.72,261.27,103,2026-06-20,2026-06-20 00:00:00,
+1073,user_1073,,32,Free,East,New York,Clothing,312.94,300.64,104,2026-06-20,2026-06-20 00:00:00,Active
+1095,user_1095,user_1095@example.com,38,Premium,East,New York,Home & Kitchen,410.52,374.45,104,2026-06-21,21/06/2026 12:00 AM,Pending
+1017,user_1017,user_1017@example.com,35,Standard,East,New York,Books,306.44,,104,2026-07-12,2026-07-12 00:00:00,
+1097,user_1097,user_1097@example.com,18,Basic,East,New York,Electronics,162.45,138.77,101,2026-07-13,2026-07-13 00:00:00,Active
+1031,,user_1031@example.com,38,Basic,East,New York,Home & Kitchen,190.49,182.64,101,2026-06-27,,Cancelled
+1062,user_1062,user_1062@example.com,45,Standard,East,New York,Home & Kitchen,90.12,99.09,101,2026-07-09,,Active
+1020,user_1020,user_1020@example.com,28,Basic,East,New York,Clothing,342.07,329.69,101,2026-06-21,2026-06-21 00:00:00,Active
+1060,user_1060,user_1060@example.com,53,Premium,East,New York,Clothing,133.67,123.27,103,2026-07-05,2026-07-05 00:00:00,
+1032,user_1032,user_1032@example.com,48,Free,East,New York,Sports,60.13,64.03,103,2026-07-01,2026-07-01 00:00:00,Cancelled
+1087,user_1087,user_1087@example.com,32,Standard,East,New York,Home & Kitchen,137.96,159.61,103,2026-07-12,2026-07-12 00:00:00,Active
+1076,user_1076,user_1076@example.com,23,Premium,East,New York,Books,498.76,482.51,104,2026-06-25,,Pending
+1043,user_1043,user_1043@example.com,49,Free,East,New York,Home & Kitchen,258.58,293.81,102,2026-07-09,2026-07-09 00:00:00,Cancelled
+1092,user_1092,user_1092@example.com,26,Standard,East,New York,Electronics,118.9,136.57,104,2026-06-23,2026-06-23 00:00:00,Cancelled
+1059,user_1059,user_1059@example.com,55,Premium,East,New York,Books,445.82,511.36,104,2026-07-02,02/07/2026 12:00 AM,Pending
+1017,user_1017,user_1017@example.com,51,Free,East,New York,Clothing,165.03,183.44,104,2026-07-08,2026-07-08 00:00:00,Active
+1000,user_1000,user_1000@example.com,25,Basic,East,New York,Books,394.75,336.23,104,2026-06-28,2026-06-28 00:00:00,
+1049,,user_1049@example.com,38,Premium,East,New York,Home & Kitchen,380.86,307.42,101,2026-06-28,2026-06-28 00:00:00,Cancelled
+1039,user_1039,user_1039@example.com,52,Standard,East,New York,Clothing,41.99,,103,2026-07-04,2026-07-04 00:00:00,Cancelled
+1055,user_1055,user_1055@example.com,36,Free,East,New York,Home & Kitchen,377.56,439.01,104,2026-07-18,2026-07-18 00:00:00,Pending
+1027,user_1027,user_1027@example.com,25,Premium,East,New York,Home & Kitchen,358.44,340.55,103,2026-06-24,24/06/2026 12:00 AM,Active
+1084,user_1084,user_1084@example.com,18,Premium,East,New York,Books,227.71,205.19,102,2026-07-12,2026-07-12 00:00:00,Cancelled
+1053,user_1053,user_1053@example.com,32,Basic,East,New York,Books,417.02,453.51,101,2026-07-09,2026-07-09 00:00:00,Pending
+1077,user_1077,user_1077@example.com,48,Basic,East,New York,Home & Kitchen,354.68,289.33,104,2026-06-19,2026-06-19 00:00:00,Cancelled
+1030,,user_1030@example.com,22,Free,East,New York,Clothing,475.23,394.45,101,2026-06-20,2026-06-20 00:00:00,Cancelled
+1033,user_1033,user_1033@example.com,26,Premium,East,New York,Home & Kitchen,186.51,180.99,101,2026-07-15,2026-07-15 00:00:00,Active
+1017,user_1017,user_1017@example.com,37,Free,East,New York,Sports,141.47,134.26,103,2026-07-13,2026-07-13 00:00:00,
+1034,user_1034,user_1034@example.com,45,Free,East,New York,Clothing,65.4,53.85,102,2026-07-15,2026-07-15 00:00:00,
+1023,user_1023,user_1023@example.com,54,Premium,East,New York,Clothing,246.71,284.96,104,2026-07-17,2026-07-17 00:00:00,Active
+1090,user_1090,user_1090@example.com,51,Basic,East,New York,Home & Kitchen,264.36,276.86,104,2026-06-27,2026-06-27 00:00:00,
+1019,user_1019,user_1019@example.com,54,Premium,East,New York,Electronics,325.27,370.66,104,2026-06-21,2026-06-21 00:00:00,Cancelled
+1030,user_1030,user_1030@example.com,47,Basic,East,New York,Sports,325.23,290.76,104,2026-07-04,2026-07-04 00:00:00,
+1057,user_1057,user_1057@example.com,56,Premium,East,New York,Electronics,207.69,,101,2026-06-22,2026-06-22 00:00:00,Cancelled
+1065,user_1065,user_1065@example.com,44,Standard,East,New York,Home & Kitchen,414.4,471.47,103,2026-07-01,2026-07-01 00:00:00,Cancelled
+1091,user_1091,user_1091@example.com,57,Basic,East,New York,Electronics,177.26,210.19,103,2026-07-01,2026-07-01 00:00:00,Active
+1021,user_1021,user_1021@example.com,41,Premium,East,New York,Home & Kitchen,309.32,362.55,104,2026-07-12,2026-07-12 00:00:00,Cancelled
+1013,user_1013,,55,Premium,East,New York,Books,234.12,234.51,104,2026-07-18,18/07/2026 12:00 AM,
+1074,user_1074,user_1074@example.com,26,Basic,East,New York,Clothing,60.74,63.32,103,2026-07-02,2026-07-02 00:00:00,Pending
+1035,user_1035,user_1035@example.com,33,Free,East,New York,Clothing,77.71,89.72,103,2026-06-22,2026-06-22 00:00:00,Pending
+1025,user_1025,user_1025@example.com,58,Standard,East,New York,Clothing,490.85,580.84,103,2026-06-26,2026-06-26 00:00:00,
+1074,user_1074,user_1074@example.com,41,Standard,East,New York,Books,406.07,328.96,102,2026-07-17,2026-07-17 00:00:00,Pending
+1036,user_1036,user_1036@example.com,18,Standard,East,New York,Clothing,379.26,,104,2026-07-15,2026-07-15 00:00:00,Pending
+1095,user_1095,user_1095@example.com,47,Standard,East,New York,Electronics,463.98,548.74,103,2026-06-18,18/06/2026 12:00 AM,Cancelled
+1025,user_1025,user_1025@example.com,43,Basic,East,New York,Home & Kitchen,380.0,395.71,102,2026-07-09,2026-07-09 00:00:00,Active
+1023,user_1023,user_1023@example.com,22,Free,East,New York,Electronics,219.97,187.42,103,2026-07-18,2026-07-18 00:00:00,Pending
+1005,user_1005,user_1005@example.com,18,Standard,East,New York,Books,397.06,329.22,103,2026-07-02,2026-07-02 00:00:00,Active
+1100,user_1100,user_1100@example.com,49,Free,East,New York,Electronics,181.21,193.05,103,2026-07-07,2026-07-07 00:00:00,
+1071,user_1071,user_1071@example.com,15,Premium,East,New York,Home & Kitchen,228.38,238.77,102,2026-06-18,,Cancelled
+1048,user_1048,user_1048@example.com,39,Standard,East,New York,Sports,364.75,,103,2026-07-02,2026-07-02 00:00:00,Active
+1037,user_1037,user_1037@example.com,47,Premium,East,New York,Electronics,92.02,93.42,101,2026-06-28,2026-06-28 00:00:00,Pending
+1087,user_1087,user_1087@example.com,49,Free,East,New York,Electronics,375.98,369.85,103,2026-07-17,17/07/2026 12:00 AM,Cancelled
+1071,user_1071,user_1071@example.com,31,Free,East,New York,Books,231.05,214.08,104,2026-06-27,27/06/2026 12:00 AM,Active
+1096,user_1096,,19,Standard,East,New York,Sports,62.01,57.08,101,2026-07-09,2026-07-09 00:00:00,
+1084,,user_1084@example.com,29,Basic,East,New York,Books,400.42,367.58,102,2026-07-09,2026-07-09 00:00:00,Cancelled
+1001,user_1001,user_1001@example.com,22,Premium,East,New York,Electronics,290.63,296.15,101,2026-07-09,2026-07-09 00:00:00,Cancelled
+1027,user_1027,user_1027@example.com,47,Basic,East,New York,Clothing,100.16,90.25,101,2026-07-13,2026-07-13 00:00:00,Active
+1096,user_1096,user_1096@example.com,44,Premium,East,New York,Home & Kitchen,339.13,298.08,104,2026-06-18,2026-06-18 00:00:00,Pending
+1012,user_1012,user_1012@example.com,27,Standard,East,New York,Books,230.82,212.88,102,2026-06-30,2026-06-30 00:00:00,
+1021,,user_1021@example.com,29,Free,East,New York,Home & Kitchen,421.65,460.94,104,2026-07-04,2026-07-04 00:00:00,
+1070,user_1070,user_1070@example.com,20,Standard,East,New York,Clothing,446.74,488.47,101,2026-06-25,25/06/2026 12:00 AM,Active
+1074,user_1074,user_1074@example.com,28,Premium,East,New York,Sports,137.7,139.89,102,2026-07-07,2026-07-07 00:00:00,Cancelled
+1017,user_1017,user_1017@example.com,40,Standard,East,New York,Sports,15.19,18.01,102,2026-06-24,2026-06-24 00:00:00,Pending
+1072,user_1072,user_1072@example.com,24,Free,East,New York,Home & Kitchen,29.81,26.61,103,2026-07-07,2026-07-07 00:00:00,Cancelled
+1049,user_1049,user_1049@example.com,17,Premium,East,New York,Home & Kitchen,60.58,63.82,103,2026-06-22,2026-06-22 00:00:00,Pending
+1048,user_1048,user_1048@example.com,56,Premium,East,New York,Sports,133.28,118.51,104,2026-07-07,2026-07-07 00:00:00,
+1077,,user_1077@example.com,43,Basic,East,New York,Clothing,47.77,42.26,102,2026-07-13,2026-07-13 00:00:00,Active
+1084,user_1084,user_1084@example.com,22,Free,East,New York,Books,244.72,259.13,104,2026-07-18,2026-07-18 00:00:00,Pending
+1017,user_1017,,51,Basic,East,New York,Electronics,91.51,92.12,104,2026-06-29,2026-06-29 00:00:00,Cancelled
+1010,user_1010,user_1010@example.com,45,Free,East,New York,Clothing,117.49,100.7,102,2026-06-29,2026-06-29 00:00:00,Cancelled
+1058,user_1058,user_1058@example.com,39,Free,East,New York,Clothing,63.2,72.29,104,2026-06-22,22/06/2026 12:00 AM,
+1078,user_1078,user_1078@example.com,49,Premium,East,New York,Electronics,246.3,256.49,101,2026-06-20,2026-06-20 00:00:00,
+1066,user_1066,user_1066@example.com,59,Free,East,New York,Clothing,469.83,520.32,103,2026-06-30,2026-06-30 00:00:00,Active
+1054,user_1054,user_1054@example.com,29,Premium,East,New York,Home & Kitchen,303.16,273.79,101,2026-06-26,26/06/2026 12:00 AM,Active
+1066,,user_1066@example.com,59,Standard,East,New York,Books,187.51,198.88,103,2026-07-10,2026-07-10 00:00:00,Cancelled
+1078,user_1078,user_1078@example.com,28,Free,East,New York,Sports,394.06,373.6,104,2026-07-10,2026-07-10 00:00:00,
+1094,user_1094,user_1094@example.com,22,Basic,East,New York,Books,393.72,330.77,104,2026-06-23,2026-06-23 00:00:00,Active
+1020,user_1020,user_1020@example.com,20,Basic,East,New York,Books,463.67,382.82,102,2026-07-07,07/07/2026 12:00 AM,
+1051,user_1051,user_1051@example.com,60,Premium,East,New York,Clothing,323.74,285.11,103,2026-07-12,,Pending
+1078,user_1078,,30,Premium,East,New York,Clothing,52.55,50.44,104,2026-07-06,2026-07-06 00:00:00,Active
+1011,user_1011,user_1011@example.com,50,Standard,East,New York,Home & Kitchen,482.01,502.52,102,2026-07-04,2026-07-04 00:00:00,Cancelled
+1022,user_1022,user_1022@example.com,19,Standard,East,New York,Home & Kitchen,474.04,560.64,103,2026-06-26,2026-06-26 00:00:00,
+1098,user_1098,user_1098@example.com,44,Free,East,New York,Sports,432.39,390.5,104,2026-06-28,2026-06-28 00:00:00,Pending
+1040,user_1040,user_1040@example.com,49,Premium,East,New York,Home & Kitchen,131.65,,103,2026-07-16,2026-07-16 00:00:00,Cancelled
+1045,user_1045,user_1045@example.com,26,Basic,East,New York,Books,371.19,332.89,103,2026-07-12,2026-07-12 00:00:00,Cancelled
+1019,user_1019,user_1019@example.com,20,Free,East,New York,Sports,13.25,15.68,104,2026-07-07,2026-07-07 00:00:00,Cancelled
+1062,user_1062,user_1062@example.com,47,Standard,East,New York,Books,118.83,97.64,104,2026-07-03,03/07/2026 12:00 AM,Cancelled
+1050,user_1050,user_1050@example.com,44,Premium,East,New York,Sports,235.43,189.46,102,2026-07-06,2026-07-06 00:00:00,Cancelled
+1023,user_1023,user_1023@example.com,45,Standard,East,New York,Home & Kitchen,100.12,96.88,103,2026-07-07,2026-07-07 00:00:00,Pending
+1073,user_1073,user_1073@example.com,29,Premium,East,New York,Home & Kitchen,404.0,461.58,102,2026-07-14,2026-07-14 00:00:00,
+1001,user_1001,user_1001@example.com,55,Standard,East,New York,Books,157.02,161.28,104,2026-07-15,15/07/2026 12:00 AM,Cancelled
+1060,user_1060,user_1060@example.com,36,Standard,East,New York,Home & Kitchen,186.55,209.68,103,2026-07-18,2026-07-18 00:00:00,Pending
+1073,user_1073,user_1073@example.com,26,Standard,East,New York,Home & Kitchen,169.29,187.89,104,2026-06-20,2026-06-20 00:00:00,
+1080,user_1080,user_1080@example.com,55,Standard,East,New York,Books,319.32,363.88,101,2026-07-16,2026-07-16 00:00:00,Cancelled
+1083,user_1083,user_1083@example.com,56,Free,East,New York,Home & Kitchen,444.97,523.07,104,2026-07-05,2026-07-05 00:00:00,Pending
+1093,user_1093,user_1093@example.com,59,Premium,East,New York,Clothing,91.79,75.77,104,2026-07-01,2026-07-01 00:00:00,Active
+1013,user_1013,user_1013@example.com,56,Free,East,New York,Home & Kitchen,122.38,119.6,102,2026-07-14,2026-07-14 00:00:00,Active
+1084,user_1084,user_1084@example.com,45,Free,East,New York,Sports,468.08,399.76,102,2026-06-30,2026-06-30 00:00:00,
+1067,user_1067,user_1067@example.com,37,Free,East,New York,Sports,121.29,,103,2026-07-07,2026-07-07 00:00:00,Active
+1000,user_1000,user_1000@example.com,23,Standard,East,New York,Home & Kitchen,239.91,,104,2026-06-18,2026-06-18 00:00:00,
+1037,user_1037,user_1037@example.com,50,Standard,East,New York,Clothing,211.75,202.84,102,2026-06-26,2026-06-26 00:00:00,
+1028,user_1028,user_1028@example.com,30,Standard,East,New York,Home & Kitchen,327.74,297.43,102,2026-06-21,2026-06-21 00:00:00,Active
+1081,user_1081,user_1081@example.com,59,Free,East,New York,Clothing,167.12,198.52,101,2026-07-13,2026-07-13 00:00:00,Pending
+1091,user_1091,,20,Basic,East,New York,Electronics,251.85,232.87,104,2026-07-07,2026-07-07 00:00:00,Cancelled
+1010,user_1010,user_1010@example.com,18,Standard,East,New York,Books,44.98,39.44,103,2026-06-22,22/06/2026 12:00 AM,Pending
+1049,user_1049,user_1049@example.com,17,Basic,East,New York,Books,370.31,,102,2026-07-03,2026-07-03 00:00:00,Cancelled
+1020,user_1020,,50,Premium,East,New York,Home & Kitchen,245.8,232.08,101,2026-06-21,2026-06-21 00:00:00,Pending
+1081,user_1081,,32,Premium,East,New York,Books,396.68,,101,2026-06-30,2026-06-30 00:00:00,Pending
+1047,user_1047,user_1047@example.com,46,Premium,East,New York,Sports,175.83,194.09,101,2026-07-17,2026-07-17 00:00:00,Active
+1016,user_1016,user_1016@example.com,50,Standard,East,New York,Books,369.26,,104,2026-07-07,2026-07-07 00:00:00,Active
+1062,user_1062,user_1062@example.com,49,Free,East,New York,Clothing,287.68,267.39,104,2026-07-10,2026-07-10 00:00:00,Pending
+1008,user_1008,user_1008@example.com,31,Standard,East,New York,Books,10.35,9.85,102,2026-06-20,,Cancelled
+1099,user_1099,user_1099@example.com,19,Free,East,New York,Clothing,266.79,272.28,103,2026-07-08,2026-07-08 00:00:00,Active
+1066,user_1066,,23,Basic,East,New York,Electronics,109.02,91.52,104,2026-06-27,2026-06-27 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,19,Premium,East,New York,Clothing,331.32,375.33,104,2026-06-23,2026-06-23 00:00:00,
+1047,user_1047,user_1047@example.com,54,Standard,East,New York,Sports,29.92,,103,2026-07-16,2026-07-16 00:00:00,Active
+1012,user_1012,user_1012@example.com,27,Basic,East,New York,Sports,331.87,391.28,104,2026-06-25,2026-06-25 00:00:00,Cancelled
+1086,user_1086,user_1086@example.com,21,Basic,East,New York,Clothing,279.48,297.09,104,2026-06-19,2026-06-19 00:00:00,Cancelled
+1047,user_1047,user_1047@example.com,35,Basic,East,New York,Sports,277.36,282.93,103,2026-07-07,2026-07-07 00:00:00,
+1000,user_1000,user_1000@example.com,53,Premium,East,New York,Sports,76.19,61.15,102,2026-07-12,12/07/2026 12:00 AM,Cancelled
+1070,user_1070,user_1070@example.com,51,Basic,East,New York,Electronics,28.49,24.37,103,2026-06-20,2026-06-20 00:00:00,Cancelled
+1011,user_1011,user_1011@example.com,28,Premium,East,New York,Home & Kitchen,398.52,450.44,101,2026-06-29,29/06/2026 12:00 AM,
+1010,user_1010,user_1010@example.com,36,Standard,East,New York,Books,214.1,245.77,102,2026-06-25,2026-06-25 00:00:00,Active
+1081,user_1081,user_1081@example.com,34,Premium,East,New York,Home & Kitchen,274.57,274.83,102,2026-07-14,2026-07-14 00:00:00,
+1057,user_1057,user_1057@example.com,20,Basic,East,New York,Books,151.99,129.63,101,2026-07-03,03/07/2026 12:00 AM,
+1033,user_1033,user_1033@example.com,59,Basic,East,New York,Clothing,245.65,235.36,102,2026-07-01,2026-07-01 00:00:00,Pending
+1031,user_1031,user_1031@example.com,35,Premium,East,New York,Electronics,339.16,318.58,103,2026-07-07,07/07/2026 12:00 AM,Cancelled
+1021,user_1021,user_1021@example.com,43,Basic,East,New York,Books,31.99,28.15,103,2026-07-14,2026-07-14 00:00:00,Active
+1094,user_1094,user_1094@example.com,24,Standard,East,New York,Electronics,178.2,164.31,104,2026-07-18,2026-07-18 00:00:00,Pending
+1026,user_1026,user_1026@example.com,50,Free,East,New York,Sports,367.66,396.89,101,2026-07-06,2026-07-06 00:00:00,Active
+1032,user_1032,user_1032@example.com,59,Standard,East,New York,Electronics,237.83,196.6,103,2026-06-27,2026-06-27 00:00:00,Active
+1002,user_1002,user_1002@example.com,39,Basic,East,New York,Books,259.18,301.05,104,2026-06-21,21/06/2026 12:00 AM,Pending
+1064,user_1064,user_1064@example.com,60,Premium,East,New York,Electronics,131.22,122.48,104,2026-06-25,2026-06-25 00:00:00,Cancelled
+1045,user_1045,user_1045@example.com,47,Standard,East,New York,Electronics,316.64,366.09,101,2026-06-18,2026-06-18 00:00:00,Pending
+1043,user_1043,user_1043@example.com,20,Free,East,New York,Sports,480.7,504.84,102,2026-07-05,2026-07-05 00:00:00,Cancelled
+1077,user_1077,user_1077@example.com,28,Basic,East,New York,Sports,275.26,315.18,103,2026-06-26,2026-06-26 00:00:00,Pending
+1055,user_1055,user_1055@example.com,24,Basic,East,New York,Home & Kitchen,43.23,47.02,102,2026-07-08,2026-07-08 00:00:00,Active
+1097,user_1097,user_1097@example.com,41,Standard,East,New York,Books,375.35,395.9,103,2026-07-14,2026-07-14 00:00:00,Pending
+1003,user_1003,user_1003@example.com,32,Basic,East,New York,Sports,123.77,116.8,104,2026-07-14,2026-07-14 00:00:00,Cancelled
+1023,user_1023,user_1023@example.com,23,Basic,East,New York,Clothing,120.87,143.54,103,2026-06-18,2026-06-18 00:00:00,Pending
+1096,user_1096,user_1096@example.com,43,Free,East,New York,Home & Kitchen,434.72,422.12,101,2026-06-29,2026-06-29 00:00:00,Cancelled
+1050,user_1050,user_1050@example.com,53,Premium,East,New York,Sports,63.56,73.16,102,2026-07-02,2026-07-02 00:00:00,Active
+1071,user_1071,user_1071@example.com,18,Basic,East,New York,Home & Kitchen,225.38,250.05,103,2026-07-04,2026-07-04 00:00:00,Active
+1088,user_1088,user_1088@example.com,56,Free,East,New York,Electronics,364.1,404.69,102,2026-07-06,2026-07-06 00:00:00,Pending
+1058,user_1058,user_1058@example.com,27,Free,East,New York,Electronics,132.54,154.13,102,2026-06-26,26/06/2026 12:00 AM,
+1081,user_1081,user_1081@example.com,39,Basic,East,New York,Books,279.67,,102,2026-06-19,2026-06-19 00:00:00,Pending
+1020,user_1020,user_1020@example.com,60,Premium,East,New York,Books,160.95,190.63,103,2026-06-28,2026-06-28 00:00:00,Pending
+1000,user_1000,user_1000@example.com,44,Free,East,New York,Books,276.32,,104,2026-07-11,2026-07-11 00:00:00,
+1052,user_1052,user_1052@example.com,15,Basic,East,New York,Sports,146.28,165.01,102,2026-07-17,17/07/2026 12:00 AM,Cancelled
+1004,user_1004,,51,Standard,East,New York,Home & Kitchen,460.99,,104,2026-07-13,2026-07-13 00:00:00,Pending
+1058,user_1058,user_1058@example.com,17,Premium,East,New York,Home & Kitchen,168.18,189.72,104,2026-06-22,2026-06-22 00:00:00,Pending
+1015,user_1015,user_1015@example.com,48,Free,East,New York,Sports,112.82,92.88,101,2026-07-03,2026-07-03 00:00:00,Cancelled
+1054,user_1054,user_1054@example.com,48,Standard,East,New York,Clothing,311.0,339.51,104,2026-07-03,2026-07-03 00:00:00,Pending
+1090,user_1090,user_1090@example.com,22,Premium,East,New York,Books,316.48,360.54,104,2026-07-05,,Cancelled
+1071,user_1071,user_1071@example.com,55,Basic,East,New York,Home & Kitchen,134.66,,103,2026-07-02,2026-07-02 00:00:00,Active
+1087,user_1087,user_1087@example.com,51,Premium,East,New York,Clothing,105.07,122.82,104,2026-06-19,19/06/2026 12:00 AM,Pending
+1061,user_1061,user_1061@example.com,49,Standard,East,New York,Books,394.15,432.4,103,2026-06-30,2026-06-30 00:00:00,Active
+1026,user_1026,user_1026@example.com,37,Premium,East,New York,Clothing,147.43,,104,2026-06-28,2026-06-28 00:00:00,
+1023,user_1023,user_1023@example.com,34,Standard,East,New York,Electronics,143.03,,102,2026-07-07,2026-07-07 00:00:00,Pending
+1067,user_1067,user_1067@example.com,17,Basic,East,New York,Electronics,227.45,,104,2026-06-20,2026-06-20 00:00:00,
+1093,user_1093,user_1093@example.com,35,Basic,East,New York,Electronics,412.85,442.03,102,2026-07-12,2026-07-12 00:00:00,Active
+1000,user_1000,,53,Premium,East,New York,Home & Kitchen,238.77,,103,2026-07-18,2026-07-18 00:00:00,Pending
+1041,user_1041,user_1041@example.com,49,Standard,East,New York,Books,338.85,292.43,101,2026-07-18,2026-07-18 00:00:00,Active
+1026,user_1026,user_1026@example.com,32,Basic,East,New York,Home & Kitchen,291.3,269.32,103,2026-07-01,2026-07-01 00:00:00,
+1086,user_1086,user_1086@example.com,20,Free,East,New York,Books,97.7,101.32,104,2026-06-29,2026-06-29 00:00:00,Pending
+1091,user_1091,user_1091@example.com,20,Free,East,New York,Sports,74.58,87.1,104,2026-07-15,2026-07-15 00:00:00,
+1060,user_1060,user_1060@example.com,54,Standard,East,New York,Home & Kitchen,202.12,215.47,103,2026-07-04,04/07/2026 12:00 AM,Active
+1044,user_1044,user_1044@example.com,33,Standard,East,New York,Sports,291.59,280.59,101,2026-07-08,08/07/2026 12:00 AM,Cancelled
+1068,user_1068,user_1068@example.com,30,Basic,East,New York,Sports,87.92,72.66,102,2026-06-22,2026-06-22 00:00:00,
+1072,user_1072,user_1072@example.com,30,Basic,East,New York,Electronics,372.29,422.44,101,2026-06-30,2026-06-30 00:00:00,Active
+1056,user_1056,user_1056@example.com,19,Premium,East,New York,Sports,387.96,387.07,101,2026-07-16,2026-07-16 00:00:00,Active
+1096,user_1096,user_1096@example.com,49,Standard,East,New York,Books,311.63,274.94,103,2026-07-09,2026-07-09 00:00:00,Cancelled
+1055,user_1055,user_1055@example.com,20,Premium,East,New York,Sports,493.35,419.85,103,2026-07-17,2026-07-17 00:00:00,Active
+1000,user_1000,user_1000@example.com,37,Premium,East,New York,Home & Kitchen,434.18,469.3,104,2026-06-28,2026-06-28 00:00:00,
+1055,user_1055,user_1055@example.com,45,Basic,East,New York,Clothing,282.16,266.39,104,2026-07-14,2026-07-14 00:00:00,Pending
+1017,,user_1017@example.com,24,Free,East,New York,Books,487.74,416.96,104,2026-06-21,2026-06-21 00:00:00,
+1079,user_1079,user_1079@example.com,50,Free,East,New York,Books,184.1,191.8,104,2026-06-21,2026-06-21 00:00:00,Cancelled
+1052,user_1052,user_1052@example.com,17,Premium,East,New York,Sports,246.8,254.72,101,2026-07-14,2026-07-14 00:00:00,Cancelled
+1059,user_1059,user_1059@example.com,54,Premium,East,New York,Clothing,241.5,285.98,101,2026-06-27,2026-06-27 00:00:00,Cancelled
+1078,user_1078,user_1078@example.com,15,Free,East,New York,Books,261.2,285.63,104,2026-07-07,2026-07-07 00:00:00,Cancelled
+1021,,user_1021@example.com,34,Standard,East,New York,Electronics,318.36,327.64,103,2026-06-23,23/06/2026 12:00 AM,
+1010,user_1010,user_1010@example.com,32,Standard,East,New York,Clothing,311.74,281.43,101,2026-06-29,2026-06-29 00:00:00,Pending
+1084,user_1084,user_1084@example.com,31,Basic,East,New York,Books,98.6,80.19,101,2026-06-18,2026-06-18 00:00:00,Pending
+1063,user_1063,user_1063@example.com,39,Basic,East,New York,Books,365.74,377.12,103,2026-07-17,2026-07-17 00:00:00,Active
+1006,user_1006,user_1006@example.com,34,Free,East,New York,Sports,124.49,119.02,103,2026-07-14,2026-07-14 00:00:00,Cancelled
+1057,user_1057,user_1057@example.com,48,Premium,East,New York,Electronics,459.68,543.56,104,2026-06-29,2026-06-29 00:00:00,Cancelled
+1034,user_1034,user_1034@example.com,56,Free,East,New York,Books,388.84,425.28,102,2026-07-02,2026-07-02 00:00:00,Pending
+1040,user_1040,user_1040@example.com,19,Premium,East,New York,Books,57.87,56.62,102,2026-06-25,2026-06-25 00:00:00,Active
+1079,user_1079,user_1079@example.com,57,Basic,East,New York,Sports,322.66,273.61,102,2026-07-06,2026-07-06 00:00:00,Pending
+1014,user_1014,user_1014@example.com,44,Premium,East,New York,Books,462.12,448.62,103,2026-07-10,10/07/2026 12:00 AM,Active
+1048,user_1048,user_1048@example.com,31,Standard,East,New York,Clothing,225.88,264.6,104,2026-07-13,2026-07-13 00:00:00,
+1027,user_1027,user_1027@example.com,43,Standard,East,New York,Electronics,27.08,,103,2026-06-24,2026-06-24 00:00:00,Pending
+1083,user_1083,user_1083@example.com,57,Free,East,New York,Home & Kitchen,84.29,80.63,101,2026-07-02,2026-07-02 00:00:00,
+1055,user_1055,user_1055@example.com,19,Basic,East,New York,Electronics,198.37,220.57,101,2026-06-30,2026-06-30 00:00:00,Cancelled
+1087,user_1087,user_1087@example.com,56,Premium,East,New York,Home & Kitchen,271.97,226.33,104,2026-06-24,2026-06-24 00:00:00,Pending
+1070,,user_1070@example.com,27,Standard,East,New York,Books,449.27,423.98,101,2026-06-20,2026-06-20 00:00:00,Pending
+1004,user_1004,user_1004@example.com,52,Basic,East,New York,Books,200.5,212.0,104,2026-07-01,2026-07-01 00:00:00,Active
+1004,user_1004,user_1004@example.com,17,Free,East,New York,Electronics,113.72,114.77,102,2026-06-25,2026-06-25 00:00:00,Active
+1094,user_1094,user_1094@example.com,45,Premium,East,New York,Clothing,353.64,307.28,101,2026-06-20,2026-06-20 00:00:00,
+1078,user_1078,user_1078@example.com,21,Premium,East,New York,Books,301.54,248.84,102,2026-07-05,2026-07-05 00:00:00,
+1041,user_1041,user_1041@example.com,49,Basic,East,New York,Home & Kitchen,419.85,464.22,102,2026-07-08,2026-07-08 00:00:00,
+1021,user_1021,user_1021@example.com,43,Basic,West,Los Angeles,Sports,29.94,,104,2026-06-24,2026-06-24 00:00:00,Active
+1000,,user_1000@example.com,60,Standard,West,Los Angeles,Books,349.82,346.46,102,2026-07-12,2026-07-12 00:00:00,
+1052,user_1052,user_1052@example.com,59,Premium,West,Los Angeles,Sports,98.2,115.89,103,2026-07-07,2026-07-07 00:00:00,Pending
+1015,user_1015,user_1015@example.com,54,Standard,West,Los Angeles,Sports,258.69,271.78,102,2026-07-10,2026-07-10 00:00:00,Pending
+1087,user_1087,user_1087@example.com,46,Basic,West,Los Angeles,Clothing,338.37,,103,2026-07-09,2026-07-09 00:00:00,
+1005,user_1005,user_1005@example.com,49,Basic,West,Los Angeles,Clothing,394.89,334.25,102,2026-06-25,2026-06-25 00:00:00,
+1025,user_1025,user_1025@example.com,29,Premium,West,Los Angeles,Home & Kitchen,121.61,117.36,102,2026-07-06,06/07/2026 12:00 AM,
+1006,user_1006,user_1006@example.com,54,Free,West,Los Angeles,Clothing,199.79,217.36,103,2026-07-10,2026-07-10 00:00:00,Active
+1035,user_1035,user_1035@example.com,44,Free,West,Los Angeles,Clothing,382.57,351.22,102,2026-06-23,2026-06-23 00:00:00,Pending
+1073,user_1073,user_1073@example.com,20,Free,West,Los Angeles,Sports,249.71,258.86,104,2026-07-10,,
+1094,user_1094,user_1094@example.com,42,Basic,West,Los Angeles,Sports,473.66,549.11,104,2026-07-17,,
+1093,user_1093,,48,Free,West,Los Angeles,Books,406.76,341.35,104,2026-07-11,2026-07-11 00:00:00,
+1027,user_1027,user_1027@example.com,56,Premium,West,Los Angeles,Electronics,245.09,265.02,101,2026-07-04,2026-07-04 00:00:00,
+1023,user_1023,user_1023@example.com,44,Premium,West,Los Angeles,Electronics,198.59,201.05,103,2026-07-05,2026-07-05 00:00:00,Pending
+1100,user_1100,user_1100@example.com,36,Premium,West,Los Angeles,Sports,473.21,546.65,101,2026-07-06,2026-07-06 00:00:00,Cancelled
+1046,user_1046,user_1046@example.com,19,Basic,West,Los Angeles,Clothing,490.81,414.94,104,2026-06-25,2026-06-25 00:00:00,Pending
+1096,user_1096,user_1096@example.com,37,Standard,West,Los Angeles,Sports,343.31,283.35,103,2026-07-04,2026-07-04 00:00:00,Active
+1060,user_1060,user_1060@example.com,49,Standard,West,Los Angeles,Books,314.27,370.26,101,2026-07-12,2026-07-12 00:00:00,Active
+1050,user_1050,user_1050@example.com,19,Premium,West,Los Angeles,Clothing,145.21,145.0,102,2026-07-02,02/07/2026 12:00 AM,
+1087,user_1087,user_1087@example.com,37,Free,West,Los Angeles,Books,371.48,,102,2026-07-16,,Pending
+1066,user_1066,user_1066@example.com,36,Standard,West,Los Angeles,Books,300.75,341.88,104,2026-07-04,2026-07-04 00:00:00,Cancelled
+1021,user_1021,user_1021@example.com,38,Standard,West,Los Angeles,Electronics,82.69,97.78,102,2026-06-26,2026-06-26 00:00:00,Pending
+1090,user_1090,user_1090@example.com,24,Basic,West,Los Angeles,Clothing,67.29,69.3,104,2026-07-10,2026-07-10 00:00:00,Active
+1085,user_1085,user_1085@example.com,38,Free,West,Los Angeles,Sports,487.98,414.1,101,2026-07-06,2026-07-06 00:00:00,
+1040,user_1040,user_1040@example.com,49,Standard,West,Los Angeles,Home & Kitchen,242.22,285.24,102,2026-06-23,2026-06-23 00:00:00,
+1043,user_1043,user_1043@example.com,17,Basic,West,Los Angeles,Sports,67.27,,102,2026-07-04,2026-07-04 00:00:00,Pending
+1074,user_1074,user_1074@example.com,32,Basic,West,Los Angeles,Electronics,50.96,54.57,101,2026-07-02,2026-07-02 00:00:00,Active
+1085,user_1085,user_1085@example.com,42,Standard,West,Los Angeles,Books,192.69,181.23,104,2026-06-21,2026-06-21 00:00:00,
+1094,user_1094,user_1094@example.com,33,Basic,West,Los Angeles,Books,367.02,416.28,101,2026-07-14,2026-07-14 00:00:00,Cancelled
+1008,user_1008,user_1008@example.com,39,Premium,West,Los Angeles,Electronics,210.64,203.44,104,2026-06-26,2026-06-26 00:00:00,Pending
+1023,user_1023,user_1023@example.com,46,Premium,West,Los Angeles,Home & Kitchen,418.95,428.88,104,2026-07-11,,Active
+1019,user_1019,user_1019@example.com,55,Free,West,Los Angeles,Electronics,330.37,319.42,104,2026-06-19,2026-06-19 00:00:00,Active
+1097,user_1097,user_1097@example.com,19,Standard,West,Los Angeles,Sports,245.44,221.67,104,2026-06-26,2026-06-26 00:00:00,Active
+1033,user_1033,user_1033@example.com,35,Free,West,Los Angeles,Clothing,185.12,,103,2026-07-05,2026-07-05 00:00:00,Active
+1037,user_1037,user_1037@example.com,19,Basic,West,Los Angeles,Clothing,384.7,333.48,103,2026-06-21,2026-06-21 00:00:00,Cancelled
+1034,user_1034,user_1034@example.com,21,Standard,West,Los Angeles,Clothing,16.32,15.49,104,2026-07-05,2026-07-05 00:00:00,Active
+1027,user_1027,user_1027@example.com,27,Premium,West,Los Angeles,Books,235.64,,102,2026-06-19,,Cancelled
+1039,user_1039,user_1039@example.com,43,Standard,West,Los Angeles,Clothing,357.85,,101,2026-07-11,2026-07-11 00:00:00,Pending
+1039,user_1039,user_1039@example.com,20,Free,West,Los Angeles,Electronics,48.09,53.04,101,2026-07-12,2026-07-12 00:00:00,Active
+1060,user_1060,user_1060@example.com,19,Standard,West,Los Angeles,Electronics,379.73,443.54,102,2026-06-30,2026-06-30 00:00:00,Cancelled
+1003,user_1003,user_1003@example.com,32,Standard,West,Los Angeles,Home & Kitchen,88.67,96.78,102,2026-07-02,02/07/2026 12:00 AM,Active
+1067,user_1067,user_1067@example.com,33,Basic,West,Los Angeles,Sports,12.12,14.18,104,2026-07-07,2026-07-07 00:00:00,Active
+1023,user_1023,user_1023@example.com,42,Basic,West,Los Angeles,Sports,121.5,145.05,101,2026-07-04,2026-07-04 00:00:00,Cancelled
+1090,user_1090,user_1090@example.com,20,Standard,West,Los Angeles,Books,66.7,69.38,103,2026-06-27,2026-06-27 00:00:00,
+1037,user_1037,user_1037@example.com,19,Free,West,Los Angeles,Home & Kitchen,97.86,97.53,101,2026-07-06,2026-07-06 00:00:00,Active
+1015,user_1015,user_1015@example.com,52,Premium,West,Los Angeles,Clothing,41.71,39.02,104,2026-07-15,2026-07-15 00:00:00,
+1035,user_1035,user_1035@example.com,52,Standard,West,Los Angeles,Books,184.49,217.71,104,2026-07-02,2026-07-02 00:00:00,Active
+1015,user_1015,user_1015@example.com,55,Basic,West,Los Angeles,Electronics,58.81,,101,2026-07-03,2026-07-03 00:00:00,
+1077,user_1077,user_1077@example.com,54,Premium,West,Los Angeles,Electronics,333.93,332.89,104,2026-07-12,2026-07-12 00:00:00,Cancelled
+1069,user_1069,user_1069@example.com,49,Premium,West,Los Angeles,Electronics,495.45,419.97,104,2026-07-08,2026-07-08 00:00:00,Active
+1004,user_1004,user_1004@example.com,34,Basic,West,Los Angeles,Books,221.03,211.22,101,2026-06-30,2026-06-30 00:00:00,
+1060,user_1060,user_1060@example.com,18,Free,West,Los Angeles,Home & Kitchen,252.4,264.21,103,2026-06-24,2026-06-24 00:00:00,Active
+1075,,user_1075@example.com,37,Premium,West,Los Angeles,Home & Kitchen,196.48,235.14,104,2026-07-07,2026-07-07 00:00:00,Pending
+1082,user_1082,user_1082@example.com,59,Premium,West,Los Angeles,Home & Kitchen,66.09,67.11,101,2026-07-04,2026-07-04 00:00:00,
+1034,,user_1034@example.com,16,Standard,West,Los Angeles,Books,289.47,242.89,104,2026-07-15,2026-07-15 00:00:00,
+1064,user_1064,user_1064@example.com,25,Standard,West,Los Angeles,Home & Kitchen,485.02,511.3,101,2026-06-22,2026-06-22 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,29,Premium,West,Los Angeles,Sports,56.42,46.65,104,2026-07-05,2026-07-05 00:00:00,Cancelled
+1064,user_1064,user_1064@example.com,49,Standard,West,Los Angeles,Clothing,213.01,214.32,102,2026-06-20,,Pending
+1073,user_1073,user_1073@example.com,44,Standard,West,Los Angeles,Sports,406.38,472.51,101,2026-07-02,2026-07-02 00:00:00,Pending
+1019,user_1019,user_1019@example.com,42,Free,West,Los Angeles,Home & Kitchen,431.49,454.61,104,2026-07-10,2026-07-10 00:00:00,Cancelled
+1087,user_1087,user_1087@example.com,22,Basic,West,Los Angeles,Clothing,23.58,21.79,104,2026-07-01,2026-07-01 00:00:00,Active
+1025,user_1025,user_1025@example.com,31,Standard,West,Los Angeles,Sports,96.23,114.08,104,2026-06-23,,Active
+1040,user_1040,user_1040@example.com,41,Standard,West,Los Angeles,Electronics,204.48,232.51,102,2026-07-15,2026-07-15 00:00:00,Active
+1066,user_1066,user_1066@example.com,48,Standard,West,Los Angeles,Books,443.44,376.44,103,2026-07-08,2026-07-08 00:00:00,Pending
+1054,user_1054,user_1054@example.com,28,Standard,West,Los Angeles,Books,210.1,172.78,103,2026-06-26,2026-06-26 00:00:00,
+1060,user_1060,user_1060@example.com,24,Standard,West,Los Angeles,Books,360.68,291.58,101,2026-06-22,2026-06-22 00:00:00,Active
+1088,user_1088,user_1088@example.com,31,Free,West,Los Angeles,Home & Kitchen,323.09,375.19,101,2026-07-01,2026-07-01 00:00:00,
+1001,user_1001,user_1001@example.com,31,Standard,West,Los Angeles,Electronics,468.8,430.81,102,2026-06-19,2026-06-19 00:00:00,
+1004,user_1004,user_1004@example.com,46,Free,West,Los Angeles,Books,463.98,449.57,101,2026-06-22,2026-06-22 00:00:00,Active
+1045,user_1045,user_1045@example.com,50,Standard,West,Los Angeles,Books,350.65,370.48,102,2026-06-28,2026-06-28 00:00:00,Active
+1051,user_1051,user_1051@example.com,51,Premium,West,Los Angeles,Electronics,87.33,103.74,102,2026-06-21,2026-06-21 00:00:00,Cancelled
+1057,user_1057,user_1057@example.com,31,Basic,West,Los Angeles,Sports,415.12,365.08,104,2026-07-07,2026-07-07 00:00:00,Pending
+1002,user_1002,user_1002@example.com,56,Basic,West,Los Angeles,Electronics,487.32,526.55,102,2026-07-17,2026-07-17 00:00:00,Cancelled
+1019,user_1019,user_1019@example.com,51,Premium,West,Los Angeles,Electronics,362.11,422.94,104,2026-06-22,2026-06-22 00:00:00,Pending
+1024,user_1024,user_1024@example.com,32,Standard,West,Los Angeles,Books,197.22,174.07,102,2026-06-22,2026-06-22 00:00:00,
+1023,user_1023,user_1023@example.com,33,Standard,West,Los Angeles,Clothing,312.66,296.36,104,2026-07-16,,Pending
+1041,user_1041,user_1041@example.com,28,Free,West,Los Angeles,Books,370.69,310.68,101,2026-07-17,2026-07-17 00:00:00,Cancelled
+1077,user_1077,user_1077@example.com,53,Premium,West,Los Angeles,Electronics,134.29,123.68,104,2026-06-27,2026-06-27 00:00:00,Active
+1074,user_1074,user_1074@example.com,46,Standard,West,Los Angeles,Books,74.64,75.55,102,2026-07-10,10/07/2026 12:00 AM,Pending
+1063,user_1063,user_1063@example.com,38,Free,West,Los Angeles,Home & Kitchen,452.37,512.01,103,2026-07-02,2026-07-02 00:00:00,Cancelled
+1094,user_1094,user_1094@example.com,24,Free,West,Los Angeles,Electronics,102.57,,102,2026-07-17,2026-07-17 00:00:00,
+1055,user_1055,user_1055@example.com,46,Premium,West,Los Angeles,Books,184.69,183.6,104,2026-07-15,2026-07-15 00:00:00,Active
+1044,user_1044,user_1044@example.com,26,Basic,West,Los Angeles,Sports,413.06,440.01,102,2026-06-30,30/06/2026 12:00 AM,Pending
+1053,user_1053,user_1053@example.com,46,Premium,West,Los Angeles,Home & Kitchen,22.72,24.36,104,2026-07-07,2026-07-07 00:00:00,Cancelled
+1019,,user_1019@example.com,60,Free,West,Los Angeles,Books,317.89,337.98,103,2026-07-17,2026-07-17 00:00:00,Cancelled
+1093,user_1093,user_1093@example.com,51,Basic,West,Los Angeles,Clothing,433.01,395.42,101,2026-06-25,2026-06-25 00:00:00,
+1011,user_1011,user_1011@example.com,40,Premium,West,Los Angeles,Electronics,427.65,475.46,103,2026-06-28,2026-06-28 00:00:00,Active
+1038,user_1038,user_1038@example.com,34,Basic,West,Los Angeles,Home & Kitchen,336.1,337.8,104,2026-07-04,2026-07-04 00:00:00,
+1011,user_1011,user_1011@example.com,54,Basic,West,Los Angeles,Books,319.04,,103,2026-07-04,2026-07-04 00:00:00,Pending
+1063,user_1063,user_1063@example.com,20,Standard,West,Los Angeles,Books,224.3,222.29,102,2026-07-14,2026-07-14 00:00:00,Pending
+1066,user_1066,user_1066@example.com,50,Premium,West,Los Angeles,Electronics,261.57,252.47,104,2026-06-27,2026-06-27 00:00:00,Cancelled
+1032,user_1032,user_1032@example.com,16,Premium,West,Los Angeles,Books,97.98,93.78,101,2026-07-05,2026-07-05 00:00:00,
+1096,user_1096,user_1096@example.com,31,Standard,West,Los Angeles,Clothing,113.42,,103,2026-06-21,2026-06-21 00:00:00,Active
+1000,user_1000,,56,Free,West,Los Angeles,Books,348.99,414.01,104,2026-07-09,2026-07-09 00:00:00,Cancelled
+1088,user_1088,user_1088@example.com,40,Standard,West,Los Angeles,Electronics,71.29,,101,2026-06-22,,Pending
+1003,user_1003,user_1003@example.com,56,Basic,West,Los Angeles,Books,422.62,429.14,101,2026-07-09,2026-07-09 00:00:00,
+1002,user_1002,user_1002@example.com,59,Free,West,Los Angeles,Books,241.03,249.25,102,2026-07-09,2026-07-09 00:00:00,Active
+1042,,user_1042@example.com,60,Free,West,Los Angeles,Books,425.82,442.14,103,2026-07-17,2026-07-17 00:00:00,
+1029,user_1029,user_1029@example.com,42,Standard,West,Los Angeles,Sports,41.12,39.76,104,2026-07-15,2026-07-15 00:00:00,Cancelled
+1057,user_1057,,33,Basic,West,Los Angeles,Books,178.49,158.48,103,2026-06-19,2026-06-19 00:00:00,
+1016,user_1016,user_1016@example.com,39,Free,West,Los Angeles,Home & Kitchen,400.03,455.16,102,2026-07-09,09/07/2026 12:00 AM,
+1016,user_1016,user_1016@example.com,46,Premium,West,Los Angeles,Books,472.1,422.0,101,2026-07-18,2026-07-18 00:00:00,Pending
+1022,user_1022,user_1022@example.com,17,Premium,West,Los Angeles,Home & Kitchen,221.0,187.47,102,2026-07-03,2026-07-03 00:00:00,Cancelled
+1098,,user_1098@example.com,32,Basic,West,Los Angeles,Sports,306.1,251.05,104,2026-06-23,2026-06-23 00:00:00,Active
+1013,user_1013,user_1013@example.com,21,Premium,West,Los Angeles,Sports,61.65,70.8,103,2026-07-13,2026-07-13 00:00:00,
+1093,user_1093,user_1093@example.com,38,Standard,West,Los Angeles,Clothing,70.26,83.46,101,2026-07-11,2026-07-11 00:00:00,Cancelled
+1064,user_1064,user_1064@example.com,60,Free,West,Los Angeles,Home & Kitchen,318.43,350.68,104,2026-06-23,2026-06-23 00:00:00,
+1052,user_1052,user_1052@example.com,48,Standard,West,Los Angeles,Electronics,226.86,246.61,101,2026-07-16,2026-07-16 00:00:00,Pending
+1055,user_1055,user_1055@example.com,57,Basic,West,Los Angeles,Sports,38.33,41.6,103,2026-07-05,2026-07-05 00:00:00,Cancelled
+1092,user_1092,user_1092@example.com,15,Standard,West,Los Angeles,Sports,309.1,297.22,102,2026-06-20,2026-06-20 00:00:00,
+1089,user_1089,user_1089@example.com,56,Free,West,Los Angeles,Clothing,441.68,,103,2026-07-06,2026-07-06 00:00:00,Pending
+1066,user_1066,user_1066@example.com,20,Standard,West,Los Angeles,Sports,176.95,143.22,103,2026-07-11,2026-07-11 00:00:00,
+1064,user_1064,user_1064@example.com,38,Standard,West,Los Angeles,Sports,183.69,,101,2026-07-04,2026-07-04 00:00:00,
+1043,user_1043,user_1043@example.com,52,Basic,West,Los Angeles,Home & Kitchen,156.61,176.35,102,2026-06-26,2026-06-26 00:00:00,Active
+1041,user_1041,user_1041@example.com,38,Free,West,Los Angeles,Electronics,81.81,78.93,101,2026-07-17,2026-07-17 00:00:00,Pending
+1057,user_1057,user_1057@example.com,40,Free,West,Los Angeles,Home & Kitchen,296.31,355.16,104,2026-06-25,2026-06-25 00:00:00,Pending
+1064,user_1064,user_1064@example.com,23,Premium,West,Los Angeles,Clothing,233.16,,102,2026-06-18,2026-06-18 00:00:00,Active
+1077,user_1077,user_1077@example.com,38,Standard,West,Los Angeles,Electronics,266.16,245.39,103,2026-07-09,09/07/2026 12:00 AM,Pending
+1018,user_1018,user_1018@example.com,34,Standard,West,Los Angeles,Clothing,99.71,79.85,103,2026-07-16,2026-07-16 00:00:00,Cancelled
+1072,user_1072,user_1072@example.com,39,Free,West,Los Angeles,Sports,75.08,79.18,104,2026-06-27,2026-06-27 00:00:00,Cancelled
+1011,user_1011,user_1011@example.com,41,Free,West,Los Angeles,Clothing,451.12,369.16,104,2026-06-25,25/06/2026 12:00 AM,Pending
+1090,,user_1090@example.com,60,Standard,West,Los Angeles,Sports,326.13,272.01,101,2026-06-18,2026-06-18 00:00:00,
+1064,user_1064,user_1064@example.com,49,Basic,West,Los Angeles,Electronics,144.73,163.82,104,2026-07-16,2026-07-16 00:00:00,
+1075,,user_1075@example.com,16,Standard,West,Los Angeles,Books,98.45,,103,2026-07-06,2026-07-06 00:00:00,Active
+1069,user_1069,user_1069@example.com,31,Premium,West,Los Angeles,Clothing,160.33,139.11,103,2026-07-13,,Active
+1038,user_1038,user_1038@example.com,41,Standard,West,Los Angeles,Home & Kitchen,194.0,164.59,102,2026-07-11,2026-07-11 00:00:00,
+1065,user_1065,user_1065@example.com,22,Standard,West,Los Angeles,Electronics,165.98,137.13,101,2026-07-05,2026-07-05 00:00:00,Active
+1034,user_1034,user_1034@example.com,21,Basic,West,Los Angeles,Sports,329.26,338.25,104,2026-07-16,2026-07-16 00:00:00,Pending
+1047,user_1047,user_1047@example.com,30,Free,West,Los Angeles,Sports,231.35,,104,2026-06-18,2026-06-18 00:00:00,Pending
+1000,user_1000,user_1000@example.com,32,Standard,West,Los Angeles,Books,499.63,442.22,103,2026-07-17,2026-07-17 00:00:00,Active
+1038,user_1038,user_1038@example.com,23,Standard,West,Los Angeles,Books,113.32,127.01,103,2026-06-28,2026-06-28 00:00:00,
+1034,user_1034,user_1034@example.com,36,Basic,West,Los Angeles,Books,479.91,559.39,102,2026-06-28,2026-06-28 00:00:00,Active
+1001,user_1001,user_1001@example.com,59,Free,West,Los Angeles,Books,273.68,290.0,101,2026-07-01,,
+1086,user_1086,user_1086@example.com,39,Standard,West,Los Angeles,Books,96.82,104.45,101,2026-07-15,2026-07-15 00:00:00,
+1001,user_1001,,32,Standard,West,Los Angeles,Clothing,54.08,49.82,102,2026-07-11,2026-07-11 00:00:00,Active
+1035,user_1035,user_1035@example.com,53,Basic,West,Los Angeles,Electronics,106.08,101.67,103,2026-06-30,2026-06-30 00:00:00,Pending
+1084,user_1084,user_1084@example.com,53,Basic,West,Los Angeles,Electronics,298.2,253.76,102,2026-06-20,2026-06-20 00:00:00,Pending
+1086,,user_1086@example.com,58,Standard,West,Los Angeles,Sports,442.72,,104,2026-06-28,2026-06-28 00:00:00,Cancelled
+1055,user_1055,user_1055@example.com,22,Free,West,Los Angeles,Books,187.12,215.85,102,2026-07-17,2026-07-17 00:00:00,
+1040,,user_1040@example.com,20,Premium,West,Los Angeles,Clothing,489.27,405.98,102,2026-07-12,2026-07-12 00:00:00,Active
+1003,user_1003,user_1003@example.com,52,Standard,West,Los Angeles,Home & Kitchen,131.11,155.17,101,2026-06-22,2026-06-22 00:00:00,Active
+1099,user_1099,user_1099@example.com,21,Free,West,Los Angeles,Sports,71.16,83.02,104,2026-07-08,2026-07-08 00:00:00,Pending
+1007,user_1007,user_1007@example.com,34,Free,West,Los Angeles,Electronics,59.9,,101,2026-07-09,2026-07-09 00:00:00,
+1029,user_1029,user_1029@example.com,54,Premium,West,Los Angeles,Books,198.12,228.23,101,2026-07-08,2026-07-08 00:00:00,Active
+1058,user_1058,user_1058@example.com,21,Premium,West,Los Angeles,Electronics,301.64,,102,2026-06-20,2026-06-20 00:00:00,Cancelled
+1045,user_1045,user_1045@example.com,43,Basic,West,Los Angeles,Clothing,77.46,,102,2026-07-09,2026-07-09 00:00:00,Cancelled
+1039,user_1039,user_1039@example.com,24,Basic,West,Los Angeles,Books,161.25,152.79,101,2026-07-02,2026-07-02 00:00:00,Active
+1030,user_1030,user_1030@example.com,18,Free,West,Los Angeles,Home & Kitchen,105.75,123.03,101,2026-07-08,2026-07-08 00:00:00,
+1076,user_1076,user_1076@example.com,51,Standard,West,Los Angeles,Sports,156.82,132.03,101,2026-07-03,03/07/2026 12:00 AM,Pending
+1088,user_1088,user_1088@example.com,30,Free,West,Los Angeles,Home & Kitchen,405.56,389.39,101,2026-07-07,,Cancelled
+1003,user_1003,user_1003@example.com,43,Basic,West,Los Angeles,Sports,457.23,544.16,102,2026-07-12,2026-07-12 00:00:00,Cancelled
+1092,user_1092,user_1092@example.com,30,Basic,West,Los Angeles,Clothing,20.53,23.9,101,2026-06-22,2026-06-22 00:00:00,Active
+1043,user_1043,user_1043@example.com,30,Standard,West,Los Angeles,Home & Kitchen,333.85,397.56,104,2026-06-20,2026-06-20 00:00:00,Pending
+1024,user_1024,user_1024@example.com,38,Standard,West,Los Angeles,Sports,220.47,257.6,102,2026-06-21,2026-06-21 00:00:00,Cancelled
+1031,user_1031,user_1031@example.com,23,Free,West,Los Angeles,Clothing,366.38,409.03,101,2026-07-13,2026-07-13 00:00:00,Cancelled
+1063,user_1063,user_1063@example.com,60,Standard,West,Los Angeles,Sports,350.31,349.58,103,2026-06-30,2026-06-30 00:00:00,Active
+1026,user_1026,user_1026@example.com,30,Free,West,Los Angeles,Clothing,159.94,164.51,103,2026-07-10,2026-07-10 00:00:00,Active
+1037,user_1037,user_1037@example.com,52,Premium,West,Los Angeles,Books,261.01,255.91,104,2026-07-05,2026-07-05 00:00:00,Cancelled
+1048,,user_1048@example.com,31,Premium,West,Los Angeles,Home & Kitchen,451.72,452.04,101,2026-06-23,2026-06-23 00:00:00,Active
+1009,user_1009,user_1009@example.com,36,Basic,West,Los Angeles,Home & Kitchen,132.51,146.74,103,2026-07-12,2026-07-12 00:00:00,Cancelled
+1001,user_1001,user_1001@example.com,37,Free,West,Los Angeles,Books,412.71,332.13,102,2026-06-21,2026-06-21 00:00:00,Pending
+1060,user_1060,user_1060@example.com,50,Free,West,Los Angeles,Books,176.92,,102,2026-07-05,2026-07-05 00:00:00,Pending
+1056,user_1056,user_1056@example.com,38,Basic,West,Los Angeles,Sports,438.14,479.82,104,2026-06-23,2026-06-23 00:00:00,Pending
+1053,user_1053,user_1053@example.com,59,Standard,West,Los Angeles,Home & Kitchen,297.61,241.92,102,2026-07-14,2026-07-14 00:00:00,
+1048,user_1048,user_1048@example.com,49,Free,West,Los Angeles,Clothing,242.64,287.47,103,2026-07-16,2026-07-16 00:00:00,Pending
+1004,user_1004,user_1004@example.com,16,Basic,West,Los Angeles,Clothing,44.05,40.24,102,2026-07-09,09/07/2026 12:00 AM,Active
+1047,user_1047,user_1047@example.com,41,Free,West,Los Angeles,Clothing,494.9,478.75,101,2026-07-06,2026-07-06 00:00:00,Pending
+1026,user_1026,user_1026@example.com,57,Free,West,Los Angeles,Clothing,305.82,316.52,104,2026-07-10,2026-07-10 00:00:00,
+1008,user_1008,user_1008@example.com,30,Standard,West,Los Angeles,Sports,440.83,454.25,101,2026-07-09,2026-07-09 00:00:00,Cancelled
+1089,user_1089,user_1089@example.com,40,Basic,West,Los Angeles,Books,132.08,144.4,104,2026-07-06,2026-07-06 00:00:00,Active
+1050,user_1050,,25,Standard,West,Los Angeles,Sports,153.03,165.15,102,2026-06-19,2026-06-19 00:00:00,Active
+1047,user_1047,user_1047@example.com,35,Free,West,Los Angeles,Books,90.77,74.24,101,2026-07-16,2026-07-16 00:00:00,
+1048,user_1048,user_1048@example.com,27,Free,West,Los Angeles,Electronics,15.26,17.81,103,2026-06-27,2026-06-27 00:00:00,Active
+1010,user_1010,user_1010@example.com,43,Basic,West,Los Angeles,Books,412.01,357.72,101,2026-06-29,2026-06-29 00:00:00,
+1021,user_1021,user_1021@example.com,58,Standard,West,Los Angeles,Clothing,225.92,245.3,102,2026-07-04,2026-07-04 00:00:00,Active
+1049,user_1049,user_1049@example.com,53,Premium,West,Los Angeles,Electronics,388.48,455.12,103,2026-06-19,19/06/2026 12:00 AM,
+1003,user_1003,user_1003@example.com,27,Premium,West,Los Angeles,Clothing,479.79,,102,2026-06-25,2026-06-25 00:00:00,Active
+1041,user_1041,user_1041@example.com,54,Basic,West,Los Angeles,Sports,203.58,181.79,101,2026-07-07,07/07/2026 12:00 AM,Cancelled
+1001,user_1001,user_1001@example.com,19,Standard,West,Los Angeles,Sports,190.8,,102,2026-07-05,2026-07-05 00:00:00,Active
+1091,user_1091,user_1091@example.com,51,Basic,West,Los Angeles,Home & Kitchen,479.93,572.35,104,2026-06-27,2026-06-27 00:00:00,Pending
+1042,user_1042,user_1042@example.com,59,Standard,West,Los Angeles,Books,43.08,,104,2026-07-06,2026-07-06 00:00:00,Active
+1029,,user_1029@example.com,22,Standard,West,Los Angeles,Clothing,371.58,389.38,101,2026-07-14,2026-07-14 00:00:00,Pending
+1048,user_1048,,53,Free,West,Los Angeles,Home & Kitchen,75.79,84.49,101,2026-07-02,2026-07-02 00:00:00,Cancelled
+1096,,user_1096@example.com,36,Standard,West,Los Angeles,Clothing,110.85,,102,2026-06-23,2026-06-23 00:00:00,
+1066,user_1066,user_1066@example.com,15,Premium,West,Los Angeles,Books,44.29,46.67,102,2026-06-18,18/06/2026 12:00 AM,Pending
+1030,user_1030,user_1030@example.com,44,Standard,West,Los Angeles,Clothing,363.62,316.56,102,2026-07-09,2026-07-09 00:00:00,Pending
+1034,user_1034,user_1034@example.com,38,Free,West,Los Angeles,Books,92.21,92.41,104,2026-06-24,2026-06-24 00:00:00,
+1002,user_1002,user_1002@example.com,20,Standard,West,Los Angeles,Sports,273.23,237.79,104,2026-07-04,2026-07-04 00:00:00,
+1009,user_1009,user_1009@example.com,27,Basic,West,Los Angeles,Clothing,12.05,13.16,103,2026-07-03,2026-07-03 00:00:00,
+1095,user_1095,user_1095@example.com,56,Premium,West,Los Angeles,Books,443.65,377.01,102,2026-07-12,2026-07-12 00:00:00,Cancelled
+1065,user_1065,user_1065@example.com,38,Premium,West,Los Angeles,Books,463.99,416.17,101,2026-06-19,2026-06-19 00:00:00,Active
+1089,user_1089,user_1089@example.com,53,Free,West,Los Angeles,Clothing,134.6,158.92,102,2026-07-18,18/07/2026 12:00 AM,
+1050,user_1050,user_1050@example.com,20,Basic,West,Los Angeles,Books,91.25,98.25,104,2026-06-30,2026-06-30 00:00:00,Active
+1013,user_1013,user_1013@example.com,37,Basic,West,Los Angeles,Home & Kitchen,376.88,361.5,103,2026-07-18,2026-07-18 00:00:00,Active
+1012,user_1012,user_1012@example.com,48,Free,West,Los Angeles,Home & Kitchen,369.19,350.68,102,2026-07-12,2026-07-12 00:00:00,Active
+1057,user_1057,user_1057@example.com,27,Premium,West,Los Angeles,Clothing,406.5,485.03,104,2026-07-04,2026-07-04 00:00:00,Pending
+1010,user_1010,user_1010@example.com,32,Premium,West,Los Angeles,Home & Kitchen,24.54,24.39,101,2026-07-18,2026-07-18 00:00:00,Active
+1085,user_1085,user_1085@example.com,21,Basic,West,Los Angeles,Sports,397.98,401.18,103,2026-06-19,2026-06-19 00:00:00,
+1043,user_1043,user_1043@example.com,35,Basic,West,Los Angeles,Home & Kitchen,335.89,276.4,103,2026-06-21,2026-06-21 00:00:00,
+1089,user_1089,user_1089@example.com,23,Premium,West,Los Angeles,Sports,70.22,82.89,102,2026-07-07,2026-07-07 00:00:00,
+1065,user_1065,user_1065@example.com,55,Standard,West,Los Angeles,Electronics,320.55,380.76,103,2026-06-27,2026-06-27 00:00:00,
+1094,user_1094,user_1094@example.com,42,Free,West,Los Angeles,Electronics,369.8,324.7,102,2026-06-21,2026-06-21 00:00:00,Active
+1016,user_1016,user_1016@example.com,58,Free,West,Los Angeles,Clothing,449.24,446.04,102,2026-07-11,2026-07-11 00:00:00,Active
+1013,user_1013,user_1013@example.com,25,Standard,West,Los Angeles,Books,385.49,348.12,104,2026-06-18,2026-06-18 00:00:00,Pending
+1068,user_1068,user_1068@example.com,59,Standard,West,Los Angeles,Clothing,466.57,485.36,103,2026-07-06,2026-07-06 00:00:00,
+1083,user_1083,user_1083@example.com,42,Basic,West,Los Angeles,Clothing,136.96,115.67,103,2026-06-25,2026-06-25 00:00:00,Active
+1073,user_1073,user_1073@example.com,39,Premium,West,Los Angeles,Home & Kitchen,40.32,45.92,104,2026-07-08,2026-07-08 00:00:00,Pending
+1066,user_1066,user_1066@example.com,21,Free,West,Los Angeles,Electronics,273.76,234.85,103,2026-06-22,2026-06-22 00:00:00,Pending
+1076,user_1076,user_1076@example.com,59,Premium,West,Los Angeles,Sports,166.87,179.46,103,2026-06-21,2026-06-21 00:00:00,Pending
+1063,user_1063,user_1063@example.com,18,Standard,West,Los Angeles,Clothing,415.66,454.34,102,2026-06-26,2026-06-26 00:00:00,Pending
+1062,user_1062,user_1062@example.com,57,Basic,West,Los Angeles,Electronics,278.49,298.31,103,2026-06-24,24/06/2026 12:00 AM,Cancelled
+1036,user_1036,user_1036@example.com,50,Free,West,Los Angeles,Electronics,74.14,76.52,101,2026-06-21,2026-06-21 00:00:00,Pending
+1073,user_1073,user_1073@example.com,33,Basic,West,Los Angeles,Clothing,116.89,127.89,101,2026-07-07,2026-07-07 00:00:00,Pending
+1048,user_1048,user_1048@example.com,25,Premium,West,Los Angeles,Electronics,184.24,217.04,101,2026-07-02,2026-07-02 00:00:00,Pending
+1080,user_1080,user_1080@example.com,22,Basic,West,Los Angeles,Books,249.43,294.78,104,2026-06-24,2026-06-24 00:00:00,Active
+1099,user_1099,user_1099@example.com,39,Standard,West,Los Angeles,Books,189.99,158.27,104,2026-06-28,2026-06-28 00:00:00,Active
+1075,user_1075,user_1075@example.com,32,Premium,West,Los Angeles,Sports,98.74,104.45,104,2026-07-09,09/07/2026 12:00 AM,Active
+1091,user_1091,user_1091@example.com,26,Free,West,Los Angeles,Electronics,202.96,225.97,104,2026-07-16,2026-07-16 00:00:00,Active
+1096,user_1096,user_1096@example.com,22,Basic,West,Los Angeles,Sports,350.66,,104,2026-06-23,23/06/2026 12:00 AM,Pending
+1083,user_1083,user_1083@example.com,17,Premium,West,Los Angeles,Electronics,258.01,262.6,104,2026-06-18,2026-06-18 00:00:00,Active
+1066,user_1066,user_1066@example.com,49,Free,West,Los Angeles,Clothing,292.77,295.42,103,2026-06-29,2026-06-29 00:00:00,Active
+1084,user_1084,user_1084@example.com,27,Basic,West,Los Angeles,Home & Kitchen,429.48,366.64,102,2026-06-30,2026-06-30 00:00:00,
+1009,user_1009,user_1009@example.com,56,Basic,West,Los Angeles,Books,233.47,249.96,102,2026-07-01,2026-07-01 00:00:00,Cancelled
+1081,user_1081,user_1081@example.com,38,Basic,West,Los Angeles,Books,412.57,460.06,104,2026-07-18,2026-07-18 00:00:00,Cancelled
+1015,user_1015,user_1015@example.com,41,Premium,West,Los Angeles,Home & Kitchen,323.69,302.13,103,2026-07-14,2026-07-14 00:00:00,Active
+1012,user_1012,user_1012@example.com,39,Premium,West,Los Angeles,Electronics,96.11,88.67,104,2026-07-15,2026-07-15 00:00:00,Cancelled
+1070,user_1070,user_1070@example.com,18,Basic,West,Los Angeles,Home & Kitchen,473.79,444.45,104,2026-07-03,2026-07-03 00:00:00,Pending
+1084,user_1084,user_1084@example.com,32,Premium,West,Los Angeles,Home & Kitchen,356.68,372.19,104,2026-07-13,2026-07-13 00:00:00,
+1064,user_1064,user_1064@example.com,48,Basic,West,Los Angeles,Home & Kitchen,321.46,,103,2026-07-05,2026-07-05 00:00:00,Active
+1009,user_1009,user_1009@example.com,25,Premium,West,Los Angeles,Electronics,374.27,373.2,101,2026-06-18,2026-06-18 00:00:00,Pending
+1061,user_1061,user_1061@example.com,58,Premium,West,Los Angeles,Books,16.81,19.04,101,2026-06-26,2026-06-26 00:00:00,Cancelled
+1031,user_1031,user_1031@example.com,48,Premium,West,Los Angeles,Sports,229.84,269.39,102,2026-07-13,2026-07-13 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,38,Premium,West,Los Angeles,Home & Kitchen,457.88,465.04,101,2026-07-09,2026-07-09 00:00:00,Pending
+1000,user_1000,user_1000@example.com,28,Standard,West,Los Angeles,Sports,414.61,,104,2026-06-20,2026-06-20 00:00:00,Cancelled
+1000,user_1000,user_1000@example.com,37,Premium,West,Los Angeles,Electronics,181.36,174.26,101,2026-07-15,2026-07-15 00:00:00,Pending
+1052,user_1052,user_1052@example.com,24,Standard,West,Los Angeles,Clothing,240.64,227.6,102,2026-07-01,2026-07-01 00:00:00,
+1084,user_1084,user_1084@example.com,37,Free,West,Los Angeles,Electronics,186.03,163.59,102,2026-07-09,,
+1053,user_1053,user_1053@example.com,25,Basic,West,Los Angeles,Books,480.25,407.02,104,2026-07-01,2026-07-01 00:00:00,Pending
+1041,user_1041,user_1041@example.com,40,Free,West,Los Angeles,Clothing,63.77,51.56,102,2026-07-07,2026-07-07 00:00:00,Pending
+1006,user_1006,user_1006@example.com,53,Premium,West,Los Angeles,Books,245.29,204.34,104,2026-07-11,2026-07-11 00:00:00,Pending
+1031,user_1031,user_1031@example.com,31,Basic,West,Los Angeles,Books,107.22,120.51,102,2026-07-12,2026-07-12 00:00:00,Pending
+1029,user_1029,user_1029@example.com,32,Basic,West,Los Angeles,Clothing,218.89,183.07,101,2026-07-06,2026-07-06 00:00:00,Pending
+1028,user_1028,user_1028@example.com,47,Free,West,Los Angeles,Electronics,159.1,145.13,103,2026-06-26,2026-06-26 00:00:00,Active
+1023,,user_1023@example.com,35,Basic,West,Los Angeles,Home & Kitchen,241.31,202.77,102,2026-07-10,2026-07-10 00:00:00,Cancelled
+1014,user_1014,,50,Basic,West,Los Angeles,Home & Kitchen,186.68,204.82,103,2026-07-11,2026-07-11 00:00:00,
+1011,user_1011,user_1011@example.com,53,Premium,West,Los Angeles,Electronics,297.42,315.78,102,2026-07-12,2026-07-12 00:00:00,Active
+1069,user_1069,user_1069@example.com,45,Basic,West,Los Angeles,Sports,363.18,,102,2026-07-05,2026-07-05 00:00:00,Cancelled
+1046,user_1046,user_1046@example.com,42,Premium,West,Los Angeles,Books,215.31,215.64,101,2026-07-13,2026-07-13 00:00:00,Pending
+1037,,user_1037@example.com,59,Basic,West,Los Angeles,Books,252.56,253.92,101,2026-07-13,2026-07-13 00:00:00,
+1051,user_1051,user_1051@example.com,15,Basic,West,Los Angeles,Sports,116.73,134.43,104,2026-07-02,2026-07-02 00:00:00,Cancelled
+1028,user_1028,user_1028@example.com,22,Basic,West,Los Angeles,Clothing,32.35,26.39,102,2026-06-18,2026-06-18 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,28,Premium,West,Los Angeles,Electronics,327.84,389.76,103,2026-07-16,2026-07-16 00:00:00,Cancelled
+1092,user_1092,user_1092@example.com,33,Standard,West,Los Angeles,Electronics,316.72,,103,2026-07-11,2026-07-11 00:00:00,Cancelled
+1002,user_1002,user_1002@example.com,52,Premium,West,Los Angeles,Books,473.37,497.27,102,2026-06-22,2026-06-22 00:00:00,Pending
+1074,user_1074,user_1074@example.com,40,Basic,West,Los Angeles,Books,123.54,117.05,104,2026-07-16,2026-07-16 00:00:00,Pending
+1024,user_1024,user_1024@example.com,26,Standard,West,Los Angeles,Electronics,161.98,182.55,102,2026-07-16,2026-07-16 00:00:00,
+1082,user_1082,user_1082@example.com,48,Basic,West,Los Angeles,Electronics,305.61,247.02,101,2026-06-24,2026-06-24 00:00:00,Pending
+1031,user_1031,user_1031@example.com,55,Premium,West,Los Angeles,Electronics,479.23,524.49,103,2026-06-21,2026-06-21 00:00:00,
+1097,user_1097,user_1097@example.com,25,Standard,West,Los Angeles,Home & Kitchen,244.67,248.93,103,2026-06-28,28/06/2026 12:00 AM,Active
+1013,user_1013,user_1013@example.com,41,Basic,West,Los Angeles,Electronics,456.96,,104,2026-07-06,2026-07-06 00:00:00,Pending
+1087,user_1087,user_1087@example.com,22,Free,West,Los Angeles,Clothing,495.48,585.95,103,2026-07-07,2026-07-07 00:00:00,Cancelled
+1010,user_1010,user_1010@example.com,26,Free,West,Los Angeles,Sports,174.07,168.86,103,2026-06-29,2026-06-29 00:00:00,Active
+1034,user_1034,user_1034@example.com,31,Premium,West,Los Angeles,Electronics,432.24,480.27,102,2026-07-08,2026-07-08 00:00:00,
+1008,user_1008,user_1008@example.com,32,Basic,West,Los Angeles,Electronics,168.3,186.31,103,2026-07-08,2026-07-08 00:00:00,
+1077,user_1077,user_1077@example.com,56,Basic,West,Los Angeles,Books,215.14,218.05,102,2026-07-06,2026-07-06 00:00:00,Pending
+1089,user_1089,user_1089@example.com,28,Premium,West,Los Angeles,Home & Kitchen,283.6,331.35,101,2026-06-19,2026-06-19 00:00:00,Pending
+1037,user_1037,user_1037@example.com,50,Free,West,Los Angeles,Clothing,113.26,124.45,101,2026-06-18,2026-06-18 00:00:00,Active
+1089,user_1089,user_1089@example.com,59,Premium,West,Los Angeles,Sports,46.15,52.99,101,2026-07-14,14/07/2026 12:00 AM,Active
+1001,user_1001,user_1001@example.com,24,Basic,West,Los Angeles,Books,374.34,404.07,103,2026-07-03,2026-07-03 00:00:00,Active
+1036,user_1036,user_1036@example.com,56,Premium,West,Los Angeles,Sports,378.06,304.09,104,2026-06-27,2026-06-27 00:00:00,Cancelled
+1073,user_1073,user_1073@example.com,42,Basic,West,Los Angeles,Home & Kitchen,486.83,579.9,102,2026-06-25,2026-06-25 00:00:00,Pending
+1050,user_1050,user_1050@example.com,50,Premium,West,Los Angeles,Books,243.93,234.67,104,2026-07-13,2026-07-13 00:00:00,
+1024,user_1024,user_1024@example.com,38,Standard,West,Los Angeles,Electronics,127.37,107.32,102,2026-06-29,,Cancelled
+1024,user_1024,user_1024@example.com,17,Basic,West,Los Angeles,Home & Kitchen,51.67,42.26,104,2026-07-17,,Active
+1039,,user_1039@example.com,33,Free,West,Los Angeles,Sports,105.49,115.01,102,2026-06-26,2026-06-26 00:00:00,Active
+1064,user_1064,user_1064@example.com,52,Free,West,Los Angeles,Books,297.32,272.36,102,2026-06-27,2026-06-27 00:00:00,Active
+1091,user_1091,user_1091@example.com,58,Basic,West,Los Angeles,Clothing,496.77,594.59,103,2026-07-04,2026-07-04 00:00:00,Cancelled
+1079,user_1079,user_1079@example.com,60,Free,West,Los Angeles,Clothing,112.32,93.23,102,2026-06-30,2026-06-30 00:00:00,Active
+1018,user_1018,user_1018@example.com,20,Free,West,Los Angeles,Electronics,232.86,213.82,101,2026-07-10,2026-07-10 00:00:00,Active
+1022,user_1022,user_1022@example.com,45,Standard,West,Los Angeles,Books,328.64,279.21,104,2026-07-17,2026-07-17 00:00:00,
+1079,user_1079,user_1079@example.com,38,Standard,West,Los Angeles,Home & Kitchen,50.91,49.89,101,2026-06-29,29/06/2026 12:00 AM,Pending
+1089,user_1089,,21,Standard,West,Los Angeles,Books,87.52,72.57,104,2026-06-21,21/06/2026 12:00 AM,
+1059,user_1059,user_1059@example.com,44,Premium,West,Los Angeles,Electronics,98.33,116.4,104,2026-06-24,2026-06-24 00:00:00,Active
+1040,user_1040,user_1040@example.com,28,Free,West,Los Angeles,Electronics,146.4,,102,2026-06-18,2026-06-18 00:00:00,Cancelled
+1072,,user_1072@example.com,39,Premium,West,Los Angeles,Home & Kitchen,396.88,351.38,102,2026-06-21,,
+1034,user_1034,user_1034@example.com,24,Premium,West,Los Angeles,Home & Kitchen,208.48,226.18,104,2026-07-02,2026-07-02 00:00:00,Pending
+1006,user_1006,user_1006@example.com,36,Standard,West,Los Angeles,Clothing,107.32,106.53,102,2026-06-18,2026-06-18 00:00:00,
+1001,user_1001,user_1001@example.com,27,Premium,West,Los Angeles,Sports,312.09,372.81,103,2026-07-18,2026-07-18 00:00:00,Pending
+1063,user_1063,user_1063@example.com,58,Free,West,Los Angeles,Home & Kitchen,265.14,,104,2026-06-18,2026-06-18 00:00:00,
+1081,user_1081,user_1081@example.com,28,Basic,West,Los Angeles,Books,351.26,365.44,102,2026-07-07,2026-07-07 00:00:00,Active
+1047,user_1047,,34,Premium,West,Los Angeles,Books,327.97,316.21,103,2026-06-22,2026-06-22 00:00:00,Cancelled
+1014,user_1014,user_1014@example.com,38,Basic,West,Los Angeles,Sports,301.5,287.22,104,2026-06-28,2026-06-28 00:00:00,Active
+1011,user_1011,user_1011@example.com,56,Premium,West,Los Angeles,Sports,466.92,513.6,101,2026-06-28,2026-06-28 00:00:00,Active
+1085,user_1085,user_1085@example.com,29,Free,West,Los Angeles,Sports,196.73,194.34,101,2026-07-07,2026-07-07 00:00:00,
+1082,user_1082,user_1082@example.com,15,Standard,West,Los Angeles,Clothing,258.7,275.12,103,2026-06-22,2026-06-22 00:00:00,Pending
+1000,user_1000,user_1000@example.com,15,Premium,West,Los Angeles,Clothing,397.35,400.36,103,2026-07-08,2026-07-08 00:00:00,
+1030,user_1030,user_1030@example.com,54,Free,West,Los Angeles,Electronics,402.65,342.88,104,2026-06-25,2026-06-25 00:00:00,Pending
+1055,user_1055,user_1055@example.com,23,Premium,West,Los Angeles,Sports,394.3,414.38,103,2026-06-22,2026-06-22 00:00:00,Pending
+1011,user_1011,user_1011@example.com,55,Basic,West,Los Angeles,Electronics,312.87,371.99,104,2026-07-18,2026-07-18 00:00:00,
+1081,user_1081,user_1081@example.com,30,Basic,West,Los Angeles,Home & Kitchen,104.98,114.48,104,2026-06-24,24/06/2026 12:00 AM,Active
+1018,user_1018,user_1018@example.com,52,Premium,West,Los Angeles,Electronics,234.97,198.04,103,2026-07-10,10/07/2026 12:00 AM,
+1046,user_1046,user_1046@example.com,21,Free,West,Los Angeles,Electronics,212.74,223.44,102,2026-06-27,2026-06-27 00:00:00,
+1020,user_1020,,26,Premium,West,Los Angeles,Electronics,488.2,485.06,101,2026-07-13,2026-07-13 00:00:00,Active
+1024,user_1024,user_1024@example.com,48,Basic,West,Los Angeles,Clothing,434.77,385.55,103,2026-07-14,2026-07-14 00:00:00,Pending
+1034,user_1034,user_1034@example.com,20,Standard,West,Los Angeles,Sports,329.44,370.16,104,2026-07-02,2026-07-02 00:00:00,Cancelled
+1022,user_1022,user_1022@example.com,60,Standard,West,Los Angeles,Books,60.42,62.54,102,2026-06-23,2026-06-23 00:00:00,
+1057,user_1057,user_1057@example.com,35,Premium,West,Los Angeles,Sports,197.69,186.06,101,2026-07-04,04/07/2026 12:00 AM,Cancelled
+1075,user_1075,user_1075@example.com,56,Standard,West,Los Angeles,Books,24.67,22.92,102,2026-07-07,2026-07-07 00:00:00,Cancelled
+1047,user_1047,user_1047@example.com,15,Standard,West,Los Angeles,Electronics,361.23,370.98,103,2026-06-20,20/06/2026 12:00 AM,Cancelled
+1077,user_1077,user_1077@example.com,50,Standard,West,Los Angeles,Sports,473.67,506.13,104,2026-06-27,2026-06-27 00:00:00,Cancelled
+1025,user_1025,user_1025@example.com,46,Premium,West,Los Angeles,Home & Kitchen,216.41,187.94,103,2026-06-30,2026-06-30 00:00:00,Cancelled
+1002,user_1002,user_1002@example.com,15,Free,West,Los Angeles,Home & Kitchen,74.22,60.47,101,2026-07-08,08/07/2026 12:00 AM,Active
+1053,user_1053,user_1053@example.com,37,Free,West,Los Angeles,Electronics,282.66,295.36,104,2026-07-09,2026-07-09 00:00:00,Active
+1047,user_1047,user_1047@example.com,29,Premium,West,Los Angeles,Electronics,77.98,89.25,104,2026-07-11,2026-07-11 00:00:00,Cancelled
+1068,user_1068,user_1068@example.com,18,Standard,West,Los Angeles,Electronics,64.29,53.36,103,2026-06-26,2026-06-26 00:00:00,Cancelled
+1089,user_1089,user_1089@example.com,44,Premium,West,Los Angeles,Clothing,166.47,172.07,104,2026-06-28,2026-06-28 00:00:00,Pending
+1073,user_1073,user_1073@example.com,32,Standard,West,Los Angeles,Books,120.66,110.83,101,2026-07-07,2026-07-07 00:00:00,Pending
+1088,user_1088,user_1088@example.com,18,Basic,West,Los Angeles,Electronics,338.54,322.98,104,2026-07-15,2026-07-15 00:00:00,Cancelled
+1097,user_1097,user_1097@example.com,56,Basic,West,Los Angeles,Sports,61.77,72.07,104,2026-07-04,2026-07-04 00:00:00,
+1024,user_1024,user_1024@example.com,58,Standard,West,Los Angeles,Sports,327.71,377.02,101,2026-07-11,,
+1023,user_1023,user_1023@example.com,48,Free,West,Los Angeles,Home & Kitchen,140.13,116.82,104,2026-07-12,2026-07-12 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,18,Free,West,Los Angeles,Books,105.03,91.45,103,2026-07-02,2026-07-02 00:00:00,Active
+1087,,user_1087@example.com,22,Basic,West,Los Angeles,Electronics,36.04,,103,2026-07-11,2026-07-11 00:00:00,Pending
+1079,user_1079,user_1079@example.com,40,Premium,West,Los Angeles,Clothing,369.62,335.36,102,2026-07-13,2026-07-13 00:00:00,Cancelled
+1090,user_1090,user_1090@example.com,21,Basic,West,Los Angeles,Sports,454.81,498.31,102,2026-07-13,13/07/2026 12:00 AM,Pending
+1042,user_1042,user_1042@example.com,15,Free,West,Los Angeles,Books,173.69,157.28,101,2026-07-13,2026-07-13 00:00:00,Cancelled
+1060,user_1060,user_1060@example.com,30,Free,West,Los Angeles,Electronics,32.14,,103,2026-06-22,2026-06-22 00:00:00,Pending
+1099,user_1099,user_1099@example.com,36,Free,West,Los Angeles,Books,370.06,334.14,104,2026-07-10,10/07/2026 12:00 AM,Cancelled
+1038,user_1038,user_1038@example.com,57,Free,West,Los Angeles,Electronics,142.27,150.23,102,2026-07-05,2026-07-05 00:00:00,Pending
+1045,user_1045,user_1045@example.com,59,Free,West,Los Angeles,Home & Kitchen,111.09,,104,2026-06-28,2026-06-28 00:00:00,
+1067,user_1067,user_1067@example.com,37,Standard,West,Los Angeles,Books,298.68,271.95,102,2026-07-17,2026-07-17 00:00:00,Active
+1055,user_1055,user_1055@example.com,37,Standard,West,Los Angeles,Electronics,485.04,521.04,104,2026-06-27,2026-06-27 00:00:00,Pending
+1038,user_1038,user_1038@example.com,33,Premium,West,Los Angeles,Books,30.07,31.19,101,2026-07-03,2026-07-03 00:00:00,Active
+1006,user_1006,user_1006@example.com,33,Basic,West,Los Angeles,Electronics,359.47,392.98,104,2026-06-30,2026-06-30 00:00:00,Active
+1060,user_1060,user_1060@example.com,58,Free,West,Los Angeles,Books,205.57,237.89,103,2026-06-29,2026-06-29 00:00:00,Cancelled
+1074,user_1074,user_1074@example.com,31,Basic,West,Los Angeles,Books,281.6,234.92,104,2026-07-01,2026-07-01 00:00:00,
+1012,user_1012,user_1012@example.com,35,Standard,West,Los Angeles,Books,183.55,217.43,104,2026-07-18,18/07/2026 12:00 AM,
+1011,user_1011,user_1011@example.com,34,Basic,West,Los Angeles,Sports,260.98,265.5,103,2026-07-17,2026-07-17 00:00:00,
+1085,,user_1085@example.com,48,Free,West,Los Angeles,Electronics,51.48,61.49,101,2026-07-08,2026-07-08 00:00:00,
+1088,user_1088,user_1088@example.com,52,Premium,West,Los Angeles,Clothing,262.97,312.12,102,2026-07-11,2026-07-11 00:00:00,Pending
+1038,user_1038,user_1038@example.com,15,Free,West,Los Angeles,Sports,347.01,277.61,101,2026-07-02,2026-07-02 00:00:00,
+1003,user_1003,user_1003@example.com,18,Premium,West,Los Angeles,Home & Kitchen,208.23,234.91,103,2026-06-22,2026-06-22 00:00:00,Active
+1055,user_1055,,24,Basic,West,Los Angeles,Clothing,260.64,229.4,104,2026-07-09,2026-07-09 00:00:00,
+1047,user_1047,user_1047@example.com,59,Premium,West,Los Angeles,Books,214.28,173.82,104,2026-07-15,15/07/2026 12:00 AM,Cancelled
+1004,user_1004,user_1004@example.com,54,Free,West,Los Angeles,Electronics,454.97,389.33,104,2026-07-10,,Pending
+1045,user_1045,user_1045@example.com,28,Standard,West,Los Angeles,Sports,201.41,,102,2026-07-07,2026-07-07 00:00:00,
+1091,user_1091,user_1091@example.com,57,Standard,West,Los Angeles,Books,43.42,43.14,104,2026-06-29,2026-06-29 00:00:00,Cancelled
+1016,user_1016,user_1016@example.com,52,Standard,West,Los Angeles,Sports,312.56,255.67,102,2026-07-11,2026-07-11 00:00:00,
+1041,user_1041,user_1041@example.com,30,Premium,West,Los Angeles,Clothing,366.8,436.25,101,2026-07-17,2026-07-17 00:00:00,Active
+1056,user_1056,user_1056@example.com,16,Basic,West,Los Angeles,Home & Kitchen,62.75,53.54,102,2026-07-12,2026-07-12 00:00:00,Cancelled
+1025,user_1025,user_1025@example.com,48,Basic,South,Houston,Electronics,295.23,315.15,102,2026-07-17,2026-07-17 00:00:00,Cancelled
+1072,user_1072,user_1072@example.com,26,Free,West,Seattle,Clothing,417.88,413.49,103,2026-07-07,2026-07-07 00:00:00,Pending
+1056,user_1056,user_1056@example.com,19,Premium,Midwest,Chicago,Clothing,393.37,333.25,102,2026-07-17,2026-07-17 00:00:00,Pending
+1032,user_1032,user_1032@example.com,25,Standard,West,Phoenix,Electronics,271.87,273.8,103,2026-07-06,2026-07-06 00:00:00,Active
+1060,user_1060,user_1060@example.com,56,Premium,West,San Francisco,Electronics,175.64,164.02,101,2026-07-14,2026-07-14 00:00:00,Cancelled
+1030,user_1030,user_1030@example.com,51,Premium,Midwest,Chicago,Home & Kitchen,490.72,509.99,101,2026-06-20,2026-06-20 00:00:00,Cancelled
+1013,,user_1013@example.com,56,Standard,Midwest,Chicago,Books,244.02,280.76,102,2026-07-18,18/07/2026 12:00 AM,Pending
+1077,user_1077,user_1077@example.com,16,Free,West,San Francisco,Electronics,199.69,169.76,104,2026-07-01,2026-07-01 00:00:00,Cancelled
+1024,user_1024,user_1024@example.com,30,Basic,West,Phoenix,Electronics,298.42,327.96,101,2026-06-23,,Pending
+1009,user_1009,user_1009@example.com,33,Premium,Midwest,Chicago,Home & Kitchen,181.34,162.79,103,2026-07-14,2026-07-14 00:00:00,Active
+1009,user_1009,user_1009@example.com,46,Standard,Midwest,Chicago,Clothing,227.34,215.24,103,2026-06-21,2026-06-21 00:00:00,Cancelled
+1089,user_1089,user_1089@example.com,37,Free,West,Phoenix,Sports,248.24,,102,2026-06-22,2026-06-22 00:00:00,Pending
+1047,user_1047,user_1047@example.com,17,Basic,Midwest,Chicago,Books,328.45,277.77,104,2026-06-22,,Cancelled
+1049,user_1049,user_1049@example.com,18,Standard,West,San Francisco,Sports,198.13,,104,2026-07-06,2026-07-06 00:00:00,
+1084,user_1084,user_1084@example.com,34,Premium,South,Houston,Sports,383.87,446.83,103,2026-06-19,2026-06-19 00:00:00,Pending
+1043,user_1043,user_1043@example.com,42,Premium,Midwest,Chicago,Electronics,281.11,329.74,103,2026-06-21,2026-06-21 00:00:00,
+1092,user_1092,user_1092@example.com,25,Free,West,San Francisco,Books,375.36,320.09,101,2026-07-10,2026-07-10 00:00:00,Active
+1098,user_1098,user_1098@example.com,40,Premium,South,Houston,Sports,144.39,129.98,101,2026-07-15,2026-07-15 00:00:00,Cancelled
+1056,user_1056,user_1056@example.com,44,Premium,South,Houston,Home & Kitchen,245.3,217.61,101,2026-06-30,2026-06-30 00:00:00,Cancelled
+1056,user_1056,user_1056@example.com,32,Standard,Midwest,Chicago,Books,72.34,62.12,101,2026-07-11,11/07/2026 12:00 AM,
+1040,,user_1040@example.com,18,Standard,West,San Francisco,Home & Kitchen,17.9,20.4,101,2026-06-29,2026-06-29 00:00:00,
+1065,user_1065,user_1065@example.com,51,Standard,Midwest,Chicago,Books,44.98,41.08,101,2026-07-08,2026-07-08 00:00:00,
+1060,user_1060,user_1060@example.com,16,Basic,West,Phoenix,Home & Kitchen,31.86,37.11,101,2026-07-15,2026-07-15 00:00:00,Cancelled
+1048,user_1048,,24,Free,South,Houston,Electronics,478.04,572.18,104,2026-07-01,2026-07-01 00:00:00,Active
+1060,user_1060,user_1060@example.com,35,Standard,West,San Francisco,Clothing,419.64,376.67,102,2026-06-23,2026-06-23 00:00:00,
+1095,user_1095,user_1095@example.com,43,Free,West,Phoenix,Home & Kitchen,49.05,40.74,103,2026-06-28,2026-06-28 00:00:00,
+1072,user_1072,user_1072@example.com,49,Basic,South,Houston,Books,340.31,354.68,103,2026-07-08,08/07/2026 12:00 AM,
+1018,user_1018,user_1018@example.com,27,Basic,West,San Francisco,Books,17.6,15.93,104,2026-06-25,2026-06-25 00:00:00,
+1088,user_1088,user_1088@example.com,47,Free,Midwest,Chicago,Books,183.64,187.82,103,2026-07-15,2026-07-15 00:00:00,Cancelled
+1077,user_1077,user_1077@example.com,17,Premium,West,San Francisco,Home & Kitchen,475.46,500.34,104,2026-07-09,2026-07-09 00:00:00,Pending
+1065,user_1065,user_1065@example.com,52,Standard,West,San Francisco,Books,195.89,196.57,103,2026-06-18,2026-06-18 00:00:00,
+1006,user_1006,user_1006@example.com,52,Free,West,Phoenix,Home & Kitchen,168.17,146.54,102,2026-07-17,2026-07-17 00:00:00,Pending
+1066,user_1066,user_1066@example.com,35,Premium,West,Seattle,Home & Kitchen,149.55,136.02,104,2026-07-11,2026-07-11 00:00:00,Cancelled
+1096,user_1096,user_1096@example.com,32,Basic,West,San Francisco,Electronics,111.35,122.7,101,2026-06-29,2026-06-29 00:00:00,Pending
+1062,user_1062,,28,Standard,Midwest,Chicago,Sports,218.99,186.24,104,2026-07-09,2026-07-09 00:00:00,Active
+1055,user_1055,user_1055@example.com,23,Standard,West,Seattle,Electronics,484.54,531.88,102,2026-06-25,2026-06-25 00:00:00,Cancelled
+1058,user_1058,user_1058@example.com,19,Standard,West,Phoenix,Electronics,222.36,248.53,103,2026-07-12,2026-07-12 00:00:00,Active
+1031,user_1031,user_1031@example.com,29,Basic,Midwest,Chicago,Home & Kitchen,240.36,210.28,104,2026-07-09,2026-07-09 00:00:00,Active
+1092,user_1092,,19,Free,West,San Francisco,Sports,309.5,252.41,103,2026-06-29,2026-06-29 00:00:00,Cancelled
+1067,user_1067,user_1067@example.com,34,Basic,West,Seattle,Home & Kitchen,337.31,354.85,103,2026-07-01,01/07/2026 12:00 AM,Active
+1053,user_1053,user_1053@example.com,57,Free,West,Phoenix,Electronics,96.34,102.53,103,2026-06-26,2026-06-26 00:00:00,
+1076,user_1076,user_1076@example.com,33,Standard,West,Seattle,Sports,115.4,111.2,103,2026-07-10,2026-07-10 00:00:00,
+1051,user_1051,user_1051@example.com,46,Basic,West,Seattle,Home & Kitchen,321.77,,104,2026-07-05,2026-07-05 00:00:00,Pending
+1078,user_1078,user_1078@example.com,49,Premium,Midwest,Chicago,Electronics,403.18,,103,2026-06-19,2026-06-19 00:00:00,Active
+1066,user_1066,user_1066@example.com,25,Free,Midwest,Chicago,Clothing,152.19,144.51,104,2026-07-12,2026-07-12 00:00:00,Active
+1002,user_1002,user_1002@example.com,47,Free,Midwest,Chicago,Books,30.72,24.87,102,2026-07-17,2026-07-17 00:00:00,
+1016,user_1016,user_1016@example.com,20,Premium,West,Seattle,Electronics,257.21,281.14,101,2026-07-18,2026-07-18 00:00:00,Pending
+1094,user_1094,user_1094@example.com,53,Standard,Midwest,Chicago,Home & Kitchen,218.32,201.04,104,2026-07-12,2026-07-12 00:00:00,
+1037,user_1037,user_1037@example.com,41,Standard,West,Seattle,Books,149.37,149.76,104,2026-07-18,2026-07-18 00:00:00,Cancelled
+1091,user_1091,user_1091@example.com,16,Free,West,San Francisco,Clothing,229.07,193.24,103,2026-07-08,2026-07-08 00:00:00,Active
+1071,user_1071,user_1071@example.com,46,Basic,Midwest,Chicago,Electronics,79.25,78.41,102,2026-07-17,2026-07-17 00:00:00,Cancelled
+1019,,user_1019@example.com,53,Free,West,Phoenix,Electronics,141.39,144.92,104,2026-07-01,2026-07-01 00:00:00,Pending
+1059,user_1059,user_1059@example.com,20,Premium,West,Phoenix,Books,352.64,388.88,102,2026-07-02,2026-07-02 00:00:00,
+1004,user_1004,user_1004@example.com,55,Free,Midwest,Chicago,Clothing,377.01,361.84,103,2026-07-15,2026-07-15 00:00:00,Cancelled
+1041,user_1041,user_1041@example.com,56,Basic,West,San Francisco,Clothing,152.2,170.64,103,2026-07-02,2026-07-02 00:00:00,Pending
+1095,user_1095,user_1095@example.com,23,Basic,West,Phoenix,Sports,360.39,334.11,102,2026-07-14,2026-07-14 00:00:00,Active
+1089,user_1089,user_1089@example.com,49,Free,West,Phoenix,Home & Kitchen,56.41,58.54,101,2026-07-07,2026-07-07 00:00:00,Cancelled
+1024,user_1024,user_1024@example.com,42,Standard,Midwest,Chicago,Home & Kitchen,316.01,285.01,102,2026-07-16,2026-07-16 00:00:00,Pending
+1022,user_1022,user_1022@example.com,48,Free,West,Phoenix,Home & Kitchen,292.07,304.31,104,2026-07-12,2026-07-12 00:00:00,Pending
+1078,user_1078,user_1078@example.com,15,Standard,Midwest,Chicago,Electronics,449.02,,104,2026-07-05,2026-07-05 00:00:00,Active
+1071,user_1071,user_1071@example.com,60,Free,South,Houston,Home & Kitchen,162.76,164.76,102,2026-06-18,2026-06-18 00:00:00,Cancelled
+1055,user_1055,user_1055@example.com,31,Premium,South,Houston,Sports,450.88,392.81,103,2026-06-21,2026-06-21 00:00:00,
+1078,user_1078,user_1078@example.com,27,Free,South,Houston,Home & Kitchen,97.71,78.59,104,2026-07-07,07/07/2026 12:00 AM,Cancelled
+1012,user_1012,user_1012@example.com,47,Premium,West,Phoenix,Sports,143.78,151.93,104,2026-07-17,2026-07-17 00:00:00,Cancelled
+1073,user_1073,user_1073@example.com,45,Free,Midwest,Chicago,Books,95.15,100.77,101,2026-07-17,2026-07-17 00:00:00,Pending
+1016,user_1016,user_1016@example.com,22,Premium,South,Houston,Books,322.36,,101,2026-06-21,2026-06-21 00:00:00,Pending
+1094,,user_1094@example.com,35,Basic,West,San Francisco,Sports,363.85,293.14,104,2026-07-05,2026-07-05 00:00:00,Active
+1097,user_1097,user_1097@example.com,20,Basic,South,Houston,Books,31.81,34.21,104,2026-07-13,2026-07-13 00:00:00,Active
+1035,user_1035,user_1035@example.com,44,Premium,West,Phoenix,Sports,465.83,,101,2026-07-13,2026-07-13 00:00:00,Active
+1100,,user_1100@example.com,44,Premium,South,Houston,Clothing,160.81,189.28,102,2026-06-25,2026-06-25 00:00:00,Active
+1090,user_1090,user_1090@example.com,51,Standard,West,Seattle,Books,120.72,139.24,102,2026-07-09,2026-07-09 00:00:00,Active
+1045,user_1045,user_1045@example.com,56,Free,West,Seattle,Clothing,28.0,26.72,102,2026-06-26,2026-06-26 00:00:00,Cancelled
+1043,user_1043,user_1043@example.com,32,Premium,South,Houston,Sports,388.97,383.94,101,2026-06-19,2026-06-19 00:00:00,Pending
+1017,user_1017,user_1017@example.com,51,Free,West,Seattle,Sports,451.62,380.19,103,2026-06-21,2026-06-21 00:00:00,
+1043,user_1043,user_1043@example.com,37,Standard,West,Phoenix,Clothing,238.75,193.08,104,2026-06-30,2026-06-30 00:00:00,
+1031,user_1031,user_1031@example.com,36,Free,West,Seattle,Books,157.08,180.79,101,2026-07-05,2026-07-05 00:00:00,
+1003,user_1003,user_1003@example.com,34,Basic,West,San Francisco,Sports,378.41,353.15,101,2026-07-16,2026-07-16 00:00:00,Cancelled
+1050,user_1050,,24,Basic,West,Seattle,Clothing,157.63,,102,2026-06-21,21/06/2026 12:00 AM,Pending
+1087,user_1087,user_1087@example.com,15,Free,South,Houston,Clothing,178.91,192.28,102,2026-06-19,2026-06-19 00:00:00,
+1097,user_1097,user_1097@example.com,35,Basic,South,Houston,Books,388.9,438.65,104,2026-06-29,29/06/2026 12:00 AM,
+1003,user_1003,user_1003@example.com,30,Standard,West,San Francisco,Home & Kitchen,176.53,184.34,104,2026-06-19,2026-06-19 00:00:00,
+1005,user_1005,user_1005@example.com,36,Free,South,Houston,Clothing,218.6,208.7,104,2026-07-17,2026-07-17 00:00:00,Pending
+1050,user_1050,user_1050@example.com,44,Premium,South,Houston,Home & Kitchen,346.17,396.36,101,2026-07-13,2026-07-13 00:00:00,
+1001,user_1001,user_1001@example.com,40,Free,West,Seattle,Electronics,158.45,166.95,104,2026-07-02,2026-07-02 00:00:00,Cancelled
+1046,user_1046,user_1046@example.com,42,Free,West,San Francisco,Electronics,83.69,98.22,103,2026-07-12,2026-07-12 00:00:00,
+1006,user_1006,,46,Free,West,Seattle,Home & Kitchen,34.54,32.73,104,2026-07-08,2026-07-08 00:00:00,Active
+1034,user_1034,user_1034@example.com,16,Free,West,San Francisco,Home & Kitchen,155.86,,101,2026-07-07,2026-07-07 00:00:00,
+1022,user_1022,user_1022@example.com,24,Free,South,Houston,Books,447.43,439.92,102,2026-06-19,2026-06-19 00:00:00,
+1009,user_1009,,53,Premium,Midwest,Chicago,Books,261.19,244.24,103,2026-07-05,2026-07-05 00:00:00,Cancelled
+1055,user_1055,user_1055@example.com,51,Standard,Midwest,Chicago,Home & Kitchen,311.63,348.24,101,2026-07-07,2026-07-07 00:00:00,
+1095,user_1095,user_1095@example.com,47,Premium,West,Phoenix,Sports,205.35,187.68,101,2026-07-05,2026-07-05 00:00:00,Pending
+1034,user_1034,user_1034@example.com,55,Standard,West,Phoenix,Electronics,118.45,,103,2026-07-11,2026-07-11 00:00:00,
+1053,user_1053,user_1053@example.com,39,Free,West,San Francisco,Sports,16.16,15.17,104,2026-07-14,2026-07-14 00:00:00,Pending
+1089,user_1089,user_1089@example.com,40,Premium,West,San Francisco,Sports,484.18,496.06,103,2026-07-16,2026-07-16 00:00:00,Cancelled
+1037,user_1037,user_1037@example.com,44,Premium,West,Phoenix,Clothing,316.18,297.41,104,2026-07-05,05/07/2026 12:00 AM,Cancelled
+1095,user_1095,user_1095@example.com,49,Basic,West,San Francisco,Books,307.49,257.92,102,2026-07-12,2026-07-12 00:00:00,Pending
+1098,user_1098,user_1098@example.com,40,Free,South,Houston,Home & Kitchen,378.13,393.14,103,2026-06-24,2026-06-24 00:00:00,Cancelled
+1068,user_1068,user_1068@example.com,40,Free,West,San Francisco,Books,150.28,129.66,102,2026-07-06,2026-07-06 00:00:00,Cancelled
+1083,user_1083,user_1083@example.com,39,Free,West,Seattle,Books,211.04,221.08,102,2026-06-29,2026-06-29 00:00:00,
+1041,user_1041,user_1041@example.com,55,Free,Midwest,Chicago,Electronics,476.4,,104,2026-07-01,2026-07-01 00:00:00,Pending
+1047,user_1047,user_1047@example.com,45,Basic,West,Seattle,Home & Kitchen,75.0,,101,2026-07-12,2026-07-12 00:00:00,
+1022,user_1022,user_1022@example.com,22,Standard,South,Houston,Clothing,129.98,107.62,101,2026-06-27,2026-06-27 00:00:00,
+1009,user_1009,user_1009@example.com,60,Premium,West,Seattle,Sports,327.07,264.76,104,2026-06-22,2026-06-22 00:00:00,
+1046,user_1046,user_1046@example.com,55,Free,Midwest,Chicago,Books,395.84,450.79,101,2026-06-25,2026-06-25 00:00:00,Cancelled
+1031,user_1031,user_1031@example.com,21,Standard,South,Houston,Electronics,234.54,258.23,103,2026-07-08,2026-07-08 00:00:00,
+1072,user_1072,,23,Basic,West,Phoenix,Sports,151.33,143.51,103,2026-06-26,2026-06-26 00:00:00,Pending
+1081,user_1081,user_1081@example.com,58,Standard,West,San Francisco,Clothing,374.43,321.49,103,2026-06-21,2026-06-21 00:00:00,Active
+1074,user_1074,user_1074@example.com,31,Standard,South,Houston,Sports,375.27,361.14,102,2026-07-07,2026-07-07 00:00:00,Cancelled
+1047,user_1047,user_1047@example.com,56,Basic,West,San Francisco,Sports,246.21,234.38,101,2026-07-08,2026-07-08 00:00:00,Pending
+1077,user_1077,user_1077@example.com,56,Basic,West,Phoenix,Home & Kitchen,254.41,268.52,101,2026-06-22,2026-06-22 00:00:00,Pending
+1046,user_1046,user_1046@example.com,21,Standard,South,Houston,Sports,42.93,43.53,101,2026-06-23,2026-06-23 00:00:00,Pending
+1032,user_1032,user_1032@example.com,56,Basic,South,Houston,Clothing,347.92,283.94,103,2026-07-01,2026-07-01 00:00:00,Active
+1066,user_1066,user_1066@example.com,30,Free,South,Houston,Books,58.15,47.71,101,2026-07-12,2026-07-12 00:00:00,
+1012,user_1012,user_1012@example.com,46,Standard,South,Houston,Sports,14.71,17.09,104,2026-06-24,2026-06-24 00:00:00,
+1032,user_1032,user_1032@example.com,46,Basic,Midwest,Chicago,Home & Kitchen,258.57,305.26,103,2026-07-10,2026-07-10 00:00:00,Cancelled
+1064,user_1064,user_1064@example.com,26,Free,West,San Francisco,Electronics,166.41,164.45,102,2026-07-13,2026-07-13 00:00:00,Cancelled
+1056,user_1056,user_1056@example.com,26,Basic,Midwest,Chicago,Electronics,383.8,384.07,103,2026-06-24,2026-06-24 00:00:00,Cancelled
+1026,user_1026,user_1026@example.com,25,Basic,West,San Francisco,Books,395.05,412.45,102,2026-07-08,2026-07-08 00:00:00,
+1029,user_1029,user_1029@example.com,34,Standard,West,Phoenix,Clothing,160.05,181.13,103,2026-07-04,2026-07-04 00:00:00,
+1097,user_1097,user_1097@example.com,41,Standard,Midwest,Chicago,Clothing,487.74,393.99,102,2026-07-12,2026-07-12 00:00:00,Cancelled
+1041,user_1041,user_1041@example.com,50,Basic,Midwest,Chicago,Clothing,312.6,284.34,101,2026-07-11,2026-07-11 00:00:00,
+1099,user_1099,user_1099@example.com,60,Free,Midwest,Chicago,Clothing,147.27,139.91,101,2026-07-17,2026-07-17 00:00:00,Cancelled
+1036,user_1036,user_1036@example.com,19,Standard,West,Seattle,Books,413.91,428.78,102,2026-07-01,2026-07-01 00:00:00,Cancelled
+1067,user_1067,user_1067@example.com,23,Premium,West,San Francisco,Home & Kitchen,479.03,531.28,102,2026-07-13,2026-07-13 00:00:00,Cancelled
+1025,user_1025,user_1025@example.com,31,Premium,West,Phoenix,Clothing,68.4,65.56,104,2026-06-23,,Active
+1047,,user_1047@example.com,17,Standard,West,San Francisco,Sports,251.08,264.58,101,2026-06-30,2026-06-30 00:00:00,Active
+1020,user_1020,user_1020@example.com,20,Free,West,San Francisco,Sports,328.59,272.48,104,2026-06-22,2026-06-22 00:00:00,Pending
+1009,user_1009,user_1009@example.com,44,Free,West,Phoenix,Electronics,206.72,216.95,104,2026-07-18,,Cancelled
+1019,user_1019,user_1019@example.com,58,Standard,West,Seattle,Sports,234.3,259.6,103,2026-06-20,2026-06-20 00:00:00,Pending
+1098,user_1098,user_1098@example.com,21,Premium,South,Houston,Sports,304.94,339.03,103,2026-06-18,2026-06-18 00:00:00,Pending
+1025,user_1025,user_1025@example.com,32,Basic,South,Houston,Clothing,388.45,,104,2026-07-15,2026-07-15 00:00:00,
+1048,,user_1048@example.com,27,Basic,South,Houston,Books,299.21,355.37,101,2026-07-13,2026-07-13 00:00:00,
+1045,user_1045,user_1045@example.com,27,Basic,West,San Francisco,Electronics,401.9,362.56,101,2026-06-18,18/06/2026 12:00 AM,
+1012,user_1012,user_1012@example.com,19,Free,West,Seattle,Home & Kitchen,122.39,129.75,104,2026-06-20,2026-06-20 00:00:00,Cancelled
+1005,user_1005,user_1005@example.com,51,Premium,West,Phoenix,Clothing,264.12,260.93,101,2026-07-17,2026-07-17 00:00:00,Cancelled
+1079,user_1079,user_1079@example.com,26,Basic,West,Phoenix,Sports,483.0,542.95,102,2026-07-07,2026-07-07 00:00:00,Pending
+1063,user_1063,user_1063@example.com,38,Standard,Midwest,Chicago,Sports,167.33,156.06,104,2026-07-17,2026-07-17 00:00:00,
+1069,user_1069,user_1069@example.com,48,Basic,Midwest,Chicago,Clothing,59.06,52.51,104,2026-07-16,2026-07-16 00:00:00,
+1056,user_1056,user_1056@example.com,55,Premium,West,San Francisco,Home & Kitchen,243.36,219.69,103,2026-06-27,2026-06-27 00:00:00,Active
+1063,user_1063,user_1063@example.com,27,Basic,West,Seattle,Clothing,262.22,224.73,101,2026-06-25,2026-06-25 00:00:00,Active
+1028,user_1028,user_1028@example.com,34,Standard,South,Houston,Books,337.49,347.91,103,2026-06-24,2026-06-24 00:00:00,Cancelled
+1074,user_1074,user_1074@example.com,39,Premium,South,Houston,Clothing,489.97,,101,2026-06-22,2026-06-22 00:00:00,Cancelled
+1073,user_1073,user_1073@example.com,27,Free,Midwest,Chicago,Books,496.42,449.32,104,2026-07-15,2026-07-15 00:00:00,Cancelled
+1023,user_1023,user_1023@example.com,46,Free,West,Phoenix,Electronics,337.33,339.9,101,2026-06-23,2026-06-23 00:00:00,Pending
+1029,user_1029,user_1029@example.com,22,Standard,Midwest,Chicago,Clothing,437.92,426.74,101,2026-06-18,2026-06-18 00:00:00,
+1024,user_1024,user_1024@example.com,16,Basic,West,San Francisco,Home & Kitchen,267.53,274.26,101,2026-06-23,2026-06-23 00:00:00,Pending
+1020,user_1020,user_1020@example.com,55,Basic,West,Phoenix,Clothing,275.0,266.64,102,2026-07-10,,
+1049,user_1049,user_1049@example.com,45,Free,West,Phoenix,Home & Kitchen,76.7,61.37,103,2026-06-26,2026-06-26 00:00:00,Active
+1096,user_1096,user_1096@example.com,25,Basic,Midwest,Chicago,Books,395.29,378.06,102,2026-07-11,11/07/2026 12:00 AM,Cancelled
+1051,user_1051,user_1051@example.com,58,Basic,South,Houston,Clothing,227.26,250.95,101,2026-06-28,2026-06-28 00:00:00,Active
+1060,user_1060,user_1060@example.com,22,Free,West,San Francisco,Clothing,44.5,51.81,103,2026-06-20,2026-06-20 00:00:00,
+1014,user_1014,user_1014@example.com,25,Free,West,Phoenix,Home & Kitchen,120.07,143.97,103,2026-07-11,2026-07-11 00:00:00,
+1007,user_1007,user_1007@example.com,32,Standard,West,Seattle,Home & Kitchen,323.73,345.35,103,2026-07-07,2026-07-07 00:00:00,
+1074,user_1074,user_1074@example.com,57,Standard,South,Houston,Electronics,498.68,496.26,104,2026-06-29,2026-06-29 00:00:00,
+1077,user_1077,user_1077@example.com,56,Premium,Midwest,Chicago,Sports,56.51,50.6,104,2026-06-22,2026-06-22 00:00:00,Cancelled
+1058,user_1058,user_1058@example.com,40,Free,West,Seattle,Electronics,115.86,121.91,103,2026-07-15,2026-07-15 00:00:00,Active
+1032,user_1032,user_1032@example.com,37,Basic,West,Seattle,Home & Kitchen,228.54,,104,2026-06-26,2026-06-26 00:00:00,Pending
+1071,user_1071,user_1071@example.com,35,Free,South,Houston,Home & Kitchen,392.67,392.64,101,2026-07-08,2026-07-08 00:00:00,Pending
+1039,user_1039,user_1039@example.com,55,Free,West,Phoenix,Home & Kitchen,314.68,346.97,102,2026-07-10,2026-07-10 00:00:00,Cancelled
+1046,user_1046,user_1046@example.com,35,Premium,West,Seattle,Electronics,103.0,103.25,103,2026-06-24,2026-06-24 00:00:00,Active
+1011,user_1011,user_1011@example.com,57,Free,South,Houston,Home & Kitchen,81.43,76.67,102,2026-06-19,2026-06-19 00:00:00,Cancelled
+1072,user_1072,user_1072@example.com,29,Free,West,San Francisco,Electronics,130.49,156.21,101,2026-07-03,2026-07-03 00:00:00,Pending
+1028,user_1028,user_1028@example.com,24,Premium,South,Houston,Home & Kitchen,129.4,,104,2026-06-22,2026-06-22 00:00:00,Pending
+1023,user_1023,user_1023@example.com,55,Free,West,Seattle,Home & Kitchen,356.31,399.56,103,2026-07-05,2026-07-05 00:00:00,Pending
+1069,user_1069,user_1069@example.com,23,Standard,West,Phoenix,Clothing,399.82,335.31,104,2026-07-01,2026-07-01 00:00:00,Pending
+1091,user_1091,user_1091@example.com,29,Free,West,Phoenix,Home & Kitchen,291.39,,104,2026-07-03,03/07/2026 12:00 AM,Pending
+1071,user_1071,user_1071@example.com,37,Free,Midwest,Chicago,Clothing,41.25,48.75,103,2026-06-30,2026-06-30 00:00:00,Active
+1062,user_1062,user_1062@example.com,23,Free,West,San Francisco,Clothing,334.28,360.65,103,2026-07-08,2026-07-08 00:00:00,
+1098,user_1098,user_1098@example.com,35,Premium,South,Houston,Sports,35.96,37.22,101,2026-06-29,2026-06-29 00:00:00,Pending
+1031,user_1031,user_1031@example.com,26,Basic,South,Houston,Electronics,328.21,278.26,101,2026-07-15,2026-07-15 00:00:00,
+1048,user_1048,user_1048@example.com,36,Basic,West,Seattle,Electronics,162.49,157.96,103,2026-07-03,2026-07-03 00:00:00,Pending
+1044,user_1044,user_1044@example.com,36,Free,South,Houston,Electronics,266.69,,101,2026-07-01,2026-07-01 00:00:00,Pending
+1067,,user_1067@example.com,34,Premium,Midwest,Chicago,Sports,286.05,338.19,102,2026-06-28,2026-06-28 00:00:00,Pending
+1012,user_1012,user_1012@example.com,53,Standard,West,Phoenix,Sports,96.69,110.07,102,2026-07-02,2026-07-02 00:00:00,Active
+1004,user_1004,user_1004@example.com,22,Standard,West,San Francisco,Home & Kitchen,62.81,65.07,102,2026-06-20,2026-06-20 00:00:00,Pending
+1043,user_1043,user_1043@example.com,50,Free,West,San Francisco,Books,472.57,390.43,102,2026-07-07,2026-07-07 00:00:00,
+1051,,user_1051@example.com,45,Premium,South,Houston,Sports,54.57,63.56,104,2026-06-24,2026-06-24 00:00:00,Cancelled
+1057,user_1057,user_1057@example.com,55,Free,South,Houston,Books,223.22,,101,2026-07-03,2026-07-03 00:00:00,
+1063,user_1063,user_1063@example.com,58,Premium,West,Phoenix,Sports,417.32,348.74,102,2026-06-28,28/06/2026 12:00 AM,Active
+1038,user_1038,user_1038@example.com,49,Premium,Midwest,Chicago,Books,371.88,324.03,103,2026-06-27,2026-06-27 00:00:00,Active
+1023,user_1023,user_1023@example.com,19,Basic,West,Seattle,Books,111.3,89.73,104,2026-07-12,2026-07-12 00:00:00,Cancelled
+1030,user_1030,user_1030@example.com,36,Basic,Midwest,Chicago,Books,415.02,471.1,101,2026-07-14,2026-07-14 00:00:00,Cancelled
+1087,user_1087,user_1087@example.com,55,Standard,West,Seattle,Clothing,470.73,548.63,104,2026-06-26,,
+1035,user_1035,user_1035@example.com,46,Standard,West,Seattle,Sports,15.11,12.34,104,2026-07-14,2026-07-14 00:00:00,Active
+1020,user_1020,user_1020@example.com,26,Standard,Midwest,Chicago,Clothing,472.32,506.5,104,2026-07-09,2026-07-09 00:00:00,Cancelled
+1097,user_1097,user_1097@example.com,27,Premium,Midwest,Chicago,Sports,424.76,427.86,101,2026-07-03,2026-07-03 00:00:00,Active
+1023,user_1023,user_1023@example.com,19,Basic,West,Seattle,Books,311.51,267.0,101,2026-06-27,2026-06-27 00:00:00,Pending
+1092,user_1092,user_1092@example.com,24,Standard,South,Houston,Home & Kitchen,461.7,406.42,101,2026-07-06,2026-07-06 00:00:00,Active
+1023,user_1023,user_1023@example.com,43,Premium,South,Houston,Books,44.0,44.5,102,2026-07-14,2026-07-14 00:00:00,Active
+1052,user_1052,,25,Standard,Midwest,Chicago,Home & Kitchen,28.83,30.96,101,2026-07-06,,Active
+1098,user_1098,user_1098@example.com,55,Premium,West,Seattle,Sports,277.34,,104,2026-06-19,2026-06-19 00:00:00,
+1095,user_1095,user_1095@example.com,31,Standard,West,Seattle,Books,244.77,240.29,103,2026-07-11,2026-07-11 00:00:00,Pending
+1032,user_1032,user_1032@example.com,16,Free,West,Seattle,Home & Kitchen,80.55,87.34,102,2026-07-06,2026-07-06 00:00:00,Pending
+1053,user_1053,user_1053@example.com,43,Free,West,Seattle,Books,237.12,252.81,102,2026-06-25,2026-06-25 00:00:00,Pending
+1024,user_1024,user_1024@example.com,54,Standard,West,San Francisco,Books,278.62,268.39,103,2026-07-12,2026-07-12 00:00:00,
+1099,user_1099,user_1099@example.com,27,Basic,West,Phoenix,Home & Kitchen,280.33,267.36,104,2026-07-13,13/07/2026 12:00 AM,Pending
+1072,user_1072,user_1072@example.com,58,Basic,West,Seattle,Books,291.78,251.01,103,2026-07-04,2026-07-04 00:00:00,
+1078,user_1078,user_1078@example.com,55,Premium,West,Phoenix,Electronics,395.61,,101,2026-06-19,19/06/2026 12:00 AM,Active
+1045,user_1045,user_1045@example.com,28,Standard,West,Phoenix,Electronics,187.84,194.11,104,2026-07-03,2026-07-03 00:00:00,Cancelled
+1071,user_1071,user_1071@example.com,25,Free,Midwest,Chicago,Electronics,270.83,233.81,104,2026-06-26,2026-06-26 00:00:00,Pending
+1084,user_1084,user_1084@example.com,21,Premium,Midwest,Chicago,Clothing,441.31,437.23,101,2026-06-30,2026-06-30 00:00:00,
+1073,user_1073,user_1073@example.com,46,Standard,West,San Francisco,Home & Kitchen,494.03,408.84,102,2026-06-29,2026-06-29 00:00:00,Pending
+1085,user_1085,user_1085@example.com,33,Premium,Midwest,Chicago,Home & Kitchen,305.38,246.25,104,2026-07-13,2026-07-13 00:00:00,Cancelled
+1003,user_1003,user_1003@example.com,18,Basic,West,San Francisco,Home & Kitchen,138.93,129.9,103,2026-06-25,2026-06-25 00:00:00,Active
+1070,,user_1070@example.com,54,Premium,West,Phoenix,Sports,19.41,22.55,104,2026-07-06,,Cancelled
+1042,user_1042,user_1042@example.com,42,Free,West,Seattle,Home & Kitchen,74.85,67.71,102,2026-07-03,03/07/2026 12:00 AM,
+1085,user_1085,user_1085@example.com,22,Premium,Midwest,Chicago,Clothing,405.05,336.1,103,2026-07-16,2026-07-16 00:00:00,Active
+1001,user_1001,user_1001@example.com,36,Premium,Midwest,Chicago,Clothing,295.55,351.01,103,2026-06-23,2026-06-23 00:00:00,Active
+1025,user_1025,user_1025@example.com,26,Premium,South,Houston,Electronics,11.88,10.61,101,2026-06-26,2026-06-26 00:00:00,Pending
+1025,user_1025,user_1025@example.com,60,Basic,West,Seattle,Books,151.15,173.22,101,2026-07-04,04/07/2026 12:00 AM,Pending
+1033,user_1033,user_1033@example.com,27,Premium,South,Houston,Electronics,102.22,112.7,102,2026-07-13,2026-07-13 00:00:00,Cancelled
+1052,user_1052,user_1052@example.com,42,Standard,West,San Francisco,Home & Kitchen,370.37,393.31,103,2026-07-09,09/07/2026 12:00 AM,Active
+1044,user_1044,user_1044@example.com,42,Premium,West,Seattle,Books,15.88,13.26,103,2026-06-26,2026-06-26 00:00:00,Active
+1033,user_1033,user_1033@example.com,37,Free,West,San Francisco,Home & Kitchen,254.85,235.84,102,2026-07-11,11/07/2026 12:00 AM,Cancelled
+1059,user_1059,user_1059@example.com,40,Free,West,Seattle,Books,231.57,254.78,104,2026-06-18,,Pending
+1048,user_1048,user_1048@example.com,40,Standard,West,Phoenix,Electronics,222.85,258.98,102,2026-06-30,2026-06-30 00:00:00,Active
+1060,user_1060,user_1060@example.com,16,Free,West,Seattle,Books,87.58,99.97,103,2026-07-11,2026-07-11 00:00:00,
+1055,user_1055,user_1055@example.com,57,Premium,West,Seattle,Home & Kitchen,481.11,,103,2026-06-26,2026-06-26 00:00:00,Pending
+1063,user_1063,user_1063@example.com,15,Standard,West,San Francisco,Clothing,175.9,184.24,101,2026-06-29,2026-06-29 00:00:00,Cancelled
+1047,user_1047,user_1047@example.com,16,Free,South,Houston,Home & Kitchen,214.33,199.43,102,2026-06-19,2026-06-19 00:00:00,
+1071,user_1071,user_1071@example.com,59,Basic,West,Phoenix,Clothing,483.08,497.05,102,2026-06-26,2026-06-26 00:00:00,Pending
+1072,user_1072,,47,Premium,West,Seattle,Books,377.59,314.35,104,2026-07-04,2026-07-04 00:00:00,Cancelled
+1057,user_1057,user_1057@example.com,32,Basic,Midwest,Chicago,Home & Kitchen,425.41,,102,2026-07-11,2026-07-11 00:00:00,
+1018,user_1018,user_1018@example.com,46,Standard,West,San Francisco,Sports,442.77,497.8,102,2026-06-18,2026-06-18 00:00:00,Cancelled
+1094,user_1094,user_1094@example.com,47,Standard,Midwest,Chicago,Clothing,397.45,448.1,101,2026-07-09,2026-07-09 00:00:00,Active
+1083,user_1083,user_1083@example.com,38,Free,Midwest,Chicago,Clothing,228.88,197.48,104,2026-06-24,2026-06-24 00:00:00,
+1025,user_1025,user_1025@example.com,25,Basic,West,Phoenix,Home & Kitchen,478.49,548.87,104,2026-07-07,2026-07-07 00:00:00,
+1003,user_1003,user_1003@example.com,40,Basic,West,San Francisco,Home & Kitchen,310.41,328.24,103,2026-06-30,30/06/2026 12:00 AM,Active
+1063,user_1063,user_1063@example.com,24,Premium,South,Houston,Sports,90.06,75.36,103,2026-07-07,2026-07-07 00:00:00,Active
+1051,user_1051,user_1051@example.com,56,Free,West,Seattle,Clothing,278.57,,102,2026-07-04,2026-07-04 00:00:00,Cancelled
+1030,user_1030,user_1030@example.com,16,Premium,South,Houston,Clothing,244.56,,102,2026-06-18,2026-06-18 00:00:00,Cancelled
+1049,user_1049,user_1049@example.com,16,Standard,West,Phoenix,Books,21.52,20.79,101,2026-07-17,17/07/2026 12:00 AM,Pending
+1062,,user_1062@example.com,52,Standard,West,San Francisco,Sports,450.3,398.57,101,2026-06-19,2026-06-19 00:00:00,Cancelled
+1047,user_1047,user_1047@example.com,27,Standard,West,San Francisco,Home & Kitchen,105.93,101.38,103,2026-07-04,,
+1023,user_1023,user_1023@example.com,21,Basic,South,Houston,Clothing,382.28,351.49,102,2026-06-20,2026-06-20 00:00:00,
+1082,user_1082,user_1082@example.com,31,Basic,Midwest,Chicago,Sports,21.67,,102,2026-06-21,2026-06-21 00:00:00,
+1058,user_1058,user_1058@example.com,25,Free,West,Phoenix,Books,284.81,340.27,102,2026-07-16,2026-07-16 00:00:00,Active
+1006,user_1006,user_1006@example.com,15,Standard,West,San Francisco,Books,196.9,170.08,101,2026-07-07,2026-07-07 00:00:00,
+1009,user_1009,user_1009@example.com,34,Premium,West,Phoenix,Electronics,158.0,185.18,102,2026-07-15,2026-07-15 00:00:00,Active
+1022,,user_1022@example.com,30,Free,West,Seattle,Sports,350.51,283.57,104,2026-07-16,2026-07-16 00:00:00,Active
+1086,user_1086,,42,Free,West,Seattle,Books,95.76,,101,2026-06-27,2026-06-27 00:00:00,Cancelled
+1092,user_1092,user_1092@example.com,16,Standard,West,Phoenix,Clothing,125.06,100.15,101,2026-06-21,2026-06-21 00:00:00,
+1091,user_1091,,38,Premium,South,Houston,Sports,189.98,193.37,103,2026-06-27,2026-06-27 00:00:00,Pending
+1094,user_1094,user_1094@example.com,52,Free,West,Phoenix,Home & Kitchen,239.07,219.22,104,2026-06-27,2026-06-27 00:00:00,
+1077,user_1077,user_1077@example.com,37,Free,Midwest,Chicago,Books,379.31,328.37,101,2026-07-08,2026-07-08 00:00:00,Pending
+1043,user_1043,user_1043@example.com,25,Basic,West,San Francisco,Clothing,414.1,467.68,101,2026-07-02,2026-07-02 00:00:00,Active
+1070,user_1070,user_1070@example.com,29,Standard,West,Phoenix,Books,67.29,75.28,104,2026-07-02,2026-07-02 00:00:00,Cancelled
+1088,user_1088,user_1088@example.com,55,Free,West,Seattle,Clothing,418.83,366.62,101,2026-06-20,2026-06-20 00:00:00,Active
+1018,user_1018,user_1018@example.com,34,Basic,West,Seattle,Books,158.4,167.16,102,2026-07-18,,Cancelled
+1026,user_1026,user_1026@example.com,19,Premium,Midwest,Chicago,Home & Kitchen,231.77,273.01,104,2026-07-18,2026-07-18 00:00:00,
+1026,user_1026,user_1026@example.com,45,Premium,West,Phoenix,Books,488.74,459.71,103,2026-06-26,2026-06-26 00:00:00,Active
+1088,user_1088,user_1088@example.com,58,Free,West,Seattle,Electronics,196.18,216.51,101,2026-07-03,03/07/2026 12:00 AM,Pending
+1058,user_1058,user_1058@example.com,53,Free,Midwest,Chicago,Electronics,168.21,181.94,104,2026-07-12,12/07/2026 12:00 AM,Pending
+1086,user_1086,user_1086@example.com,43,Premium,West,San Francisco,Sports,98.8,101.37,101,2026-07-10,2026-07-10 00:00:00,
+1057,user_1057,user_1057@example.com,33,Standard,South,Houston,Books,63.74,72.34,102,2026-07-03,03/07/2026 12:00 AM,Pending
+1005,user_1005,user_1005@example.com,58,Free,West,Seattle,Clothing,359.78,424.26,101,2026-07-15,2026-07-15 00:00:00,Active
+1063,user_1063,user_1063@example.com,16,Standard,West,Seattle,Sports,62.1,56.61,104,2026-07-16,2026-07-16 00:00:00,Cancelled
+1051,user_1051,user_1051@example.com,23,Premium,West,Seattle,Electronics,89.38,95.27,104,2026-06-27,2026-06-27 00:00:00,Cancelled
+1008,user_1008,user_1008@example.com,52,Free,West,Seattle,Electronics,284.24,244.15,102,2026-06-25,25/06/2026 12:00 AM,Active
+1100,,user_1100@example.com,32,Premium,West,San Francisco,Home & Kitchen,441.39,515.67,104,2026-06-23,2026-06-23 00:00:00,
+1027,user_1027,user_1027@example.com,55,Premium,West,Seattle,Clothing,336.87,289.09,101,2026-07-03,2026-07-03 00:00:00,Pending
+1080,user_1080,user_1080@example.com,38,Basic,South,Houston,Home & Kitchen,209.13,170.89,103,2026-06-24,2026-06-24 00:00:00,Cancelled
+1057,user_1057,user_1057@example.com,23,Free,West,Seattle,Sports,475.2,457.43,102,2026-07-11,2026-07-11 00:00:00,Active
+1076,,user_1076@example.com,20,Basic,West,Seattle,Electronics,191.07,188.36,103,2026-07-09,2026-07-09 00:00:00,Cancelled
+1065,user_1065,user_1065@example.com,59,Basic,West,Seattle,Books,175.17,208.47,101,2026-07-10,2026-07-10 00:00:00,Cancelled
+1065,user_1065,user_1065@example.com,35,Basic,West,San Francisco,Sports,103.72,90.94,103,2026-07-02,2026-07-02 00:00:00,
+1098,user_1098,user_1098@example.com,59,Standard,South,Houston,Clothing,346.68,352.61,103,2026-07-12,2026-07-12 00:00:00,Pending
+1092,user_1092,user_1092@example.com,30,Basic,Midwest,Chicago,Sports,397.07,346.73,104,2026-07-07,2026-07-07 00:00:00,Cancelled
+1058,user_1058,user_1058@example.com,53,Premium,West,San Francisco,Home & Kitchen,70.97,72.41,104,2026-07-18,2026-07-18 00:00:00,Cancelled
+1058,user_1058,user_1058@example.com,32,Free,West,Seattle,Clothing,140.19,147.37,104,2026-06-29,2026-06-29 00:00:00,Cancelled
+1017,user_1017,user_1017@example.com,18,Premium,Midwest,Chicago,Electronics,145.9,132.38,101,2026-06-19,2026-06-19 00:00:00,Active
+1007,,user_1007@example.com,54,Standard,West,San Francisco,Home & Kitchen,220.6,231.04,103,2026-06-19,2026-06-19 00:00:00,Pending
+1070,user_1070,user_1070@example.com,25,Free,Midwest,Chicago,Clothing,275.44,,102,2026-07-16,2026-07-16 00:00:00,Cancelled
+1015,user_1015,user_1015@example.com,29,Basic,West,Seattle,Books,308.71,360.28,103,2026-07-15,,Cancelled
+1074,user_1074,user_1074@example.com,43,Basic,West,Seattle,Clothing,59.18,,104,2026-07-04,2026-07-04 00:00:00,
+1069,user_1069,user_1069@example.com,58,Free,Midwest,Chicago,Books,396.9,368.65,104,2026-07-02,2026-07-02 00:00:00,Pending
+1018,user_1018,user_1018@example.com,59,Free,West,Phoenix,Clothing,396.15,366.71,104,2026-07-10,2026-07-10 00:00:00,Pending
+1076,user_1076,user_1076@example.com,58,Basic,West,Seattle,Electronics,231.6,221.3,103,2026-07-07,2026-07-07 00:00:00,
+1011,user_1011,user_1011@example.com,32,Standard,West,Seattle,Home & Kitchen,244.48,279.06,102,2026-06-21,,
+1006,user_1006,user_1006@example.com,25,Premium,West,Phoenix,Sports,350.7,,101,2026-07-02,2026-07-02 00:00:00,Cancelled
+1055,user_1055,user_1055@example.com,29,Free,South,Houston,Home & Kitchen,91.65,,101,2026-06-29,2026-06-29 00:00:00,Pending
+1070,user_1070,user_1070@example.com,25,Basic,West,Phoenix,Electronics,405.79,440.29,101,2026-06-24,2026-06-24 00:00:00,Pending
+1015,user_1015,user_1015@example.com,38,Basic,West,San Francisco,Clothing,271.49,302.65,103,2026-06-21,2026-06-21 00:00:00,Active
+1064,user_1064,user_1064@example.com,25,Premium,West,San Francisco,Books,86.4,98.9,103,2026-06-30,2026-06-30 00:00:00,
+1090,user_1090,user_1090@example.com,55,Premium,South,Houston,Electronics,491.6,449.76,104,2026-06-27,2026-06-27 00:00:00,
+1059,user_1059,user_1059@example.com,37,Free,West,San Francisco,Home & Kitchen,266.5,266.84,104,2026-07-14,2026-07-14 00:00:00,Cancelled
+1014,user_1014,user_1014@example.com,39,Standard,West,Phoenix,Home & Kitchen,21.7,23.87,102,2026-07-05,2026-07-05 00:00:00,
+1097,user_1097,user_1097@example.com,34,Free,West,San Francisco,Clothing,79.73,92.6,103,2026-07-03,2026-07-03 00:00:00,Cancelled
+1059,user_1059,user_1059@example.com,30,Basic,South,Houston,Electronics,154.75,,104,2026-06-19,2026-06-19 00:00:00,
+1076,user_1076,user_1076@example.com,50,Free,Midwest,Chicago,Electronics,467.65,463.81,103,2026-07-08,2026-07-08 00:00:00,Pending
+1012,user_1012,user_1012@example.com,32,Premium,Midwest,Chicago,Electronics,259.66,246.29,104,2026-07-06,2026-07-06 00:00:00,Cancelled
+1041,user_1041,user_1041@example.com,48,Premium,West,San Francisco,Books,381.66,383.79,101,2026-06-18,2026-06-18 00:00:00,Cancelled
+1093,user_1093,user_1093@example.com,24,Basic,West,Seattle,Electronics,312.27,277.33,101,2026-07-09,,Pending
+1053,user_1053,user_1053@example.com,24,Free,South,Houston,Sports,288.41,255.03,101,2026-07-13,2026-07-13 00:00:00,
+1028,user_1028,user_1028@example.com,58,Free,Midwest,Chicago,Electronics,49.19,57.05,103,2026-06-21,2026-06-21 00:00:00,Cancelled
+1067,user_1067,user_1067@example.com,60,Standard,West,Phoenix,Sports,391.37,440.67,104,2026-07-03,2026-07-03 00:00:00,Cancelled
+1092,user_1092,user_1092@example.com,52,Standard,West,Seattle,Home & Kitchen,62.18,55.31,102,2026-06-20,2026-06-20 00:00:00,Pending
+1089,user_1089,user_1089@example.com,40,Free,Midwest,Chicago,Sports,172.29,,102,2026-06-29,2026-06-29 00:00:00,Active
+1007,user_1007,user_1007@example.com,24,Free,West,Phoenix,Books,489.4,464.03,103,2026-07-11,2026-07-11 00:00:00,
+1027,user_1027,user_1027@example.com,33,Basic,West,San Francisco,Sports,404.22,420.06,104,2026-06-21,21/06/2026 12:00 AM,Active
+1069,user_1069,user_1069@example.com,59,Basic,South,Houston,Electronics,11.02,9.4,103,2026-06-27,2026-06-27 00:00:00,Cancelled
+1011,,user_1011@example.com,36,Premium,West,San Francisco,Electronics,498.19,,101,2026-06-29,,Pending
+1050,user_1050,user_1050@example.com,32,Standard,South,Houston,Sports,420.06,,103,2026-07-14,2026-07-14 00:00:00,Cancelled
+1082,user_1082,user_1082@example.com,46,Basic,South,Houston,Home & Kitchen,25.7,27.4,104,2026-06-23,2026-06-23 00:00:00,Cancelled
+1083,user_1083,user_1083@example.com,30,Standard,West,Phoenix,Home & Kitchen,113.17,122.37,101,2026-07-16,2026-07-16 00:00:00,Pending
+1057,user_1057,user_1057@example.com,33,Standard,Midwest,Chicago,Home & Kitchen,293.84,286.24,101,2026-06-19,2026-06-19 00:00:00,Cancelled
+1060,user_1060,user_1060@example.com,40,Basic,South,Houston,Home & Kitchen,42.37,,103,2026-07-06,2026-07-06 00:00:00,
+1057,user_1057,user_1057@example.com,60,Free,West,Phoenix,Home & Kitchen,479.45,550.05,102,2026-07-18,2026-07-18 00:00:00,Cancelled
+1011,user_1011,user_1011@example.com,24,Premium,West,Seattle,Clothing,127.61,150.94,102,2026-06-25,25/06/2026 12:00 AM,Active
+1091,user_1091,user_1091@example.com,36,Premium,West,Phoenix,Electronics,246.57,246.68,102,2026-07-14,2026-07-14 00:00:00,Cancelled
+1050,user_1050,user_1050@example.com,54,Basic,West,San Francisco,Books,387.16,315.83,103,2026-07-01,2026-07-01 00:00:00,Cancelled
+1002,user_1002,user_1002@example.com,19,Free,West,Phoenix,Books,465.23,485.47,102,2026-06-19,2026-06-19 00:00:00,
+1038,user_1038,user_1038@example.com,29,Standard,West,Phoenix,Books,140.03,114.29,104,2026-07-11,2026-07-11 00:00:00,Active
+1068,user_1068,user_1068@example.com,41,Premium,West,Phoenix,Sports,435.59,482.07,103,2026-06-24,24/06/2026 12:00 AM,Pending
+1084,user_1084,user_1084@example.com,30,Free,West,San Francisco,Sports,365.6,388.43,101,2026-06-27,2026-06-27 00:00:00,Pending
+1002,user_1002,user_1002@example.com,31,Basic,West,Seattle,Home & Kitchen,339.19,394.27,102,2026-06-25,25/06/2026 12:00 AM,Cancelled
+1069,user_1069,user_1069@example.com,19,Basic,West,Phoenix,Electronics,427.98,,102,2026-07-16,2026-07-16 00:00:00,Cancelled
+1014,user_1014,user_1014@example.com,47,Free,South,Houston,Sports,69.83,63.64,101,2026-07-07,2026-07-07 00:00:00,
+1069,user_1069,user_1069@example.com,54,Premium,South,Houston,Electronics,89.52,90.31,102,2026-07-03,2026-07-03 00:00:00,Cancelled
+1043,user_1043,user_1043@example.com,42,Premium,Midwest,Chicago,Sports,390.17,338.28,104,2026-06-24,2026-06-24 00:00:00,Pending
+1071,user_1071,user_1071@example.com,56,Standard,West,Seattle,Clothing,450.99,,102,2026-07-18,18/07/2026 12:00 AM,Cancelled
+1053,user_1053,,35,Free,West,Phoenix,Electronics,75.7,,101,2026-06-30,2026-06-30 00:00:00,Cancelled
+1079,user_1079,user_1079@example.com,55,Standard,Midwest,Chicago,Clothing,162.91,149.45,101,2026-07-17,2026-07-17 00:00:00,Pending
+1048,user_1048,user_1048@example.com,41,Premium,West,Phoenix,Sports,188.25,206.22,104,2026-07-18,,Cancelled
+1023,user_1023,user_1023@example.com,48,Premium,West,Phoenix,Home & Kitchen,65.55,72.58,103,2026-06-20,2026-06-20 00:00:00,Active
+1006,user_1006,user_1006@example.com,50,Premium,South,Houston,Sports,468.25,476.88,103,2026-07-15,2026-07-15 00:00:00,Active
+1053,user_1053,user_1053@example.com,18,Basic,West,Phoenix,Electronics,56.21,45.06,104,2026-07-17,2026-07-17 00:00:00,Active
+1020,user_1020,user_1020@example.com,30,Premium,West,Phoenix,Home & Kitchen,92.51,95.06,101,2026-06-28,2026-06-28 00:00:00,Pending
+1094,user_1094,user_1094@example.com,47,Basic,South,Houston,Books,12.59,11.45,102,2026-07-03,03/07/2026 12:00 AM,Pending
+1085,user_1085,user_1085@example.com,33,Standard,West,San Francisco,Clothing,208.22,242.43,103,2026-07-10,2026-07-10 00:00:00,Active
+1032,user_1032,user_1032@example.com,22,Free,West,Seattle,Sports,103.67,88.25,102,2026-06-22,2026-06-22 00:00:00,Pending
+1091,,user_1091@example.com,17,Premium,South,Houston,Books,75.15,88.96,101,2026-06-28,2026-06-28 00:00:00,Active
+1013,user_1013,user_1013@example.com,24,Premium,West,Seattle,Home & Kitchen,169.3,180.1,103,2026-07-04,2026-07-04 00:00:00,Pending
+1049,user_1049,user_1049@example.com,57,Basic,South,Houston,Books,249.57,204.54,101,2026-07-05,05/07/2026 12:00 AM,Active
+1067,user_1067,user_1067@example.com,33,Basic,West,Seattle,Home & Kitchen,146.87,118.3,101,2026-06-30,2026-06-30 00:00:00,Pending
+1025,user_1025,user_1025@example.com,45,Free,West,Seattle,Home & Kitchen,88.62,102.97,101,2026-06-24,2026-06-24 00:00:00,Pending
+1065,user_1065,user_1065@example.com,32,Standard,West,San Francisco,Sports,134.86,,103,2026-06-25,25/06/2026 12:00 AM,Active
+1036,user_1036,user_1036@example.com,57,Basic,South,Houston,Books,488.95,,101,2026-07-08,2026-07-08 00:00:00,
+1043,,user_1043@example.com,21,Standard,West,San Francisco,Books,133.07,137.66,104,2026-06-27,2026-06-27 00:00:00,Cancelled
+1048,user_1048,user_1048@example.com,30,Standard,Midwest,Chicago,Electronics,430.32,474.89,103,2026-07-03,2026-07-03 00:00:00,Active
+1013,user_1013,user_1013@example.com,41,Premium,Midwest,Chicago,Clothing,238.87,261.67,101,2026-06-27,2026-06-27 00:00:00,Pending
+1094,user_1094,user_1094@example.com,17,Standard,South,Houston,Electronics,459.92,550.31,104,2026-06-20,2026-06-20 00:00:00,Pending
+1015,user_1015,user_1015@example.com,53,Basic,West,San Francisco,Electronics,243.25,210.85,101,2026-06-19,2026-06-19 00:00:00,Pending
+1042,user_1042,user_1042@example.com,29,Standard,West,Seattle,Electronics,219.28,206.73,104,2026-07-01,01/07/2026 12:00 AM,Active
+1002,user_1002,user_1002@example.com,25,Basic,West,San Francisco,Electronics,368.9,325.97,102,2026-07-09,2026-07-09 00:00:00,Pending
+1017,,user_1017@example.com,28,Standard,West,San Francisco,Home & Kitchen,419.03,450.53,102,2026-07-03,2026-07-03 00:00:00,Active
+1022,user_1022,user_1022@example.com,21,Premium,West,San Francisco,Clothing,113.77,95.95,102,2026-06-26,2026-06-26 00:00:00,Cancelled
+1020,user_1020,user_1020@example.com,57,Basic,West,Seattle,Books,218.19,243.91,103,2026-07-08,2026-07-08 00:00:00,Active
+1051,user_1051,user_1051@example.com,44,Premium,South,Houston,Sports,66.52,77.19,102,2026-06-25,2026-06-25 00:00:00,Active
+1061,user_1061,user_1061@example.com,60,Basic,West,San Francisco,Electronics,263.8,235.5,102,2026-07-11,2026-07-11 00:00:00,Active
+1068,user_1068,user_1068@example.com,49,Premium,South,Houston,Home & Kitchen,137.96,156.07,101,2026-07-05,2026-07-05 00:00:00,Pending
+1089,user_1089,user_1089@example.com,54,Free,South,Houston,Electronics,216.84,180.42,103,2026-07-04,2026-07-04 00:00:00,Cancelled
+1004,user_1004,user_1004@example.com,57,Premium,Midwest,Chicago,Electronics,50.98,55.92,101,2026-07-16,2026-07-16 00:00:00,Active
+1100,user_1100,user_1100@example.com,18,Premium,West,Seattle,Clothing,494.32,528.36,103,2026-06-24,2026-06-24 00:00:00,Pending
+1085,user_1085,user_1085@example.com,46,Premium,West,San Francisco,Clothing,96.11,96.16,101,2026-07-08,08/07/2026 12:00 AM,
+1003,,,57,Standard,West,Seattle,Clothing,195.17,163.06,103,2026-07-02,2026-07-02 00:00:00,Active
+1052,user_1052,user_1052@example.com,29,Standard,South,Houston,Home & Kitchen,334.05,377.02,104,2026-06-25,,Active
+1006,user_1006,user_1006@example.com,53,Free,West,Seattle,Sports,183.99,204.04,102,2026-07-14,2026-07-14 00:00:00,Active
+1050,user_1050,user_1050@example.com,50,Premium,Midwest,Chicago,Home & Kitchen,316.53,361.72,102,2026-07-01,2026-07-01 00:00:00,Pending
+1024,user_1024,user_1024@example.com,48,Premium,West,San Francisco,Books,141.22,116.68,104,2026-06-29,2026-06-29 00:00:00,Cancelled
+1038,user_1038,user_1038@example.com,41,Basic,West,Seattle,Home & Kitchen,363.9,353.84,101,2026-07-09,2026-07-09 00:00:00,
+1049,user_1049,user_1049@example.com,39,Basic,Midwest,Chicago,Home & Kitchen,473.61,433.94,101,2026-07-13,2026-07-13 00:00:00,Cancelled
+1069,user_1069,user_1069@example.com,16,Premium,West,Phoenix,Books,194.86,177.7,103,2026-07-02,2026-07-02 00:00:00,Active
+1093,user_1093,user_1093@example.com,59,Basic,South,Houston,Home & Kitchen,172.46,170.09,101,2026-06-27,27/06/2026 12:00 AM,Active
+1030,user_1030,user_1030@example.com,37,Basic,West,Phoenix,Sports,136.28,147.67,104,2026-06-25,2026-06-25 00:00:00,Active
+1012,user_1012,user_1012@example.com,44,Premium,Midwest,Chicago,Sports,33.68,30.19,101,2026-06-28,2026-06-28 00:00:00,Pending
+1082,user_1082,user_1082@example.com,41,Premium,West,Seattle,Electronics,478.54,499.95,104,2026-06-24,2026-06-24 00:00:00,Active
+1064,user_1064,user_1064@example.com,48,Premium,West,Seattle,Electronics,456.64,370.17,101,2026-06-30,2026-06-30 00:00:00,Active
+1016,user_1016,user_1016@example.com,15,Basic,West,San Francisco,Books,173.59,173.41,103,2026-06-22,2026-06-22 00:00:00,
+1079,user_1079,user_1079@example.com,54,Standard,Midwest,Chicago,Clothing,444.08,,101,2026-06-23,2026-06-23 00:00:00,Cancelled
+1069,user_1069,user_1069@example.com,48,Free,Midwest,Chicago,Home & Kitchen,420.65,463.81,104,2026-07-12,2026-07-12 00:00:00,Pending
+1077,user_1077,user_1077@example.com,43,Standard,West,San Francisco,Home & Kitchen,175.47,,103,2026-06-19,,Cancelled
+1066,user_1066,user_1066@example.com,17,Standard,South,Houston,Electronics,391.23,390.04,104,2026-07-05,2026-07-05 00:00:00,Active
+1088,user_1088,user_1088@example.com,42,Premium,West,San Francisco,Electronics,472.49,388.46,102,2026-07-07,2026-07-07 00:00:00,Active
+1049,user_1049,user_1049@example.com,35,Basic,Midwest,Chicago,Electronics,476.87,429.95,103,2026-07-07,2026-07-07 00:00:00,Pending
+1073,user_1073,user_1073@example.com,46,Free,West,Seattle,Sports,325.63,287.97,103,2026-07-09,09/07/2026 12:00 AM,Pending
+1070,,user_1070@example.com,43,Basic,West,Phoenix,Home & Kitchen,156.24,166.68,102,2026-07-05,,Pending
+1078,user_1078,user_1078@example.com,57,Standard,West,Phoenix,Books,348.64,,101,2026-07-02,2026-07-02 00:00:00,Active
+1036,user_1036,user_1036@example.com,60,Free,West,Phoenix,Home & Kitchen,295.62,325.92,104,2026-06-24,2026-06-24 00:00:00,Cancelled
+1082,user_1082,user_1082@example.com,58,Free,West,San Francisco,Electronics,445.68,451.97,103,2026-06-30,2026-06-30 00:00:00,Pending
+1042,user_1042,user_1042@example.com,47,Standard,South,Houston,Sports,313.2,274.92,102,2026-06-20,2026-06-20 00:00:00,Pending
+1099,user_1099,user_1099@example.com,40,Premium,West,Phoenix,Books,314.89,,104,2026-07-14,2026-07-14 00:00:00,
+1082,user_1082,user_1082@example.com,34,Basic,Midwest,Chicago,Sports,307.3,327.28,103,2026-06-28,2026-06-28 00:00:00,Pending
+1096,,user_1096@example.com,33,Premium,West,San Francisco,Home & Kitchen,480.41,406.97,102,2026-06-20,2026-06-20 00:00:00,Cancelled
+1070,user_1070,user_1070@example.com,40,Standard,Midwest,Chicago,Sports,341.51,309.55,104,2026-06-30,2026-06-30 00:00:00,Active
+1001,user_1001,user_1001@example.com,21,Basic,South,Houston,Clothing,405.54,379.07,101,2026-07-10,2026-07-10 00:00:00,
+1019,user_1019,user_1019@example.com,34,Standard,West,San Francisco,Electronics,428.77,371.19,102,2026-07-18,,
+1050,user_1050,user_1050@example.com,18,Premium,West,San Francisco,Books,256.91,,102,2026-06-22,2026-06-22 00:00:00,Active
+1008,user_1008,user_1008@example.com,56,Standard,Midwest,Chicago,Electronics,153.59,175.57,103,2026-07-17,2026-07-17 00:00:00,Pending
+1056,user_1056,user_1056@example.com,18,Standard,West,San Francisco,Clothing,322.38,373.41,104,2026-07-04,2026-07-04 00:00:00,Active
+1017,user_1017,user_1017@example.com,41,Basic,West,Seattle,Sports,77.22,,101,2026-06-25,2026-06-25 00:00:00,
+1006,user_1006,user_1006@example.com,53,Premium,West,Seattle,Home & Kitchen,21.14,22.62,103,2026-07-16,2026-07-16 00:00:00,
+1011,user_1011,user_1011@example.com,35,Standard,South,Houston,Clothing,109.28,104.97,104,2026-07-01,2026-07-01 00:00:00,Pending
+1086,user_1086,user_1086@example.com,15,Free,South,Houston,Electronics,117.25,132.5,103,2026-07-14,2026-07-14 00:00:00,Cancelled
+1015,user_1015,user_1015@example.com,57,Standard,West,Seattle,Home & Kitchen,139.65,,102,2026-06-21,21/06/2026 12:00 AM,
+1065,,user_1065@example.com,42,Standard,West,Phoenix,Home & Kitchen,497.52,438.79,103,2026-06-22,2026-06-22 00:00:00,Active
+1059,user_1059,user_1059@example.com,47,Basic,South,Houston,Clothing,46.84,49.45,104,2026-06-20,2026-06-20 00:00:00,Pending
+1080,user_1080,user_1080@example.com,41,Basic,Midwest,Chicago,Sports,277.6,276.63,104,2026-07-11,2026-07-11 00:00:00,Pending
+1031,user_1031,user_1031@example.com,26,Standard,West,San Francisco,Books,24.29,26.72,101,2026-07-03,2026-07-03 00:00:00,
+1087,user_1087,user_1087@example.com,45,Premium,West,Seattle,Books,431.84,500.99,102,2026-06-21,2026-06-21 00:00:00,Active
+1069,user_1069,user_1069@example.com,25,Basic,West,Seattle,Clothing,318.3,274.91,104,2026-06-27,2026-06-27 00:00:00,Cancelled
+1057,user_1057,user_1057@example.com,40,Basic,West,San Francisco,Electronics,266.19,231.5,102,2026-07-08,2026-07-08 00:00:00,Active
+1075,user_1075,user_1075@example.com,30,Free,West,San Francisco,Sports,308.39,314.15,101,2026-06-18,2026-06-18 00:00:00,Active
+1004,user_1004,user_1004@example.com,29,Free,West,Phoenix,Sports,361.21,428.98,102,2026-07-09,2026-07-09 00:00:00,Active
+1036,user_1036,user_1036@example.com,47,Free,Midwest,Chicago,Electronics,350.69,330.62,102,2026-07-11,2026-07-11 00:00:00,
+1025,user_1025,user_1025@example.com,26,Premium,West,Seattle,Sports,231.48,192.41,101,2026-06-25,2026-06-25 00:00:00,
+1068,user_1068,user_1068@example.com,54,Free,West,San Francisco,Sports,253.64,287.84,102,2026-07-08,2026-07-08 00:00:00,Active
+1040,user_1040,,56,Basic,West,San Francisco,Clothing,190.65,219.86,103,2026-06-24,2026-06-24 00:00:00,Cancelled
+1072,,user_1072@example.com,25,Standard,West,Seattle,Sports,96.19,109.75,103,2026-07-10,2026-07-10 00:00:00,
+1050,user_1050,user_1050@example.com,54,Standard,West,San Francisco,Clothing,322.77,275.4,103,2026-06-23,2026-06-23 00:00:00,Pending
+1073,user_1073,user_1073@example.com,25,Standard,West,San Francisco,Electronics,345.39,302.09,103,2026-06-25,2026-06-25 00:00:00,Cancelled
+1021,user_1021,user_1021@example.com,52,Basic,West,Seattle,Clothing,178.23,191.52,101,2026-07-11,2026-07-11 00:00:00,Active
+1090,user_1090,user_1090@example.com,56,Free,West,San Francisco,Sports,138.8,158.24,103,2026-07-18,2026-07-18 00:00:00,Cancelled
+1028,,user_1028@example.com,54,Premium,West,Phoenix,Sports,413.92,,101,2026-06-19,2026-06-19 00:00:00,Active
+1066,user_1066,user_1066@example.com,30,Standard,South,Houston,Electronics,52.14,49.94,101,2026-07-08,2026-07-08 00:00:00,Cancelled
+1013,user_1013,user_1013@example.com,54,Basic,South,Houston,Books,243.17,245.56,102,2026-06-23,2026-06-23 00:00:00,Active
+1079,user_1079,user_1079@example.com,59,Premium,Midwest,Chicago,Home & Kitchen,475.69,387.25,103,2026-07-13,2026-07-13 00:00:00,Active
+1067,user_1067,user_1067@example.com,23,Free,West,San Francisco,Electronics,143.12,162.85,103,2026-07-06,2026-07-06 00:00:00,Cancelled
+1099,user_1099,user_1099@example.com,35,Free,West,San Francisco,Books,274.07,313.82,102,2026-07-03,2026-07-03 00:00:00,Cancelled
+1080,user_1080,user_1080@example.com,38,Standard,West,San Francisco,Sports,151.14,139.32,101,2026-06-18,2026-06-18 00:00:00,Cancelled
+1017,user_1017,,17,Premium,Midwest,Chicago,Clothing,402.79,359.22,102,2026-07-16,2026-07-16 00:00:00,Active
+1040,user_1040,,36,Free,West,Phoenix,Electronics,265.68,257.78,102,2026-06-27,2026-06-27 00:00:00,
+1075,user_1075,user_1075@example.com,24,Free,West,Seattle,Clothing,217.31,242.42,103,2026-06-28,2026-06-28 00:00:00,Pending
+1065,user_1065,user_1065@example.com,38,Standard,West,Phoenix,Clothing,475.35,,102,2026-06-23,2026-06-23 00:00:00,Active
+1024,user_1024,user_1024@example.com,53,Basic,South,Houston,Electronics,317.19,261.24,101,2026-06-20,2026-06-20 00:00:00,Cancelled
+1020,user_1020,user_1020@example.com,37,Premium,West,Seattle,Sports,90.88,91.56,101,2026-06-27,2026-06-27 00:00:00,Cancelled
+1059,user_1059,user_1059@example.com,38,Standard,West,Seattle,Books,76.48,78.66,101,2026-07-08,08/07/2026 12:00 AM,
+1084,user_1084,user_1084@example.com,40,Premium,West,Seattle,Sports,435.82,516.07,104,2026-07-13,2026-07-13 00:00:00,Pending
+1100,user_1100,user_1100@example.com,51,Basic,West,Seattle,Electronics,169.65,174.85,102,2026-06-25,2026-06-25 00:00:00,Active
+1041,user_1041,user_1041@example.com,55,Standard,West,Seattle,Clothing,281.04,325.64,103,2026-06-28,2026-06-28 00:00:00,Pending
+1071,user_1071,user_1071@example.com,22,Free,West,Phoenix,Books,371.19,329.45,104,2026-07-09,09/07/2026 12:00 AM,Cancelled
+1032,user_1032,user_1032@example.com,46,Premium,West,Phoenix,Clothing,447.7,510.01,104,2026-07-18,2026-07-18 00:00:00,Active
+1007,user_1007,user_1007@example.com,53,Free,South,Houston,Sports,456.23,404.08,103,2026-07-14,2026-07-14 00:00:00,Pending
+1019,,user_1019@example.com,21,Basic,South,Houston,Home & Kitchen,204.59,234.29,102,2026-07-13,,Active
+1097,user_1097,user_1097@example.com,58,Free,West,Phoenix,Sports,256.7,250.37,102,2026-06-26,2026-06-26 00:00:00,Cancelled
+1045,user_1045,user_1045@example.com,40,Premium,West,San Francisco,Electronics,108.98,100.35,104,2026-06-28,2026-06-28 00:00:00,Cancelled
+1058,user_1058,user_1058@example.com,25,Basic,Midwest,Chicago,Sports,450.28,364.34,102,2026-06-28,2026-06-28 00:00:00,Cancelled
+1011,user_1011,user_1011@example.com,56,Basic,Midwest,Chicago,Electronics,309.92,248.54,104,2026-07-03,2026-07-03 00:00:00,
+1077,user_1077,user_1077@example.com,18,Basic,Midwest,Chicago,Clothing,66.62,76.39,104,2026-07-05,2026-07-05 00:00:00,Active
+1077,user_1077,user_1077@example.com,22,Premium,Midwest,Chicago,Books,207.32,180.84,101,2026-06-29,2026-06-29 00:00:00,Cancelled
+1097,user_1097,user_1097@example.com,54,Basic,West,San Francisco,Electronics,153.87,146.5,102,2026-07-01,,Pending
+1083,user_1083,user_1083@example.com,48,Premium,West,Seattle,Clothing,384.54,323.08,103,2026-07-18,2026-07-18 00:00:00,Pending
+1001,user_1001,user_1001@example.com,23,Basic,West,Phoenix,Sports,150.49,170.96,102,2026-06-26,2026-06-26 00:00:00,Cancelled
+1008,user_1008,user_1008@example.com,15,Basic,West,Seattle,Sports,302.14,325.65,104,2026-06-22,,Active
+1058,user_1058,user_1058@example.com,42,Standard,South,Houston,Sports,170.05,156.92,102,2026-07-12,2026-07-12 00:00:00,Active
+1003,user_1003,user_1003@example.com,18,Free,South,Houston,Electronics,187.29,167.12,104,2026-07-10,2026-07-10 00:00:00,Active
+1092,user_1092,user_1092@example.com,42,Premium,West,Seattle,Books,121.82,111.17,101,2026-07-08,2026-07-08 00:00:00,Pending
+1028,user_1028,user_1028@example.com,17,Basic,Midwest,Chicago,Electronics,71.1,82.7,104,2026-06-18,2026-06-18 00:00:00,
+1054,user_1054,user_1054@example.com,19,Standard,West,Phoenix,Books,299.16,280.97,103,2026-07-05,2026-07-05 00:00:00,Cancelled
+1013,user_1013,user_1013@example.com,44,Free,West,Seattle,Electronics,64.17,71.08,101,2026-07-17,2026-07-17 00:00:00,
+1029,user_1029,user_1029@example.com,20,Free,West,San Francisco,Clothing,217.66,,101,2026-07-02,2026-07-02 00:00:00,Cancelled
+1013,user_1013,,21,Standard,West,Seattle,Electronics,237.09,193.7,104,2026-07-15,2026-07-15 00:00:00,Pending
+1010,user_1010,user_1010@example.com,33,Standard,West,Phoenix,Sports,477.4,420.02,104,2026-07-13,2026-07-13 00:00:00,Active
+1055,user_1055,user_1055@example.com,48,Standard,West,San Francisco,Books,218.7,197.16,101,2026-07-12,12/07/2026 12:00 AM,Pending
+1077,user_1077,user_1077@example.com,43,Standard,South,Houston,Books,445.92,383.3,103,2026-06-30,2026-06-30 00:00:00,Pending
+1002,,user_1002@example.com,40,Free,West,Seattle,Books,59.08,62.08,101,2026-06-24,2026-06-24 00:00:00,
+1062,user_1062,user_1062@example.com,31,Premium,West,San Francisco,Electronics,377.02,337.2,101,2026-06-22,2026-06-22 00:00:00,Cancelled
+1000,user_1000,user_1000@example.com,60,Premium,West,San Francisco,Home & Kitchen,394.38,,101,2026-06-23,2026-06-23 00:00:00,
+1100,user_1100,user_1100@example.com,55,Basic,West,Seattle,Electronics,107.35,115.3,104,2026-07-06,2026-07-06 00:00:00,Active
+1048,user_1048,user_1048@example.com,46,Standard,West,Seattle,Electronics,247.66,222.72,102,2026-06-24,2026-06-24 00:00:00,Cancelled
+1072,user_1072,user_1072@example.com,43,Premium,West,San Francisco,Electronics,358.63,310.59,104,2026-06-21,2026-06-21 00:00:00,Active
+1059,user_1059,user_1059@example.com,49,Basic,South,Houston,Electronics,53.62,,102,2026-06-27,27/06/2026 12:00 AM,Cancelled
+1069,user_1069,user_1069@example.com,30,Standard,Midwest,Chicago,Sports,290.07,334.74,104,2026-06-20,2026-06-20 00:00:00,
+1093,user_1093,user_1093@example.com,52,Standard,Midwest,Chicago,Sports,24.96,20.67,104,2026-06-20,2026-06-20 00:00:00,Pending
+1057,user_1057,user_1057@example.com,48,Basic,Midwest,Chicago,Sports,491.6,466.78,101,2026-07-01,2026-07-01 00:00:00,Cancelled
+1005,user_1005,user_1005@example.com,57,Premium,West,San Francisco,Clothing,422.64,352.5,104,2026-07-16,2026-07-16 00:00:00,Pending
+1063,user_1063,user_1063@example.com,25,Free,West,San Francisco,Sports,452.87,493.85,104,2026-06-30,2026-06-30 00:00:00,
+1034,,user_1034@example.com,60,Premium,Midwest,Chicago,Home & Kitchen,453.31,,104,2026-07-15,15/07/2026 12:00 AM,Pending
+1062,user_1062,user_1062@example.com,59,Basic,South,Houston,Home & Kitchen,364.2,404.85,104,2026-06-30,2026-06-30 00:00:00,
+1037,user_1037,user_1037@example.com,41,Standard,South,Houston,Sports,194.39,211.52,104,2026-07-18,2026-07-18 00:00:00,Pending
+1056,,user_1056@example.com,21,Free,Midwest,Chicago,Clothing,88.31,91.14,102,2026-06-22,2026-06-22 00:00:00,Pending
+1064,user_1064,user_1064@example.com,29,Standard,Midwest,Chicago,Sports,206.06,183.64,101,2026-06-20,2026-06-20 00:00:00,
+1019,user_1019,user_1019@example.com,43,Premium,West,Seattle,Books,20.81,17.39,101,2026-07-12,2026-07-12 00:00:00,Pending
+1084,user_1084,user_1084@example.com,25,Basic,West,Phoenix,Books,62.9,68.43,101,2026-07-08,2026-07-08 00:00:00,Cancelled
+1071,user_1071,user_1071@example.com,59,Premium,West,Phoenix,Clothing,186.55,205.24,104,2026-07-14,2026-07-14 00:00:00,
+1083,,user_1083@example.com,33,Standard,West,Phoenix,Electronics,395.97,450.63,104,2026-06-24,2026-06-24 00:00:00,Active
+1016,user_1016,user_1016@example.com,51,Premium,West,San Francisco,Sports,275.11,220.4,104,2026-07-04,2026-07-04 00:00:00,Cancelled
+1056,user_1056,user_1056@example.com,21,Basic,Midwest,Chicago,Home & Kitchen,315.05,331.0,103,2026-07-01,2026-07-01 00:00:00,Pending
+1050,user_1050,user_1050@example.com,34,Free,West,San Francisco,Sports,163.05,136.33,103,2026-06-30,2026-06-30 00:00:00,Active
+1015,user_1015,user_1015@example.com,58,Basic,Midwest,Chicago,Electronics,423.96,507.85,102,2026-06-26,2026-06-26 00:00:00,Active
+1014,user_1014,user_1014@example.com,58,Premium,West,Phoenix,Clothing,417.94,463.29,104,2026-07-12,2026-07-12 00:00:00,Pending
+1065,user_1065,user_1065@example.com,53,Premium,Midwest,Chicago,Books,247.9,,103,2026-06-23,2026-06-23 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,39,Standard,South,Houston,Sports,310.56,299.44,103,2026-06-23,2026-06-23 00:00:00,Cancelled
+1054,user_1054,user_1054@example.com,43,Standard,West,Phoenix,Sports,447.31,497.86,103,2026-06-24,2026-06-24 00:00:00,Active
+1016,user_1016,user_1016@example.com,31,Free,West,Seattle,Books,393.81,344.08,104,2026-07-08,08/07/2026 12:00 AM,
+1077,user_1077,user_1077@example.com,18,Premium,West,Phoenix,Books,88.53,77.02,103,2026-07-13,2026-07-13 00:00:00,
+1088,user_1088,user_1088@example.com,23,Standard,West,Seattle,Sports,42.99,,101,2026-07-13,2026-07-13 00:00:00,Active
+1064,user_1064,user_1064@example.com,48,Free,West,Phoenix,Electronics,13.0,13.19,101,2026-07-03,2026-07-03 00:00:00,
+1071,user_1071,user_1071@example.com,26,Standard,West,Seattle,Books,466.06,546.41,103,2026-07-04,2026-07-04 00:00:00,Cancelled
+1081,user_1081,user_1081@example.com,22,Basic,South,Houston,Electronics,109.91,120.26,104,2026-07-08,2026-07-08 00:00:00,
+1006,user_1006,user_1006@example.com,55,Basic,West,San Francisco,Home & Kitchen,491.87,427.89,102,2026-07-15,2026-07-15 00:00:00,Pending
+1041,user_1041,user_1041@example.com,32,Premium,West,San Francisco,Electronics,341.15,314.61,103,2026-07-09,2026-07-09 00:00:00,Pending
+1009,user_1009,user_1009@example.com,24,Free,South,Houston,Home & Kitchen,387.18,423.8,104,2026-06-27,2026-06-27 00:00:00,Active
+1056,user_1056,user_1056@example.com,28,Basic,West,Seattle,Home & Kitchen,326.08,282.56,102,2026-07-18,2026-07-18 00:00:00,
+1009,user_1009,user_1009@example.com,15,Premium,South,Houston,Electronics,307.3,276.19,101,2026-07-10,2026-07-10 00:00:00,Active
+1077,user_1077,user_1077@example.com,35,Basic,West,Seattle,Home & Kitchen,315.82,359.75,103,2026-07-18,,Active
+1008,user_1008,user_1008@example.com,45,Standard,West,San Francisco,Sports,453.45,425.4,102,2026-07-10,2026-07-10 00:00:00,Cancelled
+1033,user_1033,user_1033@example.com,28,Standard,West,Phoenix,Electronics,242.8,237.98,101,2026-07-18,2026-07-18 00:00:00,Cancelled
+1082,user_1082,user_1082@example.com,44,Standard,South,Houston,Sports,370.32,380.38,104,2026-06-30,2026-06-30 00:00:00,Active
+1040,user_1040,user_1040@example.com,45,Premium,West,Phoenix,Home & Kitchen,421.48,379.97,102,2026-07-17,2026-07-17 00:00:00,
+1022,user_1022,user_1022@example.com,50,Basic,West,Phoenix,Sports,230.27,206.16,101,2026-07-14,2026-07-14 00:00:00,
+1050,user_1050,user_1050@example.com,51,Basic,Midwest,Chicago,Clothing,263.37,215.9,102,2026-07-13,13/07/2026 12:00 AM,Active
+1023,user_1023,user_1023@example.com,16,Premium,Midwest,Chicago,Sports,199.11,168.42,101,2026-07-02,2026-07-02 00:00:00,
+1015,,user_1015@example.com,33,Basic,West,Seattle,Home & Kitchen,198.02,,101,2026-06-19,2026-06-19 00:00:00,Cancelled
+1083,user_1083,user_1083@example.com,52,Premium,West,Phoenix,Books,145.42,160.92,102,2026-07-12,2026-07-12 00:00:00,Cancelled
+1004,,user_1004@example.com,16,Free,Midwest,Chicago,Books,458.84,,103,2026-06-18,2026-06-18 00:00:00,
+1009,user_1009,user_1009@example.com,17,Free,West,Seattle,Books,486.5,471.34,101,2026-07-16,,
+1038,user_1038,user_1038@example.com,60,Basic,West,Phoenix,Home & Kitchen,10.78,10.02,104,2026-06-29,2026-06-29 00:00:00,Cancelled
+1060,,user_1060@example.com,38,Basic,West,San Francisco,Books,215.65,220.3,104,2026-07-01,2026-07-01 00:00:00,
+1049,user_1049,user_1049@example.com,48,Basic,South,Houston,Sports,222.39,257.77,101,2026-07-03,2026-07-03 00:00:00,
+1009,user_1009,user_1009@example.com,52,Free,West,San Francisco,Clothing,187.88,193.09,104,2026-07-18,2026-07-18 00:00:00,Active
+1016,user_1016,user_1016@example.com,37,Free,Midwest,Chicago,Sports,292.88,256.18,101,2026-07-09,2026-07-09 00:00:00,Active
+1047,user_1047,user_1047@example.com,44,Standard,West,San Francisco,Home & Kitchen,260.14,220.37,104,2026-07-04,04/07/2026 12:00 AM,Pending
+1037,user_1037,user_1037@example.com,19,Premium,West,Seattle,Sports,339.76,346.75,103,2026-07-16,2026-07-16 00:00:00,Pending
+1034,user_1034,user_1034@example.com,45,Standard,West,Seattle,Sports,297.94,335.02,103,2026-06-25,2026-06-25 00:00:00,Pending
+1070,user_1070,user_1070@example.com,46,Premium,Midwest,Chicago,Home & Kitchen,223.21,178.83,102,2026-07-14,2026-07-14 00:00:00,Active
+1002,user_1002,,55,Free,West,San Francisco,Clothing,463.42,446.74,101,2026-07-04,2026-07-04 00:00:00,Cancelled
+1022,user_1022,user_1022@example.com,54,Standard,West,Seattle,Home & Kitchen,12.48,,102,2026-07-13,2026-07-13 00:00:00,Pending
+1017,user_1017,user_1017@example.com,49,Standard,Midwest,Chicago,Electronics,245.92,,103,2026-06-18,2026-06-18 00:00:00,Active
+1014,user_1014,user_1014@example.com,54,Basic,Midwest,Chicago,Books,444.1,500.28,101,2026-07-08,08/07/2026 12:00 AM,Active
+1029,user_1029,user_1029@example.com,43,Premium,West,Phoenix,Sports,76.72,,104,2026-07-16,2026-07-16 00:00:00,Active
+1061,user_1061,user_1061@example.com,56,Premium,Midwest,Chicago,Sports,291.26,315.89,103,2026-07-11,2026-07-11 00:00:00,
+1075,user_1075,user_1075@example.com,41,Standard,West,Seattle,Clothing,301.64,298.29,101,2026-07-05,05/07/2026 12:00 AM,Pending
+1025,user_1025,user_1025@example.com,20,Basic,West,Seattle,Electronics,27.41,23.61,104,2026-07-11,11/07/2026 12:00 AM,Cancelled
+1100,user_1100,user_1100@example.com,31,Basic,South,Houston,Home & Kitchen,436.96,442.19,104,2026-06-21,2026-06-21 00:00:00,Active
+1057,user_1057,user_1057@example.com,60,Standard,West,Seattle,Home & Kitchen,466.16,474.95,102,2026-07-08,2026-07-08 00:00:00,Cancelled
+1017,user_1017,user_1017@example.com,18,Free,West,Seattle,Books,464.24,444.46,104,2026-06-29,29/06/2026 12:00 AM,
+1026,user_1026,user_1026@example.com,15,Premium,South,Houston,Sports,469.09,436.17,101,2026-07-03,2026-07-03 00:00:00,Active
+1013,user_1013,user_1013@example.com,20,Premium,West,San Francisco,Books,391.67,328.18,101,2026-07-14,2026-07-14 00:00:00,
+1006,user_1006,user_1006@example.com,55,Premium,West,Seattle,Books,361.37,322.89,103,2026-06-26,2026-06-26 00:00:00,Active
+1085,user_1085,user_1085@example.com,35,Standard,Midwest,Chicago,Electronics,15.18,16.76,101,2026-07-16,2026-07-16 00:00:00,Pending
+1083,user_1083,user_1083@example.com,43,Standard,West,Phoenix,Electronics,224.65,,104,2026-07-15,2026-07-15 00:00:00,Pending
+1076,user_1076,user_1076@example.com,60,Standard,West,Seattle,Electronics,457.59,517.85,101,2026-07-18,2026-07-18 00:00:00,Pending
+1098,user_1098,user_1098@example.com,52,Premium,West,Phoenix,Electronics,145.94,118.59,102,2026-07-05,,Cancelled
+1009,user_1009,user_1009@example.com,21,Basic,Midwest,Chicago,Home & Kitchen,441.45,383.93,103,2026-07-07,2026-07-07 00:00:00,Cancelled
+1043,user_1043,user_1043@example.com,19,Premium,West,San Francisco,Electronics,209.7,246.66,101,2026-06-28,,
+1007,user_1007,user_1007@example.com,43,Free,West,San Francisco,Home & Kitchen,31.6,28.33,104,2026-07-02,2026-07-02 00:00:00,Pending
+1072,user_1072,user_1072@example.com,59,Standard,South,Houston,Clothing,20.05,19.72,102,2026-07-08,2026-07-08 00:00:00,Cancelled
+1009,user_1009,user_1009@example.com,35,Standard,Midwest,Chicago,Clothing,450.43,379.4,103,2026-07-13,2026-07-13 00:00:00,Pending
+1028,user_1028,user_1028@example.com,19,Premium,South,Houston,Electronics,289.95,335.45,101,2026-07-07,2026-07-07 00:00:00,
+1032,user_1032,user_1032@example.com,22,Premium,West,San Francisco,Books,202.37,172.91,101,2026-07-09,2026-07-09 00:00:00,
+1096,user_1096,user_1096@example.com,49,Free,West,Phoenix,Home & Kitchen,430.03,359.11,104,2026-07-09,09/07/2026 12:00 AM,Pending
+1085,user_1085,user_1085@example.com,15,Basic,West,Seattle,Books,191.32,159.01,104,2026-07-04,2026-07-04 00:00:00,Pending
+1056,user_1056,user_1056@example.com,25,Basic,Midwest,Chicago,Sports,13.0,14.04,102,2026-07-15,2026-07-15 00:00:00,Pending
+1045,user_1045,user_1045@example.com,22,Free,Midwest,Chicago,Electronics,346.33,337.15,101,2026-07-02,2026-07-02 00:00:00,Cancelled
+1070,user_1070,user_1070@example.com,35,Free,West,San Francisco,Books,92.06,87.7,101,2026-06-26,2026-06-26 00:00:00,Cancelled
+1061,user_1061,user_1061@example.com,53,Basic,South,Houston,Electronics,278.27,327.54,104,2026-06-20,2026-06-20 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,23,Basic,West,Phoenix,Books,89.63,,102,2026-06-29,2026-06-29 00:00:00,Pending
+1084,user_1084,user_1084@example.com,20,Standard,South,Houston,Home & Kitchen,248.76,220.05,102,2026-06-19,2026-06-19 00:00:00,Active
+1053,user_1053,user_1053@example.com,51,Basic,Midwest,Chicago,Electronics,339.83,371.74,102,2026-07-17,2026-07-17 00:00:00,Cancelled
+1028,user_1028,user_1028@example.com,43,Free,South,Houston,Home & Kitchen,426.74,490.89,102,2026-07-07,07/07/2026 12:00 AM,Pending
+1011,user_1011,user_1011@example.com,41,Standard,West,San Francisco,Books,106.55,120.4,103,2026-06-26,2026-06-26 00:00:00,
+1058,user_1058,user_1058@example.com,21,Basic,West,Seattle,Clothing,386.27,409.72,101,2026-07-05,2026-07-05 00:00:00,Active
+1038,user_1038,user_1038@example.com,25,Basic,West,Seattle,Electronics,472.62,,102,2026-06-22,2026-06-22 00:00:00,Cancelled
+1079,user_1079,user_1079@example.com,51,Premium,Midwest,Chicago,Clothing,470.05,378.67,101,2026-07-07,2026-07-07 00:00:00,
+1058,user_1058,user_1058@example.com,17,Free,West,Seattle,Clothing,353.21,294.45,104,2026-07-07,2026-07-07 00:00:00,Cancelled
+1038,user_1038,user_1038@example.com,42,Free,West,Phoenix,Clothing,345.58,302.53,102,2026-06-30,30/06/2026 12:00 AM,
+1058,user_1058,user_1058@example.com,39,Basic,South,Houston,Books,442.21,406.04,102,2026-07-10,2026-07-10 00:00:00,Pending
+1083,user_1083,user_1083@example.com,58,Basic,West,Phoenix,Electronics,342.8,361.48,101,2026-07-01,2026-07-01 00:00:00,Active
+1052,user_1052,user_1052@example.com,34,Premium,West,San Francisco,Sports,289.74,257.36,103,2026-06-23,2026-06-23 00:00:00,Cancelled
+1023,user_1023,user_1023@example.com,38,Basic,West,Seattle,Clothing,130.31,153.73,101,2026-06-23,23/06/2026 12:00 AM,Cancelled
+1063,user_1063,user_1063@example.com,32,Standard,West,San Francisco,Books,391.4,421.12,103,2026-07-03,2026-07-03 00:00:00,Cancelled
+1025,user_1025,user_1025@example.com,38,Free,West,Phoenix,Home & Kitchen,202.58,210.25,104,2026-06-18,2026-06-18 00:00:00,Cancelled
+1010,user_1010,user_1010@example.com,16,Premium,South,Houston,Sports,172.7,180.87,103,2026-07-02,2026-07-02 00:00:00,
+1018,user_1018,user_1018@example.com,51,Free,West,San Francisco,Books,158.02,133.55,102,2026-07-18,2026-07-18 00:00:00,Pending
+1047,user_1047,user_1047@example.com,22,Standard,South,Houston,Clothing,198.55,181.55,103,2026-06-28,2026-06-28 00:00:00,Pending
+1014,user_1014,user_1014@example.com,34,Basic,West,Seattle,Electronics,231.87,246.5,104,2026-07-11,2026-07-11 00:00:00,Active
+1068,user_1068,user_1068@example.com,46,Standard,Midwest,Chicago,Clothing,79.62,75.43,104,2026-07-16,2026-07-16 00:00:00,Cancelled
+1026,user_1026,user_1026@example.com,32,Basic,South,Houston,Books,445.7,438.69,103,2026-06-21,2026-06-21 00:00:00,
+1014,user_1014,user_1014@example.com,25,Premium,Midwest,Chicago,Sports,211.35,231.81,102,2026-07-11,2026-07-11 00:00:00,Pending
+1055,user_1055,user_1055@example.com,27,Basic,West,San Francisco,Books,11.67,9.63,101,2026-06-19,2026-06-19 00:00:00,Pending
+1068,user_1068,user_1068@example.com,38,Standard,West,Seattle,Sports,332.56,,101,2026-06-19,2026-06-19 00:00:00,Pending
+1008,user_1008,user_1008@example.com,57,Basic,South,Houston,Electronics,218.46,194.58,101,2026-06-24,2026-06-24 00:00:00,Active
+1021,user_1021,user_1021@example.com,27,Free,West,Seattle,Sports,179.47,180.77,104,2026-07-13,13/07/2026 12:00 AM,Pending
+1092,user_1092,user_1092@example.com,30,Standard,West,San Francisco,Clothing,362.38,340.96,102,2026-06-19,2026-06-19 00:00:00,
+1089,user_1089,user_1089@example.com,53,Basic,South,Houston,Electronics,150.79,162.32,102,2026-06-23,2026-06-23 00:00:00,
+1011,user_1011,user_1011@example.com,45,Free,West,Seattle,Electronics,454.63,447.19,102,2026-07-06,2026-07-06 00:00:00,Active
+1020,user_1020,user_1020@example.com,17,Premium,West,San Francisco,Electronics,250.78,210.63,102,2026-06-20,2026-06-20 00:00:00,Pending
+1063,user_1063,user_1063@example.com,42,Standard,Midwest,Chicago,Sports,431.17,427.46,103,2026-07-04,2026-07-04 00:00:00,Pending
+1088,user_1088,user_1088@example.com,25,Premium,South,Houston,Electronics,379.65,455.15,103,2026-07-01,2026-07-01 00:00:00,Pending
+1022,user_1022,user_1022@example.com,18,Free,South,Houston,Clothing,412.32,493.64,102,2026-07-07,2026-07-07 00:00:00,Pending
+1031,user_1031,user_1031@example.com,49,Premium,West,Seattle,Home & Kitchen,204.44,186.1,102,2026-07-18,2026-07-18 00:00:00,Cancelled
+1083,user_1083,user_1083@example.com,57,Premium,Midwest,Chicago,Clothing,389.64,414.75,103,2026-06-27,2026-06-27 00:00:00,
+1049,user_1049,user_1049@example.com,45,Premium,West,Phoenix,Home & Kitchen,166.03,185.91,101,2026-07-07,2026-07-07 00:00:00,Cancelled
+1009,user_1009,user_1009@example.com,36,Standard,Midwest,Chicago,Books,143.09,152.85,104,2026-06-30,2026-06-30 00:00:00,
+1063,user_1063,user_1063@example.com,45,Premium,West,San Francisco,Clothing,18.9,22.5,101,2026-07-16,2026-07-16 00:00:00,Active
+1093,user_1093,user_1093@example.com,19,Basic,South,Houston,Sports,129.39,150.4,104,2026-07-04,2026-07-04 00:00:00,
+1072,user_1072,user_1072@example.com,19,Basic,Midwest,Chicago,Books,250.37,208.3,102,2026-07-14,2026-07-14 00:00:00,Active
+1043,user_1043,user_1043@example.com,49,Free,West,Seattle,Sports,215.97,227.84,102,2026-06-18,2026-06-18 00:00:00,Cancelled
+1014,user_1014,user_1014@example.com,39,Standard,South,Houston,Home & Kitchen,102.3,109.34,103,2026-07-13,2026-07-13 00:00:00,Pending
+1075,user_1075,user_1075@example.com,37,Free,Midwest,Chicago,Books,143.42,151.46,103,2026-07-03,,Active
+1017,user_1017,user_1017@example.com,40,Standard,Midwest,Chicago,Home & Kitchen,276.93,276.53,103,2026-06-30,2026-06-30 00:00:00,Cancelled
+1053,user_1053,user_1053@example.com,37,Free,Midwest,Chicago,Electronics,135.9,109.97,102,2026-07-07,2026-07-07 00:00:00,Pending
+1075,user_1075,user_1075@example.com,51,Free,Midwest,Chicago,Sports,101.37,84.3,103,2026-07-14,2026-07-14 00:00:00,Cancelled
+1006,user_1006,user_1006@example.com,15,Basic,South,Houston,Home & Kitchen,181.38,156.79,104,2026-06-27,2026-06-27 00:00:00,Active
+1078,user_1078,user_1078@example.com,50,Standard,West,Phoenix,Sports,202.8,195.82,104,2026-07-11,2026-07-11 00:00:00,Cancelled
+1095,user_1095,user_1095@example.com,19,Standard,West,Phoenix,Sports,69.44,72.31,102,2026-06-24,2026-06-24 00:00:00,Cancelled
+1074,user_1074,user_1074@example.com,32,Free,West,Phoenix,Home & Kitchen,18.42,20.9,102,2026-07-14,2026-07-14 00:00:00,
+1077,user_1077,user_1077@example.com,28,Standard,South,Houston,Electronics,132.1,106.1,104,2026-07-14,2026-07-14 00:00:00,
+1061,user_1061,user_1061@example.com,48,Standard,Midwest,Chicago,Clothing,150.66,145.4,103,2026-07-03,2026-07-03 00:00:00,Pending
+1031,,user_1031@example.com,51,Free,Midwest,Chicago,Home & Kitchen,196.94,,102,2026-06-30,30/06/2026 12:00 AM,Cancelled
+1017,user_1017,user_1017@example.com,44,Standard,Midwest,Chicago,Books,433.52,449.98,102,2026-07-08,2026-07-08 00:00:00,
+1071,user_1071,user_1071@example.com,20,Basic,Midwest,Chicago,Electronics,137.93,126.8,103,2026-06-26,2026-06-26 00:00:00,Active
+1028,user_1028,user_1028@example.com,18,Basic,Midwest,Chicago,Home & Kitchen,446.22,429.69,102,2026-07-17,2026-07-17 00:00:00,
+1023,user_1023,user_1023@example.com,21,Premium,West,Phoenix,Home & Kitchen,123.68,127.61,104,2026-06-23,2026-06-23 00:00:00,Active
+1083,user_1083,user_1083@example.com,24,Standard,West,San Francisco,Books,379.1,326.48,101,2026-06-28,2026-06-28 00:00:00,Cancelled
+1059,user_1059,user_1059@example.com,34,Basic,Midwest,Chicago,Home & Kitchen,38.64,43.18,103,2026-06-18,,Pending
+1078,user_1078,user_1078@example.com,36,Basic,West,San Francisco,Books,378.29,416.71,102,2026-07-12,2026-07-12 00:00:00,Pending
+1029,,,36,Free,West,San Francisco,Sports,495.84,570.77,102,2026-07-18,2026-07-18 00:00:00,
+1008,user_1008,user_1008@example.com,42,Free,West,Seattle,Home & Kitchen,467.08,,104,2026-07-14,2026-07-14 00:00:00,Cancelled
+1031,user_1031,user_1031@example.com,32,Standard,West,Phoenix,Clothing,37.46,32.56,102,2026-06-25,2026-06-25 00:00:00,
+1030,,user_1030@example.com,23,Premium,South,Houston,Clothing,274.69,323.75,101,2026-07-16,2026-07-16 00:00:00,Pending
+1037,user_1037,user_1037@example.com,43,Free,South,Houston,Home & Kitchen,333.67,364.32,101,2026-06-22,2026-06-22 00:00:00,
+1033,user_1033,user_1033@example.com,53,Basic,West,Phoenix,Home & Kitchen,34.52,35.09,104,2026-07-14,2026-07-14 00:00:00,Pending
+1064,user_1064,user_1064@example.com,24,Standard,West,Phoenix,Sports,29.65,32.99,103,2026-07-06,2026-07-06 00:00:00,Cancelled
+1092,user_1092,user_1092@example.com,46,Basic,West,San Francisco,Clothing,231.17,191.99,102,2026-07-15,15/07/2026 12:00 AM,Active
+1067,user_1067,user_1067@example.com,30,Standard,Midwest,Chicago,Sports,213.81,223.58,101,2026-07-04,2026-07-04 00:00:00,
+1088,,user_1088@example.com,29,Basic,West,Phoenix,Home & Kitchen,60.75,63.6,103,2026-07-13,2026-07-13 00:00:00,Active
+1013,user_1013,user_1013@example.com,46,Free,West,Seattle,Home & Kitchen,132.39,115.54,101,2026-07-07,2026-07-07 00:00:00,Active
+1022,user_1022,user_1022@example.com,31,Free,West,Seattle,Clothing,455.3,364.51,102,2026-07-12,2026-07-12 00:00:00,
+1039,user_1039,user_1039@example.com,47,Standard,Midwest,Chicago,Electronics,142.77,,102,2026-07-18,2026-07-18 00:00:00,
+1087,user_1087,user_1087@example.com,35,Basic,West,San Francisco,Books,253.45,294.38,104,2026-07-05,2026-07-05 00:00:00,Cancelled
+1029,user_1029,user_1029@example.com,46,Free,West,Seattle,Home & Kitchen,399.45,376.87,102,2026-07-18,2026-07-18 00:00:00,Cancelled
+1010,user_1010,user_1010@example.com,16,Standard,West,San Francisco,Sports,365.31,378.83,101,2026-07-16,2026-07-16 00:00:00,
+1005,user_1005,user_1005@example.com,57,Free,South,Houston,Clothing,223.59,243.28,102,2026-06-28,2026-06-28 00:00:00,Cancelled
+1005,user_1005,user_1005@example.com,57,Standard,South,Houston,Sports,262.04,267.41,101,2026-07-12,2026-07-12 00:00:00,Active
+1034,user_1034,user_1034@example.com,29,Basic,Midwest,Chicago,Electronics,411.27,,102,2026-07-15,2026-07-15 00:00:00,Active
+1095,user_1095,user_1095@example.com,22,Standard,West,Phoenix,Sports,85.29,82.46,104,2026-07-06,06/07/2026 12:00 AM,Active
+1041,user_1041,user_1041@example.com,39,Standard,West,San Francisco,Home & Kitchen,377.54,403.77,101,2026-06-23,2026-06-23 00:00:00,
+1081,user_1081,user_1081@example.com,35,Standard,West,Seattle,Books,322.52,370.28,103,2026-06-24,2026-06-24 00:00:00,Pending
+1037,user_1037,user_1037@example.com,24,Free,South,Houston,Clothing,97.73,78.85,101,2026-07-17,2026-07-17 00:00:00,Pending
+1036,user_1036,user_1036@example.com,51,Premium,Midwest,Chicago,Electronics,240.82,207.44,104,2026-06-30,2026-06-30 00:00:00,Cancelled
+1088,user_1088,user_1088@example.com,47,Basic,West,San Francisco,Electronics,370.32,,102,2026-06-20,2026-06-20 00:00:00,Pending
+1007,,user_1007@example.com,25,Standard,Midwest,Chicago,Clothing,276.55,231.9,103,2026-06-28,,Pending
+1031,user_1031,user_1031@example.com,50,Premium,West,Phoenix,Home & Kitchen,281.04,271.81,102,2026-06-27,2026-06-27 00:00:00,Active
+1057,user_1057,user_1057@example.com,25,Free,Midwest,Chicago,Books,467.45,407.11,102,2026-06-20,2026-06-20 00:00:00,
+1027,user_1027,user_1027@example.com,20,Standard,South,Houston,Electronics,442.8,515.96,104,2026-07-13,2026-07-13 00:00:00,
+1039,user_1039,user_1039@example.com,19,Basic,West,San Francisco,Clothing,335.27,295.19,102,2026-06-26,26/06/2026 12:00 AM,Pending
+1023,user_1023,user_1023@example.com,19,Free,West,Phoenix,Home & Kitchen,357.04,420.02,101,2026-07-06,2026-07-06 00:00:00,
+1083,,user_1083@example.com,38,Basic,Midwest,Chicago,Electronics,321.05,323.96,103,2026-07-11,2026-07-11 00:00:00,
+1056,user_1056,user_1056@example.com,47,Premium,West,San Francisco,Home & Kitchen,485.27,553.83,102,2026-07-01,2026-07-01 00:00:00,
+1094,user_1094,user_1094@example.com,24,Free,South,Houston,Books,190.63,182.95,104,2026-06-24,2026-06-24 00:00:00,Active
+1041,user_1041,user_1041@example.com,47,Basic,South,Houston,Home & Kitchen,169.81,181.44,101,2026-06-24,2026-06-24 00:00:00,Pending
+1077,,user_1077@example.com,45,Basic,West,San Francisco,Sports,211.88,254.0,101,2026-06-24,2026-06-24 00:00:00,
+1071,,user_1071@example.com,44,Standard,Midwest,Chicago,Books,134.91,141.27,103,2026-07-06,2026-07-06 00:00:00,Pending
+1064,user_1064,user_1064@example.com,44,Basic,West,San Francisco,Home & Kitchen,421.06,442.94,102,2026-07-06,2026-07-06 00:00:00,Active
+1037,user_1037,user_1037@example.com,31,Standard,West,Seattle,Home & Kitchen,14.84,15.81,104,2026-06-20,,Pending
+1004,user_1004,user_1004@example.com,44,Premium,Midwest,Chicago,Books,206.11,239.23,101,2026-06-22,2026-06-22 00:00:00,Cancelled
+1066,user_1066,user_1066@example.com,50,Basic,West,Phoenix,Electronics,171.64,193.25,102,2026-06-29,2026-06-29 00:00:00,Active
+1044,user_1044,user_1044@example.com,15,Basic,West,San Francisco,Books,396.27,324.5,102,2026-07-17,2026-07-17 00:00:00,
+1075,user_1075,user_1075@example.com,37,Basic,Midwest,Chicago,Electronics,456.47,435.91,101,2026-07-01,2026-07-01 00:00:00,
+1085,user_1085,user_1085@example.com,42,Free,West,San Francisco,Sports,35.38,41.24,101,2026-06-28,2026-06-28 00:00:00,
+1003,user_1003,user_1003@example.com,42,Standard,Midwest,Chicago,Electronics,33.33,30.61,103,2026-07-14,2026-07-14 00:00:00,
+1035,user_1035,user_1035@example.com,50,Free,West,Seattle,Home & Kitchen,90.77,86.33,102,2026-07-15,2026-07-15 00:00:00,
+1017,user_1017,user_1017@example.com,26,Basic,West,Seattle,Clothing,71.19,,102,2026-07-12,2026-07-12 00:00:00,Cancelled
+1003,user_1003,user_1003@example.com,39,Standard,West,Seattle,Sports,151.4,143.67,102,2026-06-29,2026-06-29 00:00:00,Pending
+1028,user_1028,user_1028@example.com,20,Basic,West,San Francisco,Home & Kitchen,173.18,145.58,101,2026-07-18,2026-07-18 00:00:00,Pending
+1008,user_1008,user_1008@example.com,30,Basic,Midwest,Chicago,Books,252.38,229.23,102,2026-06-29,2026-06-29 00:00:00,Cancelled
+1041,user_1041,user_1041@example.com,34,Basic,West,San Francisco,Home & Kitchen,78.57,66.04,101,2026-07-02,2026-07-02 00:00:00,Active
+1008,user_1008,user_1008@example.com,48,Premium,West,Seattle,Home & Kitchen,161.17,,104,2026-07-04,2026-07-04 00:00:00,Cancelled
+1045,user_1045,user_1045@example.com,48,Standard,South,Houston,Electronics,418.3,354.56,103,2026-06-26,2026-06-26 00:00:00,Pending
+1037,user_1037,user_1037@example.com,17,Standard,West,Phoenix,Clothing,249.28,221.58,101,2026-07-02,02/07/2026 12:00 AM,Active
+1030,user_1030,user_1030@example.com,53,Basic,South,Houston,Books,468.81,469.94,102,2026-06-23,23/06/2026 12:00 AM,Pending
+1069,user_1069,,50,Free,West,Seattle,Clothing,164.83,,102,2026-07-15,2026-07-15 00:00:00,Cancelled
+1041,user_1041,user_1041@example.com,47,Premium,South,Houston,Electronics,260.82,245.82,104,2026-07-12,2026-07-12 00:00:00,
+1094,user_1094,user_1094@example.com,25,Free,Midwest,Chicago,Sports,466.75,415.31,104,2026-07-14,2026-07-14 00:00:00,
+1033,user_1033,user_1033@example.com,54,Premium,West,Seattle,Electronics,64.96,66.37,104,2026-07-11,2026-07-11 00:00:00,Pending
+1020,user_1020,user_1020@example.com,53,Free,West,Phoenix,Sports,152.35,161.52,104,2026-07-10,2026-07-10 00:00:00,Cancelled
+1096,user_1096,user_1096@example.com,54,Free,West,San Francisco,Sports,191.65,223.14,103,2026-06-22,2026-06-22 00:00:00,Cancelled
+1016,user_1016,user_1016@example.com,52,Premium,West,San Francisco,Clothing,80.3,82.99,101,2026-06-22,2026-06-22 00:00:00,Pending
+1057,user_1057,user_1057@example.com,36,Standard,West,San Francisco,Home & Kitchen,463.47,517.22,102,2026-07-05,2026-07-05 00:00:00,
+1013,user_1013,user_1013@example.com,55,Premium,West,San Francisco,Clothing,268.8,261.75,101,2026-06-24,2026-06-24 00:00:00,
+1010,user_1010,user_1010@example.com,51,Premium,West,San Francisco,Electronics,371.57,433.54,102,2026-06-22,2026-06-22 00:00:00,Active
+1040,user_1040,user_1040@example.com,42,Basic,West,Phoenix,Clothing,413.33,434.49,103,2026-06-25,2026-06-25 00:00:00,
+1098,user_1098,user_1098@example.com,23,Free,Midwest,Chicago,Electronics,375.6,386.97,101,2026-07-18,2026-07-18 00:00:00,Pending
+1060,user_1060,user_1060@example.com,35,Standard,West,San Francisco,Electronics,129.24,133.06,103,2026-06-22,2026-06-22 00:00:00,Active
+1036,user_1036,user_1036@example.com,34,Basic,Midwest,Chicago,Books,111.23,,103,2026-06-19,2026-06-19 00:00:00,
+1048,user_1048,user_1048@example.com,43,Premium,South,Houston,Clothing,348.2,362.07,102,2026-07-12,2026-07-12 00:00:00,Active
+1080,user_1080,user_1080@example.com,42,Premium,Midwest,Chicago,Home & Kitchen,320.11,341.32,101,2026-06-28,2026-06-28 00:00:00,
+1074,user_1074,user_1074@example.com,37,Premium,South,Houston,Electronics,196.12,231.93,101,2026-06-27,2026-06-27 00:00:00,Pending
+1062,user_1062,,25,Free,West,Seattle,Books,210.83,189.69,102,2026-07-02,2026-07-02 00:00:00,Cancelled
+1090,user_1090,user_1090@example.com,21,Free,Midwest,Chicago,Home & Kitchen,320.96,325.51,103,2026-07-05,05/07/2026 12:00 AM,Cancelled
+1004,user_1004,user_1004@example.com,15,Basic,Midwest,Chicago,Books,490.26,,102,2026-07-03,2026-07-03 00:00:00,Active
+1081,user_1081,user_1081@example.com,22,Basic,West,Phoenix,Sports,165.32,133.68,104,2026-06-30,2026-06-30 00:00:00,
+1088,user_1088,user_1088@example.com,53,Premium,West,Phoenix,Sports,95.11,105.14,103,2026-06-18,2026-06-18 00:00:00,Cancelled
+1096,user_1096,user_1096@example.com,60,Basic,West,Phoenix,Home & Kitchen,273.44,233.6,104,2026-07-15,2026-07-15 00:00:00,Active
+1070,user_1070,user_1070@example.com,21,Free,West,Seattle,Home & Kitchen,390.07,317.53,103,2026-06-18,2026-06-18 00:00:00,Active
+1063,user_1063,user_1063@example.com,56,Standard,West,San Francisco,Sports,119.0,114.46,104,2026-07-04,,Cancelled
+1029,user_1029,user_1029@example.com,54,Premium,Midwest,Chicago,Home & Kitchen,104.57,120.19,101,2026-07-13,2026-07-13 00:00:00,Cancelled
+1100,user_1100,,31,Premium,West,Phoenix,Clothing,432.55,360.75,101,2026-06-25,2026-06-25 00:00:00,Pending
+1034,user_1034,user_1034@example.com,18,Free,Midwest,Chicago,Sports,421.04,431.99,102,2026-07-10,2026-07-10 00:00:00,Active
+1079,user_1079,user_1079@example.com,21,Basic,Midwest,Chicago,Clothing,377.82,372.62,104,2026-07-14,2026-07-14 00:00:00,
+1023,user_1023,user_1023@example.com,46,Standard,South,Houston,Clothing,100.91,,102,2026-07-13,2026-07-13 00:00:00,Active
+1024,user_1024,user_1024@example.com,21,Free,Midwest,Chicago,Clothing,34.63,,104,2026-07-04,2026-07-04 00:00:00,Pending
+1004,user_1004,user_1004@example.com,30,Free,Midwest,Chicago,Books,363.51,,103,2026-07-12,2026-07-12 00:00:00,Active
+1043,user_1043,user_1043@example.com,16,Premium,Midwest,Chicago,Electronics,252.52,298.51,101,2026-07-18,2026-07-18 00:00:00,
+1024,user_1024,,43,Basic,Midwest,Chicago,Clothing,55.83,62.82,101,2026-06-25,2026-06-25 00:00:00,
+1018,user_1018,,31,Standard,West,Seattle,Home & Kitchen,374.31,448.99,101,2026-06-30,2026-06-30 00:00:00,Active
+1000,user_1000,user_1000@example.com,41,Premium,West,Seattle,Clothing,414.28,380.0,102,2026-07-13,13/07/2026 12:00 AM,
+1018,user_1018,user_1018@example.com,52,Standard,Midwest,Chicago,Electronics,79.54,93.43,101,2026-06-30,2026-06-30 00:00:00,
+1044,user_1044,user_1044@example.com,36,Free,South,Houston,Electronics,266.69,,101,2026-07-01,2026-07-01 00:00:00,Pending
+1070,user_1070,user_1070@example.com,51,Basic,East,New York,Electronics,31.34,26.81,104,2026-06-20,2026-06-20 00:00:00,Cancelled
+1093,user_1093,user_1093@example.com,52,Standard,Midwest,Chicago,Sports,24.96,20.67,104,2026-06-20,2026-06-20 00:00:00,Pending
+1011,user_1011,user_1011@example.com,44,Free,East,New York,Home & Kitchen,26.47,23.1,102,2026-07-07,2026-07-07 00:00:00,Cancelled
+1031,user_1031,user_1031@example.com,49,Premium,West,Seattle,Home & Kitchen,204.44,186.1,102,2026-07-18,2026-07-18 00:00:00,Cancelled
+1033,user_1033,user_1033@example.com,59,Basic,East,New York,Clothing,270.22,258.9,104,2026-07-01,2026-07-01 00:00:00,Pending
+1037,user_1037,user_1037@example.com,19,Premium,West,Seattle,Sports,339.76,346.75,103,2026-07-16,2026-07-16 00:00:00,Pending
+1065,user_1065,user_1065@example.com,53,Premium,Midwest,Chicago,Books,272.69,,103,2026-06-23,2026-06-23 00:00:00,Cancelled
+1010,user_1010,user_1010@example.com,32,Premium,West,Los Angeles,Home & Kitchen,24.54,24.39,101,2026-07-18,2026-07-18 00:00:00,Active
+1078,user_1078,user_1078@example.com,37,Free,East,New York,Sports,103.99,116.5,102,2026-06-27,2026-06-27 00:00:00,Cancelled
