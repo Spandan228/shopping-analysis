@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PySpark execution output and Windows temporary hadoop binaries
+output/
+hadoop/
+*.parquet/
+*.csv_temp/
+
+# Environment files
+.env
+venv/
+ENV/
