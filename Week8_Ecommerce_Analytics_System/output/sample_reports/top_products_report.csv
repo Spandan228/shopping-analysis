@@ -1,0 +1,151 @@
+product_id,product_name,category,total_units_sold,total_revenue
+PROD050,Veg Platter,Fast Food,267,119618.68
+PROD149,Paneer Roll,Italian,255,118564.98
+PROD130,Tandoori Delight,Beverages,235,115231.64
+PROD122,Chicken Noodles,Chinese,233,114997.12
+PROD029,Chicken Platter,Desserts,250,114456.16
+PROD113,Tandoori Delight,Italian,270,114147.37
+PROD052,Special Biryani,Beverages,250,112708.08
+PROD112,Garlic Noodles,Chinese,289,110829.04
+PROD076,Paneer Curry,Italian,279,110751.91
+PROD131,Tandoori Pasta,Biryani,250,110125.36
+PROD082,Masala Platter,Desserts,243,108900.23
+PROD026,Crispy Delight,South Indian,231,108385.51
+PROD063,Tandoori Pasta,Beverages,248,108031.28
+PROD002,Butter Delight,Biryani,226,106813.13
+PROD095,Special Platter,Chinese,238,106577.31
+PROD027,Tandoori Curry,North Indian,231,105898.21
+PROD030,Tandoori Biryani,Biryani,240,105840.19
+PROD036,Chicken Pasta,South Indian,253,105190.26
+PROD071,Chicken Pizza,Biryani,252,104133.89
+PROD006,Butter Platter,Italian,241,102503.06
+PROD078,Tandoori Pasta,General,228,102442.57
+PROD125,Tandoori Curry,Fast Food,226,101411.82
+PROD087,Masala Biryani,Fast Food,224,100926.51
+PROD068,Garlic Pizza,Italian,239,99233.68
+PROD123,Crispy Biryani,Beverages,217,98065.81
+PROD094,Butter Noodles,South Indian,201,97611.68
+PROD097,Special Pizza,North Indian,206,97521.35
+PROD054,Royal Pasta,Desserts,209,96720.56
+PROD022,Tandoori Pizza,South Indian,248,96390.35
+PROD143,Special Pasta,Fast Food,222,96241.12
+PROD140,Veg Noodles,Chinese,206,96014.92
+PROD053,Chicken Tikka,Chinese,236,96009.92
+PROD090,Special Burger,Beverages,236,95719.59
+PROD150,Chicken Delight,North Indian,207,95352.32
+PROD017,Paneer Delight,Beverages,236,95220.45
+PROD092,Garlic Burger,Italian,199,95114.41
+PROD110,Tandoori Curry,Biryani,224,95012.09
+PROD049,Tandoori Biryani,Beverages,224,94410.74
+PROD098,Paneer Delight,North Indian,237,93061.36
+PROD128,Special Biryani,South Indian,233,92892.19
+PROD121,Crispy Roll,Italian,208,92856.13
+PROD043,Butter Curry,Fast Food,217,92819.73
+PROD012,Crispy Delight,Italian,197,92494.78
+PROD102,Butter Roll,Fast Food,222,92406.53
+PROD091,Veg Burger,Beverages,212,92246.59
+PROD056,Crispy Platter,Desserts,205,91705.73
+PROD079,Veg Burger,North Indian,194,91500.49
+PROD040,Paneer Platter,Fast Food,211,91471.32
+PROD032,Royal Platter,North Indian,198,90766.71
+PROD137,Veg Pizza,North Indian,191,90453.54
+PROD126,Special Burger,Fast Food,210,90143.17
+PROD073,Crispy Roll,Beverages,212,90132.11
+PROD018,Garlic Noodles,Italian,199,89462.23
+PROD062,Chicken Pizza,General,225,89454.86
+PROD114,Tandoori Biryani,Chinese,219,89336.8
+PROD085,Tandoori Tikka,Italian,214,88462.51
+PROD108,Garlic Biryani,Desserts,199,88434.98
+PROD061,Royal Curry,Biryani,204,88304.21
+PROD119,Royal Biryani,North Indian,232,87703.28
+PROD070,Crispy Biryani,North Indian,214,87684.24
+PROD019,Crispy Curry,Italian,218,87202.9
+PROD093,Chicken Curry,South Indian,209,86532.33
+PROD117,Chicken Platter,Chinese,210,86184.9
+PROD051,Chicken Biryani,Chinese,228,85890.56
+PROD031,Special Burger,North Indian,198,85672.42
+PROD115,Chicken Tikka,North Indian,225,85422.83
+PROD013,Crispy Pizza,North Indian,225,85272.72
+PROD106,Tandoori Delight,General,189,85189.07
+PROD072,Chicken Noodles,North Indian,174,85039.41
+PROD011,Royal Pizza,Italian,199,85000.16
+PROD100,Tandoori Pizza,Fast Food,210,84893.02
+PROD138,Garlic Biryani,Biryani,188,84784.82
+PROD057,Special Pasta,Fast Food,206,84686.55
+PROD111,Special Biryani,Biryani,206,84526.29
+PROD059,Chicken Biryani,Italian,195,84420.12
+PROD142,Garlic Curry,Chinese,192,84327.76
+PROD132,Tandoori Biryani,Desserts,222,84277.52
+PROD007,Tandoori Tikka,Chinese,193,84143.18
+PROD044,Butter Delight,Beverages,196,84083.42
+PROD099,Special Pasta,South Indian,206,83842.69
+PROD074,Special Noodles,Chinese,194,83819.86
+PROD028,Royal Burger,Desserts,179,83549.07
+PROD148,Crispy Tikka,Italian,195,83062.15
+PROD048,Tandoori Tikka,Italian,192,82389.54
+PROD139,Veg Biryani,Italian,172,82248.76
+PROD037,Veg Delight,Chinese,191,82210.73
+PROD042,Crispy Delight,Italian,187,81698.57
+PROD116,Garlic Tikka,North Indian,185,81150.74
+PROD103,Masala Tikka,Chinese,202,81086.44
+PROD127,Veg Curry,Beverages,188,80947.18
+PROD023,Royal Pizza,South Indian,204,80946.89
+PROD084,Butter Biryani,Chinese,196,80641.18
+PROD144,Veg Roll,South Indian,197,80257.25
+PROD041,Royal Noodles,Chinese,191,79957.89
+PROD045,Masala Roll,Desserts,212,79938.84
+PROD039,Paneer Biryani,South Indian,202,79879.39
+PROD038,Veg Delight,Italian,201,79813.47
+PROD020,Paneer Curry,Biryani,186,79754.34
+PROD014,Tandoori Burger,Beverages,196,79296.29
+PROD105,Crispy Burger,South Indian,171,78786.46
+PROD080,Tandoori Delight,North Indian,187,78599.33
+PROD147,Paneer Burger,Desserts,188,78244.5
+PROD004,Garlic Pasta,North Indian,196,77921.34
+PROD120,Tandoori Curry,North Indian,186,77599.47
+PROD066,Paneer Pizza,Biryani,192,77371.65
+PROD109,Royal Platter,Biryani,194,77126.93
+PROD046,Masala Pizza,Chinese,181,76228.17
+PROD129,Veg Curry,Desserts,191,76051.37
+PROD069,Paneer Noodles,Biryani,160,75696.47
+PROD003,Special Biryani,Desserts,185,75630.11
+PROD104,Paneer Platter,Italian,166,75600.07
+PROD077,Special Pasta,Biryani,156,75403.02
+PROD025,Masala Curry,Italian,185,75057.92
+PROD088,Crispy Tikka,Chinese,164,74969.69
+PROD086,Butter Platter,Beverages,159,74808.87
+PROD058,Butter Roll,South Indian,200,74773.28
+PROD035,Tandoori Tikka,Desserts,185,74363.13
+PROD010,Garlic Biryani,Beverages,193,74147.81
+PROD021,Veg Tikka,Desserts,169,73932.75
+PROD146,Chicken Noodles,Biryani,164,73407.82
+PROD064,Royal Delight,North Indian,199,73069.6
+PROD034,Veg Biryani,Beverages,161,72909.76
+PROD075,Butter Biryani,Italian,185,72303.81
+PROD001,Crispy Tikka,Beverages,165,71845.96
+PROD065,Royal Platter,Chinese,170,71379.7
+PROD024,Paneer Roll,Biryani,176,71040.18
+PROD060,Masala Pasta,Biryani,154,69887.76
+PROD005,Royal Noodles,Chinese,144,69779.24
+PROD083,Royal Delight,Chinese,175,68835.5
+PROD107,Crispy Platter,Fast Food,167,68668.31
+PROD016,Veg Roll,Italian,182,68207.58
+PROD141,Crispy Noodles,North Indian,159,67173.63
+PROD055,Veg Curry,Chinese,199,67150.52
+PROD145,Garlic Tikka,Italian,164,67077.19
+PROD134,Chicken Tikka,Beverages,172,66929.0
+PROD033,Chicken Delight,Chinese,170,66007.28
+PROD136,Butter Platter,Italian,181,65988.74
+PROD118,Masala Burger,Biryani,180,64838.67
+PROD124,Paneer Delight,Chinese,160,63740.22
+PROD008,Butter Roll,Biryani,161,61897.31
+PROD101,Paneer Pasta,Biryani,169,60174.06
+PROD089,Masala Noodles,Fast Food,149,58905.31
+PROD133,Chicken Platter,Beverages,163,57753.71
+PROD081,Tandoori Platter,Chinese,143,55341.39
+PROD067,Butter Pasta,South Indian,151,54598.2
+PROD015,Garlic Delight,Italian,141,54138.57
+PROD096,Royal Burger,Beverages,134,53527.12
+PROD135,Masala Noodles,Chinese,134,53290.21
+PROD047,Butter Burger,Chinese,142,52444.45
+PROD009,Royal Noodles,South Indian,143,51120.52

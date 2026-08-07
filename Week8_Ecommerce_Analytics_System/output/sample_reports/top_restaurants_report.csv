@@ -1,0 +1,278 @@
+restaurant_name,cuisine,rating,order_count,score
+Restaurant_111,Chinese,4.8,1,480.0
+Restaurant_112,Indian,4.7,1,470.0
+Restaurant_151,Chinese,4.7,1,470.0
+Restaurant_157,Italian,4.7,1,470.0
+Restaurant_158,Fast Food,4.7,1,470.0
+Restaurant_159,Italian,4.7,1,470.0
+Restaurant_5,Indian,4.7,1,470.0
+Restaurant_188,Italian,4.6,1,460.0
+Restaurant_49,Chinese,4.6,1,460.0
+Restaurant_27,Chinese,4.5,2,900.0
+Restaurant_111,Chinese,4.5,1,450.0
+Restaurant_112,Indian,4.5,1,450.0
+Restaurant_116,Italian,4.5,1,450.0
+Restaurant_131,Fast Food,4.5,1,450.0
+Restaurant_142,Italian,4.5,1,450.0
+Restaurant_154,Fast Food,4.5,1,450.0
+Restaurant_182,Chinese,4.5,1,450.0
+Restaurant_183,Fast Food,4.5,1,450.0
+Restaurant_198,Indian,4.5,1,450.0
+Restaurant_52,Fast Food,4.5,1,450.0
+Restaurant_85,Chinese,4.5,1,450.0
+Restaurant_90,Indian,4.5,1,450.0
+Restaurant_100,Chinese,4.4,1,440.0
+Restaurant_127,Indian,4.4,1,440.0
+Restaurant_133,Fast Food,4.4,1,440.0
+Restaurant_137,Chinese,4.4,1,440.0
+Restaurant_140,Italian,4.4,1,440.0
+Restaurant_15,Fast Food,4.4,1,440.0
+Restaurant_187,Indian,4.4,1,440.0
+Restaurant_195,Fast Food,4.4,1,440.0
+Restaurant_24,Indian,4.4,1,440.0
+Restaurant_34,Chinese,4.4,1,440.0
+Restaurant_48,Fast Food,4.4,1,440.0
+Restaurant_63,Fast Food,4.4,1,440.0
+Restaurant_65,Fast Food,4.4,1,440.0
+Restaurant_70,Italian,4.4,1,440.0
+Restaurant_76,Fast Food,4.4,1,440.0
+Restaurant_1,Chinese,4.3,1,430.0
+Restaurant_101,Indian,4.3,1,430.0
+Restaurant_104,Indian,4.3,1,430.0
+Restaurant_105,Chinese,4.3,1,430.0
+Restaurant_113,Indian,4.3,1,430.0
+Restaurant_124,Italian,4.3,1,430.0
+Restaurant_129,Chinese,4.3,1,430.0
+Restaurant_146,Fast Food,4.3,1,430.0
+Restaurant_151,Chinese,4.3,1,430.0
+Restaurant_154,Fast Food,4.3,1,430.0
+Restaurant_157,Italian,4.3,1,430.0
+Restaurant_159,Italian,4.3,1,430.0
+Restaurant_163,Fast Food,4.3,1,430.0
+Restaurant_164,Italian,4.3,1,430.0
+Restaurant_175,Chinese,4.3,1,430.0
+Restaurant_187,Indian,4.3,1,430.0
+Restaurant_194,Fast Food,4.3,1,430.0
+Restaurant_20,Indian,4.3,1,430.0
+Restaurant_21,Italian,4.3,1,430.0
+Restaurant_42,Italian,4.3,1,430.0
+Restaurant_45,Italian,4.3,1,430.0
+Restaurant_54,Indian,4.3,1,430.0
+Restaurant_77,Italian,4.3,1,430.0
+Restaurant_83,Fast Food,4.3,1,430.0
+Restaurant_177,Chinese,4.2,2,840.0
+Restaurant_2,Indian,4.2,2,840.0
+Restaurant_113,Indian,4.2,1,420.0
+Restaurant_118,Fast Food,4.2,1,420.0
+Restaurant_121,Chinese,4.2,1,420.0
+Restaurant_123,Indian,4.2,1,420.0
+Restaurant_13,Chinese,4.2,1,420.0
+Restaurant_130,Indian,4.2,1,420.0
+Restaurant_133,Fast Food,4.2,1,420.0
+Restaurant_134,Fast Food,4.2,1,420.0
+Restaurant_149,Italian,4.2,1,420.0
+Restaurant_158,Fast Food,4.2,1,420.0
+Restaurant_17,Italian,4.2,1,420.0
+Restaurant_176,Chinese,4.2,1,420.0
+Restaurant_180,Fast Food,4.2,1,420.0
+Restaurant_183,Fast Food,4.2,1,420.0
+Restaurant_190,Italian,4.2,1,420.0
+Restaurant_29,Indian,4.2,1,420.0
+Restaurant_31,Chinese,4.2,1,420.0
+Restaurant_39,Chinese,4.2,1,420.0
+Restaurant_40,Italian,4.2,1,420.0
+Restaurant_42,Italian,4.2,1,420.0
+Restaurant_46,Indian,4.2,1,420.0
+Restaurant_49,Chinese,4.2,1,420.0
+Restaurant_5,Indian,4.2,1,420.0
+Restaurant_54,Indian,4.2,1,420.0
+Restaurant_56,Chinese,4.2,1,420.0
+Restaurant_59,Italian,4.2,1,420.0
+Restaurant_6,Italian,4.2,1,420.0
+Restaurant_7,Italian,4.2,1,420.0
+Restaurant_79,Italian,4.2,1,420.0
+Restaurant_82,Italian,4.2,1,420.0
+Restaurant_9,Chinese,4.2,1,420.0
+Restaurant_12,Italian,4.1,2,820.0
+Restaurant_100,Chinese,4.1,1,410.0
+Restaurant_103,Italian,4.1,1,410.0
+Restaurant_124,Italian,4.1,1,410.0
+Restaurant_126,Chinese,4.1,1,410.0
+Restaurant_127,Indian,4.1,1,410.0
+Restaurant_131,Fast Food,4.1,1,410.0
+Restaurant_138,Chinese,4.1,1,410.0
+Restaurant_14,Italian,4.1,1,410.0
+Restaurant_142,Italian,4.1,1,410.0
+Restaurant_144,Italian,4.1,1,410.0
+Restaurant_170,Italian,4.1,1,410.0
+Restaurant_173,Chinese,4.1,1,410.0
+Restaurant_175,Chinese,4.1,1,410.0
+Restaurant_176,Chinese,4.1,1,410.0
+Restaurant_182,Chinese,4.1,1,410.0
+Restaurant_188,Italian,4.1,1,410.0
+Restaurant_19,Fast Food,4.1,1,410.0
+Restaurant_195,Fast Food,4.1,1,410.0
+Restaurant_36,Italian,4.1,1,410.0
+Restaurant_37,Chinese,4.1,1,410.0
+Restaurant_41,Indian,4.1,1,410.0
+Restaurant_48,Fast Food,4.1,1,410.0
+Restaurant_57,Italian,4.1,1,410.0
+Restaurant_60,Indian,4.1,1,410.0
+Restaurant_62,Fast Food,4.1,1,410.0
+Restaurant_67,Chinese,4.1,1,410.0
+Restaurant_74,Chinese,4.1,1,410.0
+Restaurant_88,Indian,4.1,1,410.0
+Restaurant_91,Chinese,4.1,1,410.0
+Restaurant_95,Italian,4.1,1,410.0
+Restaurant_0,Indian,4.0,2,800.0
+Restaurant_10,Chinese,4.0,1,400.0
+Restaurant_108,Italian,4.0,1,400.0
+Restaurant_11,Indian,4.0,1,400.0
+Restaurant_114,Indian,4.0,1,400.0
+Restaurant_119,Fast Food,4.0,1,400.0
+Restaurant_123,Indian,4.0,1,400.0
+Restaurant_135,Italian,4.0,1,400.0
+Restaurant_14,Italian,4.0,1,400.0
+Restaurant_16,Fast Food,4.0,1,400.0
+Restaurant_165,Italian,4.0,1,400.0
+Restaurant_167,Chinese,4.0,1,400.0
+Restaurant_168,Fast Food,4.0,1,400.0
+Restaurant_171,Italian,4.0,1,400.0
+Restaurant_18,Chinese,4.0,1,400.0
+Restaurant_193,Indian,4.0,1,400.0
+Restaurant_197,Indian,4.0,1,400.0
+Restaurant_21,Italian,4.0,1,400.0
+Restaurant_29,Indian,4.0,1,400.0
+Restaurant_38,Chinese,4.0,1,400.0
+Restaurant_43,Indian,4.0,1,400.0
+Restaurant_63,Fast Food,4.0,1,400.0
+Restaurant_64,Fast Food,4.0,1,400.0
+Restaurant_75,Indian,4.0,1,400.0
+Restaurant_92,Indian,4.0,1,400.0
+Restaurant_96,Chinese,4.0,1,400.0
+Restaurant_98,Fast Food,4.0,1,400.0
+Restaurant_99,Italian,4.0,1,400.0
+Restaurant_115,Indian,3.9,2,780.0
+Restaurant_185,Italian,3.9,2,780.0
+Restaurant_107,Indian,3.9,1,390.0
+Restaurant_125,Chinese,3.9,1,390.0
+Restaurant_128,Indian,3.9,1,390.0
+Restaurant_132,Indian,3.9,1,390.0
+Restaurant_135,Italian,3.9,1,390.0
+Restaurant_150,Indian,3.9,1,390.0
+Restaurant_153,Fast Food,3.9,1,390.0
+Restaurant_16,Fast Food,3.9,1,390.0
+Restaurant_161,Italian,3.9,1,390.0
+Restaurant_164,Italian,3.9,1,390.0
+Restaurant_165,Italian,3.9,1,390.0
+Restaurant_166,Fast Food,3.9,1,390.0
+Restaurant_169,Indian,3.9,1,390.0
+Restaurant_173,Chinese,3.9,1,390.0
+Restaurant_181,Chinese,3.9,1,390.0
+Restaurant_186,Italian,3.9,1,390.0
+Restaurant_3,Fast Food,3.9,1,390.0
+Restaurant_30,Italian,3.9,1,390.0
+Restaurant_32,Fast Food,3.9,1,390.0
+Restaurant_43,Indian,3.9,1,390.0
+Restaurant_44,Chinese,3.9,1,390.0
+Restaurant_47,Indian,3.9,1,390.0
+Restaurant_51,Italian,3.9,1,390.0
+Restaurant_56,Chinese,3.9,1,390.0
+Restaurant_61,Indian,3.9,1,390.0
+Restaurant_66,Fast Food,3.9,1,390.0
+Restaurant_69,Indian,3.9,1,390.0
+Restaurant_8,Chinese,3.9,1,390.0
+Restaurant_80,Fast Food,3.9,1,390.0
+Restaurant_86,Fast Food,3.9,1,390.0
+Restaurant_92,Indian,3.9,1,390.0
+Restaurant_50,Indian,3.8,2,760.0
+Restaurant_73,Fast Food,3.8,2,760.0
+Restaurant_102,Fast Food,3.8,1,380.0
+Restaurant_109,Indian,3.8,1,380.0
+Restaurant_117,Indian,3.8,1,380.0
+Restaurant_136,Fast Food,3.8,1,380.0
+Restaurant_143,Indian,3.8,1,380.0
+Restaurant_145,Chinese,3.8,1,380.0
+Restaurant_148,Fast Food,3.8,1,380.0
+Restaurant_153,Fast Food,3.8,1,380.0
+Restaurant_156,Chinese,3.8,1,380.0
+Restaurant_162,Fast Food,3.8,1,380.0
+Restaurant_172,Chinese,3.8,1,380.0
+Restaurant_178,Indian,3.8,1,380.0
+Restaurant_186,Italian,3.8,1,380.0
+Restaurant_189,Indian,3.8,1,380.0
+Restaurant_22,Italian,3.8,1,380.0
+Restaurant_25,Italian,3.8,1,380.0
+Restaurant_35,Italian,3.8,1,380.0
+Restaurant_55,Chinese,3.8,1,380.0
+Restaurant_58,Fast Food,3.8,1,380.0
+Restaurant_66,Fast Food,3.8,1,380.0
+Restaurant_87,Italian,3.8,1,380.0
+Restaurant_89,Italian,3.8,1,380.0
+Restaurant_174,Chinese,3.7,2,740.0
+Restaurant_121,Chinese,3.7,1,370.0
+Restaurant_122,Fast Food,3.7,1,370.0
+Restaurant_128,Indian,3.7,1,370.0
+Restaurant_147,Indian,3.7,1,370.0
+Restaurant_169,Indian,3.7,1,370.0
+Restaurant_17,Italian,3.7,1,370.0
+Restaurant_178,Indian,3.7,1,370.0
+Restaurant_18,Chinese,3.7,1,370.0
+Restaurant_180,Fast Food,3.7,1,370.0
+Restaurant_181,Chinese,3.7,1,370.0
+Restaurant_193,Indian,3.7,1,370.0
+Restaurant_199,Fast Food,3.7,1,370.0
+Restaurant_23,Fast Food,3.7,1,370.0
+Restaurant_26,Fast Food,3.7,1,370.0
+Restaurant_28,Italian,3.7,1,370.0
+Restaurant_39,Chinese,3.7,1,370.0
+Restaurant_47,Indian,3.7,1,370.0
+Restaurant_53,Fast Food,3.7,1,370.0
+Restaurant_60,Indian,3.7,1,370.0
+Restaurant_72,Indian,3.7,1,370.0
+Restaurant_84,Italian,3.7,1,370.0
+Restaurant_93,Italian,3.7,1,370.0
+Restaurant_94,Chinese,3.7,1,370.0
+Restaurant_106,Italian,3.6,1,360.0
+Restaurant_114,Indian,3.6,1,360.0
+Restaurant_119,Fast Food,3.6,1,360.0
+Restaurant_120,Indian,3.6,1,360.0
+Restaurant_148,Fast Food,3.6,1,360.0
+Restaurant_160,Indian,3.6,1,360.0
+Restaurant_172,Chinese,3.6,1,360.0
+Restaurant_179,Fast Food,3.6,1,360.0
+Restaurant_184,Fast Food,3.6,1,360.0
+Restaurant_192,Chinese,3.6,1,360.0
+Restaurant_196,Indian,3.6,1,360.0
+Restaurant_33,Indian,3.6,1,360.0
+Restaurant_4,Fast Food,3.6,1,360.0
+Restaurant_69,Indian,3.6,1,360.0
+Restaurant_78,Italian,3.6,1,360.0
+Restaurant_80,Fast Food,3.6,1,360.0
+Restaurant_87,Italian,3.6,1,360.0
+Restaurant_88,Indian,3.6,1,360.0
+Restaurant_141,Italian,3.5,2,700.0
+Restaurant_97,Chinese,3.5,2,700.0
+Restaurant_102,Fast Food,3.5,1,350.0
+Restaurant_107,Indian,3.5,1,350.0
+Restaurant_11,Indian,3.5,1,350.0
+Restaurant_110,Fast Food,3.5,1,350.0
+Restaurant_139,Italian,3.5,1,350.0
+Restaurant_143,Indian,3.5,1,350.0
+Restaurant_152,Italian,3.5,1,350.0
+Restaurant_155,Italian,3.5,1,350.0
+Restaurant_191,Italian,3.5,1,350.0
+Restaurant_26,Fast Food,3.5,1,350.0
+Restaurant_38,Chinese,3.5,1,350.0
+Restaurant_68,Chinese,3.5,1,350.0
+Restaurant_71,Indian,3.5,1,350.0
+Restaurant_81,Chinese,3.5,1,350.0
+Restaurant_51,Italian,3.4,1,340.0
+Restaurant_106,Italian,3.3,1,330.0
+Restaurant_147,Indian,3.3,1,330.0
+Restaurant_199,Fast Food,3.3,1,330.0
+Restaurant_53,Fast Food,3.3,1,330.0
+Restaurant_81,Chinese,3.3,1,330.0
+Restaurant_94,Chinese,3.3,1,330.0
+Restaurant_192,Chinese,3.2,1,320.0
+Restaurant_160,Indian,3.1,1,310.0

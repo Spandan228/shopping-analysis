@@ -1,0 +1,1001 @@
+customer_id,name,email,city,signup_date,segment
+CUST0001,Vihaan Sharma,Vihaan.Sharma769@Outlook.Com,Hyderabad,2025-12-12,Consumer
+CUST0002,Aditya Das,Aditya.Das442@Gmail.Com,Mumbai,2026-04-24,Consumer
+CUST0003,Angel Chawla,Angel.Chawla235@Hotmail.Com,Ahmedabad,2026-07-22,Consumer
+CUST0004,Ananya Mehta,Ananya.Mehta104@Hotmail.Com,Delhi,2025-07-26,Corporate
+CUST0005,Angel Mehta,Angel.Mehta954@Hotmail.Com,Delhi,2025-01-09,Corporate
+CUST0006,Myra Patel,Myra.Patel731@Gmail.Com,Mumbai,2024-09-19,Consumer
+CUST0007,Vihaan Iyer,Vihaan.Iyer294@Hotmail.Com,Chennai,2026-02-12,Corporate
+CUST0008,Aditya Sen,Aditya.Sen660@Yahoo.Com,Jaipur,2025-11-20,Consumer
+CUST0009,Angel Reddy,Angel.Reddy711@Outlook.Com,Mumbai,2025-12-06,Consumer
+CUST0010,Myra Kulkarni,Myra.Kulkarni227@Foodie.Io,Pune,2025-06-18,Home Office
+CUST0011,Angel Choudhury,Angel.Choudhury279@Foodie.Io,Kolkata,2024-12-08,Corporate
+CUST0012,Anika Gupta,Anika.Gupta783@Gmail.Com,Delhi,2026-02-22,Home Office
+CUST0013,Saanvi Iyer,no_email@example.com,Jaipur,2025-11-13,Home Office
+CUST0014,Angel Rao,Angel.Rao797@Foodie.Io,Chennai,2026-04-05,Corporate
+CUST0015,Krishna Saxena,Krishna.Saxena790@Yahoo.Com,Jaipur,2026-04-11,Home Office
+CUST0016,Arjun Deshmukh,Arjun.Deshmukh790@Yahoo.Com,Jaipur,2025-01-31,Consumer
+CUST0017,Diya Singh,Diya.Singh255@Gmail.Com,Hyderabad,2024-12-25,Consumer
+CUST0018,Angel Joshi,Angel.Joshi141@Foodie.Io,Pune,2025-01-12,Consumer
+CUST0019,Reyansh Choudhury,Reyansh.Choudhury783@Foodie.Io,Hyderabad,2025-09-12,Corporate
+CUST0020,Unknown Customer,Navya.Bhat133@Yahoo.Com,Hyderabad,2026-05-24,Corporate
+CUST0021,Aarav Gupta,Aarav.Gupta734@Foodie.Io,Mumbai,2025-12-06,Consumer
+CUST0022,Ayaan Rao,Ayaan.Rao695@Hotmail.Com,Hyderabad,2025-01-22,Consumer
+CUST0023,Ayaan Kapoor,Ayaan.Kapoor836@Hotmail.Com,Hyderabad,2026-04-23,Consumer
+CUST0024,Vivaan Mehta,Vivaan.Mehta72@Hotmail.Com,Chennai,2026-04-08,Consumer
+CUST0025,Sai Rao,Sai.Rao483@Yahoo.Com,Delhi,2025-05-01,Home Office
+CUST0026,Aarav Gupta,Aarav.Gupta958@Yahoo.Com,Bangalore,2025-06-07,Corporate
+CUST0027,Sai Iyer,Sai.Iyer12@Hotmail.Com,Ahmedabad,2025-04-19,Corporate
+CUST0028,Angel Kapoor,Angel.Kapoor168@Yahoo.Com,Ahmedabad,2025-12-18,Consumer
+CUST0029,Vivaan Verma,Vivaan.Verma608@Hotmail.Com,Jaipur,2025-01-31,Consumer
+CUST0030,Aditya Sen,Aditya.Sen79@Foodie.Io,Hyderabad,2025-06-10,Consumer
+CUST0031,Vivaan Sen,Vivaan.Sen93@Hotmail.Com,Jaipur,2025-09-08,Corporate
+CUST0032,Saanvi Joshi,cust0032@example.com,Unknown City,2025-04-16,Corporate
+CUST0033,Riya Das,Riya.Das112@Gmail.Com,Jaipur,2025-12-22,Home Office
+CUST0034,Ayaan Deshmukh,Ayaan.Deshmukh301@Yahoo.Com,Pune,2025-01-18,Home Office
+CUST0035,Navya Sharma,Navya.Sharma693@Techcorp.Com,Ahmedabad,2024-09-17,Consumer
+CUST0036,Vihaan Choudhury,Vihaan.Choudhury169@Outlook.Com,Ahmedabad,2024-11-16,Consumer
+CUST0037,Krishna Saxena,Krishna.Saxena510@Outlook.Com,Unknown City,2026-04-25,Home Office
+CUST0038,Arjun Rao,no_email@example.com,Pune,2025-01-10,Home Office
+CUST0039,Arjun Choudhury,Arjun.Choudhury46@Outlook.Com,Jaipur,2026-02-27,Corporate
+CUST0040,Vivaan Deshmukh,Vivaan.Deshmukh225@Foodie.Io,Hyderabad,2024-09-14,Consumer
+CUST0041,Unknown Customer,Riya.Joshi957@Yahoo.Com,Bangalore,2026-01-28,Corporate
+CUST0042,Aadhya Reddy,Aadhya.Reddy283@Yahoo.Com,Delhi,2025-07-02,Consumer
+CUST0043,Pari Deshmukh,Pari.Deshmukh322@Yahoo.Com,Hyderabad,2026-07-04,Home Office
+CUST0044,Krishna Deshmukh,Krishna.Deshmukh666@Techcorp.Com,Kolkata,2025-01-25,Corporate
+CUST0045,Sai Das,Sai.Das995@Outlook.Com,Mumbai,2026-04-08,Home Office
+CUST0046,Riya Saxena,no_email@example.com,Hyderabad,2025-11-10,Consumer
+CUST0047,Angel Patel,Angel.Patel382@Hotmail.Com,Delhi,2024-09-16,Corporate
+CUST0048,Ishaan Saxena,Ishaan.Saxena326@Foodie.Io,Kolkata,2025-08-28,Corporate
+CUST0049,Saanvi Nair,Saanvi.Nair640@Techcorp.Com,Ahmedabad,2025-06-08,Home Office
+CUST0050,Myra Sen,Myra.Sen680@Outlook.Com,Pune,2025-05-02,Corporate
+CUST0051,Sai Gupta,Sai.Gupta300@Techcorp.Com,Chennai,2026-04-24,Consumer
+CUST0052,Aarav Verma,Aarav.Verma260@Hotmail.Com,Delhi,2025-04-18,Corporate
+CUST0053,Unknown Customer,Saanvi.Kapoor419@Yahoo.Com,Bangalore,2024-09-25,Home Office
+CUST0054,Vihaan Chawla,Vihaan.Chawla234@Yahoo.Com,Jaipur,2025-04-09,Consumer
+CUST0055,Arjun Bhat,Arjun.Bhat693@Techcorp.Com,Jaipur,2024-11-26,Corporate
+CUST0056,Navya Chawla,Navya.Chawla860@Techcorp.Com,Pune,2026-02-16,Home Office
+CUST0057,Krishna Saxena,Krishna.Saxena506@Foodie.Io,Hyderabad,2025-10-20,Corporate
+CUST0058,Ananya Choudhury,Ananya.Choudhury92@Yahoo.Com,Bangalore,2025-12-04,Corporate
+CUST0059,Aadhya Kulkarni,Aadhya.Kulkarni565@Hotmail.Com,Kolkata,2026-05-26,Consumer
+CUST0060,Aarav Das,Aarav.Das399@Hotmail.Com,Mumbai,2025-08-02,Corporate
+CUST0061,Aadhya Choudhury,Aadhya.Choudhury775@Foodie.Io,Jaipur,2024-11-18,Consumer
+CUST0062,Saanvi Kulkarni,Saanvi.Kulkarni694@Foodie.Io,Kolkata,2026-02-09,Corporate
+CUST0063,Saanvi Das,Saanvi.Das587@Foodie.Io,Mumbai,2026-05-04,Home Office
+CUST0064,Krishna Iyer,Krishna.Iyer345@Yahoo.Com,Pune,2025-08-28,Corporate
+CUST0065,Aadhya Rao,Aadhya.Rao864@Gmail.Com,Pune,2026-07-09,Home Office
+CUST0066,Aditya Verma,Aditya.Verma782@Gmail.Com,Hyderabad,2026-01-05,Consumer
+CUST0067,Vihaan Das,Vihaan.Das980@Yahoo.Com,Pune,2025-11-08,Corporate
+CUST0068,Vihaan Nair,Vihaan.Nair997@Outlook.Com,Delhi,2024-12-13,Consumer
+CUST0069,Saanvi Iyer,Saanvi.Iyer974@Foodie.Io,Hyderabad,2026-05-12,Home Office
+CUST0070,Ishaan Sen,Ishaan.Sen834@Gmail.Com,Mumbai,2025-08-07,Home Office
+CUST0071,Ananya Sharma,cust0071@example.com,Pune,2026-04-11,Corporate
+CUST0072,Arjun Chawla,Arjun.Chawla190@Foodie.Io,Jaipur,2024-09-30,Corporate
+CUST0073,Pari Chawla,Pari.Chawla855@Foodie.Io,Ahmedabad,2025-09-01,Consumer
+CUST0074,Ayaan Bhat,Ayaan.Bhat593@Techcorp.Com,Kolkata,2025-08-18,Consumer
+CUST0075,Diya Rao,Diya.Rao358@Outlook.Com,Ahmedabad,2025-01-05,Consumer
+CUST0076,Aadhya Kapoor,Aadhya.Kapoor578@Yahoo.Com,Pune,2024-10-05,Home Office
+CUST0077,Ayaan Iyer,cust0077@example.com,Ahmedabad,2024-09-17,Home Office
+CUST0078,Angel Kulkarni,Angel.Kulkarni370@Foodie.Io,Pune,2025-10-24,Corporate
+CUST0079,Vihaan Choudhury,Vihaan.Choudhury983@Foodie.Io,Bangalore,2026-01-13,Consumer
+CUST0080,Navya Sen,Navya.Sen299@Gmail.Com,Hyderabad,2025-09-28,Consumer
+CUST0081,Arjun Rao,Arjun.Rao56@Gmail.Com,Jaipur,2025-10-02,Home Office
+CUST0082,Vihaan Sharma,Vihaan.Sharma597@Outlook.Com,Pune,2025-03-25,Corporate
+CUST0083,Anika Mehta,Anika.Mehta851@Gmail.Com,Kolkata,2025-03-12,Consumer
+CUST0084,Myra Singh,Myra.Singh97@Yahoo.Com,Delhi,2025-01-03,Corporate
+CUST0085,Navya Iyer,Navya.Iyer471@Hotmail.Com,Ahmedabad,2024-12-03,Corporate
+CUST0086,Vihaan Patel,Vihaan.Patel650@Yahoo.Com,Ahmedabad,2024-09-20,Consumer
+CUST0087,Aarav Chawla,Aarav.Chawla471@Foodie.Io,Pune,2025-10-03,Consumer
+CUST0088,Pari Gupta,Pari.Gupta713@Yahoo.Com,Ahmedabad,2024-10-26,Home Office
+CUST0089,Angel Reddy,Angel.Reddy673@Yahoo.Com,Ahmedabad,2026-03-05,Consumer
+CUST0090,Myra Singh,Myra.Singh459@Gmail.Com,Pune,2025-09-20,Home Office
+CUST0091,Pari Gupta,Pari.Gupta622@Gmail.Com,Kolkata,2025-09-01,Home Office
+CUST0092,Myra Das,Myra.Das983@Gmail.Com,Ahmedabad,2024-12-15,Consumer
+CUST0093,Pari Rao,Pari.Rao195@Techcorp.Com,Kolkata,2024-10-16,Corporate
+CUST0094,Ananya Mehta,Ananya.Mehta888@Yahoo.Com,Chennai,2025-06-02,Home Office
+CUST0095,Angel Verma,Angel.Verma475@Gmail.Com,Chennai,2025-11-12,Corporate
+CUST0096,Aarav Choudhury,Aarav.Choudhury483@Hotmail.Com,Mumbai,2026-01-17,Home Office
+CUST0097,Vivaan Patel,cust0097@example.com,Unknown City,2025-10-07,Corporate
+CUST0098,Riya Reddy,Riya.Reddy736@Yahoo.Com,Ahmedabad,2025-01-10,Consumer
+CUST0099,Vihaan Bhat,Vihaan.Bhat979@Gmail.Com,Bangalore,2025-03-05,Home Office
+CUST0100,Anika Kapoor,Anika.Kapoor259@Hotmail.Com,Jaipur,2026-03-02,Corporate
+CUST0101,Arjun Gupta,Arjun.Gupta292@Hotmail.Com,Chennai,2025-02-24,Corporate
+CUST0102,Myra Das,cust0102@example.com,Bangalore,2025-04-27,Home Office
+CUST0103,Saanvi Bhat,Saanvi.Bhat965@Outlook.Com,Hyderabad,2025-11-26,Home Office
+CUST0104,Ananya Kapoor,Ananya.Kapoor732@Hotmail.Com,Kolkata,2024-09-17,Home Office
+CUST0105,Navya Das,no_email@example.com,Pune,2026-04-17,Home Office
+CUST0106,Arjun Gupta,Arjun.Gupta490@Outlook.Com,Chennai,2024-10-28,Home Office
+CUST0107,Angel Iyer,Angel.Iyer987@Outlook.Com,Pune,2025-01-20,Consumer
+CUST0108,Ishaan Reddy,Ishaan.Reddy774@Gmail.Com,Kolkata,2026-04-19,Home Office
+CUST0109,Ishaan Sharma,Ishaan.Sharma57@Outlook.Com,Mumbai,2025-10-01,Corporate
+CUST0110,Myra Nair,Myra.Nair184@Yahoo.Com,Delhi,2024-11-11,Corporate
+CUST0111,Arjun Reddy,Arjun.Reddy482@Foodie.Io,Ahmedabad,2025-04-14,Corporate
+CUST0112,Ishaan Choudhury,Ishaan.Choudhury171@Gmail.Com,Pune,2025-08-09,Home Office
+CUST0113,Pari Singh,Pari.Singh213@Hotmail.Com,Pune,2026-04-10,Consumer
+CUST0114,Ishaan Sharma,Ishaan.Sharma859@Foodie.Io,Kolkata,2025-10-20,Consumer
+CUST0115,Vivaan Sen,Vivaan.Sen773@Hotmail.Com,Ahmedabad,2025-12-05,Home Office
+CUST0116,Unknown Customer,Krishna.Joshi653@Gmail.Com,Mumbai,2025-09-15,Corporate
+CUST0117,Ishaan Kulkarni,Ishaan.Kulkarni775@Hotmail.Com,Bangalore,2026-01-04,Consumer
+CUST0118,Navya Rao,Navya.Rao860@Yahoo.Com,Ahmedabad,2025-03-22,Corporate
+CUST0119,Aditya Joshi,Aditya.Joshi782@Yahoo.Com,Kolkata,2025-01-04,Corporate
+CUST0120,Vihaan Bhat,Vihaan.Bhat387@Foodie.Io,Ahmedabad,2024-12-07,Corporate
+CUST0121,Ayaan Kapoor,Ayaan.Kapoor35@Techcorp.Com,Jaipur,2025-08-27,Home Office
+CUST0122,Ishaan Chawla,Ishaan.Chawla129@Yahoo.Com,Mumbai,2026-06-20,Corporate
+CUST0123,Angel Joshi,Angel.Joshi407@Hotmail.Com,Chennai,2024-09-10,Home Office
+CUST0124,Arjun Chawla,Arjun.Chawla680@Gmail.Com,Pune,2024-11-05,Corporate
+CUST0125,Reyansh Bhat,Reyansh.Bhat465@Yahoo.Com,Chennai,2026-04-18,Home Office
+CUST0126,Vivaan Iyer,Vivaan.Iyer292@Yahoo.Com,Delhi,2025-04-19,Consumer
+CUST0127,Aarav Verma,Aarav.Verma815@Outlook.Com,Hyderabad,2026-03-22,Home Office
+CUST0128,Unknown Customer,Myra.Patel842@Yahoo.Com,Chennai,2026-02-27,Home Office
+CUST0129,Arjun Choudhury,Arjun.Choudhury266@Yahoo.Com,Delhi,2024-09-20,Consumer
+CUST0130,Myra Kulkarni,Myra.Kulkarni26@Yahoo.Com,Ahmedabad,2026-06-05,Consumer
+CUST0131,Anika Bhat,Anika.Bhat806@Outlook.Com,Jaipur,2024-11-28,Consumer
+CUST0132,Navya Singh,Navya.Singh479@Foodie.Io,Mumbai,2026-05-27,Corporate
+CUST0133,Pari Gupta,Pari.Gupta930@Gmail.Com,Chennai,2024-11-13,Consumer
+CUST0134,Angel Kulkarni,Angel.Kulkarni400@Techcorp.Com,Jaipur,2025-09-30,Corporate
+CUST0135,Vihaan Choudhury,Vihaan.Choudhury748@Yahoo.Com,Kolkata,2025-04-22,Consumer
+CUST0136,Vihaan Kulkarni,Vihaan.Kulkarni447@Outlook.Com,Ahmedabad,2025-07-10,Consumer
+CUST0137,Aditya Gupta,Aditya.Gupta452@Gmail.Com,Chennai,2026-03-17,Home Office
+CUST0138,Vihaan Chawla,Vihaan.Chawla372@Foodie.Io,Kolkata,2026-06-06,Corporate
+CUST0139,Reyansh Joshi,Reyansh.Joshi682@Hotmail.Com,Hyderabad,2026-04-09,Corporate
+CUST0140,Myra Reddy,Myra.Reddy836@Hotmail.Com,Jaipur,2024-10-30,Home Office
+CUST0141,Unknown Customer,Krishna.Sharma194@Outlook.Com,Ahmedabad,2025-08-15,Corporate
+CUST0142,Saanvi Gupta,Saanvi.Gupta155@Foodie.Io,Mumbai,2026-04-26,Home Office
+CUST0143,Sai Deshmukh,Sai.Deshmukh329@Foodie.Io,Chennai,2024-12-24,Home Office
+CUST0144,Riya Verma,Riya.Verma700@Gmail.Com,Ahmedabad,2025-05-01,Home Office
+CUST0145,Reyansh Saxena,Reyansh.Saxena126@Outlook.Com,Kolkata,2026-04-06,Corporate
+CUST0146,Ishaan Verma,Ishaan.Verma235@Hotmail.Com,Mumbai,2026-07-21,Consumer
+CUST0147,Krishna Singh,Krishna.Singh345@Gmail.Com,Mumbai,2025-03-06,Home Office
+CUST0148,Ayaan Saxena,Ayaan.Saxena582@Foodie.Io,Unknown City,2026-05-16,Corporate
+CUST0149,Aditya Kulkarni,Aditya.Kulkarni599@Hotmail.Com,Kolkata,2024-10-11,Corporate
+CUST0150,Sai Sen,Sai.Sen481@Foodie.Io,Chennai,2026-04-29,Corporate
+CUST0151,Navya Gupta,Navya.Gupta415@Outlook.Com,Chennai,2025-12-14,Corporate
+CUST0152,Navya Saxena,Navya.Saxena208@Outlook.Com,Chennai,2024-10-06,Consumer
+CUST0153,Riya Joshi,Riya.Joshi788@Foodie.Io,Delhi,2026-01-28,Home Office
+CUST0154,Pari Das,Pari.Das668@Foodie.Io,Chennai,2024-10-24,Corporate
+CUST0155,Ishaan Rao,Ishaan.Rao615@Gmail.Com,Chennai,2025-02-24,Consumer
+CUST0156,Ishaan Gupta,Ishaan.Gupta670@Gmail.Com,Jaipur,2025-06-30,Corporate
+CUST0157,Vivaan Bhat,Vivaan.Bhat940@Techcorp.Com,Hyderabad,2025-09-02,Home Office
+CUST0158,Unknown Customer,Vihaan.Kulkarni741@Gmail.Com,Jaipur,2024-10-05,Consumer
+CUST0159,Navya Saxena,Navya.Saxena634@Yahoo.Com,Chennai,2025-07-12,Corporate
+CUST0160,Vivaan Kulkarni,Vivaan.Kulkarni77@Outlook.Com,Delhi,2025-01-03,Home Office
+CUST0161,Riya Joshi,Riya.Joshi351@Gmail.Com,Bangalore,2025-08-04,Corporate
+CUST0162,Riya Gupta,Riya.Gupta327@Techcorp.Com,Kolkata,2024-10-08,Corporate
+CUST0163,Unknown Customer,Navya.Gupta671@Foodie.Io,Kolkata,2025-02-23,Corporate
+CUST0164,Ananya Kapoor,Ananya.Kapoor206@Yahoo.Com,Bangalore,2026-02-20,Consumer
+CUST0165,Angel Saxena,Angel.Saxena48@Foodie.Io,Chennai,2024-11-03,Consumer
+CUST0166,Riya Nair,Riya.Nair748@Hotmail.Com,Mumbai,2025-06-03,Corporate
+CUST0167,Ishaan Bhat,Ishaan.Bhat249@Techcorp.Com,Hyderabad,2025-09-15,Corporate
+CUST0168,Myra Bhat,Myra.Bhat482@Outlook.Com,Kolkata,2025-03-01,Home Office
+CUST0169,Riya Joshi,Riya.Joshi903@Outlook.Com,Mumbai,2024-10-10,Corporate
+CUST0170,Navya Mehta,Navya.Mehta301@Gmail.Com,Bangalore,2025-10-22,Corporate
+CUST0171,Ayaan Bhat,Ayaan.Bhat915@Outlook.Com,Mumbai,2025-05-30,Consumer
+CUST0172,Aditya Deshmukh,Aditya.Deshmukh239@Gmail.Com,Chennai,2026-04-18,Home Office
+CUST0173,Unknown Customer,Ishaan.Kapoor722@Yahoo.Com,Pune,2025-04-25,Home Office
+CUST0174,Arjun Choudhury,Arjun.Choudhury972@Foodie.Io,Jaipur,2025-05-21,Consumer
+CUST0175,Ayaan Chawla,Ayaan.Chawla664@Techcorp.Com,Pune,2026-05-25,Consumer
+CUST0176,Unknown Customer,Navya.Das257@Foodie.Io,Bangalore,2025-10-03,Corporate
+CUST0177,Sai Gupta,Sai.Gupta546@Outlook.Com,Delhi,2025-02-05,Home Office
+CUST0178,Saanvi Kapoor,Saanvi.Kapoor54@Foodie.Io,Kolkata,2025-07-11,Corporate
+CUST0179,Ayaan Mehta,Ayaan.Mehta800@Techcorp.Com,Chennai,2026-03-14,Consumer
+CUST0180,Pari Kapoor,Pari.Kapoor656@Yahoo.Com,Bangalore,2026-05-25,Home Office
+CUST0181,Vivaan Patel,Vivaan.Patel917@Gmail.Com,Chennai,2025-09-14,Home Office
+CUST0182,Vivaan Patel,Vivaan.Patel302@Outlook.Com,Mumbai,2024-09-25,Corporate
+CUST0183,Saanvi Bhat,Saanvi.Bhat926@Hotmail.Com,Chennai,2026-01-18,Corporate
+CUST0184,Krishna Gupta,Krishna.Gupta754@Hotmail.Com,Delhi,2025-05-14,Home Office
+CUST0185,Vihaan Gupta,Vihaan.Gupta345@Foodie.Io,Ahmedabad,2025-09-18,Corporate
+CUST0186,Diya Bhat,Diya.Bhat53@Foodie.Io,Chennai,2024-11-06,Corporate
+CUST0187,Aditya Iyer,Aditya.Iyer382@Techcorp.Com,Bangalore,2026-06-27,Consumer
+CUST0188,Arjun Gupta,no_email@example.com,Chennai,2025-07-23,Corporate
+CUST0189,Pari Deshmukh,Pari.Deshmukh390@Hotmail.Com,Delhi,2024-12-18,Consumer
+CUST0190,Ayaan Mehta,Ayaan.Mehta36@Foodie.Io,Bangalore,2025-03-04,Home Office
+CUST0191,Krishna Bhat,Krishna.Bhat229@Techcorp.Com,Ahmedabad,2025-03-13,Consumer
+CUST0192,Pari Gupta,Pari.Gupta839@Foodie.Io,Chennai,2024-09-13,Corporate
+CUST0193,Ishaan Nair,Ishaan.Nair738@Foodie.Io,Bangalore,2025-07-23,Home Office
+CUST0194,Ayaan Kapoor,Ayaan.Kapoor36@Outlook.Com,Jaipur,2024-12-19,Corporate
+CUST0195,Aditya Gupta,Aditya.Gupta326@Hotmail.Com,Pune,2025-02-05,Corporate
+CUST0196,Ananya Gupta,Ananya.Gupta470@Hotmail.Com,Jaipur,2025-08-10,Consumer
+CUST0197,Sai Joshi,Sai.Joshi453@Techcorp.Com,Mumbai,2026-03-23,Home Office
+CUST0198,Ayaan Deshmukh,Ayaan.Deshmukh980@Techcorp.Com,Ahmedabad,2026-05-09,Corporate
+CUST0199,Ishaan Sen,Ishaan.Sen556@Gmail.Com,Jaipur,2024-10-10,Consumer
+CUST0200,Unknown Customer,Riya.Sen355@Techcorp.Com,Mumbai,2026-06-29,Consumer
+CUST0201,Reyansh Das,Reyansh.Das436@Techcorp.Com,Mumbai,2025-03-06,Home Office
+CUST0202,Ayaan Iyer,Ayaan.Iyer314@Hotmail.Com,Delhi,2026-05-28,Consumer
+CUST0203,Riya Joshi,Riya.Joshi330@Foodie.Io,Chennai,2025-08-09,Corporate
+CUST0204,Ananya Reddy,Ananya.Reddy487@Gmail.Com,Ahmedabad,2025-04-24,Consumer
+CUST0205,Riya Chawla,Riya.Chawla264@Yahoo.Com,Chennai,2024-12-14,Home Office
+CUST0206,Navya Bhat,Navya.Bhat520@Outlook.Com,Pune,2026-07-05,Consumer
+CUST0207,Reyansh Das,Reyansh.Das371@Gmail.Com,Mumbai,2025-10-13,Corporate
+CUST0208,Ishaan Choudhury,Ishaan.Choudhury18@Gmail.Com,Kolkata,2026-03-13,Corporate
+CUST0209,Saanvi Verma,Saanvi.Verma593@Techcorp.Com,Hyderabad,2025-07-22,Home Office
+CUST0210,Angel Rao,Angel.Rao855@Techcorp.Com,Delhi,2026-03-19,Consumer
+CUST0211,Unknown Customer,no_email@example.com,Jaipur,2025-06-12,Home Office
+CUST0212,Anika Saxena,Anika.Saxena477@Yahoo.Com,Jaipur,2026-03-07,Corporate
+CUST0213,Riya Singh,Riya.Singh617@Outlook.Com,Jaipur,2025-02-22,Home Office
+CUST0214,Aarav Deshmukh,Aarav.Deshmukh349@Foodie.Io,Delhi,2025-05-28,Home Office
+CUST0215,Aarav Sen,Aarav.Sen495@Outlook.Com,Hyderabad,2026-06-06,Home Office
+CUST0216,Saanvi Joshi,Saanvi.Joshi851@Foodie.Io,Unknown City,2026-06-26,Home Office
+CUST0217,Ananya Chawla,Ananya.Chawla165@Hotmail.Com,Hyderabad,2025-06-03,Home Office
+CUST0218,Vivaan Joshi,Vivaan.Joshi541@Yahoo.Com,Jaipur,2025-08-30,Home Office
+CUST0219,Pari Choudhury,Pari.Choudhury360@Techcorp.Com,Chennai,2024-10-08,Home Office
+CUST0220,Krishna Choudhury,Krishna.Choudhury315@Yahoo.Com,Ahmedabad,2025-10-06,Home Office
+CUST0221,Diya Choudhury,Diya.Choudhury966@Foodie.Io,Ahmedabad,2025-10-07,Consumer
+CUST0222,Saanvi Deshmukh,Saanvi.Deshmukh987@Yahoo.Com,Ahmedabad,2026-06-15,Corporate
+CUST0223,Krishna Kapoor,Krishna.Kapoor229@Yahoo.Com,Jaipur,2025-10-24,Home Office
+CUST0224,Myra Reddy,Myra.Reddy258@Gmail.Com,Jaipur,2025-12-09,Home Office
+CUST0225,Anika Mehta,Anika.Mehta707@Yahoo.Com,Mumbai,2025-01-11,Consumer
+CUST0226,Anika Patel,Anika.Patel784@Outlook.Com,Chennai,2025-10-09,Home Office
+CUST0227,Ayaan Choudhury,Ayaan.Choudhury766@Foodie.Io,Mumbai,2026-01-30,Corporate
+CUST0228,Saanvi Kapoor,Saanvi.Kapoor200@Foodie.Io,Ahmedabad,2026-06-20,Consumer
+CUST0229,Ananya Singh,Ananya.Singh475@Foodie.Io,Jaipur,2025-02-07,Corporate
+CUST0230,Krishna Patel,Krishna.Patel838@Gmail.Com,Chennai,2026-02-12,Home Office
+CUST0231,Ananya Singh,Ananya.Singh591@Foodie.Io,Hyderabad,2026-01-30,Home Office
+CUST0232,Navya Kulkarni,Navya.Kulkarni98@Hotmail.Com,Unknown City,2026-01-20,Consumer
+CUST0233,Saanvi Reddy,no_email@example.com,Chennai,2025-09-22,Home Office
+CUST0234,Ayaan Verma,Ayaan.Verma693@Gmail.Com,Pune,2025-09-17,Consumer
+CUST0235,Ishaan Mehta,Ishaan.Mehta664@Outlook.Com,Chennai,2024-11-06,Consumer
+CUST0236,Riya Deshmukh,Riya.Deshmukh435@Foodie.Io,Jaipur,2025-04-02,Home Office
+CUST0237,Riya Gupta,Riya.Gupta548@Hotmail.Com,Jaipur,2025-07-23,Consumer
+CUST0238,Navya Patel,Navya.Patel596@Techcorp.Com,Bangalore,2026-02-10,Corporate
+CUST0239,Myra Kapoor,Myra.Kapoor103@Techcorp.Com,Pune,2026-06-02,Corporate
+CUST0240,Angel Bhat,Angel.Bhat698@Outlook.Com,Mumbai,2025-06-18,Corporate
+CUST0241,Vivaan Chawla,Vivaan.Chawla362@Foodie.Io,Delhi,2025-01-20,Consumer
+CUST0242,Vivaan Singh,Vivaan.Singh428@Yahoo.Com,Bangalore,2024-10-10,Home Office
+CUST0243,Saanvi Bhat,Saanvi.Bhat900@Hotmail.Com,Kolkata,2026-05-07,Home Office
+CUST0244,Diya Mehta,Diya.Mehta192@Techcorp.Com,Unknown City,2025-02-02,Consumer
+CUST0245,Aarav Singh,Aarav.Singh484@Foodie.Io,Jaipur,2025-05-20,Home Office
+CUST0246,Arjun Rao,Arjun.Rao203@Foodie.Io,Delhi,2026-06-26,Home Office
+CUST0247,Aarav Reddy,Aarav.Reddy221@Gmail.Com,Delhi,2024-11-27,Consumer
+CUST0248,Ayaan Verma,Ayaan.Verma421@Hotmail.Com,Hyderabad,2025-01-22,Consumer
+CUST0249,Ishaan Reddy,Ishaan.Reddy845@Foodie.Io,Chennai,2024-12-14,Home Office
+CUST0250,Arjun Saxena,Arjun.Saxena236@Hotmail.Com,Ahmedabad,2025-10-20,Consumer
+CUST0251,Sai Chawla,Sai.Chawla579@Hotmail.Com,Mumbai,2025-08-10,Home Office
+CUST0252,Aadhya Chawla,Aadhya.Chawla162@Outlook.Com,Kolkata,2026-01-21,Home Office
+CUST0253,Arjun Bhat,Arjun.Bhat946@Gmail.Com,Jaipur,2025-06-01,Corporate
+CUST0254,Reyansh Kulkarni,Reyansh.Kulkarni672@Gmail.Com,Pune,2025-07-14,Consumer
+CUST0255,Saanvi Sen,Saanvi.Sen627@Gmail.Com,Delhi,2026-01-17,Home Office
+CUST0256,Ananya Singh,Ananya.Singh989@Gmail.Com,Hyderabad,2026-01-15,Home Office
+CUST0257,Ayaan Sen,Ayaan.Sen730@Yahoo.Com,Kolkata,2025-11-25,Home Office
+CUST0258,Diya Singh,Diya.Singh277@Outlook.Com,Jaipur,2025-03-06,Corporate
+CUST0259,Ananya Patel,Ananya.Patel389@Outlook.Com,Unknown City,2026-06-12,Home Office
+CUST0260,Angel Das,Angel.Das603@Foodie.Io,Kolkata,2025-09-29,Consumer
+CUST0261,Ayaan Kapoor,cust0261@example.com,Chennai,2025-11-07,Corporate
+CUST0262,Sai Deshmukh,Sai.Deshmukh183@Yahoo.Com,Jaipur,2025-03-15,Consumer
+CUST0263,Vivaan Saxena,Vivaan.Saxena44@Gmail.Com,Mumbai,2026-07-22,Corporate
+CUST0264,Arjun Sharma,Arjun.Sharma233@Techcorp.Com,Pune,2025-07-11,Consumer
+CUST0265,Unknown Customer,Anika.Kapoor26@Gmail.Com,Jaipur,2025-01-10,Corporate
+CUST0266,Ishaan Sharma,Ishaan.Sharma524@Foodie.Io,Kolkata,2026-01-26,Consumer
+CUST0267,Riya Saxena,Riya.Saxena268@Outlook.Com,Ahmedabad,2025-06-17,Consumer
+CUST0268,Ayaan Singh,Ayaan.Singh710@Gmail.Com,Mumbai,2026-04-24,Corporate
+CUST0269,Aarav Nair,Aarav.Nair94@Hotmail.Com,Kolkata,2024-10-06,Corporate
+CUST0270,Navya Verma,Navya.Verma245@Yahoo.Com,Pune,2025-10-24,Consumer
+CUST0271,Angel Das,Angel.Das683@Gmail.Com,Bangalore,2025-09-09,Consumer
+CUST0272,Saanvi Gupta,Saanvi.Gupta316@Yahoo.Com,Hyderabad,2024-12-25,Corporate
+CUST0273,Arjun Gupta,Arjun.Gupta522@Foodie.Io,Chennai,2026-06-04,Consumer
+CUST0274,Riya Sen,Riya.Sen416@Outlook.Com,Mumbai,2024-10-17,Corporate
+CUST0275,Angel Iyer,Angel.Iyer452@Yahoo.Com,Kolkata,2026-05-02,Home Office
+CUST0276,Krishna Joshi,Krishna.Joshi399@Foodie.Io,Bangalore,2025-06-25,Corporate
+CUST0277,Pari Deshmukh,Pari.Deshmukh789@Outlook.Com,Delhi,2026-03-15,Consumer
+CUST0278,Aadhya Mehta,Aadhya.Mehta36@Gmail.Com,Chennai,2025-01-07,Consumer
+CUST0279,Aarav Singh,Aarav.Singh433@Hotmail.Com,Delhi,2025-01-02,Consumer
+CUST0280,Arjun Rao,Arjun.Rao318@Outlook.Com,Pune,2026-03-01,Consumer
+CUST0281,Aditya Deshmukh,Aditya.Deshmukh267@Yahoo.Com,Pune,2024-11-27,Home Office
+CUST0282,Saanvi Kulkarni,Saanvi.Kulkarni871@Techcorp.Com,Kolkata,2025-08-25,Corporate
+CUST0283,Riya Joshi,Riya.Joshi317@Outlook.Com,Hyderabad,2025-03-25,Corporate
+CUST0284,Anika Das,Anika.Das810@Yahoo.Com,Chennai,2025-07-08,Corporate
+CUST0285,Myra Patel,Myra.Patel616@Techcorp.Com,Bangalore,2025-01-11,Consumer
+CUST0286,Pari Singh,Pari.Singh861@Foodie.Io,Delhi,2025-06-05,Home Office
+CUST0287,Arjun Chawla,Arjun.Chawla818@Hotmail.Com,Delhi,2025-04-25,Home Office
+CUST0288,Aadhya Choudhury,Aadhya.Choudhury47@Outlook.Com,Jaipur,2024-11-27,Home Office
+CUST0289,Diya Nair,Diya.Nair672@Techcorp.Com,Mumbai,2024-12-29,Home Office
+CUST0290,Aadhya Mehta,Aadhya.Mehta20@Gmail.Com,Ahmedabad,2025-12-13,Home Office
+CUST0291,Ayaan Bhat,Ayaan.Bhat393@Hotmail.Com,Unknown City,2024-12-03,Home Office
+CUST0292,Vihaan Singh,Vihaan.Singh435@Gmail.Com,Delhi,2026-03-05,Corporate
+CUST0293,Anika Deshmukh,Anika.Deshmukh497@Gmail.Com,Pune,2025-04-21,Corporate
+CUST0294,Aarav Kulkarni,Aarav.Kulkarni673@Gmail.Com,Bangalore,2025-11-21,Home Office
+CUST0295,Pari Reddy,Pari.Reddy826@Hotmail.Com,Bangalore,2026-01-19,Home Office
+CUST0296,Reyansh Bhat,Reyansh.Bhat616@Hotmail.Com,Kolkata,2026-07-24,Home Office
+CUST0297,Aditya Das,Aditya.Das114@Techcorp.Com,Bangalore,2025-07-19,Corporate
+CUST0298,Anika Saxena,Anika.Saxena999@Foodie.Io,Chennai,2024-11-24,Corporate
+CUST0299,Pari Sen,Pari.Sen186@Foodie.Io,Ahmedabad,2024-11-06,Home Office
+CUST0300,Ishaan Mehta,cust0300@example.com,Bangalore,2025-02-20,Corporate
+CUST0301,Sai Kapoor,Sai.Kapoor660@Techcorp.Com,Bangalore,2025-01-06,Consumer
+CUST0302,Pari Sen,Pari.Sen64@Outlook.Com,Mumbai,2025-03-19,Consumer
+CUST0303,Anika Chawla,Anika.Chawla711@Hotmail.Com,Kolkata,2025-04-30,Corporate
+CUST0304,Ayaan Singh,Ayaan.Singh43@Outlook.Com,Hyderabad,2025-01-24,Corporate
+CUST0305,Anika Choudhury,Anika.Choudhury533@Gmail.Com,Delhi,2025-10-27,Home Office
+CUST0306,Vivaan Bhat,Vivaan.Bhat569@Yahoo.Com,Kolkata,2026-04-15,Home Office
+CUST0307,Vivaan Bhat,Vivaan.Bhat279@Outlook.Com,Delhi,2025-05-05,Consumer
+CUST0308,Myra Deshmukh,Myra.Deshmukh891@Foodie.Io,Kolkata,2026-02-09,Home Office
+CUST0309,Vivaan Das,Vivaan.Das369@Techcorp.Com,Ahmedabad,2024-11-24,Home Office
+CUST0310,Myra Rao,Myra.Rao985@Techcorp.Com,Delhi,2026-03-12,Corporate
+CUST0311,Arjun Joshi,Arjun.Joshi265@Yahoo.Com,Chennai,2025-11-17,Home Office
+CUST0312,Aadhya Iyer,Aadhya.Iyer472@Gmail.Com,Delhi,2025-06-11,Home Office
+CUST0313,Pari Kapoor,Pari.Kapoor345@Techcorp.Com,Mumbai,2026-04-24,Home Office
+CUST0314,Aditya Choudhury,Aditya.Choudhury417@Yahoo.Com,Kolkata,2025-12-24,Corporate
+CUST0315,Myra Joshi,Myra.Joshi589@Hotmail.Com,Chennai,2026-06-09,Consumer
+CUST0316,Vihaan Nair,Vihaan.Nair461@Hotmail.Com,Mumbai,2025-05-16,Consumer
+CUST0317,Ishaan Nair,Ishaan.Nair905@Outlook.Com,Delhi,2024-09-26,Corporate
+CUST0318,Sai Verma,Sai.Verma415@Foodie.Io,Unknown City,2025-12-01,Corporate
+CUST0319,Anika Gupta,no_email@example.com,Hyderabad,2025-02-12,Home Office
+CUST0320,Vihaan Chawla,Vihaan.Chawla720@Yahoo.Com,Pune,2026-05-17,Consumer
+CUST0321,Ananya Deshmukh,Ananya.Deshmukh912@Outlook.Com,Bangalore,2025-07-02,Consumer
+CUST0322,Myra Sharma,Myra.Sharma634@Foodie.Io,Bangalore,2025-05-04,Corporate
+CUST0323,Aadhya Sen,Aadhya.Sen713@Hotmail.Com,Hyderabad,2026-05-01,Consumer
+CUST0324,Diya Chawla,Diya.Chawla332@Yahoo.Com,Hyderabad,2025-10-18,Home Office
+CUST0325,Riya Singh,Riya.Singh807@Foodie.Io,Mumbai,2024-09-22,Corporate
+CUST0326,Saanvi Singh,Saanvi.Singh671@Gmail.Com,Hyderabad,2025-03-09,Corporate
+CUST0327,Navya Sharma,Navya.Sharma379@Outlook.Com,Bangalore,2025-06-27,Home Office
+CUST0328,Anika Gupta,Anika.Gupta27@Techcorp.Com,Delhi,2026-07-14,Corporate
+CUST0329,Saanvi Saxena,Saanvi.Saxena303@Foodie.Io,Jaipur,2025-05-29,Corporate
+CUST0330,Riya Joshi,Riya.Joshi294@Gmail.Com,Ahmedabad,2026-05-09,Home Office
+CUST0331,Ananya Iyer,Ananya.Iyer610@Foodie.Io,Delhi,2025-09-14,Home Office
+CUST0332,Ayaan Gupta,Ayaan.Gupta956@Hotmail.Com,Delhi,2025-04-20,Home Office
+CUST0333,Sai Mehta,Sai.Mehta22@Foodie.Io,Bangalore,2026-07-17,Consumer
+CUST0334,Krishna Nair,Krishna.Nair390@Yahoo.Com,Ahmedabad,2026-03-30,Consumer
+CUST0335,Krishna Das,Krishna.Das652@Gmail.Com,Pune,2025-04-18,Home Office
+CUST0336,Diya Nair,Diya.Nair271@Gmail.Com,Delhi,2025-12-07,Home Office
+CUST0337,Ayaan Verma,Ayaan.Verma493@Outlook.Com,Kolkata,2026-02-25,Consumer
+CUST0338,Aadhya Reddy,Aadhya.Reddy339@Yahoo.Com,Kolkata,2025-09-04,Corporate
+CUST0339,Vivaan Nair,Vivaan.Nair238@Techcorp.Com,Mumbai,2025-06-13,Consumer
+CUST0340,Ishaan Kulkarni,Ishaan.Kulkarni98@Techcorp.Com,Pune,2026-07-20,Corporate
+CUST0341,Riya Reddy,Riya.Reddy485@Outlook.Com,Pune,2026-01-09,Home Office
+CUST0342,Aarav Chawla,Aarav.Chawla34@Yahoo.Com,Jaipur,2025-08-08,Home Office
+CUST0343,Aarav Iyer,Aarav.Iyer879@Foodie.Io,Ahmedabad,2026-04-13,Consumer
+CUST0344,Vivaan Joshi,Vivaan.Joshi738@Outlook.Com,Delhi,2026-06-14,Consumer
+CUST0345,Diya Bhat,Diya.Bhat775@Gmail.Com,Delhi,2025-02-26,Consumer
+CUST0346,Vivaan Chawla,Vivaan.Chawla688@Yahoo.Com,Hyderabad,2025-10-03,Corporate
+CUST0347,Ananya Kulkarni,Ananya.Kulkarni473@Outlook.Com,Hyderabad,2026-05-13,Consumer
+CUST0348,Vihaan Nair,Vihaan.Nair470@Hotmail.Com,Chennai,2025-06-07,Consumer
+CUST0349,Ishaan Bhat,Ishaan.Bhat281@Gmail.Com,Delhi,2026-02-17,Home Office
+CUST0350,Reyansh Kulkarni,Reyansh.Kulkarni161@Gmail.Com,Hyderabad,2025-07-29,Corporate
+CUST0351,Sai Sharma,cust0351@example.com,Pune,2025-01-05,Home Office
+CUST0352,Arjun Mehta,Arjun.Mehta22@Gmail.Com,Hyderabad,2026-03-17,Consumer
+CUST0353,Aditya Das,Aditya.Das610@Outlook.Com,Delhi,2026-07-06,Consumer
+CUST0354,Aditya Kulkarni,Aditya.Kulkarni135@Gmail.Com,Pune,2026-06-07,Consumer
+CUST0355,Anika Sharma,Anika.Sharma401@Foodie.Io,Kolkata,2026-02-02,Corporate
+CUST0356,Arjun Verma,Arjun.Verma638@Techcorp.Com,Hyderabad,2024-10-04,Corporate
+CUST0357,Aditya Rao,Aditya.Rao402@Yahoo.Com,Kolkata,2026-01-05,Home Office
+CUST0358,Angel Sharma,Angel.Sharma401@Foodie.Io,Chennai,2025-03-24,Home Office
+CUST0359,Ananya Iyer,Ananya.Iyer286@Yahoo.Com,Mumbai,2025-09-05,Home Office
+CUST0360,Vivaan Kapoor,Vivaan.Kapoor552@Outlook.Com,Hyderabad,2026-02-15,Consumer
+CUST0361,Vivaan Reddy,Vivaan.Reddy599@Hotmail.Com,Chennai,2026-02-01,Consumer
+CUST0362,Diya Das,cust0362@example.com,Chennai,2024-12-24,Home Office
+CUST0363,Anika Choudhury,Anika.Choudhury326@Yahoo.Com,Unknown City,2026-06-20,Consumer
+CUST0364,Anika Sharma,Anika.Sharma349@Techcorp.Com,Hyderabad,2026-03-17,Corporate
+CUST0365,Ananya Verma,Ananya.Verma32@Yahoo.Com,Bangalore,2026-04-06,Home Office
+CUST0366,Saanvi Das,Saanvi.Das113@Outlook.Com,Ahmedabad,2025-09-01,Consumer
+CUST0367,Anika Kulkarni,Anika.Kulkarni188@Foodie.Io,Jaipur,2024-11-07,Corporate
+CUST0368,Ishaan Singh,Ishaan.Singh140@Yahoo.Com,Mumbai,2024-12-19,Corporate
+CUST0369,Sai Sen,Sai.Sen335@Techcorp.Com,Hyderabad,2024-10-12,Home Office
+CUST0370,Aditya Reddy,Aditya.Reddy365@Outlook.Com,Bangalore,2024-10-15,Consumer
+CUST0371,Ananya Bhat,Ananya.Bhat21@Outlook.Com,Hyderabad,2025-11-15,Home Office
+CUST0372,Aarav Verma,Aarav.Verma405@Hotmail.Com,Kolkata,2026-02-08,Corporate
+CUST0373,Vihaan Kapoor,Vihaan.Kapoor817@Techcorp.Com,Hyderabad,2026-02-12,Corporate
+CUST0374,Ananya Rao,Ananya.Rao984@Gmail.Com,Delhi,2025-08-12,Consumer
+CUST0375,Aditya Kulkarni,Aditya.Kulkarni618@Techcorp.Com,Pune,2026-06-27,Corporate
+CUST0376,Sai Verma,Sai.Verma113@Outlook.Com,Hyderabad,2026-01-15,Corporate
+CUST0377,Krishna Singh,Krishna.Singh314@Yahoo.Com,Delhi,2026-06-08,Corporate
+CUST0378,Diya Sharma,Diya.Sharma447@Gmail.Com,Unknown City,2024-09-19,Home Office
+CUST0379,Sai Singh,Sai.Singh93@Hotmail.Com,Delhi,2025-09-16,Corporate
+CUST0380,Angel Iyer,Angel.Iyer199@Outlook.Com,Kolkata,2025-07-15,Consumer
+CUST0381,Ayaan Rao,Ayaan.Rao587@Gmail.Com,Bangalore,2024-09-13,Consumer
+CUST0382,Myra Reddy,Myra.Reddy576@Gmail.Com,Kolkata,2025-02-08,Corporate
+CUST0383,Unknown Customer,Myra.Reddy497@Outlook.Com,Delhi,2025-06-19,Home Office
+CUST0384,Myra Sen,Myra.Sen160@Gmail.Com,Pune,2026-02-01,Consumer
+CUST0385,Aadhya Gupta,Aadhya.Gupta709@Hotmail.Com,Hyderabad,2024-10-24,Consumer
+CUST0386,Aditya Gupta,Aditya.Gupta407@Techcorp.Com,Kolkata,2025-01-09,Corporate
+CUST0387,Aarav Sen,Aarav.Sen611@Techcorp.Com,Kolkata,2026-04-04,Corporate
+CUST0388,Vihaan Mehta,Vihaan.Mehta586@Gmail.Com,Ahmedabad,2025-01-26,Corporate
+CUST0389,Myra Sen,Myra.Sen494@Gmail.Com,Bangalore,2025-10-19,Corporate
+CUST0390,Vivaan Iyer,Vivaan.Iyer920@Outlook.Com,Hyderabad,2026-06-08,Home Office
+CUST0391,Ananya Singh,Ananya.Singh328@Outlook.Com,Pune,2026-04-19,Consumer
+CUST0392,Ananya Rao,Ananya.Rao756@Hotmail.Com,Delhi,2026-01-17,Corporate
+CUST0393,Navya Deshmukh,Navya.Deshmukh850@Gmail.Com,Jaipur,2026-02-16,Consumer
+CUST0394,Navya Das,Navya.Das39@Yahoo.Com,Hyderabad,2026-01-04,Consumer
+CUST0395,Reyansh Rao,Reyansh.Rao387@Hotmail.Com,Jaipur,2025-06-17,Home Office
+CUST0396,Anika Sen,Anika.Sen466@Yahoo.Com,Pune,2024-12-05,Home Office
+CUST0397,Aditya Singh,Aditya.Singh38@Hotmail.Com,Mumbai,2026-02-12,Home Office
+CUST0398,Ayaan Patel,Ayaan.Patel285@Foodie.Io,Kolkata,2025-02-18,Consumer
+CUST0399,Anika Joshi,Anika.Joshi672@Yahoo.Com,Mumbai,2025-12-11,Corporate
+CUST0400,Krishna Chawla,Krishna.Chawla926@Hotmail.Com,Chennai,2025-04-14,Corporate
+CUST0401,Riya Iyer,Riya.Iyer608@Gmail.Com,Mumbai,2025-02-20,Home Office
+CUST0402,Riya Sen,Riya.Sen299@Outlook.Com,Delhi,2025-03-22,Consumer
+CUST0403,Krishna Rao,Krishna.Rao681@Foodie.Io,Ahmedabad,2026-01-17,Consumer
+CUST0404,Riya Iyer,Riya.Iyer686@Outlook.Com,Bangalore,2026-07-02,Home Office
+CUST0405,Saanvi Iyer,Saanvi.Iyer764@Gmail.Com,Hyderabad,2025-08-11,Home Office
+CUST0406,Anika Deshmukh,Anika.Deshmukh529@Outlook.Com,Bangalore,2024-09-23,Home Office
+CUST0407,Krishna Choudhury,Krishna.Choudhury791@Yahoo.Com,Chennai,2024-09-26,Consumer
+CUST0408,Aadhya Kulkarni,Aadhya.Kulkarni390@Outlook.Com,Ahmedabad,2025-04-10,Consumer
+CUST0409,Riya Gupta,Riya.Gupta493@Yahoo.Com,Jaipur,2026-03-28,Home Office
+CUST0410,Arjun Joshi,Arjun.Joshi215@Outlook.Com,Kolkata,2024-12-22,Corporate
+CUST0411,Aditya Kapoor,Aditya.Kapoor350@Foodie.Io,Bangalore,2025-09-11,Home Office
+CUST0412,Sai Das,cust0412@example.com,Pune,2026-04-29,Consumer
+CUST0413,Anika Iyer,no_email@example.com,Jaipur,2026-01-05,Home Office
+CUST0414,Navya Patel,Navya.Patel28@Foodie.Io,Mumbai,2024-10-25,Home Office
+CUST0415,Arjun Mehta,Arjun.Mehta402@Techcorp.Com,Ahmedabad,2026-02-07,Consumer
+CUST0416,Navya Sen,Navya.Sen546@Outlook.Com,Kolkata,2026-03-13,Corporate
+CUST0417,Sai Iyer,Sai.Iyer29@Yahoo.Com,Hyderabad,2026-03-16,Consumer
+CUST0418,Unknown Customer,Diya.Verma394@Foodie.Io,Ahmedabad,2025-01-27,Home Office
+CUST0419,Aarav Verma,Aarav.Verma716@Gmail.Com,Kolkata,2025-04-30,Corporate
+CUST0420,Reyansh Sharma,Reyansh.Sharma318@Hotmail.Com,Delhi,2024-09-18,Home Office
+CUST0421,Vihaan Saxena,Vihaan.Saxena746@Techcorp.Com,Delhi,2025-10-12,Consumer
+CUST0422,Unknown Customer,Krishna.Saxena216@Outlook.Com,Kolkata,2025-09-29,Consumer
+CUST0423,Anika Kulkarni,Anika.Kulkarni250@Gmail.Com,Mumbai,2024-09-09,Consumer
+CUST0424,Arjun Gupta,Arjun.Gupta808@Techcorp.Com,Delhi,2026-04-16,Corporate
+CUST0425,Krishna Bhat,cust0425@example.com,Bangalore,2026-06-18,Corporate
+CUST0426,Vihaan Mehta,Vihaan.Mehta881@Gmail.Com,Mumbai,2026-03-09,Home Office
+CUST0427,Riya Rao,Riya.Rao909@Foodie.Io,Delhi,2025-07-12,Corporate
+CUST0428,Krishna Iyer,Krishna.Iyer716@Hotmail.Com,Kolkata,2024-10-02,Consumer
+CUST0429,Sai Mehta,Sai.Mehta436@Techcorp.Com,Pune,2024-12-23,Home Office
+CUST0430,Riya Sharma,Riya.Sharma893@Foodie.Io,Bangalore,2025-03-21,Corporate
+CUST0431,Krishna Kulkarni,Krishna.Kulkarni22@Foodie.Io,Jaipur,2024-12-15,Home Office
+CUST0432,Ananya Saxena,Ananya.Saxena545@Foodie.Io,Delhi,2025-05-11,Home Office
+CUST0433,Saanvi Joshi,Saanvi.Joshi869@Techcorp.Com,Mumbai,2026-07-17,Home Office
+CUST0434,Anika Nair,Anika.Nair86@Hotmail.Com,Chennai,2025-11-24,Corporate
+CUST0435,Saanvi Iyer,Saanvi.Iyer846@Yahoo.Com,Delhi,2025-04-14,Corporate
+CUST0436,Pari Kulkarni,Pari.Kulkarni131@Hotmail.Com,Unknown City,2026-04-14,Corporate
+CUST0437,Aditya Sen,Aditya.Sen996@Techcorp.Com,Ahmedabad,2025-02-23,Home Office
+CUST0438,Diya Verma,Diya.Verma846@Yahoo.Com,Pune,2025-08-23,Home Office
+CUST0439,Diya Bhat,Diya.Bhat126@Gmail.Com,Hyderabad,2026-07-26,Corporate
+CUST0440,Angel Saxena,Angel.Saxena392@Foodie.Io,Delhi,2026-06-12,Consumer
+CUST0441,Aadhya Mehta,Aadhya.Mehta270@Techcorp.Com,Hyderabad,2026-01-17,Consumer
+CUST0442,Reyansh Kulkarni,Reyansh.Kulkarni120@Hotmail.Com,Mumbai,2024-10-18,Home Office
+CUST0443,Unknown Customer,Myra.Saxena147@Hotmail.Com,Mumbai,2025-01-31,Home Office
+CUST0444,Anika Saxena,Anika.Saxena809@Yahoo.Com,Bangalore,2026-03-19,Consumer
+CUST0445,Navya Iyer,cust0445@example.com,Hyderabad,2025-10-21,Corporate
+CUST0446,Arjun Joshi,Arjun.Joshi432@Techcorp.Com,Jaipur,2025-09-25,Home Office
+CUST0447,Angel Patel,Angel.Patel215@Yahoo.Com,Ahmedabad,2025-08-09,Home Office
+CUST0448,Sai Saxena,Sai.Saxena565@Foodie.Io,Chennai,2026-04-01,Corporate
+CUST0449,Unknown Customer,Aadhya.Choudhury302@Hotmail.Com,Mumbai,2025-02-08,Consumer
+CUST0450,Reyansh Rao,Reyansh.Rao778@Yahoo.Com,Ahmedabad,2025-11-14,Consumer
+CUST0451,Angel Verma,Angel.Verma377@Hotmail.Com,Delhi,2024-11-05,Home Office
+CUST0452,Angel Iyer,Angel.Iyer253@Techcorp.Com,Ahmedabad,2024-09-16,Consumer
+CUST0453,Ananya Choudhury,Ananya.Choudhury65@Gmail.Com,Ahmedabad,2026-01-02,Home Office
+CUST0454,Ayaan Deshmukh,Ayaan.Deshmukh783@Techcorp.Com,Jaipur,2024-11-18,Consumer
+CUST0455,Unknown Customer,Sai.Gupta201@Yahoo.Com,Jaipur,2026-03-28,Corporate
+CUST0456,Sai Das,Sai.Das876@Outlook.Com,Mumbai,2025-08-24,Corporate
+CUST0457,Ananya Sen,Ananya.Sen62@Foodie.Io,Ahmedabad,2025-03-13,Home Office
+CUST0458,Navya Reddy,Navya.Reddy989@Yahoo.Com,Jaipur,2026-05-20,Home Office
+CUST0459,Diya Reddy,Diya.Reddy914@Yahoo.Com,Chennai,2025-08-23,Corporate
+CUST0460,Anika Choudhury,Anika.Choudhury853@Foodie.Io,Mumbai,2026-04-02,Home Office
+CUST0461,Riya Reddy,Riya.Reddy991@Gmail.Com,Chennai,2025-07-03,Consumer
+CUST0462,Navya Deshmukh,Navya.Deshmukh536@Techcorp.Com,Pune,2025-03-17,Consumer
+CUST0463,Aditya Mehta,Aditya.Mehta181@Techcorp.Com,Jaipur,2026-07-21,Home Office
+CUST0464,Aadhya Mehta,Aadhya.Mehta220@Techcorp.Com,Kolkata,2024-10-04,Consumer
+CUST0465,Ananya Verma,Ananya.Verma99@Gmail.Com,Mumbai,2026-01-27,Corporate
+CUST0466,Unknown Customer,Krishna.Chawla407@Hotmail.Com,Kolkata,2025-05-11,Corporate
+CUST0467,Riya Gupta,Riya.Gupta784@Foodie.Io,Mumbai,2026-05-15,Corporate
+CUST0468,Ishaan Sen,no_email@example.com,Pune,2025-07-03,Corporate
+CUST0469,Ayaan Joshi,Ayaan.Joshi774@Hotmail.Com,Jaipur,2025-09-29,Home Office
+CUST0470,Unknown Customer,Diya.Sharma576@Techcorp.Com,Bangalore,2026-03-24,Consumer
+CUST0471,Aditya Singh,Aditya.Singh225@Foodie.Io,Chennai,2025-12-24,Corporate
+CUST0472,Sai Reddy,Sai.Reddy641@Outlook.Com,Hyderabad,2026-04-02,Consumer
+CUST0473,Angel Bhat,Angel.Bhat670@Techcorp.Com,Delhi,2025-10-04,Home Office
+CUST0474,Anika Kulkarni,Anika.Kulkarni375@Yahoo.Com,Hyderabad,2026-04-17,Corporate
+CUST0475,Pari Kulkarni,Pari.Kulkarni641@Foodie.Io,Ahmedabad,2024-12-07,Consumer
+CUST0476,Aadhya Nair,Aadhya.Nair14@Outlook.Com,Hyderabad,2025-12-14,Home Office
+CUST0477,Arjun Kulkarni,Arjun.Kulkarni908@Hotmail.Com,Pune,2025-04-28,Corporate
+CUST0478,Riya Gupta,Riya.Gupta871@Outlook.Com,Bangalore,2025-01-23,Consumer
+CUST0479,Aditya Sharma,Aditya.Sharma879@Techcorp.Com,Mumbai,2024-12-10,Home Office
+CUST0480,Angel Rao,Angel.Rao566@Techcorp.Com,Pune,2024-09-27,Consumer
+CUST0481,Ishaan Joshi,no_email@example.com,Jaipur,2026-04-27,Corporate
+CUST0482,Riya Nair,Riya.Nair785@Techcorp.Com,Bangalore,2025-04-28,Consumer
+CUST0483,Arjun Kapoor,Arjun.Kapoor971@Outlook.Com,Mumbai,2025-12-16,Corporate
+CUST0484,Reyansh Saxena,no_email@example.com,Kolkata,2025-04-04,Corporate
+CUST0485,Vihaan Saxena,Vihaan.Saxena658@Outlook.Com,Ahmedabad,2024-12-13,Home Office
+CUST0486,Myra Gupta,Myra.Gupta539@Outlook.Com,Kolkata,2025-12-12,Home Office
+CUST0487,Anika Sen,cust0487@example.com,Bangalore,2025-05-04,Consumer
+CUST0488,Arjun Nair,Arjun.Nair171@Outlook.Com,Delhi,2024-09-20,Consumer
+CUST0489,Unknown Customer,Anika.Kapoor225@Techcorp.Com,Bangalore,2024-10-04,Corporate
+CUST0490,Sai Joshi,Sai.Joshi654@Techcorp.Com,Mumbai,2024-12-19,Consumer
+CUST0491,Saanvi Sen,Saanvi.Sen587@Foodie.Io,Mumbai,2024-09-19,Corporate
+CUST0492,Anika Kapoor,Anika.Kapoor184@Yahoo.Com,Kolkata,2024-11-20,Consumer
+CUST0493,Navya Rao,Navya.Rao181@Foodie.Io,Chennai,2025-04-20,Home Office
+CUST0494,Vihaan Sharma,Vihaan.Sharma217@Techcorp.Com,Jaipur,2025-05-25,Consumer
+CUST0495,Riya Verma,Riya.Verma908@Techcorp.Com,Jaipur,2026-03-30,Consumer
+CUST0496,Aarav Chawla,Aarav.Chawla544@Hotmail.Com,Chennai,2026-06-14,Home Office
+CUST0497,Saanvi Deshmukh,Saanvi.Deshmukh613@Foodie.Io,Delhi,2025-05-19,Consumer
+CUST0498,Unknown Customer,Aditya.Singh622@Techcorp.Com,Unknown City,2025-11-07,Consumer
+CUST0499,Navya Mehta,Navya.Mehta542@Gmail.Com,Kolkata,2024-09-26,Consumer
+CUST0500,Arjun Chawla,Arjun.Chawla677@Techcorp.Com,Ahmedabad,2025-11-03,Home Office
+CUST0501,Saanvi Patel,Saanvi.Patel433@Techcorp.Com,Jaipur,2025-03-21,Consumer
+CUST0502,Ishaan Das,Ishaan.Das362@Foodie.Io,Kolkata,2026-03-09,Home Office
+CUST0503,Sai Mehta,Sai.Mehta229@Techcorp.Com,Kolkata,2025-08-16,Home Office
+CUST0504,Saanvi Sharma,Saanvi.Sharma833@Gmail.Com,Bangalore,2025-04-02,Home Office
+CUST0505,Aditya Sen,Aditya.Sen48@Foodie.Io,Kolkata,2025-06-13,Home Office
+CUST0506,Vivaan Nair,Vivaan.Nair665@Hotmail.Com,Pune,2026-07-18,Consumer
+CUST0507,Reyansh Verma,Reyansh.Verma812@Techcorp.Com,Jaipur,2025-02-15,Home Office
+CUST0508,Ayaan Sharma,Ayaan.Sharma171@Gmail.Com,Ahmedabad,2025-06-14,Corporate
+CUST0509,Aarav Gupta,Aarav.Gupta951@Gmail.Com,Jaipur,2025-10-10,Home Office
+CUST0510,Unknown Customer,Krishna.Reddy630@Yahoo.Com,Pune,2025-06-10,Home Office
+CUST0511,Angel Gupta,Angel.Gupta525@Outlook.Com,Chennai,2026-03-31,Home Office
+CUST0512,Myra Rao,Myra.Rao720@Hotmail.Com,Kolkata,2024-12-29,Corporate
+CUST0513,Pari Bhat,Pari.Bhat928@Techcorp.Com,Mumbai,2025-03-22,Consumer
+CUST0514,Ayaan Reddy,Ayaan.Reddy829@Outlook.Com,Kolkata,2025-08-01,Home Office
+CUST0515,Ishaan Gupta,Ishaan.Gupta418@Foodie.Io,Chennai,2026-05-12,Home Office
+CUST0516,Myra Rao,Myra.Rao197@Foodie.Io,Hyderabad,2025-03-05,Home Office
+CUST0517,Reyansh Reddy,Reyansh.Reddy217@Yahoo.Com,Chennai,2026-02-19,Consumer
+CUST0518,Anika Sen,Anika.Sen16@Techcorp.Com,Mumbai,2025-03-22,Corporate
+CUST0519,Myra Rao,Myra.Rao512@Yahoo.Com,Jaipur,2025-10-15,Corporate
+CUST0520,Aadhya Kapoor,Aadhya.Kapoor972@Techcorp.Com,Mumbai,2025-03-01,Corporate
+CUST0521,Vihaan Saxena,Vihaan.Saxena481@Outlook.Com,Mumbai,2026-07-16,Home Office
+CUST0522,Riya Rao,Riya.Rao201@Techcorp.Com,Ahmedabad,2025-11-28,Corporate
+CUST0523,Anika Chawla,Anika.Chawla225@Hotmail.Com,Chennai,2025-07-20,Corporate
+CUST0524,Myra Reddy,cust0524@example.com,Ahmedabad,2025-11-29,Home Office
+CUST0525,Arjun Kapoor,Arjun.Kapoor835@Gmail.Com,Bangalore,2025-05-23,Corporate
+CUST0526,Angel Kulkarni,Angel.Kulkarni814@Hotmail.Com,Ahmedabad,2025-11-14,Home Office
+CUST0527,Sai Verma,cust0527@example.com,Pune,2024-10-22,Consumer
+CUST0528,Angel Choudhury,Angel.Choudhury964@Outlook.Com,Chennai,2026-07-08,Corporate
+CUST0529,Reyansh Das,cust0529@example.com,Jaipur,2026-01-31,Corporate
+CUST0530,Pari Gupta,Pari.Gupta400@Techcorp.Com,Ahmedabad,2025-04-10,Home Office
+CUST0531,Ananya Chawla,Ananya.Chawla656@Techcorp.Com,Kolkata,2026-05-16,Consumer
+CUST0532,Ishaan Rao,Ishaan.Rao629@Foodie.Io,Kolkata,2025-10-24,Corporate
+CUST0533,Navya Bhat,Navya.Bhat433@Yahoo.Com,Bangalore,2026-07-05,Consumer
+CUST0534,Aditya Patel,Aditya.Patel180@Hotmail.Com,Delhi,2026-04-22,Consumer
+CUST0535,Saanvi Saxena,Saanvi.Saxena793@Gmail.Com,Delhi,2025-11-02,Home Office
+CUST0536,Ishaan Reddy,Ishaan.Reddy263@Foodie.Io,Ahmedabad,2025-05-01,Home Office
+CUST0537,Vivaan Deshmukh,Vivaan.Deshmukh891@Outlook.Com,Pune,2025-04-06,Home Office
+CUST0538,Angel Nair,Angel.Nair615@Techcorp.Com,Pune,2024-10-20,Home Office
+CUST0539,Angel Singh,Angel.Singh940@Outlook.Com,Pune,2025-01-22,Consumer
+CUST0540,Krishna Joshi,Krishna.Joshi320@Gmail.Com,Unknown City,2025-02-08,Consumer
+CUST0541,Anika Kapoor,no_email@example.com,Kolkata,2025-10-02,Home Office
+CUST0542,Aadhya Choudhury,Aadhya.Choudhury457@Hotmail.Com,Hyderabad,2026-02-11,Home Office
+CUST0543,Krishna Gupta,Krishna.Gupta442@Foodie.Io,Hyderabad,2025-02-14,Home Office
+CUST0544,Angel Rao,Angel.Rao432@Yahoo.Com,Delhi,2026-01-23,Consumer
+CUST0545,Unknown Customer,Krishna.Sen513@Yahoo.Com,Chennai,2026-07-09,Consumer
+CUST0546,Vihaan Singh,no_email@example.com,Pune,2026-07-20,Consumer
+CUST0547,Aadhya Singh,Aadhya.Singh814@Hotmail.Com,Chennai,2025-04-10,Home Office
+CUST0548,Arjun Verma,Arjun.Verma282@Hotmail.Com,Delhi,2025-01-18,Corporate
+CUST0549,Saanvi Sharma,Saanvi.Sharma134@Foodie.Io,Hyderabad,2025-06-29,Corporate
+CUST0550,Vihaan Saxena,Vihaan.Saxena691@Yahoo.Com,Pune,2025-06-25,Home Office
+CUST0551,Vivaan Choudhury,Vivaan.Choudhury543@Gmail.Com,Ahmedabad,2025-03-23,Home Office
+CUST0552,Reyansh Mehta,Reyansh.Mehta251@Foodie.Io,Kolkata,2025-08-30,Consumer
+CUST0553,Ayaan Sharma,Ayaan.Sharma53@Techcorp.Com,Pune,2024-11-25,Consumer
+CUST0554,Aditya Sen,Aditya.Sen356@Foodie.Io,Mumbai,2026-05-28,Corporate
+CUST0555,Arjun Kapoor,Arjun.Kapoor248@Outlook.Com,Jaipur,2024-10-06,Corporate
+CUST0556,Saanvi Deshmukh,Saanvi.Deshmukh751@Yahoo.Com,Ahmedabad,2026-06-18,Corporate
+CUST0557,Anika Patel,Anika.Patel590@Yahoo.Com,Jaipur,2025-08-06,Corporate
+CUST0558,Angel Nair,Angel.Nair80@Techcorp.Com,Bangalore,2025-04-24,Corporate
+CUST0559,Navya Iyer,Navya.Iyer761@Yahoo.Com,Mumbai,2024-11-01,Corporate
+CUST0560,Angel Iyer,Angel.Iyer204@Techcorp.Com,Pune,2025-01-10,Consumer
+CUST0561,Vihaan Mehta,no_email@example.com,Delhi,2026-06-14,Consumer
+CUST0562,Reyansh Mehta,Reyansh.Mehta42@Techcorp.Com,Kolkata,2024-09-23,Corporate
+CUST0563,Diya Reddy,Diya.Reddy630@Foodie.Io,Delhi,2026-07-15,Consumer
+CUST0564,Pari Verma,Pari.Verma379@Techcorp.Com,Kolkata,2025-07-16,Home Office
+CUST0565,Aditya Singh,Aditya.Singh89@Yahoo.Com,Jaipur,2026-04-20,Consumer
+CUST0566,Navya Reddy,Navya.Reddy593@Foodie.Io,Bangalore,2025-01-03,Home Office
+CUST0567,Myra Deshmukh,Myra.Deshmukh700@Hotmail.Com,Kolkata,2026-04-13,Consumer
+CUST0568,Sai Choudhury,Sai.Choudhury624@Hotmail.Com,Chennai,2025-09-09,Home Office
+CUST0569,Aadhya Kulkarni,cust0569@example.com,Jaipur,2025-12-21,Corporate
+CUST0570,Pari Bhat,Pari.Bhat992@Hotmail.Com,Mumbai,2026-06-23,Corporate
+CUST0571,Ishaan Sharma,Ishaan.Sharma317@Yahoo.Com,Hyderabad,2025-09-09,Consumer
+CUST0572,Angel Saxena,Angel.Saxena579@Techcorp.Com,Bangalore,2026-04-23,Consumer
+CUST0573,Myra Reddy,Myra.Reddy248@Outlook.Com,Ahmedabad,2026-04-25,Home Office
+CUST0574,Ananya Kapoor,Ananya.Kapoor187@Hotmail.Com,Delhi,2024-11-26,Home Office
+CUST0575,Aditya Verma,Aditya.Verma953@Outlook.Com,Chennai,2025-05-10,Corporate
+CUST0576,Riya Sharma,Riya.Sharma659@Foodie.Io,Kolkata,2026-06-03,Corporate
+CUST0577,Ananya Saxena,Ananya.Saxena724@Yahoo.Com,Bangalore,2026-06-07,Home Office
+CUST0578,Riya Das,Riya.Das526@Gmail.Com,Hyderabad,2025-05-12,Corporate
+CUST0579,Anika Das,Anika.Das773@Gmail.Com,Jaipur,2025-06-15,Corporate
+CUST0580,Arjun Joshi,Arjun.Joshi502@Techcorp.Com,Hyderabad,2025-03-16,Corporate
+CUST0581,Navya Reddy,Navya.Reddy258@Gmail.Com,Ahmedabad,2025-05-14,Corporate
+CUST0582,Aadhya Chawla,no_email@example.com,Hyderabad,2025-09-03,Corporate
+CUST0583,Diya Sen,Diya.Sen851@Hotmail.Com,Bangalore,2025-05-03,Consumer
+CUST0584,Arjun Gupta,Arjun.Gupta125@Foodie.Io,Mumbai,2025-11-22,Home Office
+CUST0585,Unknown Customer,Aarav.Kulkarni720@Gmail.Com,Ahmedabad,2025-04-24,Corporate
+CUST0586,Reyansh Choudhury,cust0586@example.com,Jaipur,2025-03-21,Home Office
+CUST0587,Aarav Iyer,Aarav.Iyer606@Foodie.Io,Jaipur,2026-06-14,Corporate
+CUST0588,Riya Rao,Riya.Rao64@Hotmail.Com,Mumbai,2026-05-21,Corporate
+CUST0589,Diya Mehta,Diya.Mehta29@Outlook.Com,Kolkata,2025-12-04,Corporate
+CUST0590,Anika Sen,Anika.Sen554@Gmail.Com,Bangalore,2026-01-06,Home Office
+CUST0591,Vivaan Reddy,Vivaan.Reddy954@Techcorp.Com,Ahmedabad,2025-08-21,Corporate
+CUST0592,Diya Deshmukh,Diya.Deshmukh650@Outlook.Com,Hyderabad,2025-03-02,Corporate
+CUST0593,Aarav Choudhury,Aarav.Choudhury981@Outlook.Com,Hyderabad,2026-02-23,Corporate
+CUST0594,Saanvi Saxena,Saanvi.Saxena993@Foodie.Io,Hyderabad,2025-05-27,Consumer
+CUST0595,Riya Kulkarni,Riya.Kulkarni469@Techcorp.Com,Bangalore,2025-12-29,Home Office
+CUST0596,Arjun Singh,Arjun.Singh715@Foodie.Io,Jaipur,2026-03-12,Corporate
+CUST0597,Myra Nair,Myra.Nair335@Gmail.Com,Jaipur,2025-01-29,Home Office
+CUST0598,Aarav Kulkarni,Aarav.Kulkarni911@Hotmail.Com,Kolkata,2025-09-21,Corporate
+CUST0599,Unknown Customer,Krishna.Joshi807@Yahoo.Com,Delhi,2026-03-16,Consumer
+CUST0600,Unknown Customer,Riya.Das637@Yahoo.Com,Hyderabad,2025-12-04,Home Office
+CUST0601,Arjun Saxena,Arjun.Saxena876@Techcorp.Com,Pune,2024-10-01,Corporate
+CUST0602,Sai Patel,Sai.Patel241@Gmail.Com,Kolkata,2026-07-13,Corporate
+CUST0603,Reyansh Patel,cust0603@example.com,Pune,2024-11-04,Corporate
+CUST0604,Aadhya Iyer,Aadhya.Iyer804@Gmail.Com,Kolkata,2025-09-11,Corporate
+CUST0605,Navya Verma,Navya.Verma543@Gmail.Com,Pune,2025-04-17,Consumer
+CUST0606,Vivaan Choudhury,Vivaan.Choudhury406@Techcorp.Com,Mumbai,2026-01-15,Corporate
+CUST0607,Ishaan Bhat,Ishaan.Bhat180@Hotmail.Com,Ahmedabad,2024-11-08,Consumer
+CUST0608,Pari Gupta,Pari.Gupta749@Techcorp.Com,Delhi,2026-01-25,Home Office
+CUST0609,Aadhya Kulkarni,Aadhya.Kulkarni471@Gmail.Com,Bangalore,2025-04-20,Home Office
+CUST0610,Aditya Rao,Aditya.Rao341@Foodie.Io,Bangalore,2026-03-24,Consumer
+CUST0611,Navya Iyer,Navya.Iyer754@Techcorp.Com,Bangalore,2025-07-06,Home Office
+CUST0612,Myra Joshi,cust0612@example.com,Bangalore,2026-06-06,Corporate
+CUST0613,Ishaan Nair,no_email@example.com,Hyderabad,2026-07-25,Home Office
+CUST0614,Anika Choudhury,Anika.Choudhury836@Gmail.Com,Pune,2025-11-27,Consumer
+CUST0615,Aditya Sen,Aditya.Sen624@Gmail.Com,Hyderabad,2025-01-14,Corporate
+CUST0616,Vivaan Nair,Vivaan.Nair161@Gmail.Com,Chennai,2026-06-21,Consumer
+CUST0617,Ishaan Kulkarni,cust0617@example.com,Mumbai,2026-04-08,Corporate
+CUST0618,Riya Das,Riya.Das816@Techcorp.Com,Bangalore,2025-04-18,Home Office
+CUST0619,Ishaan Kulkarni,Ishaan.Kulkarni387@Hotmail.Com,Delhi,2025-05-17,Home Office
+CUST0620,Krishna Kulkarni,Krishna.Kulkarni549@Hotmail.Com,Jaipur,2025-12-26,Home Office
+CUST0621,Navya Gupta,Navya.Gupta505@Foodie.Io,Ahmedabad,2025-05-17,Home Office
+CUST0622,Riya Deshmukh,Riya.Deshmukh959@Yahoo.Com,Pune,2025-02-11,Home Office
+CUST0623,Unknown Customer,Riya.Reddy735@Outlook.Com,Hyderabad,2026-07-27,Consumer
+CUST0624,Reyansh Sen,Reyansh.Sen434@Hotmail.Com,Unknown City,2025-08-21,Corporate
+CUST0625,Reyansh Singh,Reyansh.Singh270@Gmail.Com,Ahmedabad,2025-09-24,Home Office
+CUST0626,Ananya Kulkarni,Ananya.Kulkarni415@Foodie.Io,Mumbai,2026-01-30,Consumer
+CUST0627,Anika Verma,Anika.Verma671@Yahoo.Com,Pune,2026-02-19,Home Office
+CUST0628,Pari Chawla,Pari.Chawla960@Foodie.Io,Mumbai,2025-02-10,Corporate
+CUST0629,Aarav Patel,Aarav.Patel601@Foodie.Io,Chennai,2025-07-31,Consumer
+CUST0630,Saanvi Choudhury,cust0630@example.com,Kolkata,2026-01-18,Home Office
+CUST0631,Ananya Verma,Ananya.Verma288@Hotmail.Com,Delhi,2025-03-07,Consumer
+CUST0632,Navya Singh,Navya.Singh189@Gmail.Com,Unknown City,2026-06-20,Consumer
+CUST0633,Anika Saxena,Anika.Saxena167@Yahoo.Com,Chennai,2025-03-20,Home Office
+CUST0634,Vihaan Saxena,Vihaan.Saxena702@Yahoo.Com,Hyderabad,2026-06-21,Corporate
+CUST0635,Ishaan Verma,Ishaan.Verma713@Techcorp.Com,Delhi,2025-08-21,Corporate
+CUST0636,Ishaan Sharma,Ishaan.Sharma601@Outlook.Com,Hyderabad,2025-09-03,Consumer
+CUST0637,Unknown Customer,Pari.Mehta289@Yahoo.Com,Bangalore,2025-10-21,Consumer
+CUST0638,Reyansh Choudhury,Reyansh.Choudhury368@Techcorp.Com,Chennai,2025-10-24,Consumer
+CUST0639,Sai Gupta,no_email@example.com,Chennai,2025-01-21,Corporate
+CUST0640,Vivaan Mehta,Vivaan.Mehta402@Gmail.Com,Delhi,2025-05-18,Corporate
+CUST0641,Pari Sen,Pari.Sen374@Outlook.Com,Chennai,2026-01-07,Home Office
+CUST0642,Pari Das,Pari.Das144@Gmail.Com,Pune,2026-04-20,Corporate
+CUST0643,Anika Reddy,Anika.Reddy980@Yahoo.Com,Bangalore,2024-11-04,Corporate
+CUST0644,Ananya Kulkarni,Ananya.Kulkarni474@Hotmail.Com,Mumbai,2026-05-23,Corporate
+CUST0645,Ishaan Deshmukh,Ishaan.Deshmukh628@Techcorp.Com,Bangalore,2025-02-23,Consumer
+CUST0646,Angel Gupta,Angel.Gupta821@Outlook.Com,Jaipur,2025-04-12,Corporate
+CUST0647,Sai Kapoor,Sai.Kapoor403@Gmail.Com,Chennai,2025-12-27,Home Office
+CUST0648,Ananya Choudhury,Ananya.Choudhury720@Yahoo.Com,Bangalore,2024-09-18,Home Office
+CUST0649,Anika Mehta,Anika.Mehta616@Techcorp.Com,Pune,2025-08-29,Home Office
+CUST0650,Saanvi Gupta,Saanvi.Gupta622@Gmail.Com,Kolkata,2025-08-27,Corporate
+CUST0651,Arjun Das,Arjun.Das934@Foodie.Io,Mumbai,2026-02-28,Home Office
+CUST0652,Myra Bhat,Myra.Bhat210@Yahoo.Com,Chennai,2025-09-25,Home Office
+CUST0653,Aadhya Deshmukh,Aadhya.Deshmukh101@Techcorp.Com,Mumbai,2024-11-09,Home Office
+CUST0654,Diya Choudhury,Diya.Choudhury64@Gmail.Com,Jaipur,2025-07-26,Consumer
+CUST0655,Myra Iyer,Myra.Iyer650@Outlook.Com,Kolkata,2025-06-08,Corporate
+CUST0656,Arjun Patel,Arjun.Patel578@Hotmail.Com,Chennai,2025-05-27,Consumer
+CUST0657,Aarav Gupta,Aarav.Gupta673@Gmail.Com,Bangalore,2025-03-17,Home Office
+CUST0658,Aadhya Bhat,Aadhya.Bhat925@Foodie.Io,Kolkata,2024-10-28,Consumer
+CUST0659,Saanvi Deshmukh,Saanvi.Deshmukh241@Yahoo.Com,Kolkata,2024-11-16,Consumer
+CUST0660,Navya Rao,Navya.Rao430@Techcorp.Com,Chennai,2026-06-24,Consumer
+CUST0661,Anika Gupta,Anika.Gupta155@Foodie.Io,Jaipur,2025-10-15,Corporate
+CUST0662,Ayaan Kapoor,Ayaan.Kapoor655@Foodie.Io,Delhi,2024-10-18,Home Office
+CUST0663,Ananya Choudhury,Ananya.Choudhury807@Gmail.Com,Pune,2025-04-20,Home Office
+CUST0664,Diya Singh,Diya.Singh306@Yahoo.Com,Mumbai,2024-11-24,Home Office
+CUST0665,Anika Das,Anika.Das183@Techcorp.Com,Mumbai,2024-09-24,Corporate
+CUST0666,Aditya Joshi,Aditya.Joshi527@Gmail.Com,Ahmedabad,2025-11-12,Consumer
+CUST0667,Vihaan Sen,Vihaan.Sen188@Techcorp.Com,Bangalore,2024-09-22,Corporate
+CUST0668,Ayaan Kapoor,Ayaan.Kapoor195@Techcorp.Com,Mumbai,2025-08-11,Consumer
+CUST0669,Anika Chawla,Anika.Chawla798@Hotmail.Com,Hyderabad,2024-09-20,Corporate
+CUST0670,Diya Verma,Diya.Verma667@Outlook.Com,Delhi,2026-06-05,Consumer
+CUST0671,Angel Reddy,Angel.Reddy398@Foodie.Io,Unknown City,2025-03-30,Corporate
+CUST0672,Pari Iyer,Pari.Iyer704@Outlook.Com,Jaipur,2026-06-16,Consumer
+CUST0673,Aadhya Sen,Aadhya.Sen950@Foodie.Io,Ahmedabad,2025-08-19,Corporate
+CUST0674,Saanvi Bhat,Saanvi.Bhat801@Foodie.Io,Hyderabad,2024-09-08,Home Office
+CUST0675,Sai Kulkarni,Sai.Kulkarni570@Gmail.Com,Mumbai,2026-05-20,Consumer
+CUST0676,Unknown Customer,cust0676@example.com,Ahmedabad,2026-01-12,Consumer
+CUST0677,Reyansh Sen,Reyansh.Sen663@Gmail.Com,Delhi,2026-05-01,Home Office
+CUST0678,Myra Nair,Myra.Nair927@Gmail.Com,Bangalore,2025-11-11,Corporate
+CUST0679,Krishna Chawla,Krishna.Chawla718@Foodie.Io,Chennai,2025-11-07,Consumer
+CUST0680,Saanvi Kulkarni,Saanvi.Kulkarni71@Outlook.Com,Ahmedabad,2026-01-27,Corporate
+CUST0681,Saanvi Nair,Saanvi.Nair670@Hotmail.Com,Delhi,2026-03-03,Home Office
+CUST0682,Pari Rao,Pari.Rao115@Gmail.Com,Unknown City,2026-05-17,Home Office
+CUST0683,Anika Joshi,Anika.Joshi678@Foodie.Io,Mumbai,2026-06-20,Home Office
+CUST0684,Saanvi Das,Saanvi.Das13@Techcorp.Com,Pune,2025-03-26,Corporate
+CUST0685,Aditya Choudhury,Aditya.Choudhury241@Gmail.Com,Kolkata,2025-03-22,Consumer
+CUST0686,Ishaan Iyer,Ishaan.Iyer66@Foodie.Io,Delhi,2025-07-19,Home Office
+CUST0687,Ishaan Patel,Ishaan.Patel190@Techcorp.Com,Mumbai,2025-06-30,Home Office
+CUST0688,Unknown Customer,no_email@example.com,Pune,2026-01-15,Consumer
+CUST0689,Ayaan Kapoor,Ayaan.Kapoor408@Gmail.Com,Jaipur,2024-10-08,Corporate
+CUST0690,Aarav Verma,Aarav.Verma357@Gmail.Com,Chennai,2026-06-15,Corporate
+CUST0691,Pari Choudhury,Pari.Choudhury162@Foodie.Io,Unknown City,2026-05-16,Consumer
+CUST0692,Riya Verma,Riya.Verma258@Foodie.Io,Bangalore,2026-07-14,Consumer
+CUST0693,Vihaan Bhat,Vihaan.Bhat635@Yahoo.Com,Delhi,2026-04-11,Consumer
+CUST0694,Reyansh Chawla,Reyansh.Chawla355@Foodie.Io,Kolkata,2025-08-30,Consumer
+CUST0695,Reyansh Verma,cust0695@example.com,Chennai,2026-05-25,Consumer
+CUST0696,Diya Choudhury,Diya.Choudhury178@Hotmail.Com,Hyderabad,2024-12-10,Consumer
+CUST0697,Saanvi Nair,Saanvi.Nair26@Hotmail.Com,Delhi,2026-07-22,Consumer
+CUST0698,Ishaan Chawla,Ishaan.Chawla720@Hotmail.Com,Bangalore,2025-12-29,Consumer
+CUST0699,Sai Sen,Sai.Sen718@Gmail.Com,Bangalore,2025-03-04,Home Office
+CUST0700,Diya Chawla,Diya.Chawla14@Techcorp.Com,Hyderabad,2026-01-13,Consumer
+CUST0701,Angel Saxena,Angel.Saxena234@Hotmail.Com,Hyderabad,2025-10-18,Consumer
+CUST0702,Anika Kapoor,Anika.Kapoor190@Yahoo.Com,Mumbai,2026-06-03,Home Office
+CUST0703,Riya Bhat,no_email@example.com,Mumbai,2025-01-24,Consumer
+CUST0704,Aditya Reddy,Aditya.Reddy748@Hotmail.Com,Chennai,2025-05-25,Consumer
+CUST0705,Vihaan Kulkarni,Vihaan.Kulkarni243@Gmail.Com,Hyderabad,2025-06-01,Consumer
+CUST0706,Anika Verma,Anika.Verma921@Hotmail.Com,Bangalore,2025-12-19,Home Office
+CUST0707,Reyansh Deshmukh,Reyansh.Deshmukh286@Yahoo.Com,Chennai,2026-03-20,Consumer
+CUST0708,Pari Bhat,Pari.Bhat438@Yahoo.Com,Chennai,2025-12-15,Corporate
+CUST0709,Riya Nair,Riya.Nair601@Techcorp.Com,Hyderabad,2026-05-01,Corporate
+CUST0710,Myra Kapoor,Myra.Kapoor867@Hotmail.Com,Ahmedabad,2026-07-14,Home Office
+CUST0711,Aadhya Das,Aadhya.Das237@Techcorp.Com,Bangalore,2024-12-18,Consumer
+CUST0712,Navya Verma,Navya.Verma445@Techcorp.Com,Kolkata,2025-03-25,Home Office
+CUST0713,Angel Sharma,Angel.Sharma719@Foodie.Io,Kolkata,2025-12-17,Consumer
+CUST0714,Aarav Kapoor,no_email@example.com,Bangalore,2025-04-14,Home Office
+CUST0715,Arjun Iyer,Arjun.Iyer199@Outlook.Com,Pune,2024-10-18,Consumer
+CUST0716,Ananya Saxena,Ananya.Saxena43@Outlook.Com,Kolkata,2025-10-25,Home Office
+CUST0717,Aditya Sen,Aditya.Sen911@Outlook.Com,Mumbai,2025-02-16,Home Office
+CUST0718,Pari Sen,Pari.Sen51@Outlook.Com,Chennai,2026-01-30,Home Office
+CUST0719,Reyansh Joshi,Reyansh.Joshi352@Yahoo.Com,Jaipur,2026-04-03,Home Office
+CUST0720,Reyansh Reddy,Reyansh.Reddy338@Outlook.Com,Ahmedabad,2025-02-28,Home Office
+CUST0721,Pari Kapoor,cust0721@example.com,Delhi,2025-04-03,Home Office
+CUST0722,Pari Sen,Pari.Sen386@Foodie.Io,Delhi,2026-01-17,Corporate
+CUST0723,Aditya Mehta,Aditya.Mehta178@Outlook.Com,Delhi,2026-02-27,Corporate
+CUST0724,Aarav Singh,Aarav.Singh436@Foodie.Io,Jaipur,2026-03-15,Corporate
+CUST0725,Ishaan Patel,Ishaan.Patel74@Gmail.Com,Hyderabad,2025-02-11,Home Office
+CUST0726,Ananya Kapoor,Ananya.Kapoor617@Foodie.Io,Jaipur,2025-01-13,Corporate
+CUST0727,Ishaan Nair,Ishaan.Nair818@Outlook.Com,Hyderabad,2025-03-20,Corporate
+CUST0728,Diya Singh,Diya.Singh476@Yahoo.Com,Bangalore,2025-01-26,Corporate
+CUST0729,Arjun Nair,Arjun.Nair253@Gmail.Com,Mumbai,2025-09-07,Home Office
+CUST0730,Angel Verma,Angel.Verma691@Outlook.Com,Chennai,2026-02-27,Corporate
+CUST0731,Vihaan Sharma,Vihaan.Sharma424@Hotmail.Com,Bangalore,2025-04-15,Corporate
+CUST0732,Navya Kulkarni,Navya.Kulkarni672@Foodie.Io,Ahmedabad,2025-03-30,Corporate
+CUST0733,Arjun Das,cust0733@example.com,Chennai,2026-04-04,Home Office
+CUST0734,Vihaan Singh,Vihaan.Singh35@Hotmail.Com,Hyderabad,2025-04-28,Corporate
+CUST0735,Myra Saxena,Myra.Saxena237@Outlook.Com,Hyderabad,2026-07-05,Consumer
+CUST0736,Aditya Saxena,Aditya.Saxena413@Yahoo.Com,Pune,2025-09-06,Home Office
+CUST0737,Diya Iyer,Diya.Iyer161@Foodie.Io,Kolkata,2025-07-15,Corporate
+CUST0738,Pari Choudhury,Pari.Choudhury99@Yahoo.Com,Pune,2025-05-29,Corporate
+CUST0739,Aadhya Chawla,Aadhya.Chawla152@Techcorp.Com,Delhi,2026-03-03,Consumer
+CUST0740,Ananya Gupta,Ananya.Gupta965@Techcorp.Com,Kolkata,2026-04-29,Consumer
+CUST0741,Angel Bhat,Angel.Bhat737@Techcorp.Com,Bangalore,2026-01-05,Consumer
+CUST0742,Unknown Customer,no_email@example.com,Jaipur,2025-04-10,Consumer
+CUST0743,Anika Mehta,Anika.Mehta679@Foodie.Io,Ahmedabad,2025-05-27,Consumer
+CUST0744,Vihaan Rao,Vihaan.Rao514@Gmail.Com,Chennai,2024-12-10,Corporate
+CUST0745,Anika Mehta,Anika.Mehta392@Techcorp.Com,Mumbai,2025-11-05,Consumer
+CUST0746,Arjun Deshmukh,Arjun.Deshmukh177@Gmail.Com,Ahmedabad,2025-07-24,Corporate
+CUST0747,Ishaan Saxena,Ishaan.Saxena664@Gmail.Com,Jaipur,2026-01-11,Home Office
+CUST0748,Angel Kulkarni,Angel.Kulkarni903@Outlook.Com,Ahmedabad,2025-10-24,Home Office
+CUST0749,Diya Joshi,Diya.Joshi23@Yahoo.Com,Jaipur,2025-10-13,Corporate
+CUST0750,Sai Mehta,Sai.Mehta233@Yahoo.Com,Jaipur,2025-12-14,Consumer
+CUST0751,Navya Choudhury,Navya.Choudhury739@Techcorp.Com,Delhi,2025-05-27,Corporate
+CUST0752,Aarav Kapoor,Aarav.Kapoor366@Outlook.Com,Chennai,2026-03-08,Corporate
+CUST0753,Ananya Nair,Ananya.Nair736@Outlook.Com,Mumbai,2026-03-29,Consumer
+CUST0754,Ishaan Joshi,Ishaan.Joshi224@Yahoo.Com,Unknown City,2025-05-19,Home Office
+CUST0755,Anika Chawla,Anika.Chawla53@Yahoo.Com,Delhi,2026-06-25,Home Office
+CUST0756,Krishna Verma,Krishna.Verma77@Outlook.Com,Mumbai,2026-04-21,Consumer
+CUST0757,Sai Deshmukh,Sai.Deshmukh39@Gmail.Com,Bangalore,2025-10-17,Home Office
+CUST0758,Riya Reddy,Riya.Reddy527@Techcorp.Com,Delhi,2026-04-18,Home Office
+CUST0759,Ishaan Nair,Ishaan.Nair933@Techcorp.Com,Mumbai,2026-04-18,Consumer
+CUST0760,Myra Nair,Myra.Nair460@Foodie.Io,Delhi,2026-01-24,Corporate
+CUST0761,Aadhya Mehta,Aadhya.Mehta789@Outlook.Com,Delhi,2025-04-07,Consumer
+CUST0762,Ishaan Choudhury,Ishaan.Choudhury749@Gmail.Com,Delhi,2025-08-27,Corporate
+CUST0763,Ishaan Bhat,Ishaan.Bhat241@Techcorp.Com,Kolkata,2025-10-04,Corporate
+CUST0764,Anika Deshmukh,Anika.Deshmukh193@Gmail.Com,Pune,2024-09-08,Consumer
+CUST0765,Vihaan Joshi,Vihaan.Joshi414@Hotmail.Com,Delhi,2026-02-06,Consumer
+CUST0766,Saanvi Mehta,Saanvi.Mehta248@Hotmail.Com,Pune,2025-10-16,Home Office
+CUST0767,Saanvi Deshmukh,Saanvi.Deshmukh497@Foodie.Io,Kolkata,2025-03-19,Home Office
+CUST0768,Krishna Kapoor,Krishna.Kapoor519@Yahoo.Com,Bangalore,2026-06-28,Consumer
+CUST0769,Aarav Nair,Aarav.Nair401@Techcorp.Com,Chennai,2026-02-22,Corporate
+CUST0770,Navya Kapoor,Navya.Kapoor821@Hotmail.Com,Hyderabad,2025-10-01,Home Office
+CUST0771,Angel Choudhury,Angel.Choudhury28@Gmail.Com,Kolkata,2026-03-29,Corporate
+CUST0772,Vivaan Verma,Vivaan.Verma191@Techcorp.Com,Ahmedabad,2026-02-10,Corporate
+CUST0773,Vihaan Das,Vihaan.Das701@Hotmail.Com,Jaipur,2025-01-22,Home Office
+CUST0774,Vivaan Iyer,Vivaan.Iyer279@Hotmail.Com,Kolkata,2024-11-04,Home Office
+CUST0775,Aarav Das,Aarav.Das56@Yahoo.Com,Chennai,2025-08-05,Home Office
+CUST0776,Saanvi Mehta,Saanvi.Mehta448@Outlook.Com,Chennai,2025-06-02,Corporate
+CUST0777,Ishaan Das,no_email@example.com,Delhi,2025-09-19,Consumer
+CUST0778,Pari Chawla,Pari.Chawla591@Techcorp.Com,Kolkata,2025-10-28,Consumer
+CUST0779,Saanvi Das,Saanvi.Das409@Outlook.Com,Delhi,2025-03-15,Consumer
+CUST0780,Ananya Nair,Ananya.Nair639@Outlook.Com,Chennai,2025-05-08,Consumer
+CUST0781,Angel Patel,Angel.Patel304@Outlook.Com,Mumbai,2025-09-27,Home Office
+CUST0782,Aditya Das,Aditya.Das107@Techcorp.Com,Chennai,2025-10-22,Consumer
+CUST0783,Diya Gupta,Diya.Gupta677@Outlook.Com,Jaipur,2025-09-24,Corporate
+CUST0784,Krishna Sen,Krishna.Sen537@Hotmail.Com,Jaipur,2026-01-25,Consumer
+CUST0785,Anika Patel,Anika.Patel686@Foodie.Io,Pune,2025-10-27,Home Office
+CUST0786,Aadhya Das,Aadhya.Das754@Foodie.Io,Mumbai,2025-02-09,Consumer
+CUST0787,Ishaan Chawla,Ishaan.Chawla430@Outlook.Com,Delhi,2024-10-17,Consumer
+CUST0788,Sai Rao,Sai.Rao713@Techcorp.Com,Hyderabad,2025-06-08,Consumer
+CUST0789,Ishaan Bhat,Ishaan.Bhat507@Techcorp.Com,Kolkata,2025-05-22,Home Office
+CUST0790,Aarav Rao,Aarav.Rao818@Outlook.Com,Jaipur,2026-01-29,Home Office
+CUST0791,Aarav Verma,Aarav.Verma890@Gmail.Com,Chennai,2024-11-19,Corporate
+CUST0792,Diya Gupta,Diya.Gupta416@Foodie.Io,Bangalore,2025-11-29,Consumer
+CUST0793,Myra Saxena,Myra.Saxena267@Hotmail.Com,Delhi,2025-11-27,Home Office
+CUST0794,Myra Iyer,Myra.Iyer835@Foodie.Io,Hyderabad,2025-05-21,Consumer
+CUST0795,Pari Chawla,Pari.Chawla270@Techcorp.Com,Mumbai,2025-03-13,Home Office
+CUST0796,Aadhya Kapoor,Aadhya.Kapoor709@Yahoo.Com,Ahmedabad,2026-03-02,Corporate
+CUST0797,Riya Verma,Riya.Verma871@Foodie.Io,Mumbai,2024-09-09,Consumer
+CUST0798,Diya Mehta,Diya.Mehta557@Yahoo.Com,Pune,2025-06-26,Consumer
+CUST0799,Krishna Singh,Krishna.Singh102@Yahoo.Com,Ahmedabad,2025-12-25,Consumer
+CUST0800,Aadhya Verma,Aadhya.Verma290@Gmail.Com,Pune,2025-04-02,Home Office
+CUST0801,Vihaan Nair,Vihaan.Nair725@Outlook.Com,Jaipur,2026-05-22,Corporate
+CUST0802,Ananya Bhat,Ananya.Bhat721@Gmail.Com,Mumbai,2024-10-10,Home Office
+CUST0803,Aarav Iyer,Aarav.Iyer214@Foodie.Io,Ahmedabad,2025-09-10,Home Office
+CUST0804,Arjun Sen,Arjun.Sen712@Hotmail.Com,Chennai,2025-04-22,Corporate
+CUST0805,Myra Kulkarni,Myra.Kulkarni828@Outlook.Com,Hyderabad,2026-05-03,Corporate
+CUST0806,Myra Reddy,Myra.Reddy31@Gmail.Com,Jaipur,2024-10-04,Home Office
+CUST0807,Reyansh Rao,Reyansh.Rao728@Yahoo.Com,Mumbai,2025-06-13,Home Office
+CUST0808,Diya Nair,Diya.Nair979@Techcorp.Com,Delhi,2026-07-14,Home Office
+CUST0809,Anika Mehta,Anika.Mehta239@Foodie.Io,Hyderabad,2026-01-14,Corporate
+CUST0810,Reyansh Sen,Reyansh.Sen230@Outlook.Com,Hyderabad,2025-05-26,Consumer
+CUST0811,Krishna Reddy,Krishna.Reddy642@Hotmail.Com,Unknown City,2025-07-15,Home Office
+CUST0812,Arjun Kulkarni,Arjun.Kulkarni719@Hotmail.Com,Hyderabad,2025-07-01,Home Office
+CUST0813,Angel Verma,Angel.Verma63@Outlook.Com,Hyderabad,2025-04-02,Corporate
+CUST0814,Riya Verma,Riya.Verma15@Outlook.Com,Jaipur,2024-11-01,Corporate
+CUST0815,Angel Verma,Angel.Verma604@Yahoo.Com,Ahmedabad,2026-02-05,Home Office
+CUST0816,Aditya Kulkarni,Aditya.Kulkarni737@Techcorp.Com,Kolkata,2026-03-05,Corporate
+CUST0817,Krishna Deshmukh,Krishna.Deshmukh958@Hotmail.Com,Ahmedabad,2025-11-01,Home Office
+CUST0818,Aadhya Nair,Aadhya.Nair333@Foodie.Io,Pune,2026-02-24,Home Office
+CUST0819,Vivaan Patel,Vivaan.Patel162@Gmail.Com,Hyderabad,2026-01-22,Consumer
+CUST0820,Vihaan Kapoor,Vihaan.Kapoor51@Hotmail.Com,Chennai,2024-12-31,Corporate
+CUST0821,Arjun Mehta,Arjun.Mehta367@Gmail.Com,Hyderabad,2025-10-11,Consumer
+CUST0822,Myra Das,Myra.Das227@Techcorp.Com,Mumbai,2025-02-05,Home Office
+CUST0823,Anika Mehta,Anika.Mehta918@Outlook.Com,Mumbai,2025-10-10,Home Office
+CUST0824,Vihaan Kulkarni,Vihaan.Kulkarni167@Gmail.Com,Delhi,2025-04-13,Home Office
+CUST0825,Riya Sharma,Riya.Sharma347@Gmail.Com,Pune,2025-08-30,Home Office
+CUST0826,Arjun Patel,Arjun.Patel893@Gmail.Com,Ahmedabad,2025-09-01,Consumer
+CUST0827,Unknown Customer,Aditya.Iyer271@Yahoo.Com,Hyderabad,2025-06-15,Consumer
+CUST0828,Saanvi Singh,Saanvi.Singh672@Foodie.Io,Bangalore,2026-03-27,Corporate
+CUST0829,Ishaan Sen,Ishaan.Sen144@Outlook.Com,Delhi,2025-07-17,Home Office
+CUST0830,Krishna Das,Krishna.Das624@Hotmail.Com,Delhi,2025-05-22,Corporate
+CUST0831,Vivaan Saxena,Vivaan.Saxena359@Hotmail.Com,Hyderabad,2024-10-03,Home Office
+CUST0832,Navya Gupta,Navya.Gupta307@Hotmail.Com,Kolkata,2026-05-08,Corporate
+CUST0833,Ishaan Reddy,Ishaan.Reddy545@Hotmail.Com,Ahmedabad,2024-12-23,Consumer
+CUST0834,Navya Chawla,Navya.Chawla432@Gmail.Com,Pune,2024-09-20,Home Office
+CUST0835,Aditya Saxena,Aditya.Saxena26@Gmail.Com,Pune,2026-01-26,Consumer
+CUST0836,Ishaan Kulkarni,Ishaan.Kulkarni611@Foodie.Io,Pune,2024-09-10,Corporate
+CUST0837,Sai Patel,no_email@example.com,Ahmedabad,2024-09-07,Consumer
+CUST0838,Aarav Nair,Aarav.Nair681@Hotmail.Com,Pune,2025-06-09,Home Office
+CUST0839,Riya Sen,no_email@example.com,Kolkata,2025-09-22,Consumer
+CUST0840,Aarav Patel,Aarav.Patel889@Gmail.Com,Hyderabad,2025-03-23,Home Office
+CUST0841,Angel Patel,Angel.Patel98@Outlook.Com,Pune,2026-02-27,Corporate
+CUST0842,Pari Kapoor,Pari.Kapoor492@Gmail.Com,Pune,2024-12-06,Consumer
+CUST0843,Vivaan Kulkarni,Vivaan.Kulkarni18@Gmail.Com,Kolkata,2025-05-29,Corporate
+CUST0844,Ishaan Verma,Ishaan.Verma509@Hotmail.Com,Pune,2025-02-18,Home Office
+CUST0845,Anika Reddy,Anika.Reddy741@Gmail.Com,Jaipur,2026-07-09,Corporate
+CUST0846,Aadhya Kapoor,Aadhya.Kapoor129@Hotmail.Com,Chennai,2025-04-25,Home Office
+CUST0847,Anika Deshmukh,Anika.Deshmukh458@Yahoo.Com,Jaipur,2025-12-16,Home Office
+CUST0848,Pari Joshi,Pari.Joshi914@Outlook.Com,Kolkata,2025-05-28,Home Office
+CUST0849,Sai Sen,Sai.Sen222@Outlook.Com,Delhi,2024-09-13,Corporate
+CUST0850,Vihaan Chawla,Vihaan.Chawla975@Hotmail.Com,Ahmedabad,2025-11-30,Consumer
+CUST0851,Krishna Deshmukh,Krishna.Deshmukh703@Yahoo.Com,Bangalore,2025-02-28,Consumer
+CUST0852,Ayaan Mehta,Ayaan.Mehta585@Yahoo.Com,Pune,2025-11-06,Corporate
+CUST0853,Angel Rao,Angel.Rao927@Yahoo.Com,Jaipur,2024-11-17,Home Office
+CUST0854,Pari Mehta,Pari.Mehta118@Techcorp.Com,Delhi,2024-12-30,Consumer
+CUST0855,Reyansh Deshmukh,Reyansh.Deshmukh170@Foodie.Io,Ahmedabad,2025-05-02,Home Office
+CUST0856,Diya Kulkarni,Diya.Kulkarni848@Yahoo.Com,Unknown City,2026-01-03,Corporate
+CUST0857,Anika Kulkarni,Anika.Kulkarni303@Techcorp.Com,Bangalore,2026-05-02,Corporate
+CUST0858,Ayaan Joshi,Ayaan.Joshi781@Techcorp.Com,Kolkata,2025-12-07,Consumer
+CUST0859,Pari Saxena,no_email@example.com,Chennai,2026-06-28,Corporate
+CUST0860,Aditya Gupta,Aditya.Gupta356@Outlook.Com,Kolkata,2026-02-10,Corporate
+CUST0861,Arjun Das,Arjun.Das69@Foodie.Io,Jaipur,2025-09-29,Corporate
+CUST0862,Ishaan Kulkarni,Ishaan.Kulkarni941@Outlook.Com,Mumbai,2025-10-15,Home Office
+CUST0863,Reyansh Choudhury,Reyansh.Choudhury649@Techcorp.Com,Pune,2025-08-09,Home Office
+CUST0864,Vivaan Choudhury,Vivaan.Choudhury352@Hotmail.Com,Bangalore,2025-02-11,Home Office
+CUST0865,Navya Kulkarni,Navya.Kulkarni785@Foodie.Io,Bangalore,2026-07-05,Consumer
+CUST0866,Ishaan Chawla,Ishaan.Chawla527@Gmail.Com,Mumbai,2025-07-12,Corporate
+CUST0867,Vihaan Bhat,Vihaan.Bhat315@Techcorp.Com,Mumbai,2025-04-20,Corporate
+CUST0868,Myra Choudhury,Myra.Choudhury874@Techcorp.Com,Hyderabad,2025-08-04,Corporate
+CUST0869,Arjun Iyer,Arjun.Iyer542@Foodie.Io,Hyderabad,2026-04-12,Corporate
+CUST0870,Pari Mehta,Pari.Mehta160@Foodie.Io,Kolkata,2025-06-02,Consumer
+CUST0871,Reyansh Bhat,Reyansh.Bhat89@Outlook.Com,Jaipur,2025-06-11,Home Office
+CUST0872,Myra Kapoor,Myra.Kapoor661@Hotmail.Com,Pune,2025-03-14,Home Office
+CUST0873,Arjun Kapoor,Arjun.Kapoor738@Hotmail.Com,Bangalore,2025-02-18,Home Office
+CUST0874,Sai Choudhury,Sai.Choudhury388@Gmail.Com,Kolkata,2026-04-07,Consumer
+CUST0875,Unknown Customer,Vihaan.Deshmukh322@Outlook.Com,Ahmedabad,2025-09-30,Corporate
+CUST0876,Aadhya Verma,Aadhya.Verma969@Outlook.Com,Ahmedabad,2025-12-20,Consumer
+CUST0877,Diya Gupta,Diya.Gupta901@Gmail.Com,Kolkata,2025-03-23,Home Office
+CUST0878,Saanvi Kapoor,Saanvi.Kapoor864@Foodie.Io,Bangalore,2026-03-09,Home Office
+CUST0879,Arjun Kulkarni,Arjun.Kulkarni101@Techcorp.Com,Kolkata,2025-06-27,Consumer
+CUST0880,Pari Rao,Pari.Rao671@Gmail.Com,Bangalore,2026-07-03,Home Office
+CUST0881,Vihaan Choudhury,Vihaan.Choudhury97@Yahoo.Com,Jaipur,2024-12-15,Consumer
+CUST0882,Navya Sharma,Navya.Sharma133@Foodie.Io,Jaipur,2026-01-25,Consumer
+CUST0883,Unknown Customer,Myra.Bhat96@Techcorp.Com,Unknown City,2025-06-12,Home Office
+CUST0884,Aadhya Nair,Aadhya.Nair434@Gmail.Com,Jaipur,2025-09-07,Corporate
+CUST0885,Sai Singh,cust0885@example.com,Ahmedabad,2026-04-28,Consumer
+CUST0886,Riya Kulkarni,Riya.Kulkarni195@Gmail.Com,Mumbai,2025-09-26,Corporate
+CUST0887,Krishna Iyer,Krishna.Iyer974@Gmail.Com,Mumbai,2026-01-02,Consumer
+CUST0888,Navya Iyer,Navya.Iyer982@Gmail.Com,Ahmedabad,2026-05-27,Corporate
+CUST0889,Aadhya Reddy,Aadhya.Reddy945@Gmail.Com,Ahmedabad,2025-01-07,Home Office
+CUST0890,Arjun Singh,Arjun.Singh591@Hotmail.Com,Pune,2026-05-04,Home Office
+CUST0891,Angel Nair,no_email@example.com,Jaipur,2025-05-21,Home Office
+CUST0892,Riya Singh,Riya.Singh678@Yahoo.Com,Mumbai,2026-05-28,Corporate
+CUST0893,Diya Patel,Diya.Patel609@Techcorp.Com,Ahmedabad,2026-06-12,Consumer
+CUST0894,Saanvi Mehta,Saanvi.Mehta860@Yahoo.Com,Jaipur,2025-10-15,Corporate
+CUST0895,Ananya Rao,cust0895@example.com,Pune,2025-10-22,Consumer
+CUST0896,Riya Kulkarni,no_email@example.com,Unknown City,2024-10-05,Consumer
+CUST0897,Sai Chawla,Sai.Chawla579@Foodie.Io,Pune,2025-06-21,Home Office
+CUST0898,Angel Sharma,Angel.Sharma923@Foodie.Io,Pune,2024-09-08,Consumer
+CUST0899,Diya Iyer,Diya.Iyer191@Foodie.Io,Unknown City,2026-03-23,Corporate
+CUST0900,Aarav Rao,Aarav.Rao706@Foodie.Io,Chennai,2026-01-13,Consumer
+CUST0901,Ayaan Reddy,cust0901@example.com,Mumbai,2025-10-14,Corporate
+CUST0902,Reyansh Iyer,Reyansh.Iyer123@Outlook.Com,Jaipur,2025-03-10,Consumer
+CUST0903,Riya Das,Riya.Das189@Gmail.Com,Bangalore,2026-05-23,Consumer
+CUST0904,Navya Rao,Navya.Rao206@Foodie.Io,Mumbai,2025-01-29,Home Office
+CUST0905,Aadhya Verma,Aadhya.Verma884@Outlook.Com,Kolkata,2025-06-07,Corporate
+CUST0906,Navya Verma,Navya.Verma915@Foodie.Io,Hyderabad,2026-06-10,Corporate
+CUST0907,Saanvi Patel,Saanvi.Patel352@Gmail.Com,Mumbai,2025-12-09,Home Office
+CUST0908,Sai Kulkarni,no_email@example.com,Delhi,2026-06-30,Corporate
+CUST0909,Ananya Rao,Ananya.Rao263@Gmail.Com,Pune,2025-11-26,Corporate
+CUST0910,Ayaan Gupta,Ayaan.Gupta804@Techcorp.Com,Pune,2026-04-22,Home Office
+CUST0911,Vivaan Iyer,Vivaan.Iyer330@Foodie.Io,Delhi,2026-03-20,Consumer
+CUST0912,Aadhya Gupta,Aadhya.Gupta114@Foodie.Io,Mumbai,2025-01-02,Consumer
+CUST0913,Aadhya Reddy,Aadhya.Reddy895@Techcorp.Com,Mumbai,2025-04-20,Corporate
+CUST0914,Vihaan Kulkarni,Vihaan.Kulkarni676@Foodie.Io,Mumbai,2025-04-20,Home Office
+CUST0915,Riya Gupta,Riya.Gupta617@Yahoo.Com,Bangalore,2024-10-14,Home Office
+CUST0916,Pari Nair,Pari.Nair258@Yahoo.Com,Mumbai,2026-05-28,Consumer
+CUST0917,Diya Singh,Diya.Singh607@Techcorp.Com,Bangalore,2026-02-28,Corporate
+CUST0918,Aarav Saxena,Aarav.Saxena610@Foodie.Io,Bangalore,2026-05-31,Consumer
+CUST0919,Aadhya Deshmukh,Aadhya.Deshmukh210@Yahoo.Com,Hyderabad,2026-05-19,Corporate
+CUST0920,Pari Sen,Pari.Sen719@Outlook.Com,Chennai,2024-11-05,Corporate
+CUST0921,Vivaan Kapoor,Vivaan.Kapoor234@Gmail.Com,Hyderabad,2025-12-05,Corporate
+CUST0922,Unknown Customer,Ananya.Iyer220@Hotmail.Com,Bangalore,2026-07-22,Corporate
+CUST0923,Arjun Singh,Arjun.Singh460@Yahoo.Com,Chennai,2026-06-14,Consumer
+CUST0924,Unknown Customer,Krishna.Nair357@Techcorp.Com,Hyderabad,2026-01-27,Consumer
+CUST0925,Aarav Joshi,cust0925@example.com,Delhi,2025-08-16,Consumer
+CUST0926,Sai Saxena,cust0926@example.com,Kolkata,2026-05-23,Consumer
+CUST0927,Reyansh Choudhury,Reyansh.Choudhury397@Foodie.Io,Chennai,2025-09-06,Home Office
+CUST0928,Riya Das,Riya.Das203@Techcorp.Com,Ahmedabad,2026-02-26,Corporate
+CUST0929,Arjun Saxena,Arjun.Saxena608@Hotmail.Com,Hyderabad,2026-05-06,Corporate
+CUST0930,Saanvi Saxena,Saanvi.Saxena393@Hotmail.Com,Jaipur,2025-04-09,Consumer
+CUST0931,Anika Kapoor,Anika.Kapoor284@Techcorp.Com,Kolkata,2024-10-13,Home Office
+CUST0932,Pari Reddy,Pari.Reddy415@Yahoo.Com,Ahmedabad,2025-05-19,Corporate
+CUST0933,Angel Gupta,Angel.Gupta147@Gmail.Com,Ahmedabad,2025-04-29,Home Office
+CUST0934,Riya Kulkarni,Riya.Kulkarni446@Hotmail.Com,Pune,2025-05-12,Corporate
+CUST0935,Aarav Nair,Aarav.Nair462@Yahoo.Com,Ahmedabad,2024-10-06,Consumer
+CUST0936,Navya Choudhury,Navya.Choudhury669@Gmail.Com,Ahmedabad,2025-12-07,Consumer
+CUST0937,Ananya Patel,Ananya.Patel701@Outlook.Com,Ahmedabad,2025-09-22,Home Office
+CUST0938,Riya Joshi,Riya.Joshi885@Foodie.Io,Jaipur,2025-11-03,Consumer
+CUST0939,Saanvi Iyer,Saanvi.Iyer851@Techcorp.Com,Mumbai,2025-04-01,Home Office
+CUST0940,Saanvi Reddy,Saanvi.Reddy242@Foodie.Io,Hyderabad,2025-03-30,Consumer
+CUST0941,Pari Kulkarni,Pari.Kulkarni820@Gmail.Com,Chennai,2026-01-17,Corporate
+CUST0942,Pari Choudhury,Pari.Choudhury40@Outlook.Com,Bangalore,2024-12-14,Consumer
+CUST0943,Diya Kulkarni,Diya.Kulkarni240@Hotmail.Com,Unknown City,2025-06-10,Home Office
+CUST0944,Vivaan Joshi,Vivaan.Joshi167@Outlook.Com,Kolkata,2025-07-03,Consumer
+CUST0945,Anika Mehta,Anika.Mehta346@Techcorp.Com,Pune,2024-10-12,Corporate
+CUST0946,Vivaan Sen,Vivaan.Sen510@Gmail.Com,Bangalore,2026-01-06,Consumer
+CUST0947,Unknown Customer,Ishaan.Saxena81@Hotmail.Com,Mumbai,2025-07-16,Home Office
+CUST0948,Saanvi Nair,Saanvi.Nair123@Yahoo.Com,Jaipur,2025-05-26,Corporate
+CUST0949,Reyansh Joshi,Reyansh.Joshi901@Yahoo.Com,Ahmedabad,2025-05-12,Home Office
+CUST0950,Unknown Customer,Ishaan.Das217@Techcorp.Com,Pune,2025-10-19,Consumer
+CUST0951,Saanvi Sen,Saanvi.Sen836@Yahoo.Com,Jaipur,2025-08-26,Home Office
+CUST0952,Aditya Singh,Aditya.Singh671@Hotmail.Com,Chennai,2025-09-27,Corporate
+CUST0953,Ayaan Nair,Ayaan.Nair931@Techcorp.Com,Kolkata,2025-04-16,Corporate
+CUST0954,Saanvi Verma,Saanvi.Verma255@Yahoo.Com,Ahmedabad,2024-10-23,Home Office
+CUST0955,Reyansh Kapoor,Reyansh.Kapoor431@Techcorp.Com,Delhi,2025-07-16,Consumer
+CUST0956,Aadhya Bhat,Aadhya.Bhat178@Outlook.Com,Hyderabad,2025-02-25,Consumer
+CUST0957,Unknown Customer,Pari.Iyer361@Foodie.Io,Kolkata,2026-01-10,Corporate
+CUST0958,Arjun Kulkarni,Arjun.Kulkarni696@Foodie.Io,Pune,2025-03-19,Corporate
+CUST0959,Pari Joshi,Pari.Joshi492@Outlook.Com,Bangalore,2026-02-04,Consumer
+CUST0960,Saanvi Nair,Saanvi.Nair89@Foodie.Io,Mumbai,2025-10-22,Consumer
+CUST0961,Angel Patel,Angel.Patel462@Foodie.Io,Mumbai,2024-10-16,Home Office
+CUST0962,Saanvi Singh,Saanvi.Singh464@Gmail.Com,Mumbai,2026-06-09,Corporate
+CUST0963,Ayaan Patel,Ayaan.Patel103@Gmail.Com,Kolkata,2026-06-30,Consumer
+CUST0964,Ayaan Mehta,Ayaan.Mehta826@Foodie.Io,Bangalore,2026-02-07,Consumer
+CUST0965,Angel Patel,Angel.Patel649@Yahoo.Com,Jaipur,2025-06-19,Corporate
+CUST0966,Sai Sharma,Sai.Sharma421@Foodie.Io,Chennai,2026-07-16,Corporate
+CUST0967,Krishna Sen,Krishna.Sen387@Gmail.Com,Delhi,2025-12-17,Corporate
+CUST0968,Vihaan Choudhury,Vihaan.Choudhury820@Techcorp.Com,Bangalore,2025-11-13,Consumer
+CUST0969,Arjun Kulkarni,no_email@example.com,Chennai,2024-09-14,Corporate
+CUST0970,Pari Iyer,no_email@example.com,Unknown City,2025-02-28,Home Office
+CUST0971,Vihaan Singh,Vihaan.Singh252@Foodie.Io,Kolkata,2025-11-21,Home Office
+CUST0972,Reyansh Joshi,Reyansh.Joshi394@Yahoo.Com,Mumbai,2025-11-27,Home Office
+CUST0973,Ananya Joshi,Ananya.Joshi294@Outlook.Com,Unknown City,2025-02-10,Corporate
+CUST0974,Ananya Kulkarni,Ananya.Kulkarni258@Yahoo.Com,Jaipur,2026-06-03,Home Office
+CUST0975,Ayaan Sen,no_email@example.com,Jaipur,2025-09-02,Consumer
+CUST0976,Aditya Patel,Aditya.Patel63@Foodie.Io,Bangalore,2025-12-31,Consumer
+CUST0977,Reyansh Reddy,Reyansh.Reddy529@Gmail.Com,Kolkata,2025-04-06,Corporate
+CUST0978,Riya Reddy,Riya.Reddy320@Outlook.Com,Pune,2024-10-16,Consumer
+CUST0979,Diya Iyer,Diya.Iyer396@Yahoo.Com,Pune,2025-05-03,Corporate
+CUST0980,Anika Sharma,Anika.Sharma790@Hotmail.Com,Kolkata,2026-05-04,Corporate
+CUST0981,Krishna Iyer,Krishna.Iyer484@Outlook.Com,Pune,2025-10-11,Corporate
+CUST0982,Anika Patel,Anika.Patel168@Yahoo.Com,Mumbai,2026-07-15,Home Office
+CUST0983,Aadhya Iyer,Aadhya.Iyer770@Outlook.Com,Kolkata,2025-03-14,Corporate
+CUST0984,Vivaan Mehta,Vivaan.Mehta404@Techcorp.Com,Bangalore,2026-01-11,Corporate
+CUST0985,Diya Saxena,Diya.Saxena736@Hotmail.Com,Chennai,2026-05-30,Home Office
+CUST0986,Anika Verma,Anika.Verma953@Outlook.Com,Mumbai,2024-09-15,Home Office
+CUST0987,Arjun Rao,Arjun.Rao263@Techcorp.Com,Bangalore,2026-07-16,Consumer
+CUST0988,Saanvi Das,Saanvi.Das932@Gmail.Com,Jaipur,2026-01-16,Corporate
+CUST0989,Navya Choudhury,Navya.Choudhury684@Hotmail.Com,Ahmedabad,2025-06-02,Home Office
+CUST0990,Diya Joshi,Diya.Joshi285@Foodie.Io,Hyderabad,2025-06-16,Home Office
+CUST0991,Aarav Mehta,Aarav.Mehta81@Foodie.Io,Kolkata,2025-02-06,Corporate
+CUST0992,Diya Nair,Diya.Nair730@Yahoo.Com,Hyderabad,2025-03-17,Consumer
+CUST0993,Reyansh Nair,Reyansh.Nair215@Gmail.Com,Bangalore,2026-01-13,Corporate
+CUST0994,Riya Mehta,Riya.Mehta899@Foodie.Io,Bangalore,2026-05-08,Corporate
+CUST0995,Unknown Customer,Aarav.Das250@Hotmail.Com,Pune,2024-09-08,Consumer
+CUST0996,Myra Verma,Myra.Verma109@Yahoo.Com,Jaipur,2026-07-21,Corporate
+CUST0997,Anika Kapoor,Anika.Kapoor785@Outlook.Com,Kolkata,2025-08-18,Corporate
+CUST0998,Ayaan Deshmukh,Ayaan.Deshmukh691@Hotmail.Com,Kolkata,2024-11-10,Consumer
+CUST0999,Aarav Bhat,Aarav.Bhat901@Foodie.Io,Kolkata,2026-03-08,Consumer
+CUST1000,Ayaan Deshmukh,no_email@example.com,Pune,2025-02-16,Corporate

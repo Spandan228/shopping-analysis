@@ -1,0 +1,984 @@
+customer_id,name,city,recency_days,frequency,monetary,rfm_score,rfm_segment
+CUST0116,Unknown Customer,Mumbai,27,9,17847.44,444,Champions / VIP
+CUST0464,Aadhya Mehta,Kolkata,135,9,15947.61,244,At Risk
+CUST0143,Sai Deshmukh,Chennai,51,10,14969.09,344,Champions / VIP
+CUST0424,Arjun Gupta,Delhi,59,10,14571.99,344,Champions / VIP
+CUST0966,Sai Sharma,Chennai,2,10,14080.28,444,Champions / VIP
+CUST0184,Krishna Gupta,Delhi,53,10,13490.45,344,Champions / VIP
+CUST0317,Ishaan Nair,Delhi,77,9,13461.3,344,Champions / VIP
+CUST0400,Krishna Chawla,Chennai,0,9,13408.35,444,Champions / VIP
+CUST0570,Pari Bhat,Mumbai,45,7,13086.31,344,Champions / VIP
+CUST0415,Arjun Mehta,Ahmedabad,60,9,12972.47,344,Champions / VIP
+CUST0834,Navya Chawla,Pune,32,8,12561.51,444,Champions / VIP
+CUST0888,Navya Iyer,Ahmedabad,4,9,12509.17,444,Champions / VIP
+CUST0663,Ananya Choudhury,Pune,18,9,12347.36,444,Champions / VIP
+CUST0881,Vihaan Choudhury,Jaipur,11,8,12125.11,444,Champions / VIP
+CUST0598,Aarav Kulkarni,Kolkata,53,8,12108.33,344,Champions / VIP
+CUST0638,Reyansh Choudhury,Chennai,16,7,11993.1,444,Champions / VIP
+CUST0413,Anika Iyer,Jaipur,60,9,11913.74,344,Champions / VIP
+CUST0341,Riya Reddy,Pune,27,8,11856.32,444,Champions / VIP
+CUST0553,Ayaan Sharma,Pune,187,6,11769.47,144,At Risk
+CUST0503,Sai Mehta,Kolkata,79,7,11736.84,344,Champions / VIP
+CUST0158,Unknown Customer,Jaipur,22,9,11616.11,444,Champions / VIP
+CUST0927,Reyansh Choudhury,Chennai,53,6,11569.84,344,Champions / VIP
+CUST0208,Ishaan Choudhury,Kolkata,20,6,11568.63,444,Champions / VIP
+CUST0591,Vivaan Reddy,Ahmedabad,7,8,11502.15,444,Champions / VIP
+CUST0242,Vivaan Singh,Bangalore,154,7,11395.38,244,At Risk
+CUST0757,Sai Deshmukh,Bangalore,44,7,11314.19,344,Champions / VIP
+CUST0963,Ayaan Patel,Kolkata,159,6,11253.94,244,At Risk
+CUST0449,Unknown Customer,Mumbai,31,6,11106.08,444,Champions / VIP
+CUST0442,Reyansh Kulkarni,Mumbai,7,5,11007.45,444,Champions / VIP
+CUST0271,Angel Das,Bangalore,41,9,10993.07,344,Champions / VIP
+CUST0690,Aarav Verma,Chennai,21,7,10772.97,444,Champions / VIP
+CUST0866,Ishaan Chawla,Mumbai,64,8,10750.06,344,Champions / VIP
+CUST0039,Arjun Choudhury,Jaipur,176,5,10698.26,144,At Risk
+CUST0813,Angel Verma,Hyderabad,90,9,10698.18,244,At Risk
+CUST0002,Aditya Das,Mumbai,76,7,10614.77,344,Champions / VIP
+CUST0622,Riya Deshmukh,Pune,70,7,10508.81,344,Champions / VIP
+CUST0452,Angel Iyer,Ahmedabad,91,7,10450.53,244,At Risk
+CUST0350,Reyansh Kulkarni,Hyderabad,51,5,10191.84,344,Champions / VIP
+CUST0605,Navya Verma,Pune,111,6,10167.54,244,At Risk
+CUST0145,Reyansh Saxena,Kolkata,0,6,10166.08,444,Champions / VIP
+CUST0870,Pari Mehta,Kolkata,122,6,10133.31,244,At Risk
+CUST0275,Angel Iyer,Kolkata,15,6,10059.94,444,Champions / VIP
+CUST0112,Ishaan Choudhury,Pune,88,6,10050.25,244,At Risk
+CUST0782,Aditya Das,Chennai,34,6,10040.0,444,Champions / VIP
+CUST0046,Riya Saxena,Hyderabad,8,8,10020.47,444,Champions / VIP
+CUST0267,Riya Saxena,Ahmedabad,14,7,9950.21,444,Champions / VIP
+CUST0615,Aditya Sen,Hyderabad,44,7,9934.02,344,Champions / VIP
+CUST0959,Pari Joshi,Bangalore,25,7,9915.44,444,Champions / VIP
+CUST0631,Ananya Verma,Delhi,80,6,9883.55,344,Champions / VIP
+CUST0509,Aarav Gupta,Jaipur,1,7,9864.44,444,Champions / VIP
+CUST0036,Vihaan Choudhury,Ahmedabad,40,7,9797.77,344,Champions / VIP
+CUST0041,Unknown Customer,Bangalore,112,7,9796.67,244,At Risk
+CUST0079,Vihaan Choudhury,Bangalore,94,8,9796.07,244,At Risk
+CUST0383,Unknown Customer,Delhi,66,7,9726.01,344,Champions / VIP
+CUST0272,Saanvi Gupta,Hyderabad,45,6,9665.91,344,Champions / VIP
+CUST0793,Myra Saxena,Delhi,51,7,9634.26,344,Champions / VIP
+CUST0592,Diya Deshmukh,Hyderabad,11,7,9567.93,444,Champions / VIP
+CUST0689,Ayaan Kapoor,Jaipur,152,5,9536.22,244,At Risk
+CUST0052,Aarav Verma,Delhi,158,7,9505.48,244,At Risk
+CUST0055,Arjun Bhat,Jaipur,51,8,9476.27,344,Champions / VIP
+CUST0069,Saanvi Iyer,Hyderabad,124,8,9397.48,244,At Risk
+CUST0404,Riya Iyer,Bangalore,59,7,9376.33,344,Champions / VIP
+CUST0973,Ananya Joshi,Unknown City,45,6,9345.26,344,Champions / VIP
+CUST0991,Aarav Mehta,Kolkata,23,7,9334.67,444,Champions / VIP
+CUST0177,Sai Gupta,Delhi,16,9,9320.32,444,Champions / VIP
+CUST0725,Ishaan Patel,Hyderabad,63,6,9298.54,344,Champions / VIP
+CUST0355,Anika Sharma,Kolkata,128,8,9287.45,244,At Risk
+CUST0621,Navya Gupta,Ahmedabad,47,8,9221.79,344,Champions / VIP
+CUST0379,Sai Singh,Delhi,70,6,9188.15,344,Champions / VIP
+CUST0760,Myra Nair,Delhi,17,5,9140.52,444,Champions / VIP
+CUST0556,Saanvi Deshmukh,Ahmedabad,74,5,9127.95,344,Champions / VIP
+CUST0082,Vihaan Sharma,Pune,72,6,9088.06,344,Champions / VIP
+CUST0947,Unknown Customer,Mumbai,58,5,9081.31,344,Champions / VIP
+CUST0544,Angel Rao,Delhi,46,7,9044.56,344,Champions / VIP
+CUST0659,Saanvi Deshmukh,Kolkata,6,5,9010.88,444,Champions / VIP
+CUST0205,Riya Chawla,Chennai,90,8,9004.8,244,At Risk
+CUST0887,Krishna Iyer,Mumbai,23,9,8988.86,444,Champions / VIP
+CUST0061,Aadhya Choudhury,Jaipur,42,8,8977.43,344,Champions / VIP
+CUST0017,Diya Singh,Hyderabad,73,6,8963.82,344,Champions / VIP
+CUST0700,Diya Chawla,Hyderabad,32,6,8952.19,444,Champions / VIP
+CUST0548,Arjun Verma,Delhi,40,5,8929.66,344,Champions / VIP
+CUST0193,Ishaan Nair,Bangalore,35,8,8918.72,444,Champions / VIP
+CUST0474,Anika Kulkarni,Hyderabad,203,6,8906.74,144,At Risk
+CUST0653,Aadhya Deshmukh,Mumbai,47,6,8901.94,344,Champions / VIP
+CUST0299,Pari Sen,Ahmedabad,216,6,8873.5,144,At Risk
+CUST0130,Myra Kulkarni,Ahmedabad,41,6,8835.26,344,Champions / VIP
+CUST0937,Ananya Patel,Ahmedabad,74,6,8832.72,344,Champions / VIP
+CUST0171,Ayaan Bhat,Mumbai,20,6,8809.46,444,Champions / VIP
+CUST0510,Unknown Customer,Pune,13,6,8784.59,444,Champions / VIP
+CUST0003,Angel Chawla,Ahmedabad,76,6,8735.2,344,Champions / VIP
+CUST0437,Aditya Sen,Ahmedabad,26,5,8716.4,444,Champions / VIP
+CUST0462,Navya Deshmukh,Pune,57,5,8692.52,344,Champions / VIP
+CUST0289,Diya Nair,Mumbai,16,5,8654.41,444,Champions / VIP
+CUST0479,Aditya Sharma,Mumbai,149,9,8604.94,244,At Risk
+CUST0853,Angel Rao,Jaipur,41,5,8604.88,344,Champions / VIP
+CUST0487,Anika Sen,Bangalore,84,6,8429.91,344,Champions / VIP
+CUST0809,Anika Mehta,Hyderabad,5,5,8414.97,444,Champions / VIP
+CUST0445,Navya Iyer,Hyderabad,16,6,8408.19,444,Champions / VIP
+CUST0358,Angel Sharma,Chennai,102,6,8402.36,244,At Risk
+CUST0274,Riya Sen,Mumbai,22,5,8398.29,444,Champions / VIP
+CUST0907,Saanvi Patel,Mumbai,101,5,8397.22,244,At Risk
+CUST0507,Reyansh Verma,Jaipur,252,5,8386.12,144,At Risk
+CUST0123,Angel Joshi,Chennai,66,6,8382.49,344,Champions / VIP
+CUST0892,Riya Singh,Mumbai,32,7,8364.34,444,Champions / VIP
+CUST0043,Pari Deshmukh,Hyderabad,233,5,8296.36,144,At Risk
+CUST0323,Aadhya Sen,Hyderabad,25,6,8253.86,444,Champions / VIP
+CUST0034,Ayaan Deshmukh,Pune,76,6,8220.78,344,Champions / VIP
+CUST0113,Pari Singh,Pune,65,5,8220.52,344,Champions / VIP
+CUST0276,Krishna Joshi,Bangalore,12,7,8215.9,444,Champions / VIP
+CUST0643,Anika Reddy,Bangalore,135,4,8211.44,234,At Risk
+CUST0210,Angel Rao,Delhi,89,5,8185.22,244,At Risk
+CUST0481,Ishaan Joshi,Jaipur,71,5,8184.31,344,Champions / VIP
+CUST0904,Navya Rao,Mumbai,311,7,8177.35,144,At Risk
+CUST0390,Vivaan Iyer,Hyderabad,44,5,8160.85,344,Champions / VIP
+CUST0187,Aditya Iyer,Bangalore,76,6,8143.6,344,Champions / VIP
+CUST0001,Vihaan Sharma,Hyderabad,108,7,8125.38,244,At Risk
+CUST0744,Vihaan Rao,Chennai,115,5,8123.25,244,At Risk
+CUST0397,Aditya Singh,Mumbai,88,7,8110.06,244,At Risk
+CUST0856,Diya Kulkarni,Unknown City,45,5,8106.68,344,Champions / VIP
+CUST0096,Aarav Choudhury,Mumbai,174,6,8098.67,244,At Risk
+CUST0877,Diya Gupta,Kolkata,14,7,8093.12,444,Champions / VIP
+CUST0229,Ananya Singh,Jaipur,18,6,8085.3,444,Champions / VIP
+CUST0435,Saanvi Iyer,Delhi,1,5,8077.17,444,Champions / VIP
+CUST0389,Myra Sen,Bangalore,256,6,8067.78,144,At Risk
+CUST0873,Arjun Kapoor,Bangalore,19,8,8046.78,444,Champions / VIP
+CUST0030,Aditya Sen,Hyderabad,3,8,8046.53,444,Champions / VIP
+CUST0387,Aarav Sen,Kolkata,96,7,8033.53,244,At Risk
+CUST0490,Sai Joshi,Mumbai,146,5,8027.43,244,At Risk
+CUST0280,Arjun Rao,Pune,157,6,8015.76,244,At Risk
+CUST0217,Ananya Chawla,Hyderabad,176,6,7989.5,144,At Risk
+CUST0620,Krishna Kulkarni,Jaipur,67,6,7980.0,344,Champions / VIP
+CUST0475,Pari Kulkarni,Ahmedabad,20,7,7976.37,444,Champions / VIP
+CUST0049,Saanvi Nair,Ahmedabad,6,5,7962.5,444,Champions / VIP
+CUST0091,Pari Gupta,Kolkata,276,4,7927.63,134,At Risk
+CUST0035,Navya Sharma,Ahmedabad,23,6,7910.26,444,Champions / VIP
+CUST0302,Pari Sen,Mumbai,74,4,7905.59,334,Champions / VIP
+CUST0737,Diya Iyer,Kolkata,97,4,7889.22,234,At Risk
+CUST0252,Aadhya Chawla,Kolkata,147,7,7882.78,244,At Risk
+CUST0018,Angel Joshi,Pune,42,6,7870.68,344,Champions / VIP
+CUST0508,Ayaan Sharma,Ahmedabad,51,7,7836.54,344,Champions / VIP
+CUST0482,Riya Nair,Bangalore,42,5,7834.33,344,Champions / VIP
+CUST0185,Vihaan Gupta,Ahmedabad,35,7,7833.01,444,Champions / VIP
+CUST0189,Pari Deshmukh,Delhi,70,6,7806.62,344,Champions / VIP
+CUST0681,Saanvi Nair,Delhi,13,6,7792.32,444,Champions / VIP
+CUST0826,Arjun Patel,Ahmedabad,6,9,7788.63,444,Champions / VIP
+CUST0546,Vihaan Singh,Pune,134,6,7760.41,244,At Risk
+CUST0578,Riya Das,Hyderabad,307,4,7734.02,134,At Risk
+CUST0829,Ishaan Sen,Delhi,49,6,7731.49,344,Champions / VIP
+CUST0655,Myra Iyer,Kolkata,189,7,7642.87,144,At Risk
+CUST0843,Vivaan Kulkarni,Kolkata,47,5,7637.22,344,Champions / VIP
+CUST0953,Ayaan Nair,Kolkata,40,5,7613.22,344,Champions / VIP
+CUST0347,Ananya Kulkarni,Hyderabad,19,4,7608.75,434,Champions / VIP
+CUST0351,Sai Sharma,Pune,69,6,7597.37,344,Champions / VIP
+CUST0068,Vihaan Nair,Delhi,104,5,7571.93,244,At Risk
+CUST0978,Riya Reddy,Pune,24,5,7569.92,444,Champions / VIP
+CUST0766,Saanvi Mehta,Pune,50,5,7552.97,344,Champions / VIP
+CUST0064,Krishna Iyer,Pune,21,5,7544.57,444,Champions / VIP
+CUST0164,Ananya Kapoor,Bangalore,42,8,7539.56,344,Champions / VIP
+CUST0759,Ishaan Nair,Mumbai,4,4,7513.06,434,Champions / VIP
+CUST0362,Diya Das,Chennai,201,5,7498.14,144,At Risk
+CUST0494,Vihaan Sharma,Jaipur,85,5,7488.86,244,At Risk
+CUST0518,Anika Sen,Mumbai,87,4,7488.28,234,At Risk
+CUST0066,Aditya Verma,Hyderabad,10,5,7472.83,444,Champions / VIP
+CUST0324,Diya Chawla,Hyderabad,18,5,7365.42,444,Champions / VIP
+CUST0608,Pari Gupta,Delhi,1,7,7336.32,444,Champions / VIP
+CUST0976,Aditya Patel,Bangalore,0,5,7327.66,444,Champions / VIP
+CUST0162,Riya Gupta,Kolkata,76,5,7326.45,344,Champions / VIP
+CUST0761,Aadhya Mehta,Delhi,87,4,7281.52,234,At Risk
+CUST0981,Krishna Iyer,Pune,108,5,7271.36,244,At Risk
+CUST0230,Krishna Patel,Chennai,129,5,7262.85,244,At Risk
+CUST0300,Ishaan Mehta,Bangalore,43,4,7176.4,334,Champions / VIP
+CUST0799,Krishna Singh,Ahmedabad,33,5,7173.57,444,Champions / VIP
+CUST0103,Saanvi Bhat,Hyderabad,9,6,7167.33,444,Champions / VIP
+CUST0488,Arjun Nair,Delhi,21,5,7160.05,444,Champions / VIP
+CUST0231,Ananya Singh,Hyderabad,14,5,7156.45,444,Champions / VIP
+CUST0357,Aditya Rao,Kolkata,113,6,7147.98,244,At Risk
+CUST0058,Ananya Choudhury,Bangalore,1,6,7146.28,444,Champions / VIP
+CUST0786,Aadhya Das,Mumbai,149,4,7102.0,234,At Risk
+CUST0806,Myra Reddy,Jaipur,73,5,7090.01,344,Champions / VIP
+CUST0297,Aditya Das,Bangalore,64,5,7084.14,344,Champions / VIP
+CUST0661,Anika Gupta,Jaipur,231,5,7083.13,144,At Risk
+CUST0724,Aarav Singh,Jaipur,112,4,7057.37,234,At Risk
+CUST0697,Saanvi Nair,Delhi,185,5,7038.4,144,At Risk
+CUST0827,Unknown Customer,Hyderabad,16,5,7031.47,444,Champions / VIP
+CUST0006,Myra Patel,Mumbai,22,5,7027.21,444,Champions / VIP
+CUST0489,Unknown Customer,Bangalore,7,5,7011.25,444,Champions / VIP
+CUST0664,Diya Singh,Mumbai,85,6,7009.57,244,At Risk
+CUST0223,Krishna Kapoor,Jaipur,174,5,7003.38,244,At Risk
+CUST0779,Saanvi Das,Delhi,12,4,6999.04,434,Champions / VIP
+CUST0216,Saanvi Joshi,Unknown City,77,6,6989.14,344,Champions / VIP
+CUST0688,Unknown Customer,Pune,92,5,6984.31,244,At Risk
+CUST0073,Pari Chawla,Ahmedabad,7,5,6968.56,444,Champions / VIP
+CUST0942,Pari Choudhury,Bangalore,23,6,6948.13,444,Champions / VIP
+CUST0119,Aditya Joshi,Kolkata,46,4,6919.04,334,Champions / VIP
+CUST0735,Myra Saxena,Hyderabad,111,5,6907.47,244,At Risk
+CUST0993,Reyansh Nair,Bangalore,45,7,6903.11,344,Champions / VIP
+CUST0062,Saanvi Kulkarni,Kolkata,89,4,6884.82,234,At Risk
+CUST0864,Vivaan Choudhury,Bangalore,167,4,6882.85,234,At Risk
+CUST0534,Aditya Patel,Delhi,22,5,6879.32,444,Champions / VIP
+CUST0871,Reyansh Bhat,Jaipur,32,3,6879.24,424,Loyal Customers
+CUST0466,Unknown Customer,Kolkata,29,6,6872.47,444,Champions / VIP
+CUST0567,Myra Deshmukh,Kolkata,148,5,6870.26,244,At Risk
+CUST0941,Pari Kulkarni,Chennai,60,6,6867.79,344,Champions / VIP
+CUST0288,Aadhya Choudhury,Jaipur,78,7,6867.25,344,Champions / VIP
+CUST0451,Angel Verma,Delhi,9,5,6866.64,444,Champions / VIP
+CUST0707,Reyansh Deshmukh,Chennai,14,4,6864.76,434,Champions / VIP
+CUST0825,Riya Sharma,Pune,145,4,6863.27,234,At Risk
+CUST0443,Unknown Customer,Mumbai,17,5,6858.2,444,Champions / VIP
+CUST0327,Navya Sharma,Bangalore,7,4,6857.9,434,Champions / VIP
+CUST0828,Saanvi Singh,Bangalore,93,4,6856.63,234,At Risk
+CUST0743,Anika Mehta,Ahmedabad,187,7,6843.62,144,At Risk
+CUST0711,Aadhya Das,Bangalore,200,4,6826.76,134,At Risk
+CUST0125,Reyansh Bhat,Chennai,69,5,6813.36,344,Champions / VIP
+CUST0371,Ananya Bhat,Hyderabad,92,4,6807.09,234,At Risk
+CUST0396,Anika Sen,Pune,31,7,6803.84,444,Champions / VIP
+CUST0958,Arjun Kulkarni,Pune,65,4,6801.76,334,Champions / VIP
+CUST0218,Vivaan Joshi,Jaipur,19,5,6799.46,444,Champions / VIP
+CUST0796,Aadhya Kapoor,Ahmedabad,73,4,6743.92,334,Champions / VIP
+CUST0584,Arjun Gupta,Mumbai,23,5,6716.2,444,Champions / VIP
+CUST0497,Saanvi Deshmukh,Delhi,19,5,6715.87,444,Champions / VIP
+CUST0840,Aarav Patel,Hyderabad,92,4,6714.55,234,At Risk
+CUST0176,Unknown Customer,Bangalore,2,6,6704.57,444,Champions / VIP
+CUST0581,Navya Reddy,Ahmedabad,5,5,6692.87,444,Champions / VIP
+CUST0398,Ayaan Patel,Kolkata,38,6,6680.98,344,Champions / VIP
+CUST0492,Anika Kapoor,Kolkata,18,3,6672.14,424,Loyal Customers
+CUST0774,Vivaan Iyer,Kolkata,150,6,6657.39,244,At Risk
+CUST0526,Angel Kulkarni,Ahmedabad,178,4,6648.65,134,At Risk
+CUST0886,Riya Kulkarni,Mumbai,58,6,6643.21,344,Champions / VIP
+CUST0054,Vihaan Chawla,Jaipur,188,5,6641.7,144,At Risk
+CUST0173,Unknown Customer,Pune,97,5,6637.11,244,At Risk
+CUST0257,Ayaan Sen,Kolkata,129,3,6636.59,224,Needs Attention
+CUST0095,Angel Verma,Chennai,53,5,6627.5,344,Champions / VIP
+CUST0751,Navya Choudhury,Delhi,2,4,6624.26,434,Champions / VIP
+CUST0204,Ananya Reddy,Ahmedabad,116,7,6603.74,244,At Risk
+CUST0195,Aditya Gupta,Pune,186,5,6588.69,144,At Risk
+CUST0233,Saanvi Reddy,Chennai,1,5,6550.17,444,Champions / VIP
+CUST0459,Diya Reddy,Chennai,21,5,6544.56,444,Champions / VIP
+CUST0360,Vivaan Kapoor,Hyderabad,171,5,6513.64,244,At Risk
+CUST0911,Vivaan Iyer,Delhi,197,4,6510.45,134,At Risk
+CUST0199,Ishaan Sen,Jaipur,42,5,6496.85,344,Champions / VIP
+CUST0484,Reyansh Saxena,Kolkata,37,7,6493.73,344,Champions / VIP
+CUST0192,Pari Gupta,Chennai,20,4,6451.61,434,Champions / VIP
+CUST0107,Angel Iyer,Pune,182,4,6434.09,134,At Risk
+CUST0811,Krishna Reddy,Unknown City,387,4,6424.28,134,At Risk
+CUST0754,Ishaan Joshi,Unknown City,165,5,6420.04,244,At Risk
+CUST0330,Riya Joshi,Ahmedabad,40,5,6419.69,343,Champions / VIP
+CUST0921,Vivaan Kapoor,Hyderabad,14,6,6394.86,443,Champions / VIP
+CUST0776,Saanvi Mehta,Chennai,335,4,6366.91,133,At Risk
+CUST0716,Ananya Saxena,Kolkata,29,5,6356.86,443,Champions / VIP
+CUST0680,Saanvi Kulkarni,Ahmedabad,31,4,6348.98,433,Champions / VIP
+CUST0014,Angel Rao,Chennai,24,6,6340.02,443,Champions / VIP
+CUST0718,Pari Sen,Chennai,23,4,6335.4,433,Champions / VIP
+CUST0512,Myra Rao,Kolkata,198,6,6333.34,143,At Risk
+CUST0803,Aarav Iyer,Ahmedabad,10,4,6312.44,433,Champions / VIP
+CUST0740,Ananya Gupta,Kolkata,23,5,6311.41,443,Champions / VIP
+CUST0575,Aditya Verma,Chennai,79,6,6299.22,343,Champions / VIP
+CUST0835,Aditya Saxena,Pune,191,5,6298.71,143,At Risk
+CUST0585,Unknown Customer,Ahmedabad,27,5,6295.25,443,Champions / VIP
+CUST0328,Anika Gupta,Delhi,29,5,6285.99,443,Champions / VIP
+CUST0408,Aadhya Kulkarni,Ahmedabad,12,5,6281.07,443,Champions / VIP
+CUST0885,Sai Singh,Ahmedabad,216,5,6280.53,143,At Risk
+CUST0983,Aadhya Iyer,Kolkata,126,4,6264.75,233,At Risk
+CUST0191,Krishna Bhat,Ahmedabad,3,5,6258.82,443,Champions / VIP
+CUST0842,Pari Kapoor,Pune,121,5,6254.22,243,At Risk
+CUST0197,Sai Joshi,Mumbai,22,4,6248.79,433,Champions / VIP
+CUST0306,Vivaan Bhat,Kolkata,126,4,6238.17,233,At Risk
+CUST0951,Saanvi Sen,Jaipur,113,6,6234.87,243,At Risk
+CUST0560,Angel Iyer,Pune,22,3,6223.81,423,Loyal Customers
+CUST0213,Riya Singh,Jaipur,70,6,6223.3,343,Champions / VIP
+CUST0588,Riya Rao,Mumbai,6,4,6219.7,433,Champions / VIP
+CUST0332,Ayaan Gupta,Delhi,36,5,6217.92,333,Champions / VIP
+CUST0812,Arjun Kulkarni,Hyderabad,113,3,6211.74,223,Needs Attention
+CUST0232,Navya Kulkarni,Unknown City,71,4,6207.41,333,Champions / VIP
+CUST0031,Vivaan Sen,Jaipur,60,4,6200.13,333,Champions / VIP
+CUST0636,Ishaan Sharma,Hyderabad,115,4,6160.47,233,At Risk
+CUST0929,Arjun Saxena,Hyderabad,25,5,6150.28,433,Champions / VIP
+CUST0554,Aditya Sen,Mumbai,316,3,6149.56,123,Needs Attention
+CUST0325,Riya Singh,Mumbai,58,3,6138.12,323,Loyal Customers
+CUST0728,Diya Singh,Bangalore,28,5,6133.88,433,Champions / VIP
+CUST0491,Saanvi Sen,Mumbai,59,5,6129.19,333,Champions / VIP
+CUST0151,Navya Gupta,Chennai,29,5,6127.98,433,Champions / VIP
+CUST0059,Aadhya Kulkarni,Kolkata,12,4,6123.6,433,Champions / VIP
+CUST0557,Anika Patel,Jaipur,29,5,6116.85,433,Champions / VIP
+CUST0798,Diya Mehta,Pune,18,5,6115.4,433,Champions / VIP
+CUST0597,Myra Nair,Jaipur,117,5,6112.66,233,At Risk
+CUST0359,Ananya Iyer,Mumbai,185,4,6104.51,133,At Risk
+CUST0882,Navya Sharma,Jaipur,31,4,6103.42,433,Champions / VIP
+CUST0251,Sai Chawla,Mumbai,95,5,6102.78,233,At Risk
+CUST0932,Pari Reddy,Ahmedabad,229,5,6099.97,133,At Risk
+CUST0243,Saanvi Bhat,Kolkata,0,5,6097.95,433,Champions / VIP
+CUST0446,Arjun Joshi,Jaipur,6,6,6086.4,443,Champions / VIP
+CUST0938,Riya Joshi,Jaipur,6,5,6078.12,433,Champions / VIP
+CUST0249,Ishaan Reddy,Chennai,24,5,6069.32,433,Champions / VIP
+CUST0256,Ananya Singh,Hyderabad,26,6,6036.97,443,Champions / VIP
+CUST0573,Myra Reddy,Ahmedabad,172,3,6012.9,223,Needs Attention
+CUST0810,Reyansh Sen,Hyderabad,1,5,6011.79,433,Champions / VIP
+CUST0672,Pari Iyer,Jaipur,56,5,6008.89,333,Champions / VIP
+CUST0805,Myra Kulkarni,Hyderabad,176,4,5984.42,133,At Risk
+CUST0874,Sai Choudhury,Kolkata,63,7,5983.84,343,Champions / VIP
+CUST0712,Navya Verma,Kolkata,152,5,5968.34,233,At Risk
+CUST0787,Ishaan Chawla,Delhi,14,3,5961.62,423,Loyal Customers
+CUST0601,Arjun Saxena,Pune,131,3,5947.09,223,Needs Attention
+CUST0378,Diya Sharma,Unknown City,32,4,5946.97,433,Champions / VIP
+CUST0425,Krishna Bhat,Bangalore,13,5,5924.39,433,Champions / VIP
+CUST0106,Arjun Gupta,Chennai,34,3,5917.98,423,Loyal Customers
+CUST0120,Vihaan Bhat,Ahmedabad,45,4,5897.06,333,Champions / VIP
+CUST0013,Saanvi Iyer,Jaipur,41,4,5886.73,333,Champions / VIP
+CUST0527,Sai Verma,Pune,155,4,5876.08,233,At Risk
+CUST0502,Ishaan Das,Kolkata,36,6,5875.17,343,Champions / VIP
+CUST0261,Ayaan Kapoor,Chennai,64,3,5872.99,323,Loyal Customers
+CUST0987,Arjun Rao,Bangalore,127,3,5863.02,223,Needs Attention
+CUST0625,Reyansh Singh,Ahmedabad,75,5,5851.75,333,Champions / VIP
+CUST0791,Aarav Verma,Chennai,94,4,5846.21,233,At Risk
+CUST0248,Ayaan Verma,Hyderabad,255,4,5841.48,133,At Risk
+CUST0844,Ishaan Verma,Pune,16,4,5833.58,433,Champions / VIP
+CUST0790,Aarav Rao,Jaipur,203,4,5827.46,133,At Risk
+CUST0505,Aditya Sen,Kolkata,97,5,5818.14,233,At Risk
+CUST0770,Navya Kapoor,Hyderabad,70,3,5815.03,323,Loyal Customers
+CUST0948,Saanvi Nair,Jaipur,316,5,5808.99,133,At Risk
+CUST0032,Saanvi Joshi,Unknown City,83,4,5799.96,333,Champions / VIP
+CUST0266,Ishaan Sharma,Kolkata,106,3,5789.93,223,Needs Attention
+CUST0530,Pari Gupta,Ahmedabad,249,4,5765.91,133,At Risk
+CUST0070,Ishaan Sen,Mumbai,16,3,5732.78,423,Loyal Customers
+CUST0869,Arjun Iyer,Hyderabad,79,4,5722.0,333,Champions / VIP
+CUST0198,Ayaan Deshmukh,Ahmedabad,49,5,5719.16,333,Champions / VIP
+CUST0763,Ishaan Bhat,Kolkata,247,6,5718.19,143,At Risk
+CUST0016,Arjun Deshmukh,Jaipur,44,5,5717.24,333,Champions / VIP
+CUST0260,Angel Das,Kolkata,57,6,5715.84,343,Champions / VIP
+CUST0132,Navya Singh,Mumbai,104,3,5713.73,223,Needs Attention
+CUST0982,Anika Patel,Mumbai,52,3,5710.72,323,Loyal Customers
+CUST0922,Unknown Customer,Bangalore,71,5,5705.55,333,Champions / VIP
+CUST0729,Arjun Nair,Mumbai,126,3,5683.38,223,Needs Attention
+CUST0753,Ananya Nair,Mumbai,29,5,5681.9,433,Champions / VIP
+CUST0023,Ayaan Kapoor,Hyderabad,5,5,5669.08,433,Champions / VIP
+CUST0576,Riya Sharma,Kolkata,121,4,5666.99,233,At Risk
+CUST0416,Navya Sen,Kolkata,115,4,5659.2,233,At Risk
+CUST0538,Angel Nair,Pune,44,6,5634.38,343,Champions / VIP
+CUST0060,Aarav Das,Mumbai,153,5,5629.89,233,At Risk
+CUST0279,Aarav Singh,Delhi,21,5,5626.81,433,Champions / VIP
+CUST0418,Unknown Customer,Ahmedabad,43,4,5623.65,333,Champions / VIP
+CUST0606,Vivaan Choudhury,Mumbai,3,5,5621.49,433,Champions / VIP
+CUST0975,Ayaan Sen,Jaipur,14,5,5621.04,433,Champions / VIP
+CUST0004,Ananya Mehta,Delhi,12,4,5619.88,433,Champions / VIP
+CUST0343,Aarav Iyer,Ahmedabad,228,4,5614.45,133,At Risk
+CUST0919,Aadhya Deshmukh,Hyderabad,63,5,5610.95,333,Champions / VIP
+CUST0665,Anika Das,Mumbai,418,3,5607.62,123,Needs Attention
+CUST0860,Aditya Gupta,Kolkata,130,4,5573.73,233,At Risk
+CUST0714,Aarav Kapoor,Bangalore,244,4,5573.13,133,At Risk
+CUST0733,Arjun Das,Chennai,7,3,5564.39,423,Loyal Customers
+CUST0133,Pari Gupta,Chennai,33,4,5537.3,433,Champions / VIP
+CUST0025,Sai Rao,Delhi,104,6,5527.69,243,At Risk
+CUST0081,Arjun Rao,Jaipur,18,4,5516.95,433,Champions / VIP
+CUST0033,Riya Das,Jaipur,9,6,5513.33,443,Champions / VIP
+CUST0974,Ananya Kulkarni,Jaipur,74,3,5511.61,323,Loyal Customers
+CUST0170,Navya Mehta,Bangalore,21,4,5503.89,433,Champions / VIP
+CUST0568,Sai Choudhury,Chennai,57,4,5497.47,333,Champions / VIP
+CUST0342,Aarav Chawla,Jaipur,39,3,5496.03,323,Loyal Customers
+CUST0954,Saanvi Verma,Ahmedabad,47,4,5488.79,333,Champions / VIP
+CUST0989,Navya Choudhury,Ahmedabad,143,4,5476.31,233,At Risk
+CUST0525,Arjun Kapoor,Bangalore,4,4,5472.45,433,Champions / VIP
+CUST0848,Pari Joshi,Kolkata,168,4,5455.67,233,At Risk
+CUST0029,Vivaan Verma,Jaipur,129,4,5455.35,233,At Risk
+CUST0656,Arjun Patel,Chennai,19,5,5452.71,433,Champions / VIP
+CUST0053,Unknown Customer,Bangalore,16,7,5450.74,443,Champions / VIP
+CUST0264,Arjun Sharma,Pune,49,4,5414.53,333,Champions / VIP
+CUST0254,Reyansh Kulkarni,Pune,161,5,5414.15,233,At Risk
+CUST0808,Diya Nair,Delhi,275,5,5408.69,133,At Risk
+CUST0780,Ananya Nair,Chennai,31,6,5408.19,443,Champions / VIP
+CUST0971,Vihaan Singh,Kolkata,26,3,5401.72,423,Loyal Customers
+CUST0764,Anika Deshmukh,Pune,40,4,5386.22,333,Champions / VIP
+CUST0702,Anika Kapoor,Mumbai,152,4,5381.3,233,At Risk
+CUST0521,Vihaan Saxena,Mumbai,34,5,5378.55,433,Champions / VIP
+CUST0569,Aadhya Kulkarni,Jaipur,92,4,5353.2,233,At Risk
+CUST0532,Ishaan Rao,Kolkata,6,6,5344.81,443,Champions / VIP
+CUST0167,Ishaan Bhat,Hyderabad,197,4,5337.13,133,At Risk
+CUST0085,Navya Iyer,Ahmedabad,174,5,5336.84,233,At Risk
+CUST0281,Aditya Deshmukh,Pune,134,4,5335.94,233,At Risk
+CUST0670,Diya Verma,Delhi,56,5,5306.07,333,Champions / VIP
+CUST0172,Aditya Deshmukh,Chennai,220,4,5294.4,133,At Risk
+CUST0486,Myra Gupta,Kolkata,166,4,5292.87,233,At Risk
+CUST0285,Myra Patel,Bangalore,71,4,5290.43,333,Champions / VIP
+CUST0792,Diya Gupta,Bangalore,202,4,5282.77,133,At Risk
+CUST0244,Diya Mehta,Unknown City,114,5,5281.03,233,At Risk
+CUST0668,Ayaan Kapoor,Mumbai,103,7,5280.72,243,At Risk
+CUST0967,Krishna Sen,Delhi,22,5,5272.65,433,Champions / VIP
+CUST0015,Krishna Saxena,Jaipur,25,4,5272.64,433,Champions / VIP
+CUST0593,Aarav Choudhury,Hyderabad,51,3,5271.07,323,Loyal Customers
+CUST0902,Reyansh Iyer,Jaipur,24,5,5261.65,433,Champions / VIP
+CUST0147,Krishna Singh,Mumbai,191,3,5252.84,123,Needs Attention
+CUST0767,Saanvi Deshmukh,Kolkata,68,5,5245.78,333,Champions / VIP
+CUST0322,Myra Sharma,Bangalore,67,6,5237.52,343,Champions / VIP
+CUST0777,Ishaan Das,Delhi,33,4,5235.39,433,Champions / VIP
+CUST0561,Vihaan Mehta,Delhi,286,3,5229.73,123,Needs Attention
+CUST0104,Ananya Kapoor,Kolkata,62,5,5221.23,333,Champions / VIP
+CUST0645,Ishaan Deshmukh,Bangalore,41,4,5213.2,333,Champions / VIP
+CUST0028,Angel Kapoor,Ahmedabad,237,6,5202.63,143,At Risk
+CUST0703,Riya Bhat,Mumbai,153,4,5202.02,233,At Risk
+CUST0498,Unknown Customer,Unknown City,175,4,5201.35,133,At Risk
+CUST0574,Ananya Kapoor,Delhi,121,4,5186.41,233,At Risk
+CUST0419,Aarav Verma,Kolkata,26,3,5183.79,423,Loyal Customers
+CUST0706,Anika Verma,Bangalore,242,3,5171.39,123,Needs Attention
+CUST0364,Anika Sharma,Hyderabad,14,4,5171.13,433,Champions / VIP
+CUST0401,Riya Iyer,Mumbai,132,4,5158.84,233,At Risk
+CUST0206,Navya Bhat,Pune,135,4,5142.89,233,At Risk
+CUST0558,Angel Nair,Bangalore,91,5,5140.44,233,At Risk
+CUST0699,Sai Sen,Bangalore,319,5,5139.55,133,At Risk
+CUST0219,Pari Choudhury,Chennai,52,4,5135.84,333,Champions / VIP
+CUST0741,Angel Bhat,Bangalore,43,4,5132.23,333,Champions / VIP
+CUST0903,Riya Das,Bangalore,32,4,5128.68,433,Champions / VIP
+CUST0897,Sai Chawla,Pune,36,5,5126.64,333,Champions / VIP
+CUST0968,Vihaan Choudhury,Bangalore,267,3,5125.74,123,Needs Attention
+CUST0432,Ananya Saxena,Delhi,38,4,5119.9,333,Champions / VIP
+CUST0541,Anika Kapoor,Kolkata,22,3,5119.62,423,Loyal Customers
+CUST0535,Saanvi Saxena,Delhi,157,5,5118.03,233,At Risk
+CUST0473,Angel Bhat,Delhi,264,4,5117.07,133,At Risk
+CUST0845,Anika Reddy,Jaipur,123,3,5115.01,223,Needs Attention
+CUST0335,Krishna Das,Pune,237,5,5112.28,133,At Risk
+CUST0783,Diya Gupta,Jaipur,194,3,5096.6,123,Needs Attention
+CUST0202,Ayaan Iyer,Delhi,172,3,5086.98,223,Needs Attention
+CUST0696,Diya Choudhury,Hyderabad,177,4,5080.83,133,At Risk
+CUST0110,Myra Nair,Delhi,5,4,5072.51,433,Champions / VIP
+CUST0037,Krishna Saxena,Unknown City,27,5,5061.41,433,Champions / VIP
+CUST0436,Pari Kulkarni,Unknown City,24,4,5047.71,433,Champions / VIP
+CUST0762,Ishaan Choudhury,Delhi,64,3,5046.47,323,Loyal Customers
+CUST0301,Sai Kapoor,Bangalore,1,5,5045.51,433,Champions / VIP
+CUST0270,Navya Verma,Pune,180,4,5021.74,133,At Risk
+CUST0727,Ishaan Nair,Hyderabad,43,5,5018.8,333,Champions / VIP
+CUST0321,Ananya Deshmukh,Bangalore,58,4,5017.2,333,Champions / VIP
+CUST0648,Ananya Choudhury,Bangalore,207,4,5003.8,133,At Risk
+CUST0181,Vivaan Patel,Chennai,85,3,5003.67,223,Needs Attention
+CUST0758,Riya Reddy,Delhi,182,4,5002.88,133,At Risk
+CUST0180,Pari Kapoor,Bangalore,2,3,4999.48,423,Loyal Customers
+CUST0047,Angel Patel,Delhi,88,6,4993.02,243,At Risk
+CUST0945,Anika Mehta,Pune,70,3,4990.31,323,Loyal Customers
+CUST0111,Arjun Reddy,Ahmedabad,201,4,4984.75,133,At Risk
+CUST0641,Pari Sen,Chennai,188,5,4976.01,133,At Risk
+CUST0613,Ishaan Nair,Hyderabad,96,4,4973.45,233,At Risk
+CUST0234,Ayaan Verma,Pune,79,4,4969.71,333,Champions / VIP
+CUST0163,Unknown Customer,Kolkata,39,5,4968.62,333,Champions / VIP
+CUST0495,Riya Verma,Jaipur,22,4,4967.13,433,Champions / VIP
+CUST0940,Saanvi Reddy,Hyderabad,19,4,4965.97,433,Champions / VIP
+CUST0083,Anika Mehta,Kolkata,161,5,4954.71,233,At Risk
+CUST0237,Riya Gupta,Jaipur,194,4,4951.56,133,At Risk
+CUST0160,Vivaan Kulkarni,Delhi,94,5,4938.37,233,At Risk
+CUST0821,Arjun Mehta,Hyderabad,84,4,4931.95,333,Champions / VIP
+CUST0807,Reyansh Rao,Mumbai,110,4,4914.62,233,At Risk
+CUST0679,Krishna Chawla,Chennai,117,4,4904.48,233,At Risk
+CUST0684,Saanvi Das,Pune,96,4,4901.88,233,At Risk
+CUST0771,Angel Choudhury,Kolkata,6,6,4899.63,443,Champions / VIP
+CUST0077,Ayaan Iyer,Ahmedabad,107,3,4887.73,223,Needs Attention
+CUST0142,Saanvi Gupta,Mumbai,248,3,4881.85,123,Needs Attention
+CUST0836,Ishaan Kulkarni,Pune,6,5,4854.4,433,Champions / VIP
+CUST0214,Aarav Deshmukh,Delhi,255,4,4850.13,133,At Risk
+CUST0385,Aadhya Gupta,Hyderabad,29,4,4839.05,433,Champions / VIP
+CUST0610,Aditya Rao,Bangalore,49,5,4838.47,333,Champions / VIP
+CUST0007,Vihaan Iyer,Chennai,111,3,4835.31,223,Needs Attention
+CUST0784,Krishna Sen,Jaipur,114,3,4834.73,223,Needs Attention
+CUST0858,Ayaan Joshi,Kolkata,73,4,4827.44,333,Champions / VIP
+CUST0839,Riya Sen,Kolkata,22,3,4800.82,423,Loyal Customers
+CUST0026,Aarav Gupta,Bangalore,103,4,4799.46,233,At Risk
+CUST0506,Vivaan Nair,Pune,145,3,4791.46,223,Needs Attention
+CUST0225,Anika Mehta,Mumbai,10,5,4777.81,433,Champions / VIP
+CUST0154,Pari Das,Chennai,36,4,4773.81,333,Champions / VIP
+CUST0255,Saanvi Sen,Delhi,209,3,4772.52,123,Needs Attention
+CUST0431,Krishna Kulkarni,Jaipur,36,5,4764.91,333,Champions / VIP
+CUST0752,Aarav Kapoor,Chennai,191,3,4755.93,123,Needs Attention
+CUST0238,Navya Patel,Bangalore,56,4,4755.04,333,Champions / VIP
+CUST0092,Myra Das,Ahmedabad,110,3,4747.83,223,Needs Attention
+CUST0555,Arjun Kapoor,Jaipur,38,5,4747.57,333,Champions / VIP
+CUST0915,Riya Gupta,Bangalore,92,4,4741.96,233,At Risk
+CUST0407,Krishna Choudhury,Chennai,39,5,4741.73,333,Champions / VIP
+CUST0872,Myra Kapoor,Pune,247,3,4741.06,123,Needs Attention
+CUST0265,Unknown Customer,Jaipur,243,3,4736.81,123,Needs Attention
+CUST0769,Aarav Nair,Chennai,53,5,4736.53,333,Champions / VIP
+CUST0854,Pari Mehta,Delhi,83,3,4723.98,323,Loyal Customers
+CUST0705,Vihaan Kulkarni,Hyderabad,178,5,4719.88,133,At Risk
+CUST0698,Ishaan Chawla,Bangalore,76,5,4716.9,333,Champions / VIP
+CUST0926,Sai Saxena,Kolkata,97,4,4705.89,233,At Risk
+CUST0550,Vihaan Saxena,Pune,102,3,4705.64,223,Needs Attention
+CUST0395,Reyansh Rao,Jaipur,158,4,4703.82,233,At Risk
+CUST0738,Pari Choudhury,Pune,92,3,4699.68,223,Needs Attention
+CUST0417,Sai Iyer,Hyderabad,57,5,4693.03,333,Champions / VIP
+CUST0925,Aarav Joshi,Delhi,15,3,4663.26,423,Loyal Customers
+CUST0701,Angel Saxena,Hyderabad,35,3,4663.08,423,Loyal Customers
+CUST0720,Reyansh Reddy,Ahmedabad,335,3,4661.29,123,Needs Attention
+CUST0819,Vivaan Patel,Hyderabad,78,3,4650.69,323,Loyal Customers
+CUST0367,Anika Kulkarni,Jaipur,261,3,4643.43,123,Needs Attention
+CUST0734,Vihaan Singh,Hyderabad,184,4,4642.92,133,At Risk
+CUST0174,Arjun Choudhury,Jaipur,22,3,4634.58,423,Loyal Customers
+CUST0368,Ishaan Singh,Mumbai,8,3,4623.0,423,Loyal Customers
+CUST0152,Navya Saxena,Chennai,65,4,4611.44,333,Champions / VIP
+CUST1000,Ayaan Deshmukh,Pune,7,4,4601.45,432,Loyal Customers
+CUST0674,Saanvi Bhat,Hyderabad,36,3,4593.87,322,Loyal Customers
+CUST0114,Ishaan Sharma,Kolkata,49,4,4588.85,332,Loyal Customers
+CUST0258,Diya Singh,Jaipur,21,5,4587.81,432,Loyal Customers
+CUST0315,Myra Joshi,Chennai,17,3,4582.61,422,Loyal Customers
+CUST0138,Vihaan Chawla,Kolkata,101,3,4582.57,222,Needs Attention
+CUST0155,Ishaan Rao,Chennai,1,5,4576.85,432,Loyal Customers
+CUST0277,Pari Deshmukh,Delhi,76,5,4565.84,332,Loyal Customers
+CUST0694,Reyansh Chawla,Kolkata,3,3,4559.45,422,Loyal Customers
+CUST0746,Arjun Deshmukh,Ahmedabad,301,3,4547.75,122,Needs Attention
+CUST0595,Riya Kulkarni,Bangalore,92,4,4547.5,232,At Risk
+CUST0747,Ishaan Saxena,Jaipur,3,4,4532.78,432,Loyal Customers
+CUST0710,Myra Kapoor,Ahmedabad,80,3,4529.58,322,Loyal Customers
+CUST0168,Myra Bhat,Kolkata,121,4,4521.64,232,At Risk
+CUST0957,Unknown Customer,Kolkata,150,4,4513.43,232,At Risk
+CUST0405,Saanvi Iyer,Hyderabad,36,3,4511.66,322,Loyal Customers
+CUST0057,Krishna Saxena,Hyderabad,5,4,4503.84,432,Loyal Customers
+CUST0392,Ananya Rao,Delhi,72,3,4496.67,322,Loyal Customers
+CUST0188,Arjun Gupta,Chennai,2,4,4496.45,432,Loyal Customers
+CUST0165,Angel Saxena,Chennai,211,5,4491.95,132,At Risk
+CUST0868,Myra Choudhury,Hyderabad,1,3,4490.61,422,Loyal Customers
+CUST0063,Saanvi Das,Mumbai,124,4,4485.53,232,At Risk
+CUST0129,Arjun Choudhury,Delhi,103,3,4484.41,222,Needs Attention
+CUST0430,Riya Sharma,Bangalore,14,5,4481.41,432,Loyal Customers
+CUST0410,Arjun Joshi,Kolkata,151,3,4472.43,222,Needs Attention
+CUST0024,Vivaan Mehta,Chennai,85,5,4470.78,232,At Risk
+CUST0411,Aditya Kapoor,Bangalore,183,3,4464.17,122,Needs Attention
+CUST0949,Reyansh Joshi,Ahmedabad,326,3,4462.82,122,Needs Attention
+CUST0209,Saanvi Verma,Hyderabad,282,4,4455.84,132,At Risk
+CUST0149,Aditya Kulkarni,Kolkata,48,2,4452.1,322,Loyal Customers
+CUST0005,Angel Mehta,Delhi,19,4,4435.32,432,Loyal Customers
+CUST0427,Riya Rao,Delhi,195,3,4428.06,122,Needs Attention
+CUST0651,Arjun Das,Mumbai,40,3,4419.89,322,Loyal Customers
+CUST0361,Vivaan Reddy,Chennai,20,3,4414.74,422,Loyal Customers
+CUST0956,Aadhya Bhat,Hyderabad,22,3,4412.96,422,Loyal Customers
+CUST0604,Aadhya Iyer,Kolkata,79,2,4404.89,322,Loyal Customers
+CUST0952,Aditya Singh,Chennai,50,4,4378.65,332,Loyal Customers
+CUST0458,Navya Reddy,Jaipur,64,4,4371.53,332,Loyal Customers
+CUST0153,Riya Joshi,Delhi,20,3,4361.86,422,Loyal Customers
+CUST0980,Anika Sharma,Kolkata,124,4,4348.51,232,At Risk
+CUST0159,Navya Saxena,Chennai,57,4,4341.08,332,Loyal Customers
+CUST0849,Sai Sen,Delhi,6,4,4340.74,432,Loyal Customers
+CUST0352,Arjun Mehta,Hyderabad,177,3,4339.1,122,Needs Attention
+CUST0587,Aarav Iyer,Jaipur,22,4,4337.97,432,Loyal Customers
+CUST0669,Anika Chawla,Hyderabad,86,4,4330.4,232,At Risk
+CUST0677,Reyansh Sen,Delhi,41,4,4301.65,332,Loyal Customers
+CUST0228,Saanvi Kapoor,Ahmedabad,66,4,4301.07,332,Loyal Customers
+CUST0905,Aadhya Verma,Kolkata,287,2,4299.06,122,Needs Attention
+CUST0924,Unknown Customer,Hyderabad,180,4,4295.82,132,At Risk
+CUST0076,Aadhya Kapoor,Pune,251,4,4295.73,132,At Risk
+CUST0312,Aadhya Iyer,Delhi,10,3,4295.65,422,Loyal Customers
+CUST0614,Anika Choudhury,Pune,147,4,4293.1,232,At Risk
+CUST0722,Pari Sen,Delhi,26,4,4270.22,432,Loyal Customers
+CUST0823,Anika Mehta,Mumbai,146,2,4268.58,212,Needs Attention
+CUST0852,Ayaan Mehta,Pune,97,3,4264.43,222,Needs Attention
+CUST0917,Diya Singh,Bangalore,39,3,4260.57,322,Loyal Customers
+CUST0719,Reyansh Joshi,Jaipur,48,4,4260.56,332,Loyal Customers
+CUST0916,Pari Nair,Mumbai,111,3,4252.9,222,Needs Attention
+CUST0658,Aadhya Bhat,Kolkata,67,3,4241.03,322,Loyal Customers
+CUST0457,Ananya Sen,Ahmedabad,33,3,4237.61,422,Loyal Customers
+CUST0551,Vivaan Choudhury,Ahmedabad,138,2,4220.09,212,Needs Attention
+CUST0961,Angel Patel,Mumbai,27,5,4220.01,432,Loyal Customers
+CUST0603,Reyansh Patel,Pune,62,3,4210.72,322,Loyal Customers
+CUST0080,Navya Sen,Hyderabad,118,4,4206.7,232,At Risk
+CUST0545,Unknown Customer,Chennai,17,3,4206.4,422,Loyal Customers
+CUST0867,Vihaan Bhat,Mumbai,65,3,4203.87,322,Loyal Customers
+CUST0972,Reyansh Joshi,Mumbai,2,3,4191.54,422,Loyal Customers
+CUST0900,Aarav Rao,Chennai,58,4,4185.28,332,Loyal Customers
+CUST0140,Myra Reddy,Jaipur,165,3,4179.6,222,Needs Attention
+CUST0785,Anika Patel,Pune,17,6,4176.86,442,Loyal Customers
+CUST0549,Saanvi Sharma,Hyderabad,99,3,4159.59,222,Needs Attention
+CUST0692,Riya Verma,Bangalore,80,3,4122.94,322,Loyal Customers
+CUST0994,Riya Mehta,Bangalore,42,2,4121.5,312,New Customers
+CUST0996,Myra Verma,Jaipur,48,4,4120.03,332,Loyal Customers
+CUST0220,Krishna Choudhury,Ahmedabad,281,3,4119.76,122,Needs Attention
+CUST0516,Myra Rao,Hyderabad,67,4,4118.33,332,Loyal Customers
+CUST0590,Anika Sen,Bangalore,42,4,4115.1,332,Loyal Customers
+CUST0363,Anika Choudhury,Unknown City,68,4,4114.14,332,Loyal Customers
+CUST0962,Saanvi Singh,Mumbai,97,3,4084.21,222,Needs Attention
+CUST0423,Anika Kulkarni,Mumbai,3,4,4056.63,432,Loyal Customers
+CUST0577,Ananya Saxena,Bangalore,149,5,4054.87,232,At Risk
+CUST0857,Anika Kulkarni,Bangalore,128,4,4054.59,232,At Risk
+CUST0933,Angel Gupta,Ahmedabad,184,2,4049.53,112,Needs Attention
+CUST0988,Saanvi Das,Jaipur,172,3,4041.35,222,Needs Attention
+CUST0830,Krishna Das,Delhi,30,3,4034.07,422,Loyal Customers
+CUST0815,Angel Verma,Ahmedabad,36,3,4027.3,322,Loyal Customers
+CUST0329,Saanvi Saxena,Jaipur,266,3,4025.14,122,Needs Attention
+CUST0673,Aadhya Sen,Ahmedabad,81,4,4020.28,332,Loyal Customers
+CUST0939,Saanvi Iyer,Mumbai,58,4,4016.12,332,Loyal Customers
+CUST0563,Diya Reddy,Delhi,106,2,4012.2,212,Needs Attention
+CUST0394,Navya Das,Hyderabad,138,4,4011.61,232,At Risk
+CUST0294,Aarav Kulkarni,Bangalore,70,3,4011.4,322,Loyal Customers
+CUST0338,Aadhya Reddy,Kolkata,188,3,4008.76,122,Needs Attention
+CUST0950,Unknown Customer,Pune,21,4,4008.42,432,Loyal Customers
+CUST0370,Aditya Reddy,Bangalore,288,3,4008.01,122,Needs Attention
+CUST0465,Ananya Verma,Mumbai,13,4,4006.79,432,Loyal Customers
+CUST0122,Ishaan Chawla,Mumbai,86,3,4004.18,222,Needs Attention
+CUST0935,Aarav Nair,Ahmedabad,10,3,4002.17,422,Loyal Customers
+CUST0520,Aadhya Kapoor,Mumbai,129,4,3994.86,232,At Risk
+CUST0399,Anika Joshi,Mumbai,79,4,3994.42,332,Loyal Customers
+CUST0453,Ananya Choudhury,Ahmedabad,101,3,3989.43,222,Needs Attention
+CUST0859,Pari Saxena,Chennai,233,4,3985.95,132,At Risk
+CUST0817,Krishna Deshmukh,Ahmedabad,265,3,3982.23,122,Needs Attention
+CUST0708,Pari Bhat,Chennai,113,3,3977.33,222,Needs Attention
+CUST0992,Diya Nair,Hyderabad,148,4,3967.38,232,At Risk
+CUST0652,Myra Bhat,Chennai,157,4,3965.87,232,At Risk
+CUST0721,Pari Kapoor,Delhi,317,2,3945.84,112,Needs Attention
+CUST0609,Aadhya Kulkarni,Bangalore,147,3,3944.69,222,Needs Attention
+CUST0476,Aadhya Nair,Hyderabad,168,3,3941.93,222,Needs Attention
+CUST0632,Navya Singh,Unknown City,99,4,3940.29,232,At Risk
+CUST0089,Angel Reddy,Ahmedabad,37,3,3921.59,322,Loyal Customers
+CUST0586,Reyansh Choudhury,Jaipur,3,3,3920.65,422,Loyal Customers
+CUST0969,Arjun Kulkarni,Chennai,32,4,3914.25,432,Loyal Customers
+CUST0311,Arjun Joshi,Chennai,286,2,3908.25,112,Needs Attention
+CUST0775,Aarav Das,Chennai,44,4,3905.72,332,Loyal Customers
+CUST0713,Angel Sharma,Kolkata,1,3,3893.8,422,Loyal Customers
+CUST0318,Sai Verma,Unknown City,266,3,3892.03,122,Needs Attention
+CUST0715,Arjun Iyer,Pune,311,2,3886.36,112,Needs Attention
+CUST0178,Saanvi Kapoor,Kolkata,138,3,3878.38,222,Needs Attention
+CUST0818,Aadhya Nair,Pune,78,3,3866.58,322,Loyal Customers
+CUST0901,Ayaan Reddy,Mumbai,228,3,3858.78,122,Needs Attention
+CUST0179,Ayaan Mehta,Chennai,0,3,3855.37,422,Loyal Customers
+CUST0221,Diya Choudhury,Ahmedabad,190,4,3853.76,122,Needs Attention
+CUST0552,Reyansh Mehta,Kolkata,106,2,3853.74,212,Needs Attention
+CUST0246,Arjun Rao,Delhi,80,4,3851.28,322,Loyal Customers
+CUST0382,Myra Reddy,Kolkata,82,3,3846.24,322,Loyal Customers
+CUST0832,Navya Gupta,Kolkata,62,3,3842.61,322,Loyal Customers
+CUST0203,Riya Joshi,Chennai,213,4,3835.4,122,Needs Attention
+CUST0997,Anika Kapoor,Kolkata,22,3,3825.74,422,Loyal Customers
+CUST0562,Reyansh Mehta,Kolkata,275,4,3824.93,122,Needs Attention
+CUST0930,Saanvi Saxena,Jaipur,243,2,3816.96,112,Needs Attention
+CUST0314,Aditya Choudhury,Kolkata,69,4,3813.41,322,Loyal Customers
+CUST0739,Aadhya Chawla,Delhi,85,3,3810.39,222,Needs Attention
+CUST0542,Aadhya Choudhury,Hyderabad,91,3,3804.63,222,Needs Attention
+CUST0268,Ayaan Singh,Mumbai,182,3,3800.71,122,Needs Attention
+CUST0691,Pari Choudhury,Unknown City,227,5,3799.24,132,At Risk
+CUST0627,Anika Verma,Pune,400,2,3794.69,112,Needs Attention
+CUST0524,Myra Reddy,Ahmedabad,60,3,3778.66,322,Loyal Customers
+CUST0772,Vivaan Verma,Ahmedabad,28,2,3776.42,412,New Customers
+CUST0822,Myra Das,Mumbai,154,4,3775.45,222,Needs Attention
+CUST0460,Anika Choudhury,Mumbai,98,3,3760.49,222,Needs Attention
+CUST0374,Ananya Rao,Delhi,46,3,3752.32,322,Loyal Customers
+CUST0599,Unknown Customer,Delhi,68,3,3746.86,322,Loyal Customers
+CUST0517,Reyansh Reddy,Chennai,84,3,3746.3,322,Loyal Customers
+CUST0629,Aarav Patel,Chennai,275,3,3745.21,122,Needs Attention
+CUST0879,Arjun Kulkarni,Kolkata,16,3,3743.19,422,Loyal Customers
+CUST0891,Angel Nair,Jaipur,228,3,3736.08,122,Needs Attention
+CUST0336,Diya Nair,Delhi,96,3,3731.99,222,Needs Attention
+CUST0128,Unknown Customer,Chennai,42,3,3731.51,322,Loyal Customers
+CUST0380,Angel Iyer,Kolkata,314,4,3727.11,122,Needs Attention
+CUST0773,Vihaan Das,Jaipur,34,2,3724.05,412,New Customers
+CUST0303,Anika Chawla,Kolkata,5,3,3721.4,422,Loyal Customers
+CUST0511,Angel Gupta,Chennai,247,2,3714.16,112,Needs Attention
+CUST0150,Sai Sen,Chennai,108,4,3712.01,222,Needs Attention
+CUST0788,Sai Rao,Hyderabad,369,2,3709.57,112,Needs Attention
+CUST0908,Sai Kulkarni,Delhi,83,3,3706.87,322,Loyal Customers
+CUST0450,Reyansh Rao,Ahmedabad,61,4,3705.11,322,Loyal Customers
+CUST0800,Aadhya Verma,Pune,77,3,3694.64,322,Loyal Customers
+CUST0756,Krishna Verma,Mumbai,111,3,3692.28,222,Needs Attention
+CUST0156,Ishaan Gupta,Jaipur,80,3,3690.02,322,Loyal Customers
+CUST0914,Vihaan Kulkarni,Mumbai,178,4,3686.75,122,Needs Attention
+CUST0816,Aditya Kulkarni,Kolkata,67,2,3685.02,312,New Customers
+CUST0583,Diya Sen,Bangalore,22,2,3683.73,412,New Customers
+CUST0623,Unknown Customer,Hyderabad,97,4,3633.67,222,Needs Attention
+CUST0186,Diya Bhat,Chennai,7,4,3627.77,422,Loyal Customers
+CUST0428,Krishna Iyer,Kolkata,148,3,3624.85,222,Needs Attention
+CUST0295,Pari Reddy,Bangalore,44,4,3604.98,322,Loyal Customers
+CUST0875,Unknown Customer,Ahmedabad,182,5,3585.79,132,At Risk
+CUST0099,Vihaan Bhat,Bangalore,147,2,3581.24,212,Needs Attention
+CUST0100,Anika Kapoor,Jaipur,46,4,3576.89,322,Loyal Customers
+CUST0375,Aditya Kulkarni,Pune,15,2,3574.29,412,New Customers
+CUST0194,Ayaan Kapoor,Jaipur,55,3,3565.3,322,Loyal Customers
+CUST0960,Saanvi Nair,Mumbai,180,3,3556.92,122,Needs Attention
+CUST0640,Vivaan Mehta,Delhi,108,3,3550.27,222,Needs Attention
+CUST0403,Krishna Rao,Ahmedabad,340,2,3524.84,112,Needs Attention
+CUST0687,Ishaan Patel,Mumbai,295,2,3517.47,112,Needs Attention
+CUST0824,Vihaan Kulkarni,Delhi,112,3,3517.18,222,Needs Attention
+CUST0936,Navya Choudhury,Ahmedabad,129,4,3514.04,222,Needs Attention
+CUST0990,Diya Joshi,Hyderabad,45,4,3502.72,322,Loyal Customers
+CUST0161,Riya Joshi,Bangalore,177,2,3498.4,112,Needs Attention
+CUST0278,Aadhya Mehta,Chennai,233,3,3495.97,122,Needs Attention
+CUST0768,Krishna Kapoor,Bangalore,103,4,3486.45,222,Needs Attention
+CUST0406,Anika Deshmukh,Bangalore,60,3,3486.11,322,Loyal Customers
+CUST0748,Angel Kulkarni,Ahmedabad,369,2,3480.37,112,Needs Attention
+CUST0537,Vivaan Deshmukh,Pune,125,3,3446.45,222,Needs Attention
+CUST0009,Angel Reddy,Mumbai,29,4,3428.9,422,Loyal Customers
+CUST0056,Navya Chawla,Pune,21,4,3409.64,422,Loyal Customers
+CUST0393,Navya Deshmukh,Jaipur,30,4,3397.92,422,Loyal Customers
+CUST0709,Riya Nair,Hyderabad,107,3,3392.87,222,Needs Attention
+CUST0439,Diya Bhat,Hyderabad,29,3,3385.0,422,Loyal Customers
+CUST0628,Pari Chawla,Mumbai,65,2,3371.54,312,New Customers
+CUST0094,Ananya Mehta,Chennai,57,3,3357.75,322,Loyal Customers
+CUST0135,Vihaan Choudhury,Kolkata,122,2,3352.27,212,Needs Attention
+CUST0412,Sai Das,Pune,381,2,3339.68,112,Needs Attention
+CUST0890,Arjun Singh,Pune,429,2,3329.41,112,Needs Attention
+CUST0837,Sai Patel,Ahmedabad,281,4,3327.6,122,Needs Attention
+CUST0348,Vihaan Nair,Chennai,13,2,3324.03,412,New Customers
+CUST0750,Sai Mehta,Jaipur,131,2,3288.1,212,Needs Attention
+CUST0157,Vivaan Bhat,Hyderabad,306,3,3282.04,122,Needs Attention
+CUST0346,Vivaan Chawla,Hyderabad,116,3,3277.57,222,Needs Attention
+CUST0547,Aadhya Singh,Chennai,34,3,3275.09,422,Loyal Customers
+CUST0144,Riya Verma,Ahmedabad,31,3,3270.78,422,Loyal Customers
+CUST0086,Vihaan Patel,Ahmedabad,321,3,3270.48,122,Needs Attention
+CUST0693,Vihaan Bhat,Delhi,245,2,3265.54,112,Needs Attention
+CUST0543,Krishna Gupta,Hyderabad,35,3,3264.96,422,Loyal Customers
+CUST0146,Ishaan Verma,Mumbai,13,3,3259.55,422,Loyal Customers
+CUST0010,Myra Kulkarni,Pune,179,3,3249.68,122,Needs Attention
+CUST0356,Arjun Verma,Hyderabad,73,2,3243.23,312,New Customers
+CUST0633,Anika Saxena,Chennai,154,3,3229.36,222,Needs Attention
+CUST0353,Aditya Das,Delhi,116,3,3221.68,222,Needs Attention
+CUST0801,Vihaan Nair,Jaipur,177,2,3213.39,112,Needs Attention
+CUST0211,Unknown Customer,Jaipur,11,3,3201.76,422,Loyal Customers
+CUST0102,Myra Das,Bangalore,125,3,3199.73,222,Needs Attention
+CUST0072,Arjun Chawla,Jaipur,13,4,3196.85,422,Loyal Customers
+CUST0201,Reyansh Das,Mumbai,82,2,3193.76,312,New Customers
+CUST0831,Vivaan Saxena,Hyderabad,138,2,3182.71,212,Needs Attention
+CUST0305,Anika Choudhury,Delhi,449,2,3180.41,112,Needs Attention
+CUST0644,Ananya Kulkarni,Mumbai,189,2,3174.11,112,Needs Attention
+CUST0998,Ayaan Deshmukh,Kolkata,12,3,3165.38,422,Loyal Customers
+CUST0421,Vihaan Saxena,Delhi,426,2,3165.29,112,Needs Attention
+CUST0918,Aarav Saxena,Bangalore,174,4,3143.16,222,Needs Attention
+CUST0855,Reyansh Deshmukh,Ahmedabad,245,3,3140.41,122,Needs Attention
+CUST0483,Arjun Kapoor,Mumbai,21,2,3137.59,412,New Customers
+CUST0889,Aadhya Reddy,Ahmedabad,142,3,3135.45,222,Needs Attention
+CUST0880,Pari Rao,Bangalore,119,4,3130.37,222,Needs Attention
+CUST0906,Navya Verma,Hyderabad,88,3,3114.59,222,Needs Attention
+CUST0862,Ishaan Kulkarni,Mumbai,64,2,3110.64,312,New Customers
+CUST0515,Ishaan Gupta,Chennai,65,3,3106.66,322,Loyal Customers
+CUST0471,Aditya Singh,Chennai,413,2,3105.65,112,Needs Attention
+CUST0802,Ananya Bhat,Mumbai,47,3,3099.23,322,Loyal Customers
+CUST0207,Reyansh Das,Mumbai,155,2,3077.23,212,Needs Attention
+CUST0928,Riya Das,Ahmedabad,248,4,3076.68,122,Needs Attention
+CUST0020,Unknown Customer,Hyderabad,124,2,3059.29,212,Needs Attention
+CUST0098,Riya Reddy,Ahmedabad,9,3,3059.14,422,Loyal Customers
+CUST0943,Diya Kulkarni,Unknown City,295,2,3055.77,112,Needs Attention
+CUST0650,Saanvi Gupta,Kolkata,6,3,3050.25,422,Loyal Customers
+CUST0642,Pari Das,Pune,220,2,3046.54,112,Needs Attention
+CUST0454,Ayaan Deshmukh,Jaipur,26,4,2999.13,422,Loyal Customers
+CUST0320,Vihaan Chawla,Pune,213,2,2996.77,112,Needs Attention
+CUST0467,Riya Gupta,Mumbai,267,2,2989.23,112,Needs Attention
+CUST0440,Angel Saxena,Delhi,20,3,2987.06,422,Loyal Customers
+CUST0572,Angel Saxena,Bangalore,412,2,2982.01,112,Needs Attention
+CUST0027,Sai Iyer,Ahmedabad,227,4,2966.34,122,Needs Attention
+CUST0455,Unknown Customer,Jaipur,184,2,2964.52,112,Needs Attention
+CUST0326,Saanvi Singh,Hyderabad,260,2,2963.96,112,Needs Attention
+CUST0269,Aarav Nair,Kolkata,74,2,2945.59,312,New Customers
+CUST0846,Aadhya Kapoor,Chennai,58,2,2935.37,311,New Customers
+CUST0345,Diya Bhat,Delhi,182,2,2929.25,111,Needs Attention
+CUST0847,Anika Deshmukh,Jaipur,91,2,2893.28,211,Needs Attention
+CUST0579,Anika Das,Jaipur,59,2,2891.93,311,New Customers
+CUST0478,Riya Gupta,Bangalore,56,2,2885.69,311,New Customers
+CUST0833,Ishaan Reddy,Ahmedabad,99,2,2882.19,211,Needs Attention
+CUST0616,Vivaan Nair,Chennai,86,2,2880.23,211,Needs Attention
+CUST0308,Myra Deshmukh,Kolkata,84,3,2867.6,321,Loyal Customers
+CUST0895,Ananya Rao,Pune,325,2,2857.06,111,Needs Attention
+CUST0565,Aditya Singh,Jaipur,1,4,2851.75,421,Loyal Customers
+CUST0124,Arjun Chawla,Pune,206,3,2850.09,121,Needs Attention
+CUST0286,Pari Singh,Delhi,335,2,2849.78,111,Needs Attention
+CUST0582,Aadhya Chawla,Hyderabad,124,4,2846.57,221,Needs Attention
+CUST0602,Sai Patel,Kolkata,139,3,2845.11,221,Needs Attention
+CUST0765,Vihaan Joshi,Delhi,148,3,2839.03,221,Needs Attention
+CUST0067,Vihaan Das,Pune,200,5,2827.29,131,At Risk
+CUST0235,Ishaan Mehta,Chennai,4,2,2823.18,411,New Customers
+CUST0742,Unknown Customer,Jaipur,75,3,2815.91,321,Loyal Customers
+CUST0097,Vivaan Patel,Unknown City,316,4,2811.25,121,Needs Attention
+CUST0970,Pari Iyer,Unknown City,296,2,2809.34,111,Needs Attention
+CUST0995,Unknown Customer,Pune,427,2,2804.5,111,Needs Attention
+CUST0536,Ishaan Reddy,Ahmedabad,133,3,2785.75,221,Needs Attention
+CUST0183,Saanvi Bhat,Chennai,119,2,2766.57,211,Needs Attention
+CUST0373,Vihaan Kapoor,Hyderabad,85,3,2762.24,221,Needs Attention
+CUST0461,Riya Reddy,Chennai,199,3,2756.92,121,Needs Attention
+CUST0666,Aditya Joshi,Ahmedabad,78,2,2756.38,311,New Customers
+CUST0008,Aditya Sen,Jaipur,79,2,2747.79,311,New Customers
+CUST0118,Navya Rao,Ahmedabad,92,2,2744.87,211,Needs Attention
+CUST0850,Vihaan Chawla,Ahmedabad,176,2,2742.53,111,Needs Attention
+CUST0065,Aadhya Rao,Pune,166,3,2729.22,221,Needs Attention
+CUST0284,Anika Das,Chennai,35,2,2713.89,411,New Customers
+CUST0649,Anika Mehta,Pune,38,2,2704.11,311,New Customers
+CUST0236,Riya Deshmukh,Jaipur,109,2,2702.72,211,Needs Attention
+CUST0463,Aditya Mehta,Jaipur,75,4,2673.02,321,Loyal Customers
+CUST0310,Myra Rao,Delhi,217,2,2660.46,111,Needs Attention
+CUST0559,Navya Iyer,Mumbai,301,2,2654.27,111,Needs Attention
+CUST0287,Arjun Chawla,Delhi,234,3,2649.46,121,Needs Attention
+CUST0377,Krishna Singh,Delhi,196,3,2649.07,121,Needs Attention
+CUST0148,Ayaan Saxena,Unknown City,308,2,2618.49,111,Needs Attention
+CUST0913,Aadhya Reddy,Mumbai,46,4,2617.88,321,Loyal Customers
+CUST0051,Sai Gupta,Chennai,164,2,2614.55,211,Needs Attention
+CUST0298,Anika Saxena,Chennai,168,4,2609.92,221,Needs Attention
+CUST0979,Diya Iyer,Pune,142,5,2591.44,231,At Risk
+CUST0224,Myra Reddy,Jaipur,99,4,2577.71,221,Needs Attention
+CUST0245,Aarav Singh,Jaipur,120,2,2570.88,211,Needs Attention
+CUST0736,Aditya Saxena,Pune,45,2,2565.31,311,New Customers
+CUST0529,Reyansh Das,Jaipur,285,3,2564.47,121,Needs Attention
+CUST0391,Ananya Singh,Pune,87,2,2558.89,211,Needs Attention
+CUST0946,Vivaan Sen,Bangalore,342,3,2520.66,121,Needs Attention
+CUST0851,Krishna Deshmukh,Bangalore,105,3,2512.61,221,Needs Attention
+CUST0618,Riya Das,Bangalore,256,2,2512.08,111,Needs Attention
+CUST0566,Navya Reddy,Bangalore,225,3,2509.81,121,Needs Attention
+CUST0304,Ayaan Singh,Hyderabad,108,2,2508.11,211,Needs Attention
+CUST0607,Ishaan Bhat,Ahmedabad,58,2,2496.89,311,New Customers
+CUST0624,Reyansh Sen,Unknown City,73,2,2494.67,311,New Customers
+CUST0704,Aditya Reddy,Chennai,323,2,2493.9,111,Needs Attention
+CUST0134,Angel Kulkarni,Jaipur,114,2,2437.58,211,Needs Attention
+CUST0105,Navya Das,Pune,159,4,2426.57,221,Needs Attention
+CUST0977,Reyansh Reddy,Kolkata,131,2,2423.68,211,Needs Attention
+CUST0048,Ishaan Saxena,Kolkata,126,1,2416.53,211,Needs Attention
+CUST0695,Reyansh Verma,Chennai,214,1,2412.78,111,Needs Attention
+CUST0141,Unknown Customer,Ahmedabad,478,1,2410.35,111,Needs Attention
+CUST0894,Saanvi Mehta,Jaipur,29,1,2409.94,411,New Customers
+CUST0539,Angel Singh,Pune,173,2,2407.32,211,Needs Attention
+CUST0313,Pari Kapoor,Mumbai,243,3,2407.02,121,Needs Attention
+CUST0447,Angel Patel,Ahmedabad,153,3,2400.73,221,Needs Attention
+CUST0480,Angel Rao,Pune,498,1,2393.81,111,Needs Attention
+CUST0369,Sai Sen,Hyderabad,0,2,2393.44,411,New Customers
+CUST0470,Unknown Customer,Bangalore,277,3,2384.92,121,Needs Attention
+CUST0675,Sai Kulkarni,Mumbai,42,1,2382.45,311,New Customers
+CUST0999,Aarav Bhat,Kolkata,309,2,2375.77,111,Needs Attention
+CUST0723,Aditya Mehta,Delhi,231,1,2365.15,111,Needs Attention
+CUST0626,Ananya Kulkarni,Mumbai,23,2,2360.53,411,New Customers
+CUST0307,Vivaan Bhat,Delhi,26,2,2357.4,411,New Customers
+CUST0340,Ishaan Kulkarni,Pune,446,1,2351.84,111,Needs Attention
+CUST0414,Navya Patel,Mumbai,135,1,2345.72,211,Needs Attention
+CUST0964,Ayaan Mehta,Bangalore,44,2,2323.43,311,New Customers
+CUST0485,Vihaan Saxena,Ahmedabad,333,2,2306.91,111,Needs Attention
+CUST0671,Angel Reddy,Unknown City,186,2,2302.85,111,Needs Attention
+CUST0196,Ananya Gupta,Jaipur,333,2,2282.66,111,Needs Attention
+CUST0239,Myra Kapoor,Pune,142,1,2279.68,211,Needs Attention
+CUST0444,Anika Saxena,Bangalore,328,2,2265.48,111,Needs Attention
+CUST0589,Diya Mehta,Kolkata,100,2,2263.99,211,Needs Attention
+CUST0109,Ishaan Sharma,Mumbai,52,2,2259.07,311,New Customers
+CUST0166,Riya Nair,Mumbai,410,1,2256.1,111,Needs Attention
+CUST0438,Diya Verma,Pune,219,1,2253.15,111,Needs Attention
+CUST0594,Saanvi Saxena,Hyderabad,335,2,2243.84,111,Needs Attention
+CUST0654,Diya Choudhury,Jaipur,204,2,2243.67,111,Needs Attention
+CUST0883,Unknown Customer,Unknown City,148,3,2237.1,221,Needs Attention
+CUST0920,Pari Sen,Chennai,9,2,2235.93,411,New Customers
+CUST0635,Ishaan Verma,Delhi,471,1,2226.86,111,Needs Attention
+CUST0965,Angel Patel,Jaipur,148,2,2212.27,211,Needs Attention
+CUST0366,Saanvi Das,Ahmedabad,171,3,2204.43,221,Needs Attention
+CUST0212,Anika Saxena,Jaipur,168,2,2197.11,211,Needs Attention
+CUST0376,Sai Verma,Hyderabad,271,1,2184.24,111,Needs Attention
+CUST0319,Anika Gupta,Hyderabad,34,1,2179.08,411,New Customers
+CUST0456,Sai Das,Mumbai,1,2,2177.74,411,New Customers
+CUST0409,Riya Gupta,Jaipur,63,3,2174.5,321,Loyal Customers
+CUST0127,Aarav Verma,Hyderabad,3,1,2161.61,411,New Customers
+CUST0984,Vivaan Mehta,Bangalore,83,3,2159.23,321,Loyal Customers
+CUST0519,Myra Rao,Jaipur,13,3,2141.04,421,Loyal Customers
+CUST0493,Navya Rao,Chennai,156,2,2132.18,211,Needs Attention
+CUST0263,Vivaan Saxena,Mumbai,193,2,2131.7,111,Needs Attention
+CUST0075,Diya Rao,Ahmedabad,52,3,2123.36,321,Loyal Customers
+CUST0865,Navya Kulkarni,Bangalore,30,1,2117.68,411,New Customers
+CUST0794,Myra Iyer,Hyderabad,81,2,2115.86,311,New Customers
+CUST0117,Ishaan Kulkarni,Bangalore,47,4,2111.89,321,Loyal Customers
+CUST0944,Vivaan Joshi,Kolkata,37,4,2109.58,321,Loyal Customers
+CUST0778,Pari Chawla,Kolkata,85,2,2103.58,211,Needs Attention
+CUST0293,Anika Deshmukh,Pune,297,2,2098.2,111,Needs Attention
+CUST0876,Aadhya Verma,Ahmedabad,169,2,2092.3,211,Needs Attention
+CUST0745,Anika Mehta,Mumbai,3,2,2081.75,411,New Customers
+CUST0441,Aadhya Mehta,Hyderabad,392,1,2080.06,111,Needs Attention
+CUST0292,Vihaan Singh,Delhi,51,3,2075.36,321,Loyal Customers
+CUST0093,Pari Rao,Kolkata,180,1,2072.77,111,Needs Attention
+CUST0646,Angel Gupta,Jaipur,463,1,2040.98,111,Needs Attention
+CUST0612,Myra Joshi,Bangalore,312,2,2039.8,111,Needs Attention
+CUST0660,Navya Rao,Chennai,242,2,2028.89,111,Needs Attention
+CUST0283,Riya Joshi,Hyderabad,462,1,2024.76,111,Needs Attention
+CUST0528,Angel Choudhury,Chennai,214,2,2024.45,111,Needs Attention
+CUST0126,Vivaan Iyer,Delhi,269,1,2021.54,111,Needs Attention
+CUST0108,Ishaan Reddy,Kolkata,392,2,2021.1,111,Needs Attention
+CUST0910,Ayaan Gupta,Pune,89,2,2006.09,211,Needs Attention
+CUST0045,Sai Das,Mumbai,199,2,2005.66,111,Needs Attention
+CUST0247,Aarav Reddy,Delhi,169,2,1994.29,211,Needs Attention
+CUST0931,Anika Kapoor,Kolkata,472,1,1976.23,111,Needs Attention
+CUST0472,Sai Reddy,Hyderabad,315,3,1925.73,121,Needs Attention
+CUST0909,Ananya Rao,Pune,25,1,1925.47,411,New Customers
+CUST0912,Aadhya Gupta,Mumbai,126,2,1916.38,211,Needs Attention
+CUST0365,Ananya Verma,Bangalore,73,2,1914.66,311,New Customers
+CUST0434,Anika Nair,Chennai,85,2,1895.72,211,Needs Attention
+CUST0749,Diya Joshi,Jaipur,110,1,1890.42,211,Needs Attention
+CUST0861,Arjun Das,Jaipur,61,2,1870.97,311,New Customers
+CUST0923,Arjun Singh,Chennai,65,4,1855.82,321,Loyal Customers
+CUST0499,Navya Mehta,Kolkata,225,2,1854.92,111,Needs Attention
+CUST0685,Aditya Choudhury,Kolkata,305,1,1852.53,111,Needs Attention
+CUST0630,Saanvi Choudhury,Kolkata,150,2,1835.7,211,Needs Attention
+CUST0676,Unknown Customer,Ahmedabad,475,1,1833.72,111,Needs Attention
+CUST0253,Arjun Bhat,Jaipur,139,1,1824.17,211,Needs Attention
+CUST0084,Myra Singh,Delhi,233,2,1816.91,111,Needs Attention
+CUST0333,Sai Mehta,Bangalore,338,1,1814.56,111,Needs Attention
+CUST0662,Ayaan Kapoor,Delhi,44,3,1807.97,321,Loyal Customers
+CUST0533,Navya Bhat,Bangalore,167,2,1798.39,211,Needs Attention
+CUST0044,Krishna Deshmukh,Kolkata,489,1,1777.0,111,Needs Attention
+CUST0683,Anika Joshi,Mumbai,209,1,1766.95,111,Needs Attention
+CUST0732,Navya Kulkarni,Ahmedabad,247,1,1751.18,111,Needs Attention
+CUST0898,Angel Sharma,Pune,160,2,1744.02,211,Needs Attention
+CUST0042,Aadhya Reddy,Delhi,333,1,1739.77,111,Needs Attention
+CUST0755,Anika Chawla,Delhi,43,2,1737.47,311,New Customers
+CUST0241,Vivaan Chawla,Delhi,435,1,1722.99,111,Needs Attention
+CUST0797,Riya Verma,Mumbai,254,2,1707.41,111,Needs Attention
+CUST0137,Aditya Gupta,Chennai,152,2,1706.97,211,Needs Attention
+CUST0820,Vihaan Kapoor,Chennai,33,1,1690.22,411,New Customers
+CUST0571,Ishaan Sharma,Hyderabad,38,3,1690.08,321,Loyal Customers
+CUST0190,Ayaan Mehta,Bangalore,150,3,1686.05,221,Needs Attention
+CUST0600,Unknown Customer,Hyderabad,30,3,1677.5,421,Loyal Customers
+CUST0955,Reyansh Kapoor,Delhi,32,3,1673.45,421,Loyal Customers
+CUST0678,Myra Nair,Bangalore,245,1,1665.9,111,Needs Attention
+CUST0611,Navya Iyer,Bangalore,175,2,1652.96,111,Needs Attention
+CUST0667,Vihaan Sen,Bangalore,113,1,1644.76,211,Needs Attention
+CUST0564,Pari Verma,Kolkata,202,2,1627.35,111,Needs Attention
+CUST0878,Saanvi Kapoor,Bangalore,41,1,1627.1,311,New Customers
+CUST0477,Arjun Kulkarni,Pune,216,1,1595.11,111,Needs Attention
+CUST0682,Pari Rao,Unknown City,86,1,1594.47,211,Needs Attention
+CUST0386,Aditya Gupta,Kolkata,61,1,1592.16,311,New Customers
+CUST0781,Angel Patel,Mumbai,24,1,1582.66,411,New Customers
+CUST0331,Ananya Iyer,Delhi,59,1,1581.44,311,New Customers
+CUST0647,Sai Kapoor,Chennai,15,3,1580.97,421,Loyal Customers
+CUST0121,Ayaan Kapoor,Jaipur,215,2,1578.37,111,Needs Attention
+CUST0420,Reyansh Sharma,Delhi,270,2,1568.37,111,Needs Attention
+CUST0789,Ishaan Bhat,Kolkata,267,1,1562.56,111,Needs Attention
+CUST0038,Arjun Rao,Pune,40,2,1548.96,311,New Customers
+CUST0337,Ayaan Verma,Kolkata,467,2,1513.41,111,Needs Attention
+CUST0531,Ananya Chawla,Kolkata,311,2,1495.93,111,Needs Attention
+CUST0309,Vivaan Das,Ahmedabad,87,1,1492.87,211,Needs Attention
+CUST0726,Ananya Kapoor,Jaipur,215,1,1479.41,111,Needs Attention
+CUST0019,Reyansh Choudhury,Hyderabad,469,1,1477.97,111,Needs Attention
+CUST0349,Ishaan Bhat,Delhi,363,2,1464.72,111,Needs Attention
+CUST0838,Aarav Nair,Pune,243,3,1432.52,121,Needs Attention
+CUST0344,Vivaan Joshi,Delhi,269,1,1409.72,111,Needs Attention
+CUST0339,Vivaan Nair,Mumbai,75,2,1404.58,311,New Customers
+CUST0088,Pari Gupta,Ahmedabad,221,1,1396.03,111,Needs Attention
+CUST0090,Myra Singh,Pune,409,2,1388.94,111,Needs Attention
+CUST0637,Unknown Customer,Bangalore,272,2,1372.2,111,Needs Attention
+CUST0934,Riya Kulkarni,Pune,0,3,1358.29,421,Loyal Customers
+CUST0513,Pari Bhat,Mumbai,458,1,1336.65,111,Needs Attention
+CUST0540,Krishna Joshi,Unknown City,43,1,1308.27,311,New Customers
+CUST0429,Sai Mehta,Pune,270,2,1304.0,111,Needs Attention
+CUST0448,Sai Saxena,Chennai,454,1,1284.9,111,Needs Attention
+CUST0639,Sai Gupta,Chennai,383,1,1284.9,111,Needs Attention
+CUST0290,Aadhya Mehta,Ahmedabad,27,2,1277.19,411,New Customers
+CUST0580,Arjun Joshi,Hyderabad,333,2,1232.38,111,Needs Attention
+CUST0985,Diya Saxena,Chennai,370,1,1229.07,111,Needs Attention
+CUST0071,Ananya Sharma,Pune,394,2,1225.77,111,Needs Attention
+CUST0986,Anika Verma,Mumbai,26,1,1210.22,411,New Customers
+CUST0469,Ayaan Joshi,Jaipur,109,1,1160.77,211,Needs Attention
+CUST0863,Reyansh Choudhury,Pune,348,2,1132.86,111,Needs Attention
+CUST0273,Arjun Gupta,Chennai,307,1,1113.5,111,Needs Attention
+CUST0500,Arjun Chawla,Ahmedabad,128,1,1099.65,211,Needs Attention
+CUST0226,Anika Patel,Chennai,251,2,1094.2,111,Needs Attention
+CUST0296,Reyansh Bhat,Kolkata,71,2,1080.67,311,New Customers
+CUST0200,Unknown Customer,Mumbai,64,2,1080.4,311,New Customers
+CUST0617,Ishaan Kulkarni,Mumbai,412,1,1080.16,111,Needs Attention
+CUST0215,Aarav Sen,Hyderabad,110,1,1052.4,211,Needs Attention
+CUST0841,Angel Patel,Pune,222,2,1011.85,111,Needs Attention
+CUST0136,Vihaan Kulkarni,Ahmedabad,101,1,1001.72,211,Needs Attention
+CUST0426,Vihaan Mehta,Mumbai,404,1,991.48,111,Needs Attention
+CUST0514,Ayaan Reddy,Kolkata,445,1,973.47,111,Needs Attention
+CUST0384,Myra Sen,Pune,109,1,964.32,211,Needs Attention
+CUST0316,Vihaan Nair,Mumbai,195,3,929.17,121,Needs Attention
+CUST0074,Ayaan Bhat,Kolkata,435,1,869.49,111,Needs Attention
+CUST0717,Aditya Sen,Mumbai,461,1,843.32,111,Needs Attention
+CUST0804,Arjun Sen,Chennai,157,2,776.02,211,Needs Attention
+CUST0372,Aarav Verma,Kolkata,223,2,755.78,111,Needs Attention
+CUST0381,Ayaan Rao,Bangalore,287,1,753.66,111,Needs Attention
+CUST0240,Angel Bhat,Mumbai,429,2,697.0,111,Needs Attention
+CUST0731,Vihaan Sharma,Bangalore,14,1,663.68,411,New Customers
+CUST0501,Saanvi Patel,Jaipur,64,2,661.43,311,New Customers
+CUST0504,Saanvi Sharma,Bangalore,98,1,661.27,211,Needs Attention
+CUST0496,Aarav Chawla,Chennai,62,3,636.56,321,Loyal Customers
+CUST0657,Aarav Gupta,Bangalore,239,1,635.85,111,Needs Attention
+CUST0634,Vihaan Saxena,Hyderabad,67,1,629.63,311,New Customers
+CUST0078,Angel Kulkarni,Pune,137,1,622.71,211,Needs Attention
+CUST0814,Riya Verma,Jaipur,273,1,613.95,111,Needs Attention
+CUST0795,Pari Chawla,Mumbai,17,1,611.7,411,New Customers
+CUST0250,Arjun Saxena,Ahmedabad,172,2,575.95,211,Needs Attention
+CUST0139,Reyansh Joshi,Hyderabad,133,3,573.5,221,Needs Attention
+CUST0040,Vivaan Deshmukh,Hyderabad,232,2,572.17,111,Needs Attention
+CUST0012,Anika Gupta,Delhi,60,2,544.52,311,New Customers
+CUST0433,Saanvi Joshi,Mumbai,214,1,495.6,111,Needs Attention
+CUST0259,Ananya Patel,Unknown City,151,2,481.99,211,Needs Attention
+CUST0899,Diya Iyer,Unknown City,397,1,467.01,111,Needs Attention
+CUST0282,Saanvi Kulkarni,Kolkata,273,1,450.2,111,Needs Attention
+CUST0893,Diya Patel,Ahmedabad,202,1,444.76,111,Needs Attention
+CUST0262,Sai Deshmukh,Jaipur,391,1,411.3,111,Needs Attention
+CUST0523,Anika Chawla,Chennai,280,1,339.4,111,Needs Attention
+CUST0169,Riya Joshi,Mumbai,110,1,337.53,211,Needs Attention
+CUST0182,Vivaan Patel,Mumbai,138,1,317.76,211,Needs Attention
+CUST0175,Ayaan Chawla,Pune,413,1,300.81,111,Needs Attention
+CUST0050,Myra Sen,Pune,37,1,283.02,311,New Customers
+CUST0686,Ishaan Iyer,Delhi,117,1,242.36,211,Needs Attention
+CUST0354,Aditya Kulkarni,Pune,81,2,241.78,311,New Customers
+CUST0884,Aadhya Nair,Jaipur,55,1,183.64,311,New Customers
+CUST0730,Angel Verma,Chennai,308,1,134.38,111,Needs Attention
+CUST0022,Ayaan Rao,Hyderabad,114,1,128.53,211,Needs Attention
+CUST0619,Ishaan Kulkarni,Delhi,393,1,111.89,111,Needs Attention

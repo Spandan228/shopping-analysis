@@ -1,0 +1,290 @@
+restaurant_id,restaurant_name,cuisine,rating,effective_from,effective_to,is_current
+R1,Restaurant_0,Indian,4.0,2026-01-01,2026-04-10,False
+R1,Restaurant_0,Indian,4.0,2026-04-11,,True
+R2,Restaurant_1,Chinese,4.3,2026-01-01,,True
+R3,Restaurant_2,Indian,4.2,2026-01-01,2026-04-10,False
+R3,Restaurant_2,Indian,4.2,2026-04-11,,True
+R4,Restaurant_3,Fast Food,3.9,2026-01-01,,True
+R5,Restaurant_4,Fast Food,3.6,2026-01-01,,True
+R6,Restaurant_5,Indian,4.2,2026-01-01,2026-04-10,False
+R6,Restaurant_5,Indian,4.7,2026-04-11,,True
+R7,Restaurant_6,Italian,4.2,2026-01-01,,True
+R8,Restaurant_7,Italian,4.2,2026-01-01,,True
+R9,Restaurant_8,Chinese,3.9,2026-01-01,,True
+R10,Restaurant_9,Chinese,4.2,2026-01-01,,True
+R11,Restaurant_10,Chinese,4.0,2026-01-01,,True
+R12,Restaurant_11,Indian,4.0,2026-01-01,2026-04-10,False
+R12,Restaurant_11,Indian,3.5,2026-04-11,,True
+R13,Restaurant_12,Italian,4.1,2026-01-01,2026-04-10,False
+R13,Restaurant_12,Italian,4.1,2026-04-11,,True
+R14,Restaurant_13,Chinese,4.2,2026-01-01,,True
+R15,Restaurant_14,Italian,4.1,2026-01-01,2026-04-10,False
+R15,Restaurant_14,Italian,4.0,2026-04-11,,True
+R16,Restaurant_15,Fast Food,4.4,2026-01-01,,True
+R17,Restaurant_16,Fast Food,3.9,2026-01-01,2026-04-10,False
+R17,Restaurant_16,Fast Food,4.0,2026-04-11,,True
+R18,Restaurant_17,Italian,3.7,2026-01-01,2026-04-10,False
+R18,Restaurant_17,Italian,4.2,2026-04-11,,True
+R19,Restaurant_18,Chinese,4.0,2026-01-01,2026-04-10,False
+R19,Restaurant_18,Chinese,3.7,2026-04-11,,True
+R20,Restaurant_19,Fast Food,4.1,2026-01-01,,True
+R21,Restaurant_20,Indian,4.3,2026-01-01,,True
+R22,Restaurant_21,Italian,4.0,2026-01-01,2026-04-10,False
+R22,Restaurant_21,Italian,4.3,2026-04-11,,True
+R23,Restaurant_22,Italian,3.8,2026-01-01,,True
+R24,Restaurant_23,Fast Food,3.7,2026-01-01,,True
+R25,Restaurant_24,Indian,4.4,2026-01-01,,True
+R26,Restaurant_25,Italian,3.8,2026-01-01,,True
+R27,Restaurant_26,Fast Food,3.7,2026-01-01,2026-04-10,False
+R27,Restaurant_26,Fast Food,3.5,2026-04-11,,True
+R28,Restaurant_27,Chinese,4.5,2026-01-01,2026-04-10,False
+R28,Restaurant_27,Chinese,4.5,2026-04-11,,True
+R29,Restaurant_28,Italian,3.7,2026-01-01,,True
+R30,Restaurant_29,Indian,4.0,2026-01-01,2026-04-10,False
+R30,Restaurant_29,Indian,4.2,2026-04-11,,True
+R31,Restaurant_30,Italian,3.9,2026-01-01,,True
+R32,Restaurant_31,Chinese,4.2,2026-01-01,,True
+R33,Restaurant_32,Fast Food,3.9,2026-01-01,,True
+R34,Restaurant_33,Indian,3.6,2026-01-01,,True
+R35,Restaurant_34,Chinese,4.4,2026-01-01,,True
+R36,Restaurant_35,Italian,3.8,2026-01-01,,True
+R37,Restaurant_36,Italian,4.1,2026-01-01,,True
+R38,Restaurant_37,Chinese,4.1,2026-01-01,,True
+R39,Restaurant_38,Chinese,4.0,2026-01-01,2026-04-10,False
+R39,Restaurant_38,Chinese,3.5,2026-04-11,,True
+R40,Restaurant_39,Chinese,4.2,2026-01-01,2026-04-10,False
+R40,Restaurant_39,Chinese,3.7,2026-04-11,,True
+R41,Restaurant_40,Italian,4.2,2026-01-01,,True
+R42,Restaurant_41,Indian,4.1,2026-01-01,,True
+R43,Restaurant_42,Italian,4.3,2026-01-01,2026-04-10,False
+R43,Restaurant_42,Italian,4.2,2026-04-11,,True
+R44,Restaurant_43,Indian,3.9,2026-01-01,2026-04-10,False
+R44,Restaurant_43,Indian,4.0,2026-04-11,,True
+R45,Restaurant_44,Chinese,3.9,2026-01-01,,True
+R46,Restaurant_45,Italian,4.3,2026-01-01,,True
+R47,Restaurant_46,Indian,4.2,2026-01-01,,True
+R48,Restaurant_47,Indian,3.7,2026-01-01,2026-04-10,False
+R48,Restaurant_47,Indian,3.9,2026-04-11,,True
+R49,Restaurant_48,Fast Food,4.1,2026-01-01,2026-04-10,False
+R49,Restaurant_48,Fast Food,4.4,2026-04-11,,True
+R50,Restaurant_49,Chinese,4.2,2026-01-01,2026-04-10,False
+R50,Restaurant_49,Chinese,4.6,2026-04-11,,True
+R51,Restaurant_50,Indian,3.8,2026-01-01,2026-04-10,False
+R51,Restaurant_50,Indian,3.8,2026-04-11,,True
+R52,Restaurant_51,Italian,3.9,2026-01-01,2026-04-10,False
+R52,Restaurant_51,Italian,3.4,2026-04-11,,True
+R53,Restaurant_52,Fast Food,4.5,2026-01-01,,True
+R54,Restaurant_53,Fast Food,3.7,2026-01-01,2026-04-10,False
+R54,Restaurant_53,Fast Food,3.3,2026-04-11,,True
+R55,Restaurant_54,Indian,4.3,2026-01-01,2026-04-10,False
+R55,Restaurant_54,Indian,4.2,2026-04-11,,True
+R56,Restaurant_55,Chinese,3.8,2026-01-01,,True
+R57,Restaurant_56,Chinese,4.2,2026-01-01,2026-04-10,False
+R57,Restaurant_56,Chinese,3.9,2026-04-11,,True
+R58,Restaurant_57,Italian,4.1,2026-01-01,,True
+R59,Restaurant_58,Fast Food,3.8,2026-01-01,,True
+R60,Restaurant_59,Italian,4.2,2026-01-01,,True
+R61,Restaurant_60,Indian,4.1,2026-01-01,2026-04-10,False
+R61,Restaurant_60,Indian,3.7,2026-04-11,,True
+R62,Restaurant_61,Indian,3.9,2026-01-01,,True
+R63,Restaurant_62,Fast Food,4.1,2026-01-01,,True
+R64,Restaurant_63,Fast Food,4.4,2026-01-01,2026-04-10,False
+R64,Restaurant_63,Fast Food,4.0,2026-04-11,,True
+R65,Restaurant_64,Fast Food,4.0,2026-01-01,,True
+R66,Restaurant_65,Fast Food,4.4,2026-01-01,,True
+R67,Restaurant_66,Fast Food,3.9,2026-01-01,2026-04-10,False
+R67,Restaurant_66,Fast Food,3.8,2026-04-11,,True
+R68,Restaurant_67,Chinese,4.1,2026-01-01,,True
+R69,Restaurant_68,Chinese,3.5,2026-01-01,,True
+R70,Restaurant_69,Indian,3.9,2026-01-01,2026-04-10,False
+R70,Restaurant_69,Indian,3.6,2026-04-11,,True
+R71,Restaurant_70,Italian,4.4,2026-01-01,,True
+R72,Restaurant_71,Indian,3.5,2026-01-01,,True
+R73,Restaurant_72,Indian,3.7,2026-01-01,,True
+R74,Restaurant_73,Fast Food,3.8,2026-01-01,2026-04-10,False
+R74,Restaurant_73,Fast Food,3.8,2026-04-11,,True
+R75,Restaurant_74,Chinese,4.1,2026-01-01,,True
+R76,Restaurant_75,Indian,4.0,2026-01-01,,True
+R77,Restaurant_76,Fast Food,4.4,2026-01-01,,True
+R78,Restaurant_77,Italian,4.3,2026-01-01,,True
+R79,Restaurant_78,Italian,3.6,2026-01-01,,True
+R80,Restaurant_79,Italian,4.2,2026-01-01,,True
+R81,Restaurant_80,Fast Food,3.6,2026-01-01,2026-04-10,False
+R81,Restaurant_80,Fast Food,3.9,2026-04-11,,True
+R82,Restaurant_81,Chinese,3.5,2026-01-01,2026-04-10,False
+R82,Restaurant_81,Chinese,3.3,2026-04-11,,True
+R83,Restaurant_82,Italian,4.2,2026-01-01,,True
+R84,Restaurant_83,Fast Food,4.3,2026-01-01,,True
+R85,Restaurant_84,Italian,3.7,2026-01-01,,True
+R86,Restaurant_85,Chinese,4.5,2026-01-01,,True
+R87,Restaurant_86,Fast Food,3.9,2026-01-01,,True
+R88,Restaurant_87,Italian,3.8,2026-01-01,2026-04-10,False
+R88,Restaurant_87,Italian,3.6,2026-04-11,,True
+R89,Restaurant_88,Indian,3.6,2026-01-01,2026-04-10,False
+R89,Restaurant_88,Indian,4.1,2026-04-11,,True
+R90,Restaurant_89,Italian,3.8,2026-01-01,,True
+R91,Restaurant_90,Indian,4.5,2026-01-01,,True
+R92,Restaurant_91,Chinese,4.1,2026-01-01,,True
+R93,Restaurant_92,Indian,4.0,2026-01-01,2026-04-10,False
+R93,Restaurant_92,Indian,3.9,2026-04-11,,True
+R94,Restaurant_93,Italian,3.7,2026-01-01,,True
+R95,Restaurant_94,Chinese,3.7,2026-01-01,2026-04-10,False
+R95,Restaurant_94,Chinese,3.3,2026-04-11,,True
+R96,Restaurant_95,Italian,4.1,2026-01-01,,True
+R97,Restaurant_96,Chinese,4.0,2026-01-01,,True
+R98,Restaurant_97,Chinese,3.5,2026-01-01,2026-04-10,False
+R98,Restaurant_97,Chinese,3.5,2026-04-11,,True
+R99,Restaurant_98,Fast Food,4.0,2026-01-01,,True
+R100,Restaurant_99,Italian,4.0,2026-01-01,,True
+R101,Restaurant_100,Chinese,4.1,2026-01-01,2026-04-10,False
+R101,Restaurant_100,Chinese,4.4,2026-04-11,,True
+R102,Restaurant_101,Indian,4.3,2026-01-01,,True
+R103,Restaurant_102,Fast Food,3.8,2026-01-01,2026-04-10,False
+R103,Restaurant_102,Fast Food,3.5,2026-04-11,,True
+R104,Restaurant_103,Italian,4.1,2026-01-01,,True
+R105,Restaurant_104,Indian,4.3,2026-01-01,,True
+R106,Restaurant_105,Chinese,4.3,2026-01-01,,True
+R107,Restaurant_106,Italian,3.6,2026-01-01,2026-04-10,False
+R107,Restaurant_106,Italian,3.3,2026-04-11,,True
+R108,Restaurant_107,Indian,3.9,2026-01-01,2026-04-10,False
+R108,Restaurant_107,Indian,3.5,2026-04-11,,True
+R109,Restaurant_108,Italian,4.0,2026-01-01,,True
+R110,Restaurant_109,Indian,3.8,2026-01-01,,True
+R111,Restaurant_110,Fast Food,3.5,2026-01-01,,True
+R112,Restaurant_111,Chinese,4.5,2026-01-01,2026-04-10,False
+R112,Restaurant_111,Chinese,4.8,2026-04-11,,True
+R113,Restaurant_112,Indian,4.5,2026-01-01,2026-04-10,False
+R113,Restaurant_112,Indian,4.7,2026-04-11,,True
+R114,Restaurant_113,Indian,4.3,2026-01-01,2026-04-10,False
+R114,Restaurant_113,Indian,4.2,2026-04-11,,True
+R115,Restaurant_114,Indian,4.0,2026-01-01,2026-04-10,False
+R115,Restaurant_114,Indian,3.6,2026-04-11,,True
+R116,Restaurant_115,Indian,3.9,2026-01-01,2026-04-10,False
+R116,Restaurant_115,Indian,3.9,2026-04-11,,True
+R117,Restaurant_116,Italian,4.5,2026-01-01,,True
+R118,Restaurant_117,Indian,3.8,2026-01-01,,True
+R119,Restaurant_118,Fast Food,4.2,2026-01-01,,True
+R120,Restaurant_119,Fast Food,4.0,2026-01-01,2026-04-10,False
+R120,Restaurant_119,Fast Food,3.6,2026-04-11,,True
+R121,Restaurant_120,Indian,3.6,2026-01-01,,True
+R122,Restaurant_121,Chinese,4.2,2026-01-01,2026-04-10,False
+R122,Restaurant_121,Chinese,3.7,2026-04-11,,True
+R123,Restaurant_122,Fast Food,3.7,2026-01-01,,True
+R124,Restaurant_123,Indian,4.2,2026-01-01,2026-04-10,False
+R124,Restaurant_123,Indian,4.0,2026-04-11,,True
+R125,Restaurant_124,Italian,4.1,2026-01-01,2026-04-10,False
+R125,Restaurant_124,Italian,4.3,2026-04-11,,True
+R126,Restaurant_125,Chinese,3.9,2026-01-01,,True
+R127,Restaurant_126,Chinese,4.1,2026-01-01,,True
+R128,Restaurant_127,Indian,4.4,2026-01-01,2026-04-10,False
+R128,Restaurant_127,Indian,4.1,2026-04-11,,True
+R129,Restaurant_128,Indian,3.9,2026-01-01,2026-04-10,False
+R129,Restaurant_128,Indian,3.7,2026-04-11,,True
+R130,Restaurant_129,Chinese,4.3,2026-01-01,,True
+R131,Restaurant_130,Indian,4.2,2026-01-01,,True
+R132,Restaurant_131,Fast Food,4.5,2026-01-01,2026-04-10,False
+R132,Restaurant_131,Fast Food,4.1,2026-04-11,,True
+R133,Restaurant_132,Indian,3.9,2026-01-01,,True
+R134,Restaurant_133,Fast Food,4.4,2026-01-01,2026-04-10,False
+R134,Restaurant_133,Fast Food,4.2,2026-04-11,,True
+R135,Restaurant_134,Fast Food,4.2,2026-01-01,,True
+R136,Restaurant_135,Italian,3.9,2026-01-01,2026-04-10,False
+R136,Restaurant_135,Italian,4.0,2026-04-11,,True
+R137,Restaurant_136,Fast Food,3.8,2026-01-01,,True
+R138,Restaurant_137,Chinese,4.4,2026-01-01,,True
+R139,Restaurant_138,Chinese,4.1,2026-01-01,,True
+R140,Restaurant_139,Italian,3.5,2026-01-01,,True
+R141,Restaurant_140,Italian,4.4,2026-01-01,,True
+R142,Restaurant_141,Italian,3.5,2026-01-01,2026-04-10,False
+R142,Restaurant_141,Italian,3.5,2026-04-11,,True
+R143,Restaurant_142,Italian,4.1,2026-01-01,2026-04-10,False
+R143,Restaurant_142,Italian,4.5,2026-04-11,,True
+R144,Restaurant_143,Indian,3.8,2026-01-01,2026-04-10,False
+R144,Restaurant_143,Indian,3.5,2026-04-11,,True
+R145,Restaurant_144,Italian,4.1,2026-01-01,,True
+R146,Restaurant_145,Chinese,3.8,2026-01-01,,True
+R147,Restaurant_146,Fast Food,4.3,2026-01-01,,True
+R148,Restaurant_147,Indian,3.7,2026-01-01,2026-04-10,False
+R148,Restaurant_147,Indian,3.3,2026-04-11,,True
+R149,Restaurant_148,Fast Food,3.8,2026-01-01,2026-04-10,False
+R149,Restaurant_148,Fast Food,3.6,2026-04-11,,True
+R150,Restaurant_149,Italian,4.2,2026-01-01,,True
+R151,Restaurant_150,Indian,3.9,2026-01-01,,True
+R152,Restaurant_151,Chinese,4.3,2026-01-01,2026-04-10,False
+R152,Restaurant_151,Chinese,4.7,2026-04-11,,True
+R153,Restaurant_152,Italian,3.5,2026-01-01,,True
+R154,Restaurant_153,Fast Food,3.8,2026-01-01,2026-04-10,False
+R154,Restaurant_153,Fast Food,3.9,2026-04-11,,True
+R155,Restaurant_154,Fast Food,4.3,2026-01-01,2026-04-10,False
+R155,Restaurant_154,Fast Food,4.5,2026-04-11,,True
+R156,Restaurant_155,Italian,3.5,2026-01-01,,True
+R157,Restaurant_156,Chinese,3.8,2026-01-01,,True
+R158,Restaurant_157,Italian,4.3,2026-01-01,2026-04-10,False
+R158,Restaurant_157,Italian,4.7,2026-04-11,,True
+R159,Restaurant_158,Fast Food,4.2,2026-01-01,2026-04-10,False
+R159,Restaurant_158,Fast Food,4.7,2026-04-11,,True
+R160,Restaurant_159,Italian,4.3,2026-01-01,2026-04-10,False
+R160,Restaurant_159,Italian,4.7,2026-04-11,,True
+R161,Restaurant_160,Indian,3.6,2026-01-01,2026-04-10,False
+R161,Restaurant_160,Indian,3.1,2026-04-11,,True
+R162,Restaurant_161,Italian,3.9,2026-01-01,,True
+R163,Restaurant_162,Fast Food,3.8,2026-01-01,,True
+R164,Restaurant_163,Fast Food,4.3,2026-01-01,,True
+R165,Restaurant_164,Italian,3.9,2026-01-01,2026-04-10,False
+R165,Restaurant_164,Italian,4.3,2026-04-11,,True
+R166,Restaurant_165,Italian,4.0,2026-01-01,2026-04-10,False
+R166,Restaurant_165,Italian,3.9,2026-04-11,,True
+R167,Restaurant_166,Fast Food,3.9,2026-01-01,,True
+R168,Restaurant_167,Chinese,4.0,2026-01-01,,True
+R169,Restaurant_168,Fast Food,4.0,2026-01-01,,True
+R170,Restaurant_169,Indian,3.7,2026-01-01,2026-04-10,False
+R170,Restaurant_169,Indian,3.9,2026-04-11,,True
+R171,Restaurant_170,Italian,4.1,2026-01-01,,True
+R172,Restaurant_171,Italian,4.0,2026-01-01,,True
+R173,Restaurant_172,Chinese,3.8,2026-01-01,2026-04-10,False
+R173,Restaurant_172,Chinese,3.6,2026-04-11,,True
+R174,Restaurant_173,Chinese,4.1,2026-01-01,2026-04-10,False
+R174,Restaurant_173,Chinese,3.9,2026-04-11,,True
+R175,Restaurant_174,Chinese,3.7,2026-01-01,2026-04-10,False
+R175,Restaurant_174,Chinese,3.7,2026-04-11,,True
+R176,Restaurant_175,Chinese,4.1,2026-01-01,2026-04-10,False
+R176,Restaurant_175,Chinese,4.3,2026-04-11,,True
+R177,Restaurant_176,Chinese,4.2,2026-01-01,2026-04-10,False
+R177,Restaurant_176,Chinese,4.1,2026-04-11,,True
+R178,Restaurant_177,Chinese,4.2,2026-01-01,2026-04-10,False
+R178,Restaurant_177,Chinese,4.2,2026-04-11,,True
+R179,Restaurant_178,Indian,3.7,2026-01-01,2026-04-10,False
+R179,Restaurant_178,Indian,3.8,2026-04-11,,True
+R180,Restaurant_179,Fast Food,3.6,2026-01-01,,True
+R181,Restaurant_180,Fast Food,3.7,2026-01-01,2026-04-10,False
+R181,Restaurant_180,Fast Food,4.2,2026-04-11,,True
+R182,Restaurant_181,Chinese,3.9,2026-01-01,2026-04-10,False
+R182,Restaurant_181,Chinese,3.7,2026-04-11,,True
+R183,Restaurant_182,Chinese,4.1,2026-01-01,2026-04-10,False
+R183,Restaurant_182,Chinese,4.5,2026-04-11,,True
+R184,Restaurant_183,Fast Food,4.5,2026-01-01,2026-04-10,False
+R184,Restaurant_183,Fast Food,4.2,2026-04-11,,True
+R185,Restaurant_184,Fast Food,3.6,2026-01-01,,True
+R186,Restaurant_185,Italian,3.9,2026-01-01,2026-04-10,False
+R186,Restaurant_185,Italian,3.9,2026-04-11,,True
+R187,Restaurant_186,Italian,3.8,2026-01-01,2026-04-10,False
+R187,Restaurant_186,Italian,3.9,2026-04-11,,True
+R188,Restaurant_187,Indian,4.4,2026-01-01,2026-04-10,False
+R188,Restaurant_187,Indian,4.3,2026-04-11,,True
+R189,Restaurant_188,Italian,4.1,2026-01-01,2026-04-10,False
+R189,Restaurant_188,Italian,4.6,2026-04-11,,True
+R190,Restaurant_189,Indian,3.8,2026-01-01,,True
+R191,Restaurant_190,Italian,4.2,2026-01-01,,True
+R192,Restaurant_191,Italian,3.5,2026-01-01,,True
+R193,Restaurant_192,Chinese,3.6,2026-01-01,2026-04-10,False
+R193,Restaurant_192,Chinese,3.2,2026-04-11,,True
+R194,Restaurant_193,Indian,4.0,2026-01-01,2026-04-10,False
+R194,Restaurant_193,Indian,3.7,2026-04-11,,True
+R195,Restaurant_194,Fast Food,4.3,2026-01-01,,True
+R196,Restaurant_195,Fast Food,4.1,2026-01-01,2026-04-10,False
+R196,Restaurant_195,Fast Food,4.4,2026-04-11,,True
+R197,Restaurant_196,Indian,3.6,2026-01-01,,True
+R198,Restaurant_197,Indian,4.0,2026-01-01,,True
+R199,Restaurant_198,Indian,4.5,2026-01-01,,True
+R200,Restaurant_199,Fast Food,3.7,2026-01-01,2026-04-10,False
+R200,Restaurant_199,Fast Food,3.3,2026-04-11,,True
